@@ -1,6 +1,6 @@
 use Rack::Static,
   :urls => [],
-  :root => "."
+  :root => "public"
 
 run lambda { |env|
   [
@@ -9,6 +9,6 @@ run lambda { |env|
       'Content-Type'  => 'application/atom+xml',
       'Cache-Control' => 'public, max-age=86400'
     },
-    File.open('index.xml', File::RDONLY)
+    File.open('public/index.xml', File::RDONLY)
   ]
 }
