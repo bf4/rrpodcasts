@@ -25,6 +25,140 @@
 </image>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
+    <item>
+		<title>102 RR Rhetoric with Joseph Wilk</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/AHEZRcW9uVI/</link>
+		<comments>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 13:00:36 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Joseph Wilk]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1290</guid>
+		<description>Panel Joseph Wilk (twitter github blog) Katrina Owen (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) Discussion 00:55 &amp;#8211; Joseph Wilk Introduction 01:43 &amp;#8211; Confreaks &amp;#124; Ruby Conference 2012: Someone is Wrong by Joseph Wilk 02:55 &amp;#8211; Rhetoric Amphora 04:35 &amp;#8211; Why [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/AHEZRcW9uVI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" length="63384911" type="audio/mpeg" />
+		<itunes:subtitle>Panel  Joseph Wilk (twitter github blog)   Katrina Owen (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Joseph Wilk (twitter github blog)
+	Katrina Owen (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+
+Discussion
+00:55 - Joseph Wilk Introduction
+01:43 - Confreaks | Ruby Conference 2012: Someone is Wrong by Joseph Wilk
+02:55 - Rhetoric
+
+
+	Amphora
+
+04:35 - Why should rhetoric be important to programmers?
+
+
+	Communication
+	Building for the real world
+
+06:33 - Persuasion
+
+
+	Persuasion vs Winning
+	Writing persuasive code
+	Growth of human factors in application development: Alistair Cockburn
+
+11:59 - Expressing ideas via programming languages
+
+
+	Creating Passionate Users: When only the glib win, we all lose
+	YouTube | Growing a Language by Guy Steele
+	“Autistic Language”
+
+19:59 - Literate Programming
+24:35 - Emotions and Words
+
+
+	Thank You for Arguing: What Aristotle, Lincoln, And Homer Simpson Can Teach Us About the Art of Persuasion by Jay Heinrichs
+	Past Tense/Forensic Debate: Seeks to find out why or how something happened; to fix blame
+	Present Tense/Ethical Debate: Seeks to divide the listeners into tribes pro/con; for/against
+	Future Tense/Deliberative Debate: Seeks to choose among alternatives
+
+35:59 - Rhetoric of Tools
+
+
+	Six Thinking Hats
+	Dreyfus model of skill acquisition
+	Persuasion by authority
+
+46:36 - Rhetoric and persuasion in code
+
+Picks
+
+	Thank You for Arguing: What Aristotle, Lincoln, And Homer Simpson Can Teach Us About the Art of Persuasion by Jay Heinrichs (David)
+	Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson (David)
+	Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior by Kerry Patterson (David)
+	The Bromeliad Trilogy: Truckers, Diggers, and Wings by Terry Pratchett (David)
+	HandBrake (Avdi)
+	Terry Pratchett Movies: Going Postal, The Color of Magic, Hogfather (Avdi)
+	The Gentle Art of Verbal Self Defense by Suzette Haden Elgin (Katrina)
+	Procrastination Is Not Laziness | Thought Catalog (Katrina)
+	Dynamic Method Definitions | Tenderlovemaking (James)
+	MRI's Method Caches | James Golick (James)
+	Quotes of Contempt (Joseph)
+	Your Logical Fallacy Is Poster (Joseph)
+	Winning Arguments: From Aristotle to Obama - Everything You Need to Know about the Art of Persuasion by Jay Heinrichs (Joseph)
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andrew Hunt (Joseph)
+
+Homework
+
+Watch the first ten minutes of YouTube | Growing a Language by Guy Steele.
+Book Club
+The Rails View by John Athayde and Bruce Williams: Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+Next Week
+Rogues Only: The Care and Feeding of Ruby Gems
+Transcript
+
+
+JOSEPH:  Arguing with an Engineer is like wrestling with a pig in mud. After a while, you realize the pig is enjoying it.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by The Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+JAMES:  Hello everybody, and welcome to Ruby Rogues. This is Episode 102. And I will be your host today. I'm James Edward Gray II. With me today are, Katrina Owen.
+
+KATRINA:  Hello.
+
+JAMES:  David Brady.
+
+DAVID:  Hello and welcome!
+
+JAMES:  Avid Grimm.
+
+AVDI:  Hello, hello!
+
+JAMES:  And today, we have a special guest, Joseph Wilk. Joseph, since this is your first time on here, why don’t you introduce your self?
+
+JOSEPH:  Yeah. Hi, as you said, my name is Joseph Wilk. I've been messing around with Ruby the last ten years or so. And I've been doing a lot of work and looking into Rhetoric and how that helps us in development.
+
+JAMES:  So, I guess we’ll start with the super obvious question. Rhetoric is a new programming language that we’re all going to be using soon?
+
+</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:06:02</itunes:duration>
+        <media:content url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" fileSize="63384911" type="audio/mpeg" /><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/</feedburner:origLink>
+</item>
+
 <item>
 		<title>101 RR Diversity with Ashe Dryden</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/i9gyUxLv5j8/</link>
