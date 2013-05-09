@@ -1,23 +1,30 @@
 require 'nokogiri'
+require 'open-uri'
 require 'yaml'
 
+
 pwd = File.dirname(__FILE__)
-filename = File.join(pwd, 'public/index.xml')
 output_path = File.join(pwd, 'episodes')
 episode_list = File.join(output_path, 'episode_list.yml')
-xml = File.read(filename)
+
+feed_url = 'http://rubyrogues.com/feed/'
+xml = open(feed_url).read
 
 doc = Nokogiri::XML(xml)
 
-items = doc.search('item').reverse
+items = doc.search('item')
 
-episodes = []
+episodes = YAML::load(File.read(episode_list))
 
-items.each_with_index  do |item, index|
-  feed_number = index + 1
+highest_feed_number = episodes.max {|episode| episode[:feed_number] }[:feed_number]
+
+items.each  do |item|
   title = item.at('title').text
+  next if episodes.find {|episode| episode[:title] == title }
   enclosure = item.at('enclosure')
   enclosure = enclosure && enclosure.attribute('url').value.split('/')[-1]
+  feed_number = highest_feed_number + 1
+  highest_feed_number += 1
   episodes << {
     feed_number: feed_number,
     title: title,
