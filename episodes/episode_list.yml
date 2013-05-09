@@ -2,9 +2,6 @@
 - :feed_number: 1
   :title: 001 RR Testing Practices and Tools
   :enclosure: RubyRogues050511.mp3
-- :feed_number: 2
-  :title: 001 RR Testing Practices and Tools
-  :enclosure: RubyRogues050511.mp3
 - :feed_number: 3
   :title: 002 RR Virtual Machines, Concurrency, and the Future of Ruby
   :enclosure: RubyRogues051211.mp3
@@ -47,9 +44,6 @@
 - :feed_number: 16
   :title: The 015 RR Science and Engineering of Computer Programming
   :enclosure: RubyRogues20110811_01.mp3
-- :feed_number: 17
-  :title: ! 'Book Club: Exceptional Ruby by Avdi Grimm'
-  :enclosure: 
 - :feed_number: 18
   :title: 016 RR Becoming a Better Developer
   :enclosure: RubyRogues20110818_01.mp3
@@ -62,9 +56,6 @@
 - :feed_number: 21
   :title: ! '019 RR Book Club: Exceptional Ruby'
   :enclosure: RubyRogues20110907.mp3
-- :feed_number: 22
-  :title: ! 'Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck'
-  :enclosure: 
 - :feed_number: 23
   :title: 020 RR Object Oriented Programming in Rails with Jim Weirich
   :enclosure: RubyRogues20110914.mp3
@@ -74,9 +65,6 @@
 - :feed_number: 25
   :title: 022 RR When to Use Modules
   :enclosure: RubyRogues20110927.mp3
-- :feed_number: 26
-  :title: ! 'Book Club Announcement: Eloquent Ruby by Russ Olsen'
-  :enclosure: 
 - :feed_number: 27
   :title: ! '023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck'
   :enclosure: smalltalk_best_practice_patterns.mp3
@@ -122,36 +110,6 @@
 - :feed_number: 41
   :title: 036A RubyGems Bonus Content
   :enclosure: rubygems_org_bonus_content.mp3
-- :feed_number: 42
-  :title: 001 RR Testing Practices and Tools
-  :enclosure: RubyRogues050511.mp3
-- :feed_number: 43
-  :title: 002 RR Virtual Machines, Concurrency, and the Future of Ruby
-  :enclosure: RubyRogues051211.mp3
-- :feed_number: 44
-  :title: 003 RR Templating Languages for HTML, CSS, and JavaScript
-  :enclosure: RubyRogues20110519.mp3
-- :feed_number: 45
-  :title: Databases, SQL, & NoSQL
-  :enclosure: RubyRogues20110526.mp3
-- :feed_number: 46
-  :title: RubyGems, Open Source, and Community
-  :enclosure: RubyRogues20110602.mp3
-- :feed_number: 47
-  :title: Conferences and User Groups
-  :enclosure: RubyRogues20110609.mp3
-- :feed_number: 48
-  :title: Debugging in Ruby
-  :enclosure: RubyRogues20110616.mp3
-- :feed_number: 49
-  :title: Where is Rails Headed?
-  :enclosure: RubyRogues20110623.mp3
-- :feed_number: 50
-  :title: What Makes Beautiful Code
-  :enclosure: RubyRogues20110630_01.mp3
-- :feed_number: 51
-  :title: Personal Design Rules
-  :enclosure: RubyRogues20110707_01.mp3
 - :feed_number: 52
   :title: Versioning and Releases
   :enclosure: versioning_and_releases.mp3
@@ -197,12 +155,12 @@
 - :feed_number: 66
   :title: Ruby Rogues
   :enclosure: RR051GettingStartedWithOpenSource.mp3
-- :feed_number: 67
-  :title: ''
-  :enclosure: RR05320-20Square.mp3
 - :feed_number: 68
   :title: ''
   :enclosure: RR052LiveFromRailsConf2012.mp3
+- :feed_number: 67
+  :title: ''
+  :enclosure: RR05320-20Square.mp3
 - :feed_number: 69
   :title: ''
   :enclosure: RR054CodeExercisesKatasQuizzes.mp3
@@ -236,9 +194,6 @@
 - :feed_number: 79
   :title: ''
   :enclosure: RR064_PresentingAtConferences.mp3
-- :feed_number: 80
-  :title: Corporate Sponsors of Open Source Software
-  :enclosure: RubyRogues20110714_01.mp3
 - :feed_number: 81
   :title: 065 RR Functional vs Object Oriented Programming with Michael Feathers
   :enclosure: RR065_FPvsOO_Michael_Feathers.mp3
@@ -266,9 +221,6 @@
 - :feed_number: 89
   :title: 073 RR APIs
   :enclosure: RR073APIs.mp3
-- :feed_number: 90
-  :title: Ruby Nuby Project
-  :enclosure: 
 - :feed_number: 91
   :title: 074 RR Developer Environments
   :enclosure: RR074DeveloperEnvironments.mp3
@@ -281,9 +233,6 @@
 - :feed_number: 94
   :title: 077 RR Complexity with Glenn Vanderburg
   :enclosure: RR077Complexity.mp3
-- :feed_number: 95
-  :title: Ruby Nuby Project
-  :enclosure: 
 - :feed_number: 96
   :title: 078 RR Hexagonal Rails with Matt Wynne and Kevin Rutherford
   :enclosure: RR078HexagonalRails.mp3
