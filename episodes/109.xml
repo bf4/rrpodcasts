@@ -1,0 +1,187 @@
+<item>
+		<title>090 RR Ruby Nuby Episode</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/tX6SqyvrTNg/</link>
+		<comments>http://rubyrogues.com/090-rr-ruby-nuby-episode/#comments</comments>
+		<pubDate>Wed, 30 Jan 2013 16:00:53 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Elise Worthy]]></category>
+		<category><![CDATA[Erin Parker]]></category>
+		<category><![CDATA[Geoff Petrie]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Matt Ruzicka]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1100</guid>
+		<description>Panel Erin Parker (twitter github Spitfire Athlete) Matt Ruzicka (twitter github blog) Geoff Petrie (twitter github blog) Elise Worthy (twitter github Brandworthy) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 00:43 &amp;#8211; Ruby Nuby Project Spitfire Athlete LivingSocial’s Hungry Academy Program Rails Ramp Up 04:11 &amp;#8211; Learning Ruby Ruby on [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/tX6SqyvrTNg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/090-rr-ruby-nuby-episode/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR090RubyNubyEpisode.mp3" length="79215942" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Erin Parker (twitter github Spitfire Athlete)   Matt Ruzicka (twitter github blog)   Geoff Petrie (twitter github blog)   Elise Worthy (twitter github Brandworthy)   Josh Susser (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Erin Parker (twitter github Spitfire Athlete)
+	Matt Ruzicka (twitter github blog)
+	Geoff Petrie (twitter github blog)
+	Elise Worthy (twitter github Brandworthy)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+00:43 - Ruby Nuby Project
+
+	Spitfire Athlete
+	LivingSocial’s Hungry Academy Program
+
+Rails Ramp Up
+
+04:11 - Learning Ruby
+
+
+Ruby on Rails Tutorial
+
+Jesse Proudman
+
+Blue Box
+
+Beginning Ruby: From Novice to Professional by Peter Cooper
+
+Rails Bridge
+
+09:56 - The Ruby Community
+
+
+PyCon
+
+CodeMash
+
+Pivotal NY Tech Talks
+
+12:41 - Beginner Tutorials
+
+
+Stack Overflow
+
+PeepCode
+
+Geoffrey Grosenbach
+
+PeepCode: Meet CoffeeScript
+
+turbolinks
+
+17:13 - Diversity Within the Ruby Community
+
+
+Women Who Code
+
+Women Who Code (Twitter)
+
+25:21 - Challenges Facing Nuby Developers
+
+
+Codeacademy
+
+RVM
+
+RailsInstaller
+	Homebrew
+
+tokaido
+
+Try Ruby
+
+Google Searches
+
+34:56 - Experts, Novices &amp; Mentoring
+
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+	Seattle.rb
+
+@ HackDays -- Tech@NYU
+
+41:52 - Pair Programming
+
+	espnW Hack Day
+
+47:05 - Community Heroes
+
+	Sarah Mei
+	Aaron Patterson
+	Geoff Grosenbach
+	Ryan Davis
+	Eric Hodel
+	Therapeutic Refactoring: Katrina Owen
+	Steve Klabnik
+	Evadne Wu
+
+53:20 - Technology
+
+
+Rails has Two Default Stacks: Steve Klabnik
+
+HAML
+
+Markaby
+	PostgreSQL
+
+Picks
+
+	Craft Coffee (Matt)
+	Duolingo (Matt)
+	Luis von Ahn: Massive-scale online collaboration (Matt)
+	The Ruby Hangout (Geoff)
+	Bentoconf (Geoff)
+	Code Triage (Geoff)
+	nvALT (Geoff)
+	Pragmatic Studio Ruby (Geoff)
+	Making a difference, right off the bat! Ashish Dixit (Madison Ruby 2012) (Geoff)
+	Rails Heroku Tutorial (Erin)
+	Minimum Desirable Product: Andrew Chen (Erin)
+	Solitude and Leadership by William Deresiewicz (Erin)
+	Canvas by Instructure (Chuck)
+	Mastermind Groups (Chuck)
+	Parralox (Josh)
+	Cloak (Elise)
+	Code Climate (Elise)
+	The Man Who Mistook His Wife For A Hat: And Other Clinical Tales by Oliver Sacks (Elise)
+
+083 RR Decomposing Fat Models with Bryan Helmkamp
+041 RR Code Metrics with Bryan Helmkamp
+
+Once again, big thanks to RailsCasts.com, RubyMonk.com and The Pragmatic Studio for their generous support!
+Book Club
+Patterns of Enterprise Application Architecture by Martin Fowler
+Next Week
+Ruby's Design Process with Brian Shirai
+Transcript
+JOSH: The first time somebody recognized my voice from the podcast, he thought I was David Brady.
+
+CHUCK: Oh really? [laughs]
+
+JOSH: He’s like, “Oh my god! I know your voice from somewhere!” I'm like, “Do you listen to Ruby Rogues?” “Oh my god, you’re David Brady!”
+
+CHUCK: [laughs] You have more hair than David. It comes across in your voice.
+
+
+
+[Hosting and bandwidth provided by Blue Box Group. Check them out at bluebox.net.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]
+
+ELISE: Welcome to the first episode of bizarro Ruby Rogues; featuring Erin, Matt, Geoff and me – Elise Worthy. Where have your regular hosts gone? I have no idea. Erin, do you wanna go first?
+
+ERIN:  Sure. [laughs] Hey everyone. My name is Erin Parker. I’ve been learning Ruby on Rails since August of last year. And I’m using it to build a site called Spitfire Athlete, which is a fitness network for women.
+
+ELISE: Matt?
+
+MATT: How are you doing? I’ve been using Ruby for about a year and a half. And I’m just working on a couple of personal projects right now -- or projects that I hope to release soon. And that’s about it.
+
+ELISE: Geoffrey.
+
+JOSH: Hi I’m Geoff Petrie. I’ve been working with Ruby for probably about 4-5 months now, but on and off for a few years. But this has been really the first time I've been diving further than just sort of a cursory look.
+
+ELISE: Cool. And I’m Elise Worthy.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:22:31</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR090RubyNubyEpisode.mp3" fileSize="79215942" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/090-rr-ruby-nuby-episode/</feedburner:origLink></item>

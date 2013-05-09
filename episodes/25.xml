@@ -1,0 +1,145 @@
+<item>
+		<title>022 RR When to Use Modules</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/V34_B8ihvQM/</link>
+		<comments>http://rubyrogues.com/022-rr-when-to-use-modules/#comments</comments>
+		<pubDate>Wed, 28 Sep 2011 16:49:48 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=234</guid>
+		<description><![CDATA[This Week&#8217;s Panel  Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussed in this Episode Articles mentioned by James: http://twitter.com/#!/rbates/status/105705683751669761 http://twitter.com/#!/rbates/status/105706035548930048 http://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html http://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html Destroy All Software Cheating Multiple Inheritance Namespacing Mix-ins Code Organization DRY Principle ActiveRecord&#8217;s create and create! methods Code&#8217;s primary purpose is the conversation [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>This Week&#8217;s Panel</h3>
+<ul>
+<li> Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+</ul>
+<h3>Discussed in this Episode</h3>
+<ul>
+<li>Articles mentioned by James:</li>
+<ul>
+<li><a href="http://twitter.com/#!/rbates/status/105705683751669761">http://twitter.com/#!/rbates/status/105705683751669761</a></li>
+<li><a href="http://twitter.com/#!/rbates/status/105706035548930048">http://twitter.com/#!/rbates/status/105706035548930048</a></li>
+<li><a href="http://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html">http://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html</a></li>
+<li><a href="http://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html">http://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html</a></li>
+</ul>
+<li><a href="http://destroyallsoftware.com">Destroy All Software</a></li>
+<li>Cheating Multiple Inheritance</li>
+<li>Namespacing</li>
+<li>Mix-ins</li>
+<li>Code Organization</li>
+<li>DRY Principle</li>
+<li>ActiveRecord&#8217;s create and create! methods</li>
+<li>Code&#8217;s primary purpose is the conversation it has with the reader</li>
+<li>Put methods in a place where we can look at related methods together</li>
+<li><a href="http://rubygems.org/gems/method_locator">method_locator</a></li>
+<li><a href="http://rubygems.org/gems/using">using</a></li>
+<li>Module included hook</li>
+<li>include</li>
+<li>extend</li>
+<li>to_enum</li>
+<li>method_missing</li>
+<li>delegation and forwardable libraries</li>
+<li>delgate objects</li>
+<li>When to use modules</li>
+<ul>
+<li>shared functionality</li>
+<li>managing delegation</li>
+<li>grouping like functionality</li>
+<li>only including a module when you need the functionality</li>
+<li>limit my black magic</li>
+<li>namespacing</li>
+<li>replace a method</li>
+</ul>
+<li>breaking down into more granular business objects</li>
+<li>Destroy All Software</li>
+<li>There is a performance tradeoff when you include a module (it flushes the method cache)</li>
+</ul>
+<h3>Picks</h3>
+<div>
+<ul>
+<li><a href="http://speakerdeck.com/e/gogaruco-2011">Speakerdeck.com</a> (Josh)</li>
+<li><a href="http://greplin.com">greplin.com</a> (Josh)</li>
+<li><a href="http://www.amazon.com/gp/product/0765329824/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0765329824">A Fire Upon The Deep</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0765329824&amp;camp=217145&amp;creative=399373" alt="" width="1" height="1" border="0" /> (Josh)</li>
+<li><a href="http://www.amazon.com/gp/product/0812536355/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0812536355">A Deepness in the Sky</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0812536355&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Josh)</li>
+<li><a href="http://www.amazon.com/gp/product/0312875622/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0312875622">The Children of the Sky</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0312875622&amp;camp=217145&amp;creative=399373" alt="" width="1" height="1" border="0" /> (Josh)</li>
+<li><a href="http://rubyinside.com/19walkthrough/">Peter Cooper&#8217;s Ruby 1.9 Walkthrough Video</a> (James)</li>
+<li><a href="http://www.kdenlive.org/">KdenLive</a> (Avdi)</li>
+<li><a href="https://github.com/punchagan/org2blog">Org2Blog</a> (Avdi)</li>
+<li><a href="http://www.instructure.com/">Instructure Canvas</a> (<a href="https://github.com/instructure/canvas-lms/wiki">open source version</a>) (Chuck)</li>
+<li><a href="http://vimeo.com">Vimeo</a> (Chuck)</li>
+</ul>
+</div>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/V34_B8ihvQM" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/022-rr-when-to-use-modules/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110927.mp3" length="30354788" type="audio/mpeg"/>
+			<itunes:subtitle>This Week's Panel   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussed in this Episode - </itunes:subtitle>
+		<itunes:summary>This Week's Panel
+
+	 Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussed in this Episode
+
+	Articles mentioned by James:
+
+	http://twitter.com/#!/rbates/status/105705683751669761
+	http://twitter.com/#!/rbates/status/105706035548930048
+	http://blog.steveklabnik.com/2011/09/22/extracting-domain-models-a-practical-example.html
+	http://blog.steveklabnik.com/2011/09/23/more-rstat-dot-us-refatoring.html
+
+	Destroy All Software
+	Cheating Multiple Inheritance
+	Namespacing
+	Mix-ins
+	Code Organization
+	DRY Principle
+	ActiveRecord's create and create! methods
+	Code's primary purpose is the conversation it has with the reader
+	Put methods in a place where we can look at related methods together
+	method_locator
+	using
+	Module included hook
+	include
+	extend
+	to_enum
+	method_missing
+	delegation and forwardable libraries
+	delgate objects
+	When to use modules
+
+	shared functionality
+	managing delegation
+	grouping like functionality
+	only including a module when you need the functionality
+	limit my black magic
+	namespacing
+	replace a method
+
+	breaking down into more granular business objects
+	Destroy All Software
+	There is a performance tradeoff when you include a module (it flushes the method cache)
+
+Picks
+
+
+	Speakerdeck.com (Josh)
+	greplin.com (Josh)
+	A Fire Upon The Deep (Josh)
+	A Deepness in the Sky (Josh)
+	The Children of the Sky (Josh)
+	Peter Cooper's Ruby 1.9 Walkthrough Video (James)
+	KdenLive (Avdi)
+	Org2Blog (Avdi)
+	Instructure Canvas (open source version) (Chuck)
+	Vimeo (Chuck)</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110927.mp3" fileSize="30354788" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/022-rr-when-to-use-modules/</feedburner:origLink></item>

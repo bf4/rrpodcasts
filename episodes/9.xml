@@ -1,0 +1,169 @@
+<item>
+		<title>008 RR Where is Rails Headed?</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/18usp9E-Duc/</link>
+		<comments>http://rubyrogues.com/where-is-rails-headed/#comments</comments>
+		<pubDate>Fri, 24 Jun 2011 01:04:49 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Aaron Patterson]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Peter Cooper]]></category>
+		<category><![CDATA[Ruby on Rails]]></category>
+		<category><![CDATA[acorn]]></category>
+		<category><![CDATA[amason prime]]></category>
+		<category><![CDATA[api]]></category>
+		<category><![CDATA[background]]></category>
+		<category><![CDATA[behringer]]></category>
+		<category><![CDATA[coffeescript]]></category>
+		<category><![CDATA[connection]]></category>
+		<category><![CDATA[defaults]]></category>
+		<category><![CDATA[edirol]]></category>
+		<category><![CDATA[eloquent ruby]]></category>
+		<category><![CDATA[fixtures]]></category>
+		<category><![CDATA[foreman]]></category>
+		<category><![CDATA[graphic converter]]></category>
+		<category><![CDATA[imic]]></category>
+		<category><![CDATA[javascript]]></category>
+		<category><![CDATA[libsyn]]></category>
+		<category><![CDATA[medicine]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[performance]]></category>
+		<category><![CDATA[persistences]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[rails]]></category>
+		<category><![CDATA[readability]]></category>
+		<category><![CDATA[real time]]></category>
+		<category><![CDATA[resounder]]></category>
+		<category><![CDATA[REST]]></category>
+		<category><![CDATA[roland]]></category>
+		<category><![CDATA[routing]]></category>
+		<category><![CDATA[sass]]></category>
+		<category><![CDATA[sockets]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[tests]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=56</guid>
+		<description><![CDATA[Panelists Aaron Patterson (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) Peter Cooper (site twitter github The Ruby Show Ruby Inside) David Brady (blog twitter github ADDcasts) Mentioned in this Podcast Reading: http://blog.stevecoast.com/what-the-hell-is-happening-to-rails http://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/ Thoughts on Rails 3.x: Resource routing changed [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
+<ul>
+<li> Aaron Patterson (<a href="http://twitter.com/tenderlove">twitter</a> <a href="http://github.com/tenderlove">github</a> <a href="http%3A%2F%2Ftenderlovemaking.com">blog</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a> <a href="http://github.com/charlesmaxwood">github</a> <a href="http://teachmetocode.com/">Teach Me To Code</a> <a href="http://teachmetocodeacademy.com">Rails Summer Camp</a>)</li>
+<li>James Edward Gray II (<a href="http://blog.grayproductions.net/">blog</a> <a href="http://twitter.com/JEG2">twitter</a> <a href="http://github.com/JEG2">github</a>)</li>
+<li>Peter Cooper (<a href="http://peterc.org/">site</a> <a href="http://twitter.com/peterc">twitter</a> <a href="http://github.com/peterc">github</a> <a href="http://rubyshow.com/">The Ruby Show</a> <a href="http://www.rubyinside.com/">Ruby Inside</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a> <a href="http://twitter.com/dbrady">twitter</a> <a href="http://github.com/dbrady">github</a> <a href="http://addcasts.com/">ADDcasts</a>)</li>
+</ul>
+<h3>Mentioned in this Podcast</h3>
+<p>Reading:</p>
+<ul>
+<li><a href="http://blog.stevecoast.com/what-the-hell-is-happening-to-rails">http://blog.stevecoast.com/what-the-hell-is-happening-to-rails</a></li>
+<li><a href="http://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/">http://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/</a></li>
+</ul>
+<p>Thoughts on Rails 3.x:</p>
+<ul>
+<li>Resource routing changed &#8211; Good and Bad</li>
+<li>Performance problems &#8211; Explained</li>
+<li>Code is more accessible &#8211; Reading the source is easier</li>
+</ul>
+<p>Rails Wishlist:</p>
+<ul>
+<li>Background processing</li>
+<li>Better multi-database support</li>
+<li>Fixture loaded database caching</li>
+</ul>
+<p>The long fixtures tangent:</p>
+<ul>
+<li>Fixtures</li>
+<li>Foxy Fixtures</li>
+<li>Factories</li>
+</ul>
+<p>Considerations for Rails’ Future</p>
+<ul>
+<li>Mobile Web</li>
+<li>Javascript front end</li>
+<li>Persistent sockets/connections</li>
+<li><a href="https://github.com/kellymahan/realtimerails">realtime rails</a></li>
+<li>API versioning</li>
+</ul>
+<h3>Panel Picks</h3>
+<ul>
+<li><a href="http://www.amazon.com/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%3Fie%3DUTF8%26nodeId%3D13819211%23&amp;tag=chamaxwoo-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Amazon Prime</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=ur2&amp;o=1" border="0" alt="" width="1" height="1" /> (Aaron)</li>
+<li><a href="http://libsyn.com">libsyn.com</a> (Chuck)</li>
+<li><a href="http://www.amazon.com/gp/product/B000BVV2IC/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B000BVV2IC">iMic</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B000BVV2IC&amp;camp=217145&amp;creative=399369" border="0" alt="" width="1" height="1" /> (Chuck)</li>
+<li><a href="http://www.amazon.com/gp/product/B003IJ3WIW/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B003IJ3WIW">Roland R-05</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=B003IJ3WIW&amp;camp=217145&amp;creative=399369" border="0" alt="" width="1" height="1" /> (I have the <a href="http://www.amazon.com/gp/product/B0016MLUKU/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B0016MLUKU">Edirol R-09HR</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B0016MLUKU&amp;camp=217145&amp;creative=399369" border="0" alt="" width="1" height="1" />) (Chuck)</li>
+<li><a href="http://www.resounderapp.com/">Resounder</a> (Chuck)</li>
+<li><a href="http://www.amazon.com/gp/product/B000JFY1Z6/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B000JFY1Z6">Behringer XENYX 802 Mixer</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=B000JFY1Z6&amp;camp=217145&amp;creative=399373" border="0" alt="" width="1" height="1" /> Mixer (Chuck)</li>
+<li>first world medicine (Dave)</li>
+<li>amoxycillin (Dave)</li>
+<li><a href="http://flyingmeat.com/acorn/">Acorn</a> (James)</li>
+<li><a href="http://www.lemkesoft.com/content/188/graphicconverter.html">Graphic Converter</a> (James)</li>
+<li><a href="http://jashkenas.github.com/coffee-script/">Coffeescript</a> (Peter)</li>
+<li><a href="https://github.com/ddollar/foreman">Foreman</a> (Peter)</li>
+</ul>
+<p>James has spent about $40 of Chuck’s money so far.</p>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/18usp9E-Duc" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/where-is-rails-headed/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110623.mp3" length="82777224" type="audio/mpeg"/>
+			<itunes:keywords>acorn,amason prime,api,background,behringer,coffeescript,connection,defaults,edirol,eloquent ruby,fixtures,foreman</itunes:keywords>
+		<itunes:subtitle>Panelists   Aaron Patterson (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github)   Peter Cooper (site twitter github The Ruby Show Ruby Inside) </itunes:subtitle>
+		<itunes:summary>Panelists
+
+	 Aaron Patterson (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray II (blog twitter github)
+	Peter Cooper (site twitter github The Ruby Show Ruby Inside)
+	David Brady (blog twitter github ADDcasts)
+
+Mentioned in this Podcast
+Reading:
+
+	http://blog.stevecoast.com/what-the-hell-is-happening-to-rails
+	http://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/
+
+Thoughts on Rails 3.x:
+
+	Resource routing changed - Good and Bad
+	Performance problems - Explained
+	Code is more accessible - Reading the source is easier
+
+Rails Wishlist:
+
+	Background processing
+	Better multi-database support
+	Fixture loaded database caching
+
+The long fixtures tangent:
+
+	Fixtures
+	Foxy Fixtures
+	Factories
+
+Considerations for Rails’ Future
+
+	Mobile Web
+	Javascript front end
+	Persistent sockets/connections
+	realtime rails
+	API versioning
+
+Panel Picks
+
+	Amazon Prime (Aaron)
+	libsyn.com (Chuck)
+	iMic (Chuck)
+	Roland R-05 (I have the Edirol R-09HR) (Chuck)
+	Resounder (Chuck)
+	Behringer XENYX 802 Mixer Mixer (Chuck)
+	first world medicine (Dave)
+	amoxycillin (Dave)
+	Acorn (James)
+	Graphic Converter (James)
+	Coffeescript (Peter)
+	Foreman (Peter)
+
+James has spent about $40 of Chuck’s money so far.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>57:29</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110623.mp3" fileSize="82777224" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/where-is-rails-headed/</feedburner:origLink></item>

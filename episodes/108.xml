@@ -1,0 +1,158 @@
+<item>
+		<title>089 RR Rescue Projects</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/B7TOMQ0VtgA/</link>
+		<comments>http://rubyrogues.com/089-rr-rescue-projects/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 13:40:38 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1087</guid>
+		<description>Panel Katrina Owen (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:05 &amp;#8211; Podcast Awards Results The Audacity to Podcast 02:33 &amp;#8211; Best Ruby Rogues Episode of 2012 Results 1. 069 RR Therapeutic Refactoring with Katrina Owen [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/B7TOMQ0VtgA" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/089-rr-rescue-projects/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR089RescueProjects.mp3" length="62693177" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Katrina Owen (twitter github blog)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:05 - Podcast Awards Results
+
+	The Audacity to Podcast
+
+02:33 - Best Ruby Rogues Episode of 2012 Results
+
+	1. 069 RR Therapeutic Refactoring with Katrina Owen
+	2. 067 RR Gary Bernhardt’s Testing Style
+	3. 049 RR Agile Communication with Angela Harms
+
+03:49 - Rescue Projects
+
+	Twitter brings in big guns from Pivotal Labs to help rebuild it’s troubled infrastructure
+	Process vs Code Quality
+	Rails and Rescue Projects
+
+08:50 - Things that need Rescued
+
+	Performance
+	One Person/Small Dev Teams
+	Stability
+	Low-Communication Team
+	The Outsourced Project
+	The Big Port
+	The Prototype that went into Production
+	The Startup
+
+13:18 - The Panic Factor
+
+14:23 - Legacy Code
+
+
+Aloha Ruby Conf 2012: Legacy by Chad Fowler
+
+17:28 - Fresh Attitude/Perspective
+
+	“The Omega Mess” (Go Ahead, Make a Mess: Sandi Metz)
+
+24:53 - The Big Rewrite
+
+	Songkick:The path to SOA
+
+Working Effectively with Legacy Code by Michael Feathers
+
+30:47 - Josh’s 4-Step Plan for how to do a Rescue Project
+
+	1. Stop Making Things Worse
+	2. Figure Out the Actual Problems
+	3. Make a Plan to Fix the Problems
+	4. Incrementally Dig Yourself Out of the Hole
+
+37:32 - The One Big Issue
+
+40:49 - Psychological Aspects
+
+	Blame/Guilt Cycle
+	Team Structure
+	The Insufficiency of Good Design: Sarah Mei
+	Pairing
+
+46:47 - Depression, Frustration &amp; Trust
+
+	Taking Breaks
+
+Picks
+
+	The Deep Synergy Between Testability and Good Design: Michael Feathers (Avdi)
+	The Insufficiency of Good Design: Sarah Mei (Josh)
+	Project Implicit (Josh)
+	The White House Blog: Why We’re Raising the Signature Threshold for We the People (Josh)
+	The White House Blog: We the Coders: Open-Sourcing We the People, the White House’s Online Petitions System (Josh)
+	The Mikado Method by Ola Ellnestam, Daniel Brolund (Katrina)
+	Servolux by Tim Pease (Katrina)
+	The Room (iPad game) (Katrina)
+	The Room (Avdi)
+	Service Oriented Architecture at Square: Chris Hunt (James)
+	Inter-Service Authentication with SSL: Steve Richert (James)
+	Nonviolent Communication: A Language of Life by Marshall B. Rosenberg (James)
+	Kodak Zi8 Pocket Video Camera (Chuck)
+	Powermat Home &amp; Office Mat (Chuck)
+
+Book Club
+Patterns of Enterprise Application Architecture by Martin Fowler
+Next Week
+The Nuby Episode
+Transcript
+JOSH:  For our 100th episode, we will record as the ‘Ruby Rouges’.
+
+
+
+[Hosting and bandwidth provided by Blue Box Group. Check them out at bluebox.net.]
+
+ [This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
+
+CHUCK:  Hey everybody and welcome to Episode 89 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
+
+KATRINA:  Hello.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Good morning, everyone!
+
+CHUCK:  James Edward Gray.
+
+JAMES:  I’m recording this episode from the Hot System.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  I’m recording this episode from [Inaudible].
+
+CHUCK:  And I’m Charles Max Wood from devchat.tv and I just got back from New Media Expo and CES.
+
+JOSH:  Where was that?
+
+CHUCK:  They were both in Vegas.
+
+JOSH:  So can you actually tell us about what happened there or does everything that happens there, et cetera?
+
+CHUCK:  [Laughs] Well, so New Media Expo, I was actually there speaking on Podcasting. They also had the Podcast Awards and we were nominated as one of the Technology Podcasts.
+
+AVDI:  Thank you, everyone.
+
+CHUCK:  And being nominated is kind of a big deal. So yeah, thank you everybody who nominated us.
+
+JAMES:  I think we’re the only specific language Podcast in the entire Tech category. So, that was kind of crazy.
+
+JOSH:  I think we were sort of the underdog.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:18</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR089RescueProjects.mp3" fileSize="62693177" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/089-rr-rescue-projects/</feedburner:origLink></item>

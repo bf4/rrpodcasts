@@ -1,0 +1,128 @@
+<item>
+		<title>070 RR What is a Good Starter Project?</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/HUoqc36jLS8/</link>
+		<comments>http://rubyrogues.com/070-rr-what-is-a-good-starter-project/#comments</comments>
+		<pubDate>Fri, 21 Sep 2012 12:00:41 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=654</guid>
+		<description>Panel Avdi Grimm (twitter github blog book) David Brady (blog witter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Declaring Learning Bankruptcy Ruby Newbies Contest A Good Starter Project PROM Image Preprocessor The Ruby Quiz Mini CMS Airport Mystery Shopping Rails Site Frat Girl &amp;#8211; Email Management System for Support [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/HUoqc36jLS8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/070-rr-what-is-a-good-starter-project/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR070WhatsAGoodStarterProject.mp3" length="86892152" type="audio/mpeg"/>
+		<itunes:subtitle>Panel   Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) Disc...</itunes:subtitle>
+		<itunes:summary>Panel
+
+
+	Avdi Grimm (twitter github blog book)
+	David Brady (blog witter github ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+
+Discussion
+
+	Declaring Learning Bankruptcy
+	Ruby Newbies Contest
+	A Good Starter Project
+	PROM Image Preprocessor
+	The Ruby Quiz
+	Mini CMS
+	Airport Mystery Shopping Rails Site
+	Frat Girl - Email Management System for Support
+	Authoring OSS
+	PDI - Please Do Investigate
+	Take care to properly estimate the size of the change you seek to make.
+	Simpler projects are better.
+	ToDo Apps
+	Blogs
+	Boilerplate
+	Do something you find interesting.
+	Schwartzian Transform
+
+Picks
+
+	rspec-given (David)
+	The Null Object Pattern by Bobby Woolf (Avdi)
+	Null Object - Something for Nothing by Kevlin Henney (Avdi)
+	The CHECKS Pattern Language of Information Integrity by Ward Cunningham (Avdi)
+	fridayhug.com (Josh)
+	TOS;DR (Josh)
+	Shell Scripts Through Alfred (James)
+	SCRIPT shell command (James)
+	The Hunger Games (James)
+	Radio Shack (Chuck)
+	LG Tone Bluetooth Headset (Chuck)
+
+Transcript
+JOSH: [babbles]
+
+JAMES: Oh, your Wookie impression.
+
+AVDI: [laughs]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+
+[This episode is sponsored by JetBrains - makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to episode 70 of the Ruby Rogues Podcast! This week on our panel, we have James Edward Gray.
+
+JAMES: Hello everyone.
+
+CHUCK: Josh Susser.
+
+JOSH: Hey, good morning world!
+
+CHUCK: Avdi Grimm.
+
+AVDI: Hello from sleep deprivation.
+
+CHUCK: David Brady.
+
+DAVID: Hey everybody. I am pair podcasting with Chuck Wood today. We have swapped cities.
+
+CHUCK: That's right. I'm Charles Max Wood from devchat.tv. I'm actually in Chattanooga, Tennessee today  and yeah, that’s how we swapped. Hopefully I can swap back to home pretty soon. [laughs]
+
+JAMES: Is that why you sound like an 80-year old smoker?
+
+DAVID: Yes.
+
+JOSH: [laughs]
+
+CHUCK: All right well, we have a few announcements. I'm going to let some other folks take care of that this week. David, do you wanna start us off?
+
+DAVID: Yeah. So, introducing our new segment, which is “The totally awesome thing that happened on Ruby Parley List”. This week, the thing that just blew me away from the list because a post from Katrina Owen, who was talking about the Angela Harm’s episode, specifically the un-schooling bit. And she was talking about just in time learning versus just in case learning. The thing that blew me away; the phrase, the concept I guess -- the sopheme if you will. If phoneme is the fundamental unit of sound, a sopheme then is the fundamental unit of thought.
+
+And the sopheme that caught my eye of a totally new concept to me was, she said she declared learning bankruptcy. She has this huge back log of articles to read, she had all these things saved and she’s dumped it and basically said, “I'm going to learn the things I need to learn, when I need to learn them.” And all of a sudden, she was free to learn things she was interested in instead of all these things that she had to learn. That was freaking awesome. And that's going in my mental bag of tricks. And that's my bit.
+
+AVDI: I was declared “learning too big to fail”.
+
+[laughter]
+
+JAMES: And how’d that work out for you?
+
+JOSH: --- bailout.
+
+JAMES: Oh.
+
+DAVID: He's continuing his learning Ponzi scheme.
+
+AVDI: [laughs] Other people --- the learning for me.
+
+JAMES: That's awesome.
+
+CHUCK: All right. Well, we have another announcement.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:12:25</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR070WhatsAGoodStarterProject.mp3" fileSize="86892152" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/070-rr-what-is-a-good-starter-project/</feedburner:origLink></item>

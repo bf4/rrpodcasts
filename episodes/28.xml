@@ -1,0 +1,123 @@
+<item>
+		<title>024 RR Best Practice Patterns Follow Up</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/IOnWTyJLnZM/</link>
+		<comments>http://rubyrogues.com/024-rr-best-practice-patterns-follow-up/#comments</comments>
+		<pubDate>Thu, 13 Oct 2011 02:26:44 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=251</guid>
+		<description><![CDATA[Panel Avdi Grimm Charles Max Wood James Edward Gray Josh Susser Discussed in this Episode Smalltalk Best Practice Patterns Converter Pattern Converter Constructor Pattern to_s Date.parse Method Object Composed Method Working Effectively with Legacy Code each vs do Collections Ruby&#8217;s Enumerable Iteration Method to_enum Constant Method Pluggable Selector Pluggable Block rbtree Ruby Set Ruby SortedSet [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
+<ul>
+<li>Avdi Grimm</li>
+<li>Charles Max Wood</li>
+<li>James Edward Gray</li>
+<li>Josh Susser</li>
+</ul>
+<h3>Discussed in this Episode</h3>
+<ul>
+<li>Smalltalk Best Practice Patterns</li>
+<li>Converter Pattern</li>
+<li>Converter Constructor Pattern</li>
+<li>to_s</li>
+<li>Date.parse</li>
+<li>Method Object</li>
+<li>Composed Method</li>
+<li>Working Effectively with Legacy Code</li>
+<li>each vs do</li>
+<li>Collections</li>
+<li>Ruby&#8217;s Enumerable</li>
+<li>Iteration Method</li>
+<li>to_enum</li>
+<li>Constant Method</li>
+<li>Pluggable Selector</li>
+<li>Pluggable Block</li>
+<li>rbtree</li>
+<li>Ruby Set</li>
+<li>Ruby SortedSet</li>
+<li>Intention Revealing Message</li>
+<li>&#8220;A comment is a lie waiting to happen.&#8221;</li>
+<li>Ruby&#8217;s &lt;&lt;</li>
+<li>Streams</li>
+<li>String +</li>
+<li>Hash#merge</li>
+<li>IO Class</li>
+</ul>
+<h3>Picks</h3>
+<div>
+<ul>
+<li><a title="VCR gem" href="http://myronmars.to/n/dev-blog/2011/10/custom-request-matchers-in-vcr-2-0" target="_blank">VCR gem</a> (Avdi)</li>
+<li><a title="YouCanBook.me" href="http://youcanbook.me/" target="_blank">YouCanBook.Me</a> (Avdi)</li>
+<li><a title="Code Brawl Contest" href="http://codebrawl.com/contests/methods-taking-multiple-blocks" target="_blank">Code Brawl Contest</a> (James)</li>
+<li><a title="Space Chem Game" href="http://www.spacechemthegame.com/" target="_blank">Space Chem Game</a> (James)</li>
+<li><a title="Marcel Molina" href="http://marcelmolina.com/" target="_blank">Marcel Molina</a> (Josh)</li>
+<li><a title="Quora" href="http://www.quora.com/What-are-good-books-to-learn-object-oriented-programming" target="_blank">Quora</a> (Josh)</li>
+<li><a title="thisiswhyimbroke.com" href="http://thisiswhyimbroke.com/" target="_blank">thisiswhyimbroke.com</a> (Josh)</li>
+<li><a title="Teleport" href="http://www.abyssoft.com/software/teleport/" target="_blank">teleport </a>(Chuck)</li>
+<li><a title="Harbor Freight" href="http://www.harborfreight.com/" target="_blank">Harbor Freight</a> (Chuck)</li>
+</ul>
+</div>
+<p>&nbsp;</p>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/IOnWTyJLnZM" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/024-rr-best-practice-patterns-follow-up/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111011.mp3" length="23560393" type="audio/mpeg"/>
+			<itunes:subtitle>Panel  Avdi Grimm   Charles Max Wood   James Edward Gray   Josh Susser - Discussed in this Episode  Smalltalk Best Practice Patterns   Converter Pattern   Converter Constructor Pattern   to_s   Date.parse   Method Object   Composed Method </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm
+	Charles Max Wood
+	James Edward Gray
+	Josh Susser
+
+Discussed in this Episode
+
+	Smalltalk Best Practice Patterns
+	Converter Pattern
+	Converter Constructor Pattern
+	to_s
+	Date.parse
+	Method Object
+	Composed Method
+	Working Effectively with Legacy Code
+	each vs do
+	Collections
+	Ruby's Enumerable
+	Iteration Method
+	to_enum
+	Constant Method
+	Pluggable Selector
+	Pluggable Block
+	rbtree
+	Ruby Set
+	Ruby SortedSet
+	Intention Revealing Message
+	"A comment is a lie waiting to happen."
+	Ruby's &lt;&lt;
+	Streams
+	String +
+	Hash#merge
+	IO Class
+
+Picks
+
+
+	VCR gem (Avdi)
+	YouCanBook.Me (Avdi)
+	Code Brawl Contest (James)
+	Space Chem Game (James)
+	Marcel Molina (Josh)
+	Quora (Josh)
+	thisiswhyimbroke.com (Josh)
+	teleport (Chuck)
+	Harbor Freight (Chuck)
+
+
+ </itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111011.mp3" fileSize="23560393" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/024-rr-best-practice-patterns-follow-up/</feedburner:origLink></item>

@@ -1,0 +1,118 @@
+<item>
+		<title>071 RR Zero Downtime Deploys</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/NUmq6OSEE9g/</link>
+		<comments>http://rubyrogues.com/071-rr-zero-downtime-deploys/#comments</comments>
+		<pubDate>Mon, 24 Sep 2012 12:00:35 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Pedro Belo]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=719</guid>
+		<description>Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Pedro Belo (twitter github) Discussion Zero Downtime Deploys Continuous Deployment Unicorn Migrations Heroku Gradual Depoloyment Coordinated Rollbacks Splunk Graphite Picks Dabblers and Blowhards (Avdi) The Might Be Giants &amp;#8211; Here Come the ABCs, Here Come [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/NUmq6OSEE9g" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/071-rr-zero-downtime-deploys/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR071ZeroDowntimeDeploys.mp3" length="78669887" type="audio/mpeg"/>
+		<itunes:subtitle>Panel   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog)   Pedro Belo (twitter github) Discussion  Zer...</itunes:subtitle>
+		<itunes:summary>Panel
+
+
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+	Pedro Belo (twitter github)
+
+
+Discussion
+
+	Zero Downtime Deploys
+	Continuous Deployment
+	Unicorn
+	Migrations
+	Heroku
+	Gradual Depoloyment
+	Coordinated Rollbacks
+	Splunk
+	Graphite
+
+Picks
+
+	Dabblers and Blowhards (Avdi)
+	The Might Be Giants - Here Come the ABCs, Here Come the 123s and Here Comes Science (Avdi)
+	Service-oriented Songkick (James)
+	Sick Science! (James)
+	iPhone 5 (Josh)
+	Kickoff Labs (Josh)
+	Primal Palet Books (Josh)
+	Confreaks - How To Get The Most Out Of Your Conference Experience (Josh)
+	Surge Protectors (Chuck)
+	UPS (Chuck)
+	LG Tone Headset (Chuck)
+	Why Our Code Smells (Pedro)
+	Zues (Pedro)
+
+Transcript
+JOSH: Hey, guys.
+
+JAMES: Hello, hello.
+
+AVDI: Howdy.
+
+JOSH: Good morning. Hey, how you doing Pedro?
+
+PEDRO: Hey. Pretty good. Pretty good. And you man?
+
+JOSH: Well, I am awake.
+
+[laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+
+[This episode is sponsored by JetBrains -- makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to episode of 71 of the Ruby Rogues Podcast! This week on our panel, we have Avdi Grimm.
+
+AVDI: Hello from Pennsylvania.
+
+CHUCK: We have Josh Susser.
+
+JOSH: Hey, good morning everyone!
+
+CHUCK: James Edward Gray.
+
+JAMES: Chuck, we are going to need to use my formal title from now on.
+
+CHUCK: Is that ‘Your Majesty’? Kind of like ‘Your Worship’?
+
+JAMES: No. I'm going with “Ninjeneer Snowflake”.
+
+CHUCK: [laughs] OK. Our resident Snowflake, and we also have special guest and that's Pedro Belo.
+
+PEDRO: Hey, yeah. Good morning guys!
+
+CHUCK: Pedro, do you wanna introduce yourself really quick?
+
+PEDRO: Yeah, for sure. So, I'm a developer at Heroku. I've been working on the API right now, but I joined the company quite a few time ago; did quite a few different projects in there. And yeah, I guess that's what I'm doing.
+
+CHUCK: Cool. So, we are going to be talking about Zero Downtime Deploys, which sounds kind of interesting to me. I keep hearing the term, and for some reason my mind conflates it with continuous deployment, which I guess is a different idea. So, zero downtime deploy means that you run your deploy and your users don’t see the site go down for even a second, right?
+
+PEDRO: Exactly. There is not a single user that is affected by the deploy. And not only like 500 errors, like we talking about like assets; they show properly. They don’t got any like weird CSS from the previous version or anything like that, right?
+
+CHUCK: Right.
+
+JOSH: So aside form just niceness, why is that important?
+
+PEDRO: That is a great question. I wouldn’t think it’s that important like, a year ago or this is something that started growing in me together with the growth of the Heroku API, right? So in the beginning, we had like, let’s say, five requests a sec or something like that. And then at that point, it doesn’t hurt you too much, right? Maybe you will see one 500 or another on a deploy but it’s like really rare. But now, if you are talking about a website that has hundreds of calls a second, then as soon as something goes wrong in a deploy, like you will see 20 exceptions or even more. So, I think when you have a big site, it becomes pretty important so you can establish trust with your customers. They down want to get 500s. They rely on you and that's why I think it’s important.
+
+JOSH: I guess some of it really is just related to revenue. If you think about Amazon,</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:33</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR071ZeroDowntimeDeploys.mp3" fileSize="78669887" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/071-rr-zero-downtime-deploys/</feedburner:origLink></item>

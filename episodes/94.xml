@@ -1,0 +1,140 @@
+<item>
+		<title>077 RR Complexity with Glenn Vanderburg</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/0RbqQimP4CE/</link>
+		<comments>http://rubyrogues.com/077-rr-complexity-with-glenn-vanderburg/#comments</comments>
+		<pubDate>Wed, 31 Oct 2012 13:00:42 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Glenn Vanderburg]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=833</guid>
+		<description>Panel Glenn Vanderburg (blog twitter Grasping Complexity with Both Hands) James Edward Gray (blog twitter github) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 01:41 &amp;#8211; Book Club &amp;#8211; Practical Object-Oriented Design in [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/0RbqQimP4CE" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/077-rr-complexity-with-glenn-vanderburg/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR077Complexity.mp3" length="66321055" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Glenn Vanderburg (blog twitter Grasping Complexity with Both Hands)   James Edward Gray (blog twitter github)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Josh Susser (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Glenn Vanderburg (blog twitter Grasping Complexity with Both Hands)
+	James Edward Gray (blog twitter github)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+
+Discussion
+01:41 - Book Club - Practical Object-Oriented Design in Ruby by Sandi Metz
+
+	Interviewing: January 2nd
+	Airing: January 9th
+
+02:52 - Best of Parley
+
+	All past guests/all future guests have joined the list!
+	Benjamin Fleischer + RubyConf tips
+
+04:18 - Ruby Nuby Project
+
+	LAST DAY TO SUBMIT VIDEOS!
+	Supporters: RubyMonk, RailsCasts, The Pragmatic Studio
+
+05:29 - Grasping Complexity with Both Hands
+
+	How to recognize genuinely complex problems and situations
+	How to think clearly and make smart decisions
+	Things tend to get complicated when people get involved
+
+08:46 - Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister
+
+11:19 - No Silver Bullet --Essence and Accident in Software Engineering by Frederick P. Brooks, Jr.
+
+13:04 - Learnable Programming: Designing a programming system for understanding programs by Bret Victor
+
+16:05 - Science and ways of dealing with complex situations
+
+18:20 - Bounded Complexity and Unbounded Complexity
+
+23:41 - The Birthday Paradox
+
+	Asking the right question
+
+29:04 - Don’t try to make things NOT go wrong
+
+34:35 - Communicating when something is complex
+
+	Keeping multiple thoughts in your head
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+
+39:24 - Unit Testing
+
+
+Proof
+
+Relativity
+
+Genetic algorithms and software evolution: Thomas S. Ray
+
+Picks
+
+	Peopleware: Productive Projects and Teams by Tom DeMarco and Timothy Lister (Dave)
+	The Power of Habit: Why We Do What We Do in Life and Business by Charles Duhigg (Dave)
+	7 Patterns to Refactor Fat ActiveRecord Models: Bryan Helmkamp (Avdi)
+	Giant Robots Smashing into other Giant Robots (James)
+	RubyTapas (James)
+	Awesome HD Slinky Slow-Mo (James)
+	99 Life Hacks to make your life easier! (Josh)
+	Looper (Josh)
+	Robert A Heinlein: By His Own Bootstraps (Josh)
+	Robert A Heinlein: All You Zombies (Josh)
+	Primer (Avdi)
+	Hexaflexagons (Avdi)
+	Tweetbot for Mac (Chuck)
+	Wicked Problems 1 (Glenn)
+	Wicked Problems 2 (Glenn)
+	Wicked Problems 3 (Glenn)
+	On Bullshit by Harry Frankfurt (Glenn)
+	Steven Berlin Johnson (Glenn)
+
+Next Week
+
+	Hexagonal Rails with Matt Wynne and Kevin Rutherford
+
+Ruby Rogues Book Club
+The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013 with the episode airing January 9, 2013.
+
+The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
+
+	First create a user account: www.informit.com/join
+	SAVE 40% When You Buy 2: www.informit.com/ruby
+	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
+	(Includes FREE SHIPPING within the U.S.!)
+
+Transcript 
+JAMES: All right. So what are we talking about today? Are we talking about complexity?
+
+JOSH: OK. So, do we have a drinking game for this? Like every time David uses the word “complecting”?
+
+[laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to episode 77 of the Ruby Rogues Podcast! This week on our panel we have James Edward Gray.
+
+JAMES: Who are you people and why do you keep calling me?
+
+CHUCK: Avdi Grimm.
+</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:05</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR077Complexity.mp3" fileSize="66321055" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/077-rr-complexity-with-glenn-vanderburg/</feedburner:origLink></item>

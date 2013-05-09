@@ -1,0 +1,122 @@
+<item>
+		<title>065 RR Functional vs Object Oriented Programming with Michael Feathers</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/2SAireCVoPk/</link>
+		<comments>http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/#comments</comments>
+		<pubDate>Tue, 07 Aug 2012 12:00:36 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Michael Feathers]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=619</guid>
+		<description>Panel David Brady (blog witter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Michael Feathers (twitter blog) Discussion Groupon Working Effectively With Legacy Code Functional Programming Object Oriented Programming Tell Above, and Ask Below &amp;#8211; Hybridizing OO and Functional Design Synchronous vs. Asynchronous Actor model Establishing a Bounded Context Information [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/2SAireCVoPk" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR065_FPvsOO_Michael_Feathers.mp3" length="69502244" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  David Brady (blog witter github ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github)   Josh Susser (twitter github blog)   Michael Feathers (twitter blog) - Discussion...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	David Brady (blog witter github ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray II (blog twitter github)
+	Josh Susser (twitter github blog)
+	Michael Feathers (twitter blog)
+
+Discussion
+
+	Groupon
+	Working Effectively With Legacy Code
+	Functional Programming
+	Object Oriented Programming
+	Tell Above, and Ask Below - Hybridizing OO and Functional Design
+	Synchronous vs. Asynchronous
+	Actor model
+	Establishing a Bounded Context
+	Information Hiding and Effect Hiding
+	"A car with four-wheel independent steering isn't more effective in any way."
+	Accidental Complexity
+	Protocols
+	Adaptor Pattern
+	Bit Blit
+	Where does OO and FP intersect at a functional level?
+
+Picks
+
+	Mastering Space and Time with JavaScript by Noel Rappin (David)
+	Conway's Game of Life in APL (David)
+	Raspbery Pi (James)
+	T gem (Josh)
+	VentureBeat - Dreshrush Pitch Deck (Josh)
+	Simple.com (Josh)
+	Salesforce (Chuck)
+	Get Clients Now! by CJ Hayden (Chuck)
+	Elemental Design Patterns by Jason McSmith (Michael)
+	Beyond the Black Rainbow (Michael)
+
+We are reading Growing Object Oriented Software Guided by Tests and we will review with the author on August 22nd!
+Transcript 
+JAMES: But, if she should go into labor and we could---
+
+AVDI: I will totally unmute them.
+
+JAMES: Right. It could be our first on air delivery.
+
+*laughter*
+
+JOSH: Yeah. Watch. Watch.
+
+DAVID: You know what the little sound bite at the beginning of the episodes?
+
+
+
+CHUCK: [This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
+
+[Hosting is provided by the Blue Box Group. Check them out at bluebox.net]
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control and intelligent coding and refactoring, check out RubyMine by going to JetBrains.com/ruby]
+
+Hey everybody and welcome to episode 65 of the Ruby Rogues podcast. This week on our podcast, we have David Brady.
+
+DAVID: Good morning. I’m Homeopathic David Brady. I’m a one part in 10 billion.
+
+CHUCK: Awesome. We also have Josh Susser.
+
+JOSH: Good morning. I’m Allopathic Josh.
+
+CHUCK: We also have James Edward Gray II.
+
+JAMES: You know, I listened to that “Hiring Programmers” episode and not one thing I said ended up in there.
+
+CHUCK: I’m sorry. I’m Charles Max Wood from DevChat.TV, and we also have a special guest and that is Michael Feathers.
+
+MICHAEL: Hello there. I’m down here in Miami saying hello and being with you guys.
+
+DAVID: Awesome.
+
+CHUCK: For the two people that haven’t heard of you, do you want to tell us a little bit about yourself?
+
+MICHAEL: Yeah sure. Been in software development for about 25 years, spent a lot of time consulting, work for Groupon now, wrote a book in 2005 called “Working Effectively with Legacy Code,” and spent a lot of time thinking about software problems and helping people solve them. That’s me.
+
+CHUCK: Awesome.
+
+JAMES: Woo hoo!
+
+CHUCK: This week, we’re going to be talking about “Functional versus Object-Oriented Programming”. This was a topic that Josh suggested a while ago and then Michael also wrote a blog post about it and so we decided to pull the two ideas together and chat about it.
+
+JOSH: To be fair, I don’t think I so much suggested the topic as ranted about it enough that you guys just figured we should do a topic or do an episode.
+
+JAMES: Yeah. How can we make Josh shut up, I mean, you know?
+
+DAVID: I want to be on record here. I’ve told you guys that appeasement never works but okay.
+
+CHUCK: Alright. I’m not 100% sure where to start. Do we want to start with the blog post or is there a better place to start at?
+
+JAMES: Sure, I just re-read that post this morning. Michael, can you give us 10,000 view of what you said there?
+
+MICHAEL: Yeah, sure.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>57:55</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR065_FPvsOO_Michael_Feathers.mp3" fileSize="69502244" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/</feedburner:origLink></item>

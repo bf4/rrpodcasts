@@ -1,0 +1,180 @@
+<item>
+		<title>013 RR Technical Debt</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/9p2mbbXLvJY/</link>
+		<comments>http://rubyrogues.com/technical-debt/#comments</comments>
+		<pubDate>Mon, 01 Aug 2011 15:27:58 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Aaron Patterson]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[abstractions]]></category>
+		<category><![CDATA[bypassing]]></category>
+		<category><![CDATA[code]]></category>
+		<category><![CDATA[cost]]></category>
+		<category><![CDATA[deficiency]]></category>
+		<category><![CDATA[expertise]]></category>
+		<category><![CDATA[features]]></category>
+		<category><![CDATA[lean startup]]></category>
+		<category><![CDATA[legacy code]]></category>
+		<category><![CDATA[maintenance]]></category>
+		<category><![CDATA[metrics]]></category>
+		<category><![CDATA[pain]]></category>
+		<category><![CDATA[payment]]></category>
+		<category><![CDATA[postponing]]></category>
+		<category><![CDATA[problems]]></category>
+		<category><![CDATA[process]]></category>
+		<category><![CDATA[refactoring]]></category>
+		<category><![CDATA[simplifying]]></category>
+		<category><![CDATA[skeptic’s guide to the universe]]></category>
+		<category><![CDATA[stargate universe]]></category>
+		<category><![CDATA[technical debt]]></category>
+		<category><![CDATA[tests]]></category>
+		<category><![CDATA[time]]></category>
+		<category><![CDATA[tradeoffs]]></category>
+		<category><![CDATA[upgrades]]></category>
+		<category><![CDATA[wunderlist]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=87</guid>
+		<description><![CDATA[Panel: Aaron Patterson (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Discussed in this episode: Deliberate technical debt &#8211; deferring development to when you can later afford the time Inadvertent technical debt &#8211; adding technical debt [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3 id="internal-source-marker_0.1454600551001871" dir="ltr">Panel:</h3>
+<ul>
+<li>Aaron Patterson (<a href="http://twitter.com/tenderlove">twitter</a><a href="http://github.com/tenderlove"> github</a><a href="https://docs.google.com/a/teachmetocode.com/document/d/1KqLA9wp65NPQtpIxoGPsF6zCdJTsHGleA0Mbn-gXdBA/http%3A%2F%2Ftenderlovemaking.com"> blog</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a><a href="http://teachmetocodeacademy.com/"> Rails Summer Camp</a>)</li>
+<li>James Edward Gray II (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+</ul>
+<h3 dir="ltr">Discussed in this episode:</h3>
+<ul>
+<li>Deliberate technical debt &#8211; deferring development to when you can later afford the time</li>
+<li>Inadvertent technical debt &#8211; adding technical debt without realizing it or because libraries/frameworks go out of date.</li>
+<li>When would you deliberately accrue technical debt?</li>
+<ul>
+<li>Time crunches</li>
+<li>Everything pretty much devolves down to time</li>
+<li>Deferring for lack of expertise</li>
+</ul>
+<li>Shorten time to market by trading time.</li>
+<li><a href="http://theleanstartup.com/">Lean Startup</a></li>
+<li>What’s the right solution? Fix your code? or rewrite your code?</li>
+<li>Quantify the cost of your technical debt &#8211; Josh gave an example.</li>
+<li>Sources of Technical Debt:</li>
+<ul>
+<li>Upgrade costs</li>
+<li>Test coverage</li>
+<li>Application features</li>
+<li>Non-core features</li>
+<li>Compatibility costs</li>
+<li>Coupled code</li>
+<li>Dependencies</li>
+<li>Early adoption</li>
+</ul>
+<li>Solutions:</li>
+<ul>
+<li>Versioning</li>
+<li>Upgrading</li>
+<li>Do the work</li>
+<li>Bypassing the problem &#8211; Solving it a different way</li>
+</ul>
+<li>How do you know you’re adding technical debt?</li>
+<ul>
+<li>When you start to feel the pain.</li>
+<li>When you make the initial payment.</li>
+</ul>
+<li>Technical debt is a deficiency in your code or process. It’s costing you time.</li>
+<li>Counter-examples:</li>
+<ul>
+<li>Code you don’t need to maintain</li>
+<li>Code you can avoid without incurring immediate or eventual cost</li>
+</ul>
+<li>How do you avoid technical debt?</li>
+<ul>
+<li>Good abstractions</li>
+<li>Good refactoring</li>
+<li><a href="http://www.amazon.com/gp/product/0201485672/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0201485672">Refactoring</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0201485672&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (by Martin Fowler)</li>
+</ul>
+<li>Declaring Bankruptcy &#8211; Folding up the project? Restarting/rewriting?</li>
+</ul>
+<h3 dir="ltr">Picks</h3>
+<ul>
+<li><a href="http://www.amazon.com/gp/product/0131177052/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0131177052">Working Effectively with Legacy Code</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0131177052&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> by Michael Feathers (Aaron)</li>
+<li><a href="http://www.theskepticsguide.org/">SGU &#8211; Skeptic’s Guide to the Universe Podcast</a> (James)</li>
+<li>SGU &#8211; Stargate Universe (amazon.com) (James)</li>
+<li><a href="http://pivotallabs.com/talks/139-metrics-metrics-everywhere">Coda Hale &#8211; Metrics, Metrics, everywhere (video)</a> (Josh)</li>
+<li><a href="http://www.6wunderkinder.com/wunderlist/">Wunderlist</a> (Chuck)</li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/9p2mbbXLvJY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/technical-debt/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110728_01.mp3" length="73531204" type="audio/mpeg"/>
+			<itunes:keywords>abstractions,bypassing,code,cost,deficiency,expertise,features,lean startup,legacy code,maintenance,metrics,pain</itunes:keywords>
+		<itunes:subtitle>Panel:  Aaron Patterson (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github)   Josh Susser (twitter github blog) - Discussed in this episode: - </itunes:subtitle>
+		<itunes:summary>Panel:
+
+	Aaron Patterson (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray II (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussed in this episode:
+
+	Deliberate technical debt - deferring development to when you can later afford the time
+	Inadvertent technical debt - adding technical debt without realizing it or because libraries/frameworks go out of date.
+	When would you deliberately accrue technical debt?
+
+	Time crunches
+	Everything pretty much devolves down to time
+	Deferring for lack of expertise
+
+	Shorten time to market by trading time.
+	Lean Startup
+	What’s the right solution? Fix your code? or rewrite your code?
+	Quantify the cost of your technical debt - Josh gave an example.
+	Sources of Technical Debt:
+
+	Upgrade costs
+	Test coverage
+	Application features
+	Non-core features
+	Compatibility costs
+	Coupled code
+	Dependencies
+	Early adoption
+
+	Solutions:
+
+	Versioning
+	Upgrading
+	Do the work
+	Bypassing the problem - Solving it a different way
+
+	How do you know you’re adding technical debt?
+
+	When you start to feel the pain.
+	When you make the initial payment.
+
+	Technical debt is a deficiency in your code or process. It’s costing you time.
+	Counter-examples:
+
+	Code you don’t need to maintain
+	Code you can avoid without incurring immediate or eventual cost
+
+	How do you avoid technical debt?
+
+	Good abstractions
+	Good refactoring
+	Refactoring (by Martin Fowler)
+
+	Declaring Bankruptcy - Folding up the project? Restarting/rewriting?
+
+Picks
+
+	Working Effectively with Legacy Code by Michael Feathers (Aaron)
+	SGU - Skeptic’s Guide to the Universe Podcast (James)
+	SGU - Stargate Universe (amazon.com) (James)
+	Coda Hale - Metrics, Metrics, everywhere (video) (Josh)
+	Wunderlist (Chuck)</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>51:04</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110728_01.mp3" fileSize="73531204" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/technical-debt/</feedburner:origLink></item>

@@ -1,0 +1,192 @@
+<item>
+		<title>007 RR Debugging in Ruby</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/zqgXiKZOfks/</link>
+		<comments>http://rubyrogues.com/debugging-in-ruby/#comments</comments>
+		<pubDate>Thu, 16 Jun 2011 23:11:53 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Debugging]]></category>
+		<category><![CDATA[Gregory Brown]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Mike Moore]]></category>
+		<category><![CDATA[Peter Cooper]]></category>
+		<category><![CDATA[awesome_print]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[couch to 5k]]></category>
+		<category><![CDATA[debug]]></category>
+		<category><![CDATA[debuggers]]></category>
+		<category><![CDATA[debugging]]></category>
+		<category><![CDATA[disneyland]]></category>
+		<category><![CDATA[elantris]]></category>
+		<category><![CDATA[exception]]></category>
+		<category><![CDATA[freeze]]></category>
+		<category><![CDATA[games]]></category>
+		<category><![CDATA[go]]></category>
+		<category><![CDATA[inspect]]></category>
+		<category><![CDATA[ipad]]></category>
+		<category><![CDATA[kindle]]></category>
+		<category><![CDATA[open_gem]]></category>
+		<category><![CDATA[p]]></category>
+		<category><![CDATA[pairing]]></category>
+		<category><![CDATA[pp]]></category>
+		<category><![CDATA[pry]]></category>
+		<category><![CDATA[puts]]></category>
+		<category><![CDATA[rails footnotes]]></category>
+		<category><![CDATA[raise]]></category>
+		<category><![CDATA[raise on exception]]></category>
+		<category><![CDATA[ruby]]></category>
+		<category><![CDATA[ruby in steel]]></category>
+		<category><![CDATA[ruby-debug]]></category>
+		<category><![CDATA[rubyflow]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[yaml]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=47</guid>
+		<description><![CDATA[Panelists Charles Max Wood (twitter github Teach Me To Code) Peter Cooper (site twitter github The Ruby Show Ruby Inside) James Edward Gray II (blog twitter github) Gregory Brown (blog twitter github Ruby Mendicant University) Mike Moore (blog twitter github Rubiverse Podcast) Items discussed in today&#8217;s episode Debuggers and Tools Ruby Debug pry Ruby in [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
+<ul>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a> <a href="http://github.com/charlesmaxwood">github</a> <a href="http://teachmetocode.com/">Teach Me To Code</a>)</li>
+<li>Peter Cooper (<a href="http://peterc.org/">site</a> <a href="http://twitter.com/peterc">twitter</a> <a href="http://github.com/peterc">github</a> <a href="http://rubyshow.com/">The Ruby Show</a> <a href="http://www.rubyinside.com/">Ruby Inside</a>)</li>
+<li>James Edward Gray II (<a href="http://blog.grayproductions.net/">blog</a> <a href="http://twitter.com/JEG2">twitter</a> <a href="http://github.com/JEG2">github</a>)</li>
+<li>Gregory Brown (<a href="http://blog.majesticseacreature.com/">blog</a> <a href="http://twitter.com/seacreature">twitter</a> <a href="http://github.com/sandal">github</a> <a href="http://university.rubymendicant.com/">Ruby Mendicant University</a>)</li>
+<li>Mike Moore (<a href="http://blowmage.com/">blog</a> <a href="http://twitter.com/blowmage">twitter</a> <a href="http://github.com/blowmage">github</a> <a href="http://rubiverse.com/">Rubiverse Podcast</a>)</li>
+</ul>
+<h3>Items discussed in today&#8217;s episode</h3>
+<ul>
+<li>Debuggers and Tools
+<ul>
+<li><a href="http://rubyforge.org/projects/ruby-debug/">Ruby Debug</a></li>
+<li><a href="https://github.com/banister/pry">pry</a></li>
+<li><a href="http://www.sapphiresteel.com/">Ruby in Steel</a></li>
+<li>other IDE&#8217;s</li>
+</ul>
+</li>
+<li>Formatting Debug Output
+<ul>
+<li><a href="http://rubyquicktips.com/post/1405061475/viewing-a-model-in-yaml">YAML&#8217;s y method</a></li>
+<li><a href="http://www.ruby-doc.org/core/classes/Object.html#M001025">Object#inspect</a></li>
+<li><a href="https://github.com/michaeldv/awesome_print">awesome_print</a></li>
+</ul>
+</li>
+<li>Outputting debug information
+<ul>
+<li><a href="http://www.ruby-doc.org/core/classes/Kernel.html#M001403">puts</a></li>
+<li><a href="http://www.ruby-doc.org/core/classes/Kernel.html#M001409">p</a></li>
+<li><a href="http://www.ruby-doc.org/core/classes/Kernel.html#M001410">raise</a></li>
+<li><a href="http://ruby-doc.org/stdlib/libdoc/pp/rdoc/index.html">pp</a></li>
+</ul>
+</li>
+<li>Other debugging tricks
+<ul>
+<li><a href="http://corelib.rubyonrails.org/classes/Thread.html#M001136">abort_on_exception = true</a></li>
+<li>The Ruby executable&#8217;s -d switch and the $DEBUG constant</li>
+<li>Using a logger to output data from a specific piece of code</li>
+<li>The debug method in Rails helpers and views</li>
+<li>Using <a href="http://www.ruby-doc.org/core/classes/Object.html#M001022">Object#freeze</a> on to find what is modifying the object</li>
+<li>Passing a dummy object that uses method_missing to output method calls and arguments</li>
+<li>Do not debug alone</li>
+<li>Spike the debugging, git stash the changes, write the test, unstash the changes and verify the result</li>
+</ul>
+</li>
+</ul>
+<h3>Panel Picks</h3>
+<ul>
+<li>Gaming side events at conferences</li>
+<li><a href="http://www.amazon.com/gp/product/B001LPAMHO/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B001LPAMHO">Lost Cities Board Game</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B001LPAMHO&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://www.amazon.com/gp/product/B0009QYT5W/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B0009QYT5W">Jambo</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B0009QYT5W&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://www.amazon.com/gp/product/B0013OBXG2/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B0013OBXG2">Pandemic</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B0013OBXG2&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://www.amazon.com/gp/product/B001C7617Q/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B001C7617Q">Agricola</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B001C7617Q&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://www.amazon.com/gp/product/B000YLAOEW/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B000YLAOEW">Race For The Galaxy</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B000YLAOEW&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://www.amazon.com/gp/product/B0002TV2LU/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B0002TV2LU">Ticket To Ride</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B0002TV2LU&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://www.amazon.com/gp/product/B000W7JWUA/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B000W7JWUA">The Settlers of Catan</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B000W7JWUA&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://www.amazon.com/gp/product/B00000IWDB/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B00000IWDB">Scrabble Crossword Game</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=B00000IWDB&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="https://github.com/michaeldv/awesome_print">awesome_print</a></li>
+<li><a href="https://github.com/josevalim/rails-footnotes">rails footnotes</a></li>
+<li><a href="http://golang.org/">go</a></li>
+<li><a href="http://www.syntax-k.de/projekte/go-review">The Go Programming Language, or: Why all C-like languages except one suck.</a></li>
+<li><a href="http://disneyparks.disney.go.com/blog/2009/10/mobile-magic-first-disney-parks-mobile-app-details-screen-shots-unveiled/">Mobile Magic (Disneyland Android App)</a></li>
+<li><a href="http://www.amazon.com/gp/product/0765350378/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=0765350378">Elantris</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=0765350378&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Affiliate Link)</li>
+<li><a href="http://itunes.apple.com/us/app/kindle/id302584613?mt=8">iPad Kindle App</a></li>
+<li><a href="http://www.coolrunning.com/engine/2/2_3/181.shtml">Couch to 5k</a></li>
+<li><a href="http://rubyflow.com">Rubyflow.com</a></li>
+<li><a href="https://github.com/adamsanderson/open_gem">open_gem</a></li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/zqgXiKZOfks" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/debugging-in-ruby/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110616.mp3" length="73802426" type="audio/mpeg"/>
+			<itunes:keywords>awesome_print,books,conferences,couch to 5k,debug,debuggers,debugging,disneyland,elantris,exception,freeze,games</itunes:keywords>
+		<itunes:subtitle>Panelists  Charles Max Wood (twitter github Teach Me To Code)   Peter Cooper (site twitter github The Ruby Show Ruby Inside)   James Edward Gray II (blog twitter github)   Gregory Brown (blog twitter github Ruby Mendicant University) </itunes:subtitle>
+		<itunes:summary>Panelists
+
+	Charles Max Wood (twitter github Teach Me To Code)
+	Peter Cooper (site twitter github The Ruby Show Ruby Inside)
+	James Edward Gray II (blog twitter github)
+	Gregory Brown (blog twitter github Ruby Mendicant University)
+	Mike Moore (blog twitter github Rubiverse Podcast)
+
+
+Items discussed in today's episode
+
+	Debuggers and Tools
+
+			Ruby Debug
+			pry
+			Ruby in Steel
+			other IDE's
+
+
+	Formatting Debug Output
+
+			YAML's y method
+			Object#inspect
+			awesome_print
+
+
+	Outputting debug information
+
+			puts
+			p
+			raise
+			pp
+
+
+	Other debugging tricks
+
+			abort_on_exception = true
+			The Ruby executable's -d switch and the $DEBUG constant
+			Using a logger to output data from a specific piece of code
+			The debug method in Rails helpers and views
+			Using Object#freeze on to find what is modifying the object
+			Passing a dummy object that uses method_missing to output method calls and arguments
+			Do not debug alone
+			Spike the debugging, git stash the changes, write the test, unstash the changes and verify the result
+
+
+
+Panel Picks
+
+	Gaming side events at conferences
+	Lost Cities Board Game (Affiliate Link)
+	Jambo (Affiliate Link)
+	Pandemic (Affiliate Link)
+	Agricola (Affiliate Link)
+	Race For The Galaxy (Affiliate Link)
+	Ticket To Ride (Affiliate Link)
+	The Settlers of Catan (Affiliate Link)
+	Scrabble Crossword Game (Affiliate Link)
+	awesome_print
+	rails footnotes
+	go
+	The Go Programming Language, or: Why all C-like languages except one suck.
+	Mobile Magic (Disneyland Android App)
+	Elantris (Affiliate Link)
+	iPad Kindle App
+	Couch to 5k
+	Rubyflow.com
+	open_gem</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:01:30</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110616.mp3" fileSize="73802426" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/debugging-in-ruby/</feedburner:origLink></item>

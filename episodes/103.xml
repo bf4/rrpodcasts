@@ -1,0 +1,153 @@
+<item>
+		<title>084 RR Github with Zach Holman</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/NuLCYIn6-C0/</link>
+		<comments>http://rubyrogues.com/084-rr-github-with-zach-holman/#comments</comments>
+		<pubDate>Wed, 19 Dec 2012 17:21:56 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Zach Holman]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=985</guid>
+		<description>Panel Zach Holman (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) Discussion 02:14 &amp;#8211; Best of Parley Multiple threads: How do I get Ruby into my .NET shop? 03:19 [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/NuLCYIn6-C0" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/084-rr-github-with-zach-holman/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR084Github.mp3" length="60869211" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Zach Holman (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Zach Holman (twitter github blog)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code)
+
+Discussion
+02:14 - Best of Parley
+
+	Multiple threads: How do I get Ruby into my .NET shop?
+
+03:19 - Ruby Bits Course
+
+03:49 - Book Club (See Below)
+
+04:45 - Zach Holman of Github
+
+06:38 - Git Redesign
+
+	libgit2
+	libgit2 / rugged
+
+12:11 - Features
+
+15:20 - How Ruby fits into the Github polyglot language ecosystem
+
+	Erlang
+
+18:03 - New Launches and Internal Tools
+
+21:34 - Company Direction
+
+24:30 - Github and how they use Github
+
+
+How Github Uses Github to Build Github: Zach Holman
+	Rails 2.3
+
+32:31 - Follow Recommendations
+
+35:08 - Using Github for projects that are not related to software
+
+41:29 - Working at Github
+
+	Valve: Handbook For New Employees
+	Clay Shirky: How the Internet will (one day) transform government
+	http://daytum.com/holman
+
+Picks
+
+	Symbolset (Zach)
+	The Black Magic Of SSH (James)
+	Scaling Up with Eric Lindvall (James)
+	Kids Dungeon Adventure (James)
+	Developers Meeting 2012-12-10 (Josh)
+	httpie (Katrina)
+	The Anatomy of Story (Katrina)
+	Startup Lessons Learned by Eric Ries and Sarah Milstein (Avdi)
+	Everything you ever wanted to know about constant lookup in Ruby by Conrad Irwin (Avdi)
+	Contour Design ShuttlePRO v2 (Avdi)
+	Emacs For Mac OS X (Chuck)
+	Coderetreat (Chuck)
+
+Next Week
+Cloud Computing with Wesley Beary
+Book Club
+The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
+
+	First create a user account:  www.informit.com/join
+	SAVE 40% When You Buy 2:  www.informit.com/ruby
+	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
+	(Includes FREE SHIPPING within the U.S.!)
+
+Transcript
+ZACH:  That’s how you’d be an expert, though.  You only talk about stuff that you know; not about the stuff you don’t know.
+
+CHUCK:  [laughter]
+
+JAMES:   Darn it.  We’re doing it wrong!
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at www.BlueBox.net.]
+
+[This episode is sponsored by Jet Brains, makers of Ruby Mine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out Ruby Mine by going to www.JetBrains.com/ruby.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to www.RubyRogues.com/NewRelic]
+
+CHUCK:  Hey everybody and welcome to Episode 84 of the Ruby Rogues podcast.  This week on our panel, we have Josh Susser.
+
+JOSH:  Hey, good morning everyone!
+
+CHUCK:  James Edward Gray.
+
+JAMES:  We’re recording this episode on what’s likely the last three digit date in my lifetime.  Not three digit, three repeated number date – 12-12-12.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Good evening.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Good morning.
+
+CHUCK:  I’m Charles Max Wood from www.devchat.tv and this week, we have a special guest – it’s Zach Holman.
+
+ZACH:  Good morning.
+
+CHUCK:  Now, David Brady is out this week.  I’m the only one that can really make this joke; but he is out courting his third wife.  So…
+
+[laughter]
+
+JOSH: Is that like the standard thing to call in sick when you live in Salt Lake City?
+
+JAMES:  Or you live in Utah?
+
+[laughter]
+
+CHUCK:  Oh yeah.  He’s been pretty sick for the last four or five days.  So anyway, he’s sitting out this episode.
+
+JOSH:  So who is this Zach Holman guy?
+
+JAMES:  Wait.  Let’s do Best of Parley.
+
+JOSH:  I'm so confused.  Okay, what’s the best of Parley this week?
+
+JAMES:  You’re confused.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:03:24</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR084Github.mp3" fileSize="60869211" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/084-rr-github-with-zach-holman/</feedburner:origLink></item>

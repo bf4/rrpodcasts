@@ -1,0 +1,151 @@
+<item>
+		<title>093 RR Security Exploits with Patrick McKenzie</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/No59-3TqLGI/</link>
+		<comments>http://rubyrogues.com/093-rr-security-exploits-with-patrick-mckenzie/#comments</comments>
+		<pubDate>Wed, 20 Feb 2013 14:00:43 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Patrick McKenzie]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1154</guid>
+		<description>Panel Patrick McKenzie (twitter github blog Kalzumeus Podcast) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:32 &amp;#8211; Patrick McKenzie Introduction Hacker News 02:03 &amp;#8211; Security in Rails YAML F7U12 &amp;#124; Tenderlovemaking What The Rails Security Issue [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/No59-3TqLGI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/093-rr-security-exploits-with-patrick-mckenzie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR093SecurityExploits.mp3" length="72306680" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Patrick McKenzie (twitter github blog Kalzumeus Podcast)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Patrick McKenzie (twitter github blog Kalzumeus Podcast)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:32 - Patrick McKenzie Introduction
+
+	Hacker News
+
+02:03 - Security in Rails
+
+
+YAML F7U12 | Tenderlovemaking
+	What The Rails Security Issue Means For Your Startup: Patrick McKenzie
+
+Exploit Code, Metasploit Module Out for Ruby on Rails Flaws: Dennis Fisher
+
+Ruby on Rails: Security (Google Group)
+
+09:12 - Why are there so many security issues right now?
+
+	White Hat and Black Hat Security Researchers
+
+12:35 - Vulnerabilities and Exploits
+
+	Zero-Day Exploit
+	Patch Day
+
+15:38 - Security Responses
+
+
+What happened to RubyGems
+	Tweet from Nick Quaranto
+
+Heroku Status: Ruby deploys temporarily degraded
+
+Tarsnap
+	059 RR - Security with Rein Henrichs 22:49 - Knowing you’ve been compromised
+
+Re imaging with source
+
+Backup strategies
+
+28:00 - YAML
+
+33:50 - Mindset of Hackers and Security Researchers
+
+36:13 - Enabling features and disabling default features
+
+	Tweets from Peter Cooper 1, 2, 3
+	XML
+
+50:46 - Safer coding practices
+
+	The Tangled Web: A Guide to Securing Modern Web Applications by Michal Zalewski
+	OWASP Top Ten Project
+
+01:03:18 - Security Monitor by Code Climate
+
+
+Discount code for Ruby Rogues listeners: RRSEC13
+
+Includes early access to Security Monitor and 50% discount off your first three months.
+
+Expires March 6th
+
+Picks
+
+	Guru Meditation: Avoiding the Infinite Abyss by Andy Hunt (James)
+	Estimation is Evil: Overcoming the Estimation Obsession by Ron Jeffries (James)
+	Stripe: Checkout (Josh)
+	Star Trek &amp; The City (Josh)
+	Being a female software engineer (Josh)
+	Pairing: Steve Jackson (Avdi)
+	House of Cards (Avdi)
+	White on Rice Couple (Avdi)
+	How to Tell If Your Cat Is Plotting to Kill You by The Oatmeal (David)
+	Where’s My Perry? (Chuck)
+	The Tangled Web: A Guide to Securing Modern Web Applications by Michal Zalewski (Patrick)
+	Brakeman - Rails Security Scanner (Patrick)
+
+Book Club
+Patterns of Enterprise Application Architecture by Martin Fowler: Read along with us! We will be discussing the book with Martin himself and the episode will air on Wednesday, March 20th, 2013.
+Next Week
+Robust Ruby with Ara T. Howard
+Transcript
+JOSH:  You will be able to tell that it’s Avdi speaking because you’ll feel a warm glow starts to work around your belly and expand out through your body.
+
+
+
+[Laughter]
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is brought to you by WAZA, Heroku’s one day celebration of art and technique. Join Matz, Aaron Patterson, and more on February 28th in San Francisco. Use exclusive code Ruby-Rogues-13 for $50 off registration at WAZA.Heroku.com.]
+
+CHUCK:  Hey everybody, and welcome to Episode 93 of the Ruby Rouges podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Do you guys realize that Top Gun was redone in 3D?
+
+CHUCK:  We also have Josh Susser.
+
+JOSH:  How do I follow that? Hi, from San Francisco
+
+CHUCK:  David Brady.
+
+DAVID:  I never write insecure code but my code is frequently jealous over dependent, constantly angry and exhibits low self confidence.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:   James, you can be my wingman anytime.
+
+[Laughter]
+
+CHUCK:  I'm Charles Max Wood from DevChat.tv. And this week, we have a special guest and that is Patrick McKenzie.
+
+PATRICK:  Hi to everybody, this is Patrick and I’m phoning in from Japan.
+
+CHUCK:  Do you want to introduce yourself really quickly since you haven’t been on the show before?
+
+PATRICK:  Oh, sure. My name is Patrick McKenzie.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:15:19</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR093SecurityExploits.mp3" fileSize="72306680" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/093-rr-security-exploits-with-patrick-mckenzie/</feedburner:origLink></item>

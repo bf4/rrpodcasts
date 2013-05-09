@@ -1,0 +1,143 @@
+<item>
+		<title>029 RR Keeping Up with Gowalla</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/McBfyBj55nI/</link>
+		<comments>http://rubyrogues.com/029-rr-keeping-up-with-gowalla/#comments</comments>
+		<pubDate>Thu, 17 Nov 2011 18:48:55 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=282</guid>
+		<description><![CDATA[Panel Adam Keys (twitter github therealadam.com) Charles Max Wood (twitter github Teach Me To Code) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Gowalla Ruby on Rails Amazon EC2 Postgres Memcached Resque Redis Cassandra Solr Deploy several times a day Anyone with commit rights can `cap deploy production` Feature toggles James Golick&#8217;s rollout gem Pride in your work [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
+<ul>
+<li>Adam Keys (<a title="twitter" href="http://twitter.com/therealadam" target="_blank">twitter</a> <a title="github" href="http://github.com/therealadam" target="_blank">github</a> <a href="http://therealadam.com/" target="_blank">therealadam.com</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+</ul>
+<h3>Discussion</h3>
+<ul>
+<li>Gowalla</li>
+<li>Ruby on Rails</li>
+<li>Amazon EC2</li>
+<li>Postgres</li>
+<li>Memcached</li>
+<li>Resque</li>
+<li>Redis</li>
+<li>Cassandra</li>
+<li>Solr</li>
+<li>Deploy several times a day</li>
+<li>Anyone with commit rights can `cap deploy production`</li>
+<li>Feature toggles</li>
+<li><a href="https://github.com/jamesgolick/rollout">James Golick&#8217;s rollout gem</a></li>
+<li>Pride in your work</li>
+<li>Empathy for users</li>
+<li>Feature branches</li>
+<li>Adam&#8217;s blog posts</li>
+<ul>
+<li><a href="http://weblog.therealadam.com/2011/08/31/relentless-shipping/">Relentless Shipping</a></li>
+<li><a href="http://weblog.therealadam.com/2011/10/09/your-frienemy-the-orm/">Your FriEnemy the ORM</a></li>
+<li><a href="http://weblog.therealadam.com/2011/11/06/the-current-and-future-ruby-platform/">The Current and Future Ruby Platform</a></li>
+<li><a href="http://speakerdeck.com/u/therealadam/p/chronologic-you-put-your-feeds-in-it">Chronologic &#8211; You Put Your Feeds in it</a></li>
+</ul>
+<li>Minimum Viable Product</li>
+<li>Streamlining your feature set</li>
+<li>Measurements/Statistics</li>
+<li>Double writes and dark reads</li>
+<li>New Relic</li>
+<li>Graphite</li>
+<li>statsd</li>
+<li>Eager Loading</li>
+<li>&#8220;Log profusely and get handy with grep, sed, and awk&#8221;</li>
+</ul>
+<h3>Picks</h3>
+<ul>
+<li>Quicklook (Josh)</li>
+<li><a title="MDK: Quicklook for markdown" href="http://www.mdk.org.pl/2009/2/10/quicklook-for-markdown" target="_blank">qlmarkdown</a> (Josh)</li>
+<li><a title="OWS" href="http://occupywallst.org/" target="_blank">Occupy Wall Street</a> (Josh)</li>
+<li><a title="GNU/Linux Command-Line Tools Summary" href="http://linux.die.net/Linux-CLI/" target="_blank">Learn of the command line tools in linux</a> (James)</li>
+<li><a title="ss64.com - grep" href="http://ss64.com/bash/grep.html" target="_blank">grep </a>(James)</li>
+<li><a title="sourceforge - bc" href="http://x-bc.sourceforge.net/man_bc.html" target="_blank">bc</a> (James)</li>
+<li><a title="Three surprises with bc" href="http://www.johndcook.com/blog/2010/07/14/bc-math-library/" target="_blank">bc article</a> (James)</li>
+<li><a title="linux.die.net - xxd" href="http://linux.die.net/man/1/xxd" target="_blank">xxd</a> (James)</li>
+<li><a title="@clmagic" href="http://twitter.com/#!/climagic" target="_blank">command line magic on Twitter</a> (James)</li>
+<li><a title="Backbone.js" href="http://documentcloud.github.com/backbone/" target="_blank">backbone.js</a> (Chuck)</li>
+<li><a title="Apache Software Foundation" href="http://www.apache.org/" target="_blank">Apache Software Foundation </a>(Chuck)</li>
+<li><a href="http://www.amazon.com/gp/product/6305320616/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=6305320616">Classic Albums &#8211; Stevie Wonder: Songs in the Key of Life</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=6305320616&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Adam)</li>
+<li><a title="The Promise: The Making of Darkness On The Edge Of Town" href="http://www.amazon.com/Promise-Making-Darkness-Edge-Town/dp/B004R0MF20/ref=sr_1_4?ie=UTF8&amp;qid=1321553236&amp;sr=8-4" target="_blank">The Promise</a> (Adam)</li>
+<li><a title="EconTalk" href="http://www.econtalk.org/" target="_blank">EconTalk</a> (Adam)</li>
+<li><a title="Planet Money - NPR" href="http://www.npr.org/blogs/money/" target="_blank">NPR: Planet Money </a>(Adam)</li>
+<li><a title="distributed systems primer, updated" href="http://blog.evanweaver.com/2010/08/12/distributed-systems-primer-update/" target="_blank">Evan Weaver&#8217;s Distributed Systems Primer</a> (Adam)</li>
+<li><a href="http://www.amazon.com/gp/product/0321349601/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0321349601">Java Concurrency in Practice</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0321349601&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Adam)</li>
+<li><a title="Economics 113|Fall 2008|UC Berkeley - J. Bradford DeLong" href="http://itunes.apple.com/us/itunes-u/economics-113-fall-2008-uc/id354823242" target="_blank">iTunes U: Econ 113 from UC Berkeley</a> (James)</li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/McBfyBj55nI" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/029-rr-keeping-up-with-gowalla/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111117.mp3" length="28977720" type="audio/mpeg"/>
+			<itunes:subtitle>Panel  Adam Keys (twitter github therealadam.com)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion  Gowalla   Ruby on Rails   Amazon EC2   Postgres </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Adam Keys (twitter github therealadam.com)
+	Charles Max Wood (twitter github Teach Me To Code)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Gowalla
+	Ruby on Rails
+	Amazon EC2
+	Postgres
+	Memcached
+	Resque
+	Redis
+	Cassandra
+	Solr
+	Deploy several times a day
+	Anyone with commit rights can `cap deploy production`
+	Feature toggles
+	James Golick's rollout gem
+	Pride in your work
+	Empathy for users
+	Feature branches
+	Adam's blog posts
+
+	Relentless Shipping
+	Your FriEnemy the ORM
+	The Current and Future Ruby Platform
+	Chronologic - You Put Your Feeds in it
+
+	Minimum Viable Product
+	Streamlining your feature set
+	Measurements/Statistics
+	Double writes and dark reads
+	New Relic
+	Graphite
+	statsd
+	Eager Loading
+	"Log profusely and get handy with grep, sed, and awk"
+
+Picks
+
+	Quicklook (Josh)
+	qlmarkdown (Josh)
+	Occupy Wall Street (Josh)
+	Learn of the command line tools in linux (James)
+	grep (James)
+	bc (James)
+	bc article (James)
+	xxd (James)
+	command line magic on Twitter (James)
+	backbone.js (Chuck)
+	Apache Software Foundation (Chuck)
+	Classic Albums - Stevie Wonder: Songs in the Key of Life (Adam)
+	The Promise (Adam)
+	EconTalk (Adam)
+	NPR: Planet Money (Adam)
+	Evan Weaver's Distributed Systems Primer (Adam)
+	Java Concurrency in Practice (Adam)
+	iTunes U: Econ 113 from UC Berkeley (James)</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111117.mp3" fileSize="28977720" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/029-rr-keeping-up-with-gowalla/</feedburner:origLink></item>

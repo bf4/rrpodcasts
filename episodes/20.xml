@@ -1,0 +1,187 @@
+<item>
+		<title>018 RR What Not to Test</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/onL13vu8Afw/</link>
+		<comments>http://rubyrogues.com/what-not-to-test/#comments</comments>
+		<pubDate>Thu, 08 Sep 2011 16:29:32 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Ryan Bates]]></category>
+		<category><![CDATA[Testing]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=127</guid>
+		<description><![CDATA[Panel Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Ryan Bates (twitter github RailsCasts) Discussed in this Episode When not to test: In a new startup trying to get funding It’s too hard to write the test [...]]]></description>
+			<content:encoded><![CDATA[<p></p><div>
+<h1 id="internal-source-marker_0.24869273346848786" dir="ltr"><span class="Apple-style-span" style="font-size: 15px;">Panel</span></h1>
+<ul>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+<li>Ryan Bates (<a href="http://twitter.com/rbates">twitter</a> <a href="http://github.com/ryanb">github</a> <a href="http://railscasts.com/">RailsCasts</a>)</li>
+</ul>
+<h3 dir="ltr">Discussed in this Episode</h3>
+<p>When not to test:</p>
+<ul>
+<li>In a new startup trying to get funding</li>
+<li>It’s too hard to write the test</li>
+<li>It’ll take too long</li>
+</ul>
+<p>What is a test?</p>
+<ul>
+<li>Verifies code functionality</li>
+<li>Automated testing</li>
+<li>Manual tests</li>
+</ul>
+<p>Only run the tests you need to run.</p>
+<p><a href="https://github.com/guard/guard">Guard</a><br />
+<a href="http://www.zenspider.com/ZSS/Products/ZenTest/">Autotest</a><br />
+<a href="https://github.com/jtrupiano/timecop">Timecop</a><br />
+<a href="http://redis.io/">Redis</a></p>
+<p>Testing myths:</p>
+<ul>
+<li>It’s too hard to test this.</li>
+<ul>
+<li>This is usually a design flaw.</li>
+<li>Forked processes are hard to test.</li>
+<li>Complicated User Interface stuff.</li>
+</ul>
+<li>It’s better/easier to fix it first.</li>
+<li>You can’t test code in Rake Tasks.</li>
+<li>Testing is hard or Writing code and tests is harder than writing code.</li>
+<ul>
+<li>Is this code for “Testing requires discipline?”</li>
+</ul>
+<li>Don’t test “One shot code.” &#8211; You’re only going to run it once, until you need to run it again.</li>
+<li>You don’t have to test migrations.</li>
+</ul>
+<p>TDD gives you a regression test suite and better design.</p>
+<p>Do you not test because of ROI:</p>
+<ul>
+<li>Routine tasks are diminished ROI in design.</li>
+<li>Duplicate code</li>
+<li>Low Risk code</li>
+</ul>
+<p>Testing Javascript from Rails:</p>
+<ul>
+<li><a href="http://pivotal.github.com/jasmine/">Jasmine</a></li>
+<li><a href="http://vowsjs.org/">Vows</a></li>
+<li><a href="http://johnbintz.github.com/jasmine-headless-webkit/">Jasmine Headless Webkit</a></li>
+<li><a href="http://zombie.labnotes.org/">Zombie</a></li>
+</ul>
+<p>The clock is a global variable.</p>
+<p>Code coverage:</p>
+<ul>
+<li>Ryan likes to have 100% code confidence.</li>
+<li>Coverage means exercise, not correct functionality.</li>
+<li>Rails’ migration code didn’t get covered and then got crufty.</li>
+<li>Code that is difficult to test is difficult to refactor, reuse, extract, and modularize. It’s a “meta-code smell.”</li>
+</ul>
+<p>Picks</p>
+<ul>
+<li>Moleskine notebooks (David)</li>
+<li>A notebook (David)</li>
+<li><a href="http://rubygems.org/gems/pry">Pry</a> (<a href="http://railscasts.com/episodes/280-pry-with-rails">on Railscasts</a>)(Josh)</li>
+<li>Showing appreciation for your friends (Josh)</li>
+<li><a href="http://rubyweekly.com/">Ruby Weekly</a> (James)</li>
+<li><a href="http://railscasts.com/">RailsCasts</a> (James)</li>
+<li><a href="http://harvestapp.com/">Harvest</a> (Chuck)</li>
+<li><a href="http://itunes.apple.com/us/app/netflix/id363590051?mt=8&amp;ign-mpt=uo%3D2">Netflix App</a> (Chuck)</li>
+<li><a href="http://audible.com/">Audible.com</a> (Chuck)</li>
+<li>Go board game (Ryan)</li>
+<li><a href="https://github.com/ddollar/foreman">Foreman</a> (Ryan)</li>
+</ul>
+</div>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/onL13vu8Afw" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/what-not-to-test/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110825_01.mp3" length="106031584" type="audio/mpeg"/>
+			<itunes:subtitle>Panel  Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog)   Ryan Bates (twitter github RailsCasts) - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Charles Max Wood (twitter github Teach Me To Code)
+	David Brady (blog twitter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+	Ryan Bates (twitter github RailsCasts)
+
+Discussed in this Episode
+When not to test:
+
+	In a new startup trying to get funding
+	It’s too hard to write the test
+	It’ll take too long
+
+What is a test?
+
+	Verifies code functionality
+	Automated testing
+	Manual tests
+
+Only run the tests you need to run.
+
+Guard
+Autotest
+Timecop
+Redis
+
+Testing myths:
+
+	It’s too hard to test this.
+
+	This is usually a design flaw.
+	Forked processes are hard to test.
+	Complicated User Interface stuff.
+
+	It’s better/easier to fix it first.
+	You can’t test code in Rake Tasks.
+	Testing is hard or Writing code and tests is harder than writing code.
+
+	Is this code for “Testing requires discipline?”
+
+	Don’t test “One shot code.” - You’re only going to run it once, until you need to run it again.
+	You don’t have to test migrations.
+
+TDD gives you a regression test suite and better design.
+
+Do you not test because of ROI:
+
+	Routine tasks are diminished ROI in design.
+	Duplicate code
+	Low Risk code
+
+Testing Javascript from Rails:
+
+	Jasmine
+	Vows
+	Jasmine Headless Webkit
+	Zombie
+
+The clock is a global variable.
+
+Code coverage:
+
+	Ryan likes to have 100% code confidence.
+	Coverage means exercise, not correct functionality.
+	Rails’ migration code didn’t get covered and then got crufty.
+	Code that is difficult to test is difficult to refactor, reuse, extract, and modularize. It’s a “meta-code smell.”
+
+Picks
+
+	Moleskine notebooks (David)
+	A notebook (David)
+	Pry (on Railscasts)(Josh)
+	Showing appreciation for your friends (Josh)
+	Ruby Weekly (James)
+	RailsCasts (James)
+	Harvest (Chuck)
+	Netflix App (Chuck)
+	Audible.com (Chuck)
+	Go board game (Ryan)
+	Foreman (Ryan)</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:13:38</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110825_01.mp3" fileSize="106031584" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/what-not-to-test/</feedburner:origLink></item>

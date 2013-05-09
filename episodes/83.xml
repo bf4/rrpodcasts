@@ -1,0 +1,114 @@
+<item>
+		<title>067 RR Gary Bernhardt’s Testing Style</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/_LL9PgUnu1w/</link>
+		<comments>http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/#comments</comments>
+		<pubDate>Tue, 21 Aug 2012 12:00:31 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Gary Bernhardt]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=632</guid>
+		<description>Panel Gary Bernhardt (twitter github destroyallsoftware.com) Avdi Grimm (twitter github blog book) David Brady (blog witter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Destroy All Software OO Design Testing Unix Functional Core, Imperative Shell  Growing Object Oriented Software Guided by Tests Isolating Faking Values Garbage Collection Mars Rover Curiosity More Testable [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/_LL9PgUnu1w" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR067GaryBernhardt.mp3" length="89619080" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Gary Bernhardt (twitter github destroyallsoftware.com)   Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Gary Bernhardt (twitter github destroyallsoftware.com)
+	Avdi Grimm (twitter github blog book)
+	David Brady (blog witter github ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Destroy All Software
+	OO Design
+	Testing
+	Unix
+	Functional Core, Imperative Shell 
+	Growing Object Oriented Software Guided by Tests
+	Isolating
+	Faking
+	Values
+	Garbage Collection
+	Mars Rover Curiosity
+	More Testable Code vs. Improved Design
+	Threading
+	Controllers
+	Destroy All Software: Sucks/Rocks
+
+Picks
+
+	Therapeutic Refactoring - Katrina Owen (James)
+	Therapeutic Refactoring - Katrina Owen (Avdi)
+	Charity Navigator (David)
+	Cardiio (Josh)
+	GitTip (Josh)
+	Alfred (Josh)
+	The Gang of Four is Wrong and You Don't Understand Delegation by Jim Gay (Avdi)
+	Stone IPA (Avdi)
+	Buffy the Vampire Slayer (Netflix) (Chuck)
+	Bones (Netflix) (Chuck)
+	VT100 Escape Codes (Gary)
+	An Conference (Gary)
+
+We are reading Growing Object Oriented Software Guided by Tests and we will review with the author on next time!
+Transcript
+JAMES: So tell us about your conference Gary.
+
+GARY: Umm…. Yeah… I don’t know.
+
+[laughter]
+
+JAMES: Well that sounds like great. Sounds awesome.
+
+CHUCK: I was going to say, it sounds fascinating!
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]
+
+[Hosting bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control and intelligent code insight refactorings, check RubyMine by going to jetbrains.com/ruby.]
+
+CHUCK: Hey everybody! And welcome to Episode 67 of the Ruby Rogues Podcast. This week on our panel we have James Edward Gray.
+
+JAMES: Hello everyone!
+
+CHUCK: Josh Susser.
+
+JOSH: Good morning!
+
+CHUCK: Avdi Grimm.
+
+AVDI: Hello from Pennsylvania!
+
+CHUCK: I’m Charles Max Wood from devchat.tv and this week, we have a special guest and that‘s Gary Bernhardt.
+
+GARY: Hello!
+
+CHUCK: So Gary, you’ve been on the show before. Do you just want to briefly introduce yourself since you’re not a regular member of the show?
+
+GARY: Sure. I’ll just do the really quick version. I own Destroyer All Software, which is a company that produces screencasts every other week. I work mostly in Python, Ruby historically. I tend to become very bored with things and I’m becoming very bored with Ruby at this point to be honest. And yeah, I think that’s a sufficient introduction.
+
+JAMES: So Destroy All Software will be soon be “Destroy All Haskell”?
+
+GARY: I wouldn’t go that far. [laughs] Not that language.
+
+JAMES: That’s awesome. So Gary, Destroy All Software, I’ve watched all the episodes now and I’m actually current. You have like these recurring themes. What would you say the main recurring themes are?
+
+GARY: Well, OO design tends to come back over and over again. Although, what I’m talking about when I say OO design usually there’s little resemblance to classical OO design or what Alan Kay would call OO design probably. Another big one, of course, is testing which historically I can talk mostly about isolated testing or closed isolated. Although recently I’ve been talking about things that are still isolated testing I guess, except not doing it in the traditional mock and stub way. And of course, then there’s a lot of Unix stuff that tends to come back, shell stuff, a little bit of Vim, a little bit of Git. I think the 3 big ones though are OO Design, Testing and Unix.
+
+JAMES: Yeah. You’re testing is one of the really interesting parts for me I watching it. I think it was watching Destroy All Software that I really got good with mocking and stubbing.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:14:41</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR067GaryBernhardt.mp3" fileSize="89619080" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/</feedburner:origLink></item>

@@ -1,0 +1,119 @@
+<item>
+		<title>073 RR APIs</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/m3dCzQxr2CE/</link>
+		<comments>http://rubyrogues.com/073-rr-apis/#comments</comments>
+		<pubDate>Wed, 03 Oct 2012 09:00:12 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=736</guid>
+		<description>Panel James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (blog twitter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion API: Application Programming Interface Net::HTTP Exceptions Faraday typhoeus httparty rest-client FasterCSV gatling_gun Layering Abstraction Ruby Tk Versioning and Releases [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/m3dCzQxr2CE" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/073-rr-apis/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR073APIs.mp3" length="20486823" type="audio/mpeg"/>
+		<itunes:subtitle>Panel James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (blog twitter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+James Edward Gray (blog twitter github)
+Josh Susser (twitter github blog)
+Avdi Grimm (twitter github blog book)
+David Brady (blog twitter github ADDcasts)
+Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+Discussion
+API: Application Programming Interface
+Net::HTTP
+Exceptions
+Faraday
+typhoeus
+httparty
+rest-client
+FasterCSV
+gatling_gun
+Layering Abstraction
+Ruby Tk
+Versioning and Releases
+Rspec DSL
+SQL
+Picks
+RubyTapas (Avdi)
+DPD (referral link) (Avdi)
+Apple Cider (Avdi)
+Database Systems: Why is it hard to scale a database, in layman's terms?: Yishan Wong (Josh)
+Privacy Policy -- Automattic (Josh)
+Sherlock Season 2: DVD/Blu-ray (Josh)
+Service Oriented Architecture #REALTALK: BJ Clark (James)
+RailsRumble (James)
+MG: OSX/Linux: Mac / MG: OSX/Linux: Windows (David)
+Practical Object-Oriented Design in Ruby: An Agile Primer: Sandi Metz (David)
+Checking your power saving settings on your computer (Chuck)
+Time Machine (Chuck)
+The RubyRep (Chuck)
+Transcript
+JAMES: So, I went to a wedding last week, my sister in law got married and it was awesome. She came down the aisle to the Imperial March.
+
+AVDI: [laughs]
+
+JOSH: No way.
+
+JAMES: Yeah, she did. That was awesome. And then they had one of their friends do a non-traditional ceremony and including quotes from The Princess Bride like “Wuv… twue wuv…”
+
+CHUCK: [laughs] That’s awesome!
+
+JAMES: Yup. Great wedding.
+
+
+
+[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great in line debugging tools, built in version control and intelligent code insight and refactorings, checkout RubyMine by going to jetbrains.com/ruby.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to episode 73 of the Ruby Rogues Podcast. This week on our panel we have James Edward Gray.
+
+JAMES: Who can’t find mute button. Hi everybody!
+
+CHUCK: We also have Josh Susser.
+
+JOSH: James, I believe it is right next to the missile launch button on your console.
+
+JAMES: Oh!
+
+CHUCK: I need a new keyboard that has a missile launch buttons on it. Avdi Grimm.
+
+AVDI: Hi I'm Avdi. Head Chef at rubytapas.com.
+
+CHUCK: David Brady.
+
+DAVID: This podcast requires version 12.2 or higher of David Brady and will remain compatible through version 14.
+
+CHUCK: And I'm Charles Max Wood from devchat.tv. This week, we are going to be talking about APIs and it’s probably going to be different from what you are imagining. But before we do that, we want to do the Best of Parley and James is going to take us away with that.
+
+JAMES: Yes, I'm being punished for missing recording a week. Actually on Best of Parley, I did a thread a little bit, a while back, it wasn’t this week, but it was I'm preparing this new talk for Aloha Ruby Conf in Hawaii and I asked for some input on the list and there was a great discussion on that. But, that is not my pick because it actually spun this other talk that did start this week on everybody asking… I was asking for kind of “Stupid Ruby Tricks” and now, people are asking for “Stupid Git Tricks”. There’s only been like three messages in this thread so far and I have learned like 65 things about Git that I didn’t know before. So, really awesome thread on Parlay for just picking up a lot of cool tricks with Git and version control.
+
+CHUCK: Awesome.
+
+JOSH: So James, somebody forked your thread?
+
+JAMES: Yup. Guess so.
+
+[laughter]
+
+DAVID: That was the sound of four mute buttons being frantically searched for.
+
+[laughter]
+
+CHUCK: I forked a thread and that’s how we got the fantasy thread that you brought up a couple of weeks ago.
+
+JAMES: That’s right. That was great.
+
+CHUCK: But I didn’t hi-jacked the thread, I just created a new thread that was the old thread.
+
+</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:07</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR073APIs.mp3" fileSize="20486823" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/073-rr-apis/</feedburner:origLink></item>

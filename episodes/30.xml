@@ -1,0 +1,139 @@
+<item>
+		<title>026 RR Pair Programming</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/zePack6Lmao/</link>
+		<comments>http://rubyrogues.com/026-rr-pair-programming/#comments</comments>
+		<pubDate>Thu, 27 Oct 2011 19:28:50 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=261</guid>
+		<description><![CDATA[Panelists Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussed in this Episode Driver/Navigator vs Driver/Driver One person writes a test, the other makes it pass (Ping-pong pairing) It can be more productive Code review Shortens code review cycle Higher engagement Raises the [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
+<ul>
+<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+</ul>
+<h3>Discussed in this Episode</h3>
+<ul>
+<li>Driver/Navigator vs Driver/Driver</li>
+<li>One person writes a test, the other makes it pass (Ping-pong pairing)</li>
+<li>It can be more productive</li>
+<li>Code review</li>
+<li>Shortens code review cycle</li>
+<li>Higher engagement</li>
+<li>Raises the quality floor</li>
+<li>Pairing effectiveness</li>
+<li>Less likely to rabbit hole</li>
+<li>We learn from each other</li>
+<li>Better code quality</li>
+<li>Transmitting information</li>
+<li>Lowers your bus number</li>
+<li>Territoriality and knowledge silos</li>
+<li>Learning new things from people who know how to do them better</li>
+<li>Challenging peoples&#8217; assumptions</li>
+<li>Ability to roll new teams in</li>
+<li>Pass on programming practices and culture</li>
+<li>Lower defect rates</li>
+<li>Fewer failed launches</li>
+<li>Maintainability is higher</li>
+<li>To get started:</li>
+<ul>
+<li>Have a neutral setting for pairing. Location. Software. etc.</li>
+<li>Use a text editor you&#8217;re both comfortable with.</li>
+<li>Use driver/navigator.</li>
+<li>Communicate well.</li>
+</ul>
+<li>Keep your partner apprised of where you&#8217;re going</li>
+<li>Pair programming is a learned skill</li>
+<li>You have to get your ego in check</li>
+<li>Reduce barriers to collaboration</li>
+</ul>
+<h3>Picks</h3>
+<div>
+<ul>
+<li><a title="Google+ Hangouts" href="http://plus.google.com" target="_blank">Google Plus Hangouts</a> (Avdi)</li>
+<li><a title="Wide Teams - Podcasts" href="http://wideteams.com/category/podcast/" target="_blank">Wide Teams Podcast</a> (Avdi)</li>
+<li><a title="Qido" href="http://www.keyghost.com/qido/" target="_blank">Qido</a> (David)</li>
+<li><a title="Dove Men's Care Products" href="http://content.dove.us/mencare/Products.aspx?utm_source=google&amp;utm_medium=ppc&amp;utm_campaign=Dove%20Democracy%20Content&amp;utm_term=men%2bcare" target="_blank">Dove Men&#8217;s Care Products</a> (David)</li>
+<li><a title="Castle" href="http://beta.abc.go.com/shows/castle" target="_blank">Castle </a> (<a href="http://www.amazon.com/s?ie=UTF8&#038;x=0&#038;ref_=nb_sb_noss&#038;y=0&#038;field-keywords=castle&#038;url=search-alias%3Dmovies-tv&#038;_encoding=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=ur2&#038;camp=1789&#038;creative=390957">On Amazon</a><img src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=ur2&#038;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)(James)</li>
+<li><a title="subtlepatterns.com" href="http://subtlepatterns.com/" target="_blank">subtlepatterns.com</a> (James)</li>
+<li><a title="Lying by Sam Harris" href="http://www.amazon.com/Lying-Kindle-Single-ebook/dp/B005N0KL5G/ref=sr_1_1?ie=UTF8&amp;qid=1319556329&amp;sr=8-1" target="_blank">Lying</a> by Sam Harris (James)</li>
+<li><a title="RemotePairProgramming.com" href="http://remotepairprogramming.com/" target="_blank">RemotePairProgramming.com</a> (Josh)</li>
+<li><a title="Rolling Your Own Object Creation Methods" href="http://pivotallabs.com/users/jdean/blog/articles/1900-rolling-your-own-object-creation-methods-for-specs" target="_blank">How to do your own object creation methods</a> (Josh)</li>
+<li><a title="BBC - The Adventures of Merlin" href="http://www.bbc.co.uk/merlin/#" target="_blank">Adventures of Merlin</a> (<a href="http://www.amazon.com/gp/product/B001LF347E/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399373&#038;creativeASIN=B001LF347E">On Amazon</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=B001LF347E&#038;camp=217145&#038;creative=399373" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) (Josh)</li>
+<li>Meeting People in the Community (Chuck)</li>
+</ul>
+</div>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/zePack6Lmao" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/026-rr-pair-programming/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111025.mp3" length="21890191" type="audio/mpeg"/>
+			<itunes:subtitle>Panelists  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - </itunes:subtitle>
+		<itunes:summary>Panelists
+
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code)
+	David Brady (blog twitter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussed in this Episode
+
+	Driver/Navigator vs Driver/Driver
+	One person writes a test, the other makes it pass (Ping-pong pairing)
+	It can be more productive
+	Code review
+	Shortens code review cycle
+	Higher engagement
+	Raises the quality floor
+	Pairing effectiveness
+	Less likely to rabbit hole
+	We learn from each other
+	Better code quality
+	Transmitting information
+	Lowers your bus number
+	Territoriality and knowledge silos
+	Learning new things from people who know how to do them better
+	Challenging peoples' assumptions
+	Ability to roll new teams in
+	Pass on programming practices and culture
+	Lower defect rates
+	Fewer failed launches
+	Maintainability is higher
+	To get started:
+
+	Have a neutral setting for pairing. Location. Software. etc.
+	Use a text editor you're both comfortable with.
+	Use driver/navigator.
+	Communicate well.
+
+	Keep your partner apprised of where you're going
+	Pair programming is a learned skill
+	You have to get your ego in check
+	Reduce barriers to collaboration
+
+Picks
+
+
+	Google Plus Hangouts (Avdi)
+	Wide Teams Podcast (Avdi)
+	Qido (David)
+	Dove Men's Care Products (David)
+	Castle  (On Amazon)(James)
+	subtlepatterns.com (James)
+	Lying by Sam Harris (James)
+	RemotePairProgramming.com (Josh)
+	How to do your own object creation methods (Josh)
+	Adventures of Merlin (On Amazon) (Josh)
+	Meeting People in the Community (Chuck)</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111025.mp3" fileSize="21890191" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/026-rr-pair-programming/</feedburner:origLink></item>

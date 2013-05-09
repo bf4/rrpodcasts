@@ -1,0 +1,173 @@
+<item>
+		<title>104 RR The Rails View with John Athayde and Bruce Williams</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/V3X1VCSqi0U/</link>
+		<comments>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/#comments</comments>
+		<pubDate>Wed, 08 May 2013 13:00:32 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[Bruce Williams]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[John Athayde]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1317</guid>
+		<description>Panel Bruce Williams (twitter github blog) John Athayde (twitter github blog) Katrina Owen (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:43 &amp;#8211; John Athayde and Bruce Williams Introduction LivingSocial 03:00 &amp;#8211; The Rails View: Create [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/V3X1VCSqi0U" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" length="57658478" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Bruce Williams (twitter github blog)   John Athayde (twitter github blog)   Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code R...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Bruce Williams (twitter github blog)
+	John Athayde (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:43 - John Athayde and Bruce Williams Introduction
+
+
+	LivingSocial
+
+03:00 - The Rails View: Create a Beautiful and Maintainable User Experience by John Athayde and Bruce Williams
+
+
+	CSS
+	HTML
+
+07:08 - HTML5
+
+
+	[Confreaks] Ten Things You Didn't Know Rails Could Do: James Edward Grey II
+	HTML5 Element Flowchart
+	HTML5 Periodic Table of the Elements - Josh Duck
+	Modernizr
+
+11:07 - Tackling Technologies
+
+
+	ERb
+	Haml
+	Sass
+	CSS
+	capybara
+	Vanity
+	Cucumber
+	Selenium
+	jQuery
+	jQuery Mobile
+	factory_girl
+
+13:02 - Readability Refactoring
+14:47 - Potential Book Revisions
+
+
+	New technologies
+	Asset Pipeline
+	CoffeeScript
+
+17:01 - Intro for CoffeeScript vs Intro for CSS
+18:26 - Jasmine &amp; JavaScript Coverage
+
+
+	038 JSJ Jasmine with Justin Searls
+	jquery-ujs
+
+21:08 - Using Technologies
+24:38 - Book Audience
+27:50 - HTML5 Shifting and Changing
+29:39 - Discussing Complicated Topics
+
+
+	IE Versions
+	Fonts
+
+30:16 - CSS
+
+
+	Nesting
+	Optimization
+	libsass
+	Keith Pitt &amp; Mario Visic - Keith and Mario's Guide to Fast Websites
+
+34:41 - Form Objects
+
+
+	ActiveModel
+	Strong Parameters
+	formtastic
+	simple_form
+
+42:40 - Design
+47:42 - Designing Email
+
+
+	roadie
+
+Picks
+
+	Lumosity - Brain Games &amp; Brain Training (Katrina)
+	flag_shih_tzu (James)
+	An Intervention for ActiveRecord by Ernie Miller (James)
+	Transmit (Josh)
+	Omni Magazine Archive (Josh)
+	Ticket to Ride Pocket (Chuck)
+	Hover (Chuck)
+	Heroku Postgres (Chuck)
+	Sync - Realtime Rails Partials - chrismccord (John)
+	Screenhero (John)
+	Joel Burgess: Skyrim's Modular Level Design (John)
+	Ruby on Rails 4.0 Release Notes (Bruce)
+	RubyMotion (Bruce)
+	Pixate (Bruce)
+	RubyMotion-Pixate (Bruce)
+	Go Outside! (Bruce)
+
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson
+Next Week
+Regular Expressions with Nell Shamrell
+Transcript
+KATRINA:  Keep...it...goin'!
+
+
+
+[Hosting and bandwidth provided by The Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+[This episode is sponsored by JetBrains, makers of Ruby Mine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out Ruby Mine by going to JetBrains.com/Ruby.]
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database,  just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.]
+
+CHUCK:  Hey everybody, and welcome to Episode 104 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
+
+KATRINA:  Hello.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Good morning from San Francisco.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  Good morning from Oklahoma where it is now over 80 degrees.
+
+CHUCK:  I’m Charles Max Wood from DevChat.tv. And this week, we have two special guests. Our first guest is Bruce Williams.
+
+BRUCE:  Hello from Portland, Oregon where it’s finally sunny.
+
+CHUCK:  And our other guest is John Athayde.
+
+JOHN:  Hello from outside of DC where we’re waiting for the Cicada invasion.
+
+CHUCK:  Awesome. So, I'm wondering if you guys can briefly introduce your selves. We’ll have John go first.
+
+JOHN:  I work at LivingSocial. I run the small team that does all of the UX and frontend code for our internal applications.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:00:04</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" fileSize="57658478" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/</feedburner:origLink></item>

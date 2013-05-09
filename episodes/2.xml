@@ -1,0 +1,108 @@
+<item>
+		<title>001 RR Testing Practices and Tools</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/MF_pSRzdqKg/</link>
+		<comments>http://rubyrogues.com/001-rr-testing-practices-and-tools/#comments</comments>
+		<pubDate>Thu, 05 May 2011 22:42:50 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Aaron Patterson]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Peter Cooper]]></category>
+		<category><![CDATA[Testing]]></category>
+		<category><![CDATA[call recorder]]></category>
+		<category><![CDATA[crack attack]]></category>
+		<category><![CDATA[cucumber]]></category>
+		<category><![CDATA[east-facing tests]]></category>
+		<category><![CDATA[eloquent ruby]]></category>
+		<category><![CDATA[learned optimism]]></category>
+		<category><![CDATA[linux]]></category>
+		<category><![CDATA[linux programming interface]]></category>
+		<category><![CDATA[minecraft]]></category>
+		<category><![CDATA[minitest]]></category>
+		<category><![CDATA[minitest-spec]]></category>
+		<category><![CDATA[portal 2]]></category>
+		<category><![CDATA[railscasts]]></category>
+		<category><![CDATA[riot]]></category>
+		<category><![CDATA[rspec]]></category>
+		<category><![CDATA[spotify]]></category>
+		<category><![CDATA[test unit]]></category>
+		<category><![CDATA[testing]]></category>
+		<category><![CDATA[tests]]></category>
+		<category><![CDATA[tmux]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=6</guid>
+		<description><![CDATA[Panelists: Aaron Patterson (@tenderlove) Charles Max Wood (@cmaxw) David Brady (@dbrady) James Edward Gray II (@JEG2) Peter Cooper (@peterc) Tools and topics mentioned in this episode: Rspec Test::Unit Minitest Minitest-spec Riot Cucumber East-facing Tests Picks: tmux (James) Ecamm call recorder (Chuck) Minecraft (Aaron) Crack attack (Aaron) Portal 2 (David) You can see the Portal 2 [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panelists:</h3>
+<ul>
+<li>Aaron Patterson (<a href="http://twitter.com/tenderlove">@tenderlove</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">@cmaxw</a>)</li>
+<li>David Brady (<a href="http://twitter.com/dbrady">@dbrady</a>)</li>
+<li>James Edward Gray II (<a href="http://twitter.com/JEG2">@JEG2</a>)</li>
+<li>Peter Cooper (<a href="http://twitter.com/peterc">@peterc</a>)</li>
+</ul>
+<h3>Tools and topics mentioned in this episode:</h3>
+<ul>
+<li><a href="http://rspec.info">Rspec</a></li>
+<li><a href="http://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html">Test::Unit</a></li>
+<li><a href="https://github.com/seattlerb/minitest">Minitest</a></li>
+<li><a href="http://bfts.rubyforge.org/minitest/MiniTest/Spec.html">Minitest-spec</a></li>
+<li><a href="https://github.com/thumblemonks/riot">Riot</a></li>
+<li><a href="http://cukes.info">Cucumber</a></li>
+<li>East-facing Tests</li>
+</ul>
+<h3>Picks:</h3>
+<ul>
+<li><a href="http://tmux.sourceforge.net/">tmux</a> (James)</li>
+<li><a href="http://www.ecamm.com/mac/callrecorder/">Ecamm call recorder</a> (Chuck)</li>
+<li><a href="http://www.minecraft.net/">Minecraft</a> (Aaron)</li>
+<li><a href="http://www.aluminumangel.org/attack/">Crack attack</a> (Aaron)</li>
+<li><a href="http://www.thinkwithportals.com/">Portal 2</a> (David)<br />
+You can see the Portal 2 video David mentioned here: <a href="http://www.youtube.com/watch?v=0oFwJH0tlI0">http://www.youtube.com/watch?v=0oFwJH0tlI0</a></li>
+<li><a href="http://www.amazon.com/gp/product/1400078393/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399349&amp;creativeASIN=1400078393">Learned Optimism</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=1400078393&amp;camp=217145&amp;creative=399349" border="0" alt="" width="1" height="1" /> (David) This is an affiliate link.</li>
+<li><a href="http://railscasts.com">Railscasts</a> (Peter)</li>
+<li><a href="http://www.spotify.com/int/">Spotify</a> (Peter)</li>
+<li><a href="http://www.amazon.com/gp/product/0321584104/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399349&#038;creativeASIN=0321584104">Eloquent Ruby</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=0321584104&#038;camp=217145&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Peter) This is an affiliate link.</li>
+<li><a href="http://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399349&#038;creativeASIN=1593272200">The Linux Programming Interface</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=1593272200&#038;camp=217145&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Peter) This is an affiliate link.</li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/MF_pSRzdqKg" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/001-rr-testing-practices-and-tools/feed/</wfw:commentRss>
+		<slash:comments>22</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues050511.mp3" length="66964754" type="audio/mpeg"/>
+			<itunes:keywords>call recorder,crack attack,cucumber,east-facing tests,eloquent ruby,learned optimism,linux,linux programming interface,minecraft,minitest,minitest-spec,portal 2</itunes:keywords>
+		<itunes:subtitle>Panelists:  Aaron Patterson (@tenderlove)   Charles Max Wood (@cmaxw)   David Brady (@dbrady)   James Edward Gray II (@JEG2)   Peter Cooper (@peterc) - Tools and topics mentioned in this episode:  Rspec   Test::Unit   Minitest   Minitest-spec </itunes:subtitle>
+		<itunes:summary>Panelists:
+
+	Aaron Patterson (@tenderlove)
+	Charles Max Wood (@cmaxw)
+	David Brady (@dbrady)
+	James Edward Gray II (@JEG2)
+	Peter Cooper (@peterc)
+
+Tools and topics mentioned in this episode:
+
+	Rspec
+	Test::Unit
+	Minitest
+	Minitest-spec
+	Riot
+	Cucumber
+	East-facing Tests
+
+Picks:
+
+	tmux (James)
+	Ecamm call recorder (Chuck)
+	Minecraft (Aaron)
+	Crack attack (Aaron)
+	Portal 2 (David)
+You can see the Portal 2 video David mentioned here: http://www.youtube.com/watch?v=0oFwJH0tlI0
+	Learned Optimism (David) This is an affiliate link.
+	Railscasts (Peter)
+	Spotify (Peter)
+	Eloquent Ruby (Peter) This is an affiliate link.
+	The Linux Programming Interface (Peter) This is an affiliate link.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>55:48</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues050511.mp3" fileSize="66964754" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/001-rr-testing-practices-and-tools/</feedburner:origLink></item>

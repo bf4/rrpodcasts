@@ -1,0 +1,140 @@
+<item>
+		<title>021 RR REST Done Right with Steve Klabnik</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/P3k_BQH9fXw/</link>
+		<comments>http://rubyrogues.com/rest-done-right-with-steve-klabnik/#comments</comments>
+		<pubDate>Thu, 22 Sep 2011 17:38:19 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Steve Klabnik]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=196</guid>
+		<description><![CDATA[ Panelists Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Steve Klabnik (blog twitter github) Josh Susser (twitter github blog) Discussed in this Episode What is REST? Addressability AJAX Architectural style for building systems Fielding&#8217;s REST Paper Client/Server Stateless Caching Uniform Interface Code on Demand HATEOAS HTML yields a [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3><strong> Panelists</strong></h3>
+<ul>
+<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Steve Klabnik (<a title="blog" href="http://blog.steveklabnik.com/" target="_blank">blog</a> <a title="twitter" href="https://twitter.com/#!/steveklabnik" target="_blank">twitter</a> <a title="github" href="https://github.com/steveklabnik" target="_blank">github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+</ul>
+<h3><strong>Discussed in this Episode</strong></h3>
+<ul>
+<li>What is REST?</li>
+<li>Addressability</li>
+<li>AJAX</li>
+<li>Architectural style for building systems</li>
+<li>Fielding&#8217;s REST Paper</li>
+<li>Client/Server</li>
+<li>Stateless</li>
+<li>Caching</li>
+<li>Uniform Interface</li>
+<li>Code on Demand</li>
+<li>HATEOAS</li>
+<li>HTML yields a larger payload than a binary protocol</li>
+<li>Stateless enables scaling because with all required information in the request it can go to any server prepared to handle it.</li>
+<li>Cookie-based sessions lean more toward stateless</li>
+<li>The PUT HTTP verb is misconstrued by Rails</li>
+<li>PUT does not mean &#8220;edit&#8221; it&#8217;s an &#8220;upsert&#8221; (create or update)</li>
+<li>PUT is idempotent</li>
+<li>POST is more generic and non-idempotent</li>
+<li>Powerful Caching</li>
+<li>You are supposed to PUT the entire resource rather than the delta.</li>
+</ul>
+<h3>Picks</h3>
+<ul>
+<li><a title="Confreaks" href="http://confreaks.net/events/gogaruco2011" target="_blank">Confreaks</a> (Josh)</li>
+<li><a title="Klout" href="http://klout.com/" target="_blank">Klout</a> (Josh)</li>
+<li><a title="Ruby Koans" href="http://www.rubykoans.com/" target="_blank">Ruby Koans</a> (Avdi)</li>
+<li><a title="Ruby Dcamp" href="http://rubydcamp.org/" target="_blank">Ruby Dcamp</a> (Avdi)</li>
+<li><a title="barcamp" href="http://barcamp.org/w/page/402984/FrontPage" target="_blank">barcamp</a> (Avdi)</li>
+<li><a title="rails camp" href="http://railscamps.com/" target="_blank">rails camp</a> (Avdi)</li>
+<li><a title="Stevey's Blog Rants - Execution in the Kingdom of Nouns" href="http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html" target="_blank">Execution in the Kingdom of Nouns</a> (Steve)</li>
+<li><a title="Haters gonna HATEOAS" href="http://timelessrepo.com/haters-gonna-hateoas" target="_blank">Haters gonna HATEOAS</a> (Steve)</li>
+<li><a title="Destroy All Software" href="https://www.destroyallsoftware.com/screencasts" target="_blank">Destroy All Software</a> (Steve)</li>
+<li><a title="Yahoo - REST-Discuss" href="http://tech.groups.yahoo.com/group/rest-discuss/" target="_blank">Yahoo &#8211; REST-Discuss</a> (Steve)</li>
+<li><a title="Stevey's Drunken Blog Rants (TM)" href="https://sites.google.com/site/steveyegge2/blog-rants" target="_blank">Stevey&#8217;s Drunken Blog Rants™ </a>(Steve)</li>
+<li><a title="REST" href="http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm" target="_blank">Representational State Transfer (REST)</a> (David)</li>
+<li><a title="Ungangled - REST APIs must be hypertext-driven" href="http://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" target="_blank">Untangled</a> (Steve)</li>
+<li><a href="http://www.amazon.com/gp/product/0136301045/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0136301045">Class Construction in C and C++</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0136301045&amp;camp=217145&amp;creative=399373" alt="" width="1" height="1" border="0" /> (David)</li>
+<li><a title="MIT - Structure and Interpretation of Computer Programs" href="http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/" target="_blank">Structure and Interpretation of Computer Programs</a> (David)</li>
+<li><a href="http://www.amazon.com/gp/product/0070004846/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0070004846">Structure and Interpretation of Computer Programs, Second Edition</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0070004846&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (David)</li>
+<li><a href="http://www.amazon.com/gp/product/0596529260/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0596529260">Restful Web Services</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0596529260&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (James)</li>
+<li><a title="Structure and Interpretation of Computer Programs" href="http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/" target="_blank">Open Courseware of SICP: Structure and Interpretation of Computer Programs</a> (David)</li>
+<li><a title="Structure and Interpretation of Computer Programs" href="https://docs.google.com/a/fitorbit.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0BxVCLS4f8Sg5OGUwMmZlZjYtZWQ4Zi00ZThmLWFkMjYtNTIxZmY4ODhjNDdl&amp;hl=en&amp;authkey=CLnyyF4&amp;pli=1" target="_blank">Google Docs version: Structure and Interpretation of Computer Programs</a> (David)</li>
+<li><a title="Structure and Interpretation of Computer Programs" href="http://sicpebook.files.wordpress.com/2011/06/sicp.pdf" target="_blank">PDF: Structure and Interpretation of Computer Programs</a> (David)</li>
+<li><a title="Jim Weirich on SICP at Gogaruco 2010" href="http://confreaks.net/videos/356-gogaruco2010-keynote-parenthetically-speaking" target="_blank">Jim Weirich on SICP at Gogaruco 2010</a> (Josh)</li>
+<li><a title="Stack Overflow" href="http://stackoverflow.com/">Stack Overflow</a> (Charles)</li>
+<li><a href="http://www.amazon.com/s?ie=UTF8&amp;x=0&amp;ref_=nb_sb_noss&amp;y=0&amp;field-keywords=battlestar%20galactica&amp;url=search-alias%3Dmovies-tv&amp;_encoding=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Battlestar Galactica</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=ur2&amp;o=1" alt="" width="1" height="1" border="0" /> (Charles)</li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/P3k_BQH9fXw" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/rest-done-right-with-steve-klabnik/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110920.mp3" length="28986940" type="audio/mpeg"/>
+			<itunes:subtitle> Panelists  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Steve Klabnik (blog twitter github) </itunes:subtitle>
+		<itunes:summary> Panelists
+
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code)
+	David Brady (blog twitter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Steve Klabnik (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussed in this Episode
+
+	What is REST?
+	Addressability
+	AJAX
+	Architectural style for building systems
+	Fielding's REST Paper
+	Client/Server
+	Stateless
+	Caching
+	Uniform Interface
+	Code on Demand
+	HATEOAS
+	HTML yields a larger payload than a binary protocol
+	Stateless enables scaling because with all required information in the request it can go to any server prepared to handle it.
+	Cookie-based sessions lean more toward stateless
+	The PUT HTTP verb is misconstrued by Rails
+	PUT does not mean "edit" it's an "upsert" (create or update)
+	PUT is idempotent
+	POST is more generic and non-idempotent
+	Powerful Caching
+	You are supposed to PUT the entire resource rather than the delta.
+
+Picks
+
+	Confreaks (Josh)
+	Klout (Josh)
+	Ruby Koans (Avdi)
+	Ruby Dcamp (Avdi)
+	barcamp (Avdi)
+	rails camp (Avdi)
+	Execution in the Kingdom of Nouns (Steve)
+	Haters gonna HATEOAS (Steve)
+	Destroy All Software (Steve)
+	Yahoo - REST-Discuss (Steve)
+	Stevey's Drunken Blog Rants™ (Steve)
+	Representational State Transfer (REST) (David)
+	Untangled (Steve)
+	Class Construction in C and C++ (David)
+	Structure and Interpretation of Computer Programs (David)
+	Structure and Interpretation of Computer Programs, Second Edition (David)
+	Restful Web Services (James)
+	Open Courseware of SICP: Structure and Interpretation of Computer Programs (David)
+	Google Docs version: Structure and Interpretation of Computer Programs (David)
+	PDF: Structure and Interpretation of Computer Programs (David)
+	Jim Weirich on SICP at Gogaruco 2010 (Josh)
+	Stack Overflow (Charles)
+	Battlestar Galactica (Charles)</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:11:46</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110920.mp3" fileSize="28986940" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/rest-done-right-with-steve-klabnik/</feedburner:origLink></item>

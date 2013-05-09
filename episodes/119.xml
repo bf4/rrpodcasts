@@ -1,0 +1,191 @@
+<item>
+		<title>100 RR 100th Episode! Behind the Scenes with The Ruby Rogues</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/L8BmygvcZBg/</link>
+		<comments>http://rubyrogues.com/100-rr-100th-episode-behind-the-scenes-with-the-ruby-rogues/#comments</comments>
+		<pubDate>Wed, 10 Apr 2013 13:00:52 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Aaron Patterson]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Mandy Moore]]></category>
+		<category><![CDATA[Peter Cooper]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1266</guid>
+		<description>Panel Peter Cooper (twitter github blog) Aaron Patterson (twitter github blog) Mandy Moore (twitter blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:21 &amp;#8211; Mystery Guest: Peter [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/L8BmygvcZBg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/100-rr-100th-episode-behind-the-scenes-with-the-ruby-rogues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR100.mp3" length="67025766" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Peter Cooper (twitter github blog)   Aaron Patterson (twitter github blog)   Mandy Moore (twitter blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Peter Cooper (twitter github blog)
+	Aaron Patterson (twitter github blog)
+	Mandy Moore (twitter blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Katrina Owen (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:21 - Mystery Guest: Peter Cooper
+
+
+	Ruby Reloaded
+	Ruby Weekly (Newsletter)
+	JavaScript Weekly (Newsletter)
+	HTML5 Weekly (Newsletter)
+	042 RR Producing Content with Peter Cooper
+
+03:46 - How Ruby Rogues got started
+
+
+	TWiT.TV
+	The Skeptics’ Guide to the Universe
+
+06:45 - Ruby Rogues: In the Beginning
+
+
+	Audio Quality
+	Editing Shows
+	VA Problems
+	ROGUESPOTTING
+
+09:47 - Picks
+11:23 - Ruby 2 with Peter Cooper
+15:50 - Losing and Adding Rogues
+16:41 - Mystery Guest: Aaron Patterson
+
+
+	Dr. Who
+	Cereal
+	DOGUE
+	Ruby Rogues Parley
+	Ryan Davis @the_zenspider
+	minitest &amp; minitest pride
+	C-I-C-I-O
+
+26:17 - How the show is recorded
+27:21 - Rails with Aaron Patterson
+
+
+	081 RR Rails 4 with Aaron Patterson
+
+33:17 - Mystery Guest: Mandy Moore (The RubyRep)
+37:15 - Podcast Production
+
+
+	Wide Teams
+	The Ruby Freelancers Show
+
+41:56 - Picking the Intro Joke
+43:27 - Episode Editing Process
+
+
+	Audacity
+
+48:33 - Transcripts
+
+
+	oDesk
+
+50:38 - Site Improvements
+54:00 - Katrina on being the newest Rogue
+
+
+	069 RR Therapeutic Refactoring with Katrina Owen
+
+58:43 - The Future of Ruby Rogues
+
+
+	Back transcripts
+	Panelist bios
+	T-Shirts
+	Ruby Best Practice Patterns book
+	LoneStarRuby Conference 2013
+
+Picks
+
+	023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck (Josh)
+	087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz (Katrina)
+	049 RR Agile Communication with Angela Harms (David)
+	047 RR Coding Disciplines with Dan Kubb (James)
+	020 RR Object Oriented Programming in Rails with Jim Weirich (Chuck)
+	Audacity (Mandy)
+	Readability (Mandy)
+	Franzia (Mandy)
+	090 RR Ruby Nuby Episode (Mandy)
+
+Book Club
+The Rails View by John Athayde and Bruce Williams: Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+Next Week
+Diversity with Ashe Dryden
+Transcript
+PETER:  Yeah, I've just come off a month of having a sore throat so you're very lucky to get me. It's literally in the last couple of days it seems to have gone back to normal which is good.
+
+CHUCK:  Yeah. I could hear it in your newsletters.
+
+PETER:  Exactly.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth was provided by The Blue Box Group, check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody and welcome to Episode 100 of the Ruby Rogues podcast.
+
+ALL:  Woohoo!
+
+JAMES:  Wow!
+
+CHUCK:  Yeah. We made it, somehow. This week on our panel, we have James Edward Gray.
+
+JAMES:  If I sound like a zombie today, it’s because I am.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hello from San Francisco!
+
+CHUCK:  David Brady.
+
+DAVID:  “Hello from Mount West Ruby Conf,” is what I would say if I had not skipped the first half of the first day of Mount West Ruby Conf to be here to record.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hello from Denver.
+
+CHUCK:  I’m Charles Max Wood from DevChat.tv, also skipping Mount West Ruby Conference. We’re going to have a series of guests on for our 100th episode. Right now, we have Peter Cooper on the line.
+
+PETER:  Good afternoon, full of Doctor Who fans.
+
+[Laughter]
+
+JAMES:  He’s lying!
+
+DAVID:  Impostor! Impostor!
+
+CHUCK:  [Laughs]
+
+DAVID:  Exterminate!
+
+JAMES:  He won't get that joke.
+
+JOSH:  So, if you're not a Doctor Who fan, are you a fan of like Upstairs, Downstairs instead?
+
+PETER:  I have stairs in my house.
+
+JOSH:  Okay. That will work.
+
+[Laughter]
+
+</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:49</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR100.mp3" fileSize="67025766" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/100-rr-100th-episode-behind-the-scenes-with-the-ruby-rogues/</feedburner:origLink></item>
