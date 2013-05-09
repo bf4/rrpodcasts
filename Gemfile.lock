@@ -1,10 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    nokogiri (1.5.5)
     rack (1.5.2)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  nokogiri
   rack
