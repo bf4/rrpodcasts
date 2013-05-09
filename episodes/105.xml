@@ -1,157 +1,205 @@
 <item>
-		<title>086 RR Learning From The Past with Arlen Walker</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/Rgxa3ZmsbOw/</link>
-		<comments>http://rubyrogues.com/086-rr-learning-from-the-past-with-arlen-walker/#comments</comments>
-		<pubDate>Wed, 02 Jan 2013 16:00:13 +0000</pubDate>
+		<title>103 RR Ruby Gems</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/K1Ctgya3o7k/</link>
+		<comments>http://rubyrogues.com/103-rr-ruby-gems/#comments</comments>
+		<pubDate>Wed, 01 May 2013 13:00:09 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Arlen Walker]]></category>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Katrina Owen]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=1007</guid>
-		<description>Panel Arlen Walker (twitter blog) David Brady (twitter github blog ADDcasts) Josh Susser (twitter github blog) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) Discussion 01:57 &amp;#8211; Arlen Walker Introduction PKWARE, Inc. 03:06 &amp;#8211; Unofficial Rogue: Dave Newton 03:49 &amp;#8211; Best of Parley: DHH episode 056 RR David Heinemeier Hansson 05:33 &amp;#8211; [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/Rgxa3ZmsbOw" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/086-rr-learning-from-the-past-with-arlen-walker/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR086LearningFromThePast.mp3" length="63766103" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Arlen Walker (twitter blog)   David Brady (twitter github blog ADDcasts)   Josh Susser (twitter github blog)   Katrina Owen (twitter github blog)   James Edward Gray (twitter github blog) - Discussion 01:57 - Arlen Walker Introduction - </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1305</guid>
+		<description>Panel Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:22 &amp;#8211; Ruby Gems RubyGems.org 03:13 &amp;#8211; Should you build a gem? Daniel Huckstep (@darkhelmetlive) Ruby Batteries Included [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/K1Ctgya3o7k" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/103-rr-ruby-gems/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR103Gems.mp3" length="81256411" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Arlen Walker (twitter blog)
-	David Brady (twitter github blog ADDcasts)
 	Josh Susser (twitter github blog)
-	Katrina Owen (twitter github blog)
 	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
 
 Discussion
-01:57 - Arlen Walker Introduction
-
-	PKWARE, Inc.
-
-03:06 - Unofficial Rogue: Dave Newton
-
-03:49 - Best of Parley: DHH episode
-
-	056 RR David Heinemeier Hansson
-
-05:33 - Vote for your favorite Ruby Rogues Episode of 2012:
+01:22 - Ruby Gems
 
 
-rubyrogues.com/survey
+	RubyGems.org
 
-05:58 - Learning From The Past
-
-
-On Chess and Software Development by Arlen Walker
-	Model-view-controller
-
-10:15 - Learning From The Rules
-
-	Chess
-	047 RR Coding Disciplines with Dan Kubb
-
-17:01 - Testing/Best Practices
-
-	Head First books
-	Head First Design Patterns By Eric Freeman, Elisabeth Robson, Bert Bates, Kathy Sierra
-
-23:39 - Mentoring
-
-	Pair Programming
-
-25:49 - Learning From Other People’s Mistakes
+03:13 - Should you build a gem?
 
 
-Code Reading: The Open Source Perspective by Diomidis Spinellis
+	Daniel Huckstep (@darkhelmetlive)
+	Ruby Batteries Included by Daniel Huckstep
+	trollop
 
-Software Tools by Brian W. Kernighan, P.J. Plauger
-	Planning for the future; doing nothing
-
-33:11 - Learning &amp; Teaching Concepts
-
-	The Gang of Four Book
-	Skill Acquisition: The Dreyfus Model
-
-Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
-	The Desire to Learn
-
-47:50 - Good Introductory Patterns
+08:12 - Naming Gems
 
 
-Sugar-Free Ruby: An Experiment in Object-first: Steven! Regnarök
+	gem-love
+	dash vs underscore
+	Eric Hodel: How to Name Gems
 
-The Composed Method
+16:43 - Tools
 
-Adapter Pattern
 
-Facade Pattern
+	Bundler
+	hoe
+	jeweler
+	What is a gem? - RubyGems Guides
+	require_relative
 
-Factory Method Pattern
+32:50 - Gem Extensions
+
+
+	autotest-growl
+
+34:39 - Dependencies and Using Bundler to develop gems
+
+
+	RubyGems Guides
+	Gemspec
+	TourBus Gem
+	TourBus Gemspec File
+	TourBus Build File
+	jeweler
+	hoe
+	votes.io
+
+49:35 - How the gemspec gets used in the lifecycle of gem development
+
+
+	Rakefile for highline
+
+56:20 - Versioning
+
+
+	037 RR Versioning and Releases
+
+59:00 - Open-Source Licence
+
+
+	075 RR Open Source Licenses
+
+59:59 - Signing Gems
+01:01:25 - Using the packaging system as a dependency
+
+
+	isolate
+
+01:04:21 - Maintaining Gems
+
+
+	051 RR Getting Started with Open Source
+	Highline
+	FasterCSV
+
+01:07:44 - rakegem
+01:08:33 - Gem Plugins
+
+
+	gem-open
 
 Picks
 
-	Lost Treasures of Infocom (David)
-	Kyocera Mega Peeler (Katrina)
-	Daemon by Daniel Suarez (Katrina)
-	Freedom by Daniel Suarez (Katrina)
-	Press Enter by John Varley (Josh)
-	Cake Wrecks (Josh)
-	Middleman (Josh)
-	tcrayford / Values (James)
-	solnic / virtus (James)
-	The Verge at work: backing up your brain (How I use Evernote as a memory tool for deep  reading, writing, and research) by Thomas Houston (James)
-	Guide to Good Chess by C.J.S. Purdy (Arlen)
-	The Search for Chess Perfection by C.J.S. Purdy (Arlen)
-	Yusupov’s award-winning Training Course (Arlen)
-	O’Reilly - Safari Books Online (Arlen)
-	The Lurker’s Guide to Babylon 5 (Arlen)
+	Joy of Cooking (Josh)
+	Gather - the Art of Paleo Entertaining (Josh)
+	Erik Dietrich: How Developers Stop Learning: Rise of the Expert Beginner (Avdi)
+	Erik Dietrich: How Software Groups Rot: Legacy of the Expert Beginner (Avdi)
+	Play by Play: Refactoring with Ben Orenstein | PeepCode Screencasts (James)
+	Budget Bytes (James)
+	6PM.com (Avdi)
+	How To Survive a Ground-Up Rewrite Without Losing Your Sanity aka Screw You, Joel Spolsky, We're Rewriting It From Scratch by Dan Milstein (Guest Post on Dharmesh Shah's OnStartups blog) (David)
+	OpenWest Conference (David)
+	TEKTON 6235 Assorted Cable Ties, 200-Piece (Chuck)
 
 Next Week
-Book Club Episode: Sandi Metz - Practical Object-Oriented Design in Ruby: An Agile Primer
+Book Club: The Rails View by John Athayde and Bruce Williams
 Transcript
-JOSH:  Okay, don’t tell the world, but I’m having headset issues today.
+AVDI:  Have you tried just having a cat catcher on your desk?
 
-JAMES: I’m having Skype issues; like, my mute button has apparently…
+
+
+[Hosting and bandwidth provided by The Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 103 of the Ruby Rogues podcast. Does that bother you, Josh? Or should I say a hundred and three?
+
+JOSH:  As long as it’s a cardinal instead of an ordinal, I'm fine.
+
+CHUCK:  Okay.
 
 [Laughter]
 
-KATRINA: That was beautiful.
+CHUCK:  We can't even get started. Alright. This week on our panel, we have Josh Susser.
 
-ARLEN: Poetic.
+JOSH:  Hey, good morning everyone from your unreasonably pathetic…never mind!
 
+[Laughter]
 
+CHUCK:  We also have James Edward Gray.
 
-[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]
+JAMES:  Good morning, everyone.
 
-[This episode is sponsored by Jet Brains, makers of Ruby Mine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out Ruby Mine by going to JetBrains.com/ruby]
+CHUCK:  Avid Grimm.
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic]
+AVDI:  Hello from Pennsylvania.
 
-JAMES: Hey everybody and welcome to the Ruby Rouges podcast. Chuck is off this week, so I’ll be your host. With me today, I have David Brady.
+CHUCK:  David Brady.
 
-DAVID: 404 Poop metaphor not found.
+DAVID:  We control the vertical and the horizontal which makes no freaking sense on a podcast.
 
-JAMES:  Josh Susser.
+CHUCK:  And I’m Charles Max Wood from DevChat.tv. And this week, we’re going to be talking about Ruby Gems.
 
-JOSH: Good Morning!
+JAMES:  Woohoo!
 
-JAMES: Katrina Owen.
+JOSH:  It’s going to be that kind of episode.
 
-KATRINA:  Good afternoon or evening from the Arctic!
+CHUCK:  So Josh, can we get a definition?
 
-JAMES: And we have a guest Rogue this week, Arlen Walker.
+JOSH:  Oh, yeah…no.
 
-ARLEN: The button today is, “Mr. Garibaldi, get that police box out of my office, now!”
+[Laughter]
 
-JOSH:  Very nice. James, I know you don’t run the show very often, but you forgot to mention yourself in the introductions.
+JOSH:  If you don’t know what a Ruby Gem is, I'm sorry we can't help you.
 
-JAMES: Oh yeah. I am James Edward Gray, the second, who doesn’t run the show often enough to remember how to do an intro.
+CHUCK:  [Laughs]
 
-DAVID:  Today, we’re talking about ‘off by one errors’.
+JAMES:  What was the old competitor, the RPA? Was it RPA?
 
-JAMES: But today, the good news is I reclaim my tie for most episodes of Ruby Rogues recordings, so it’s a very special day. We have some announcements to make before we get into the show proper. Actually before we do that, Arlen,</itunes:summary>
+AVDI:  Oh, man!
+
+DAVID:  Oh! Was it RPA, the Ruby Project Archive?
+
+[Crosstalk]
+
+DAVID:  …after Gems was up. But that was back when you actually had to ask Dave for permission to create a gem. You actually…
+
+JOSH:  Okay. Let’s not get lost in the weeds here.
+
+DAVID:  Yeah.
+
+AVDI:  RAA is the one.
+
+JAMES:  Not RAA. Not that.
+
+JOSH:  Okay. So, Ruby Gems are the best software packaging system in the universe. That’s the definition.
+
+CHUCK:  Yehey!
+
+[Laughter]
+
+DAVID:  Open keyboard.
+
+JAMES:  Well, there what we got.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:06:25</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR086LearningFromThePast.mp3" fileSize="63766103" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/086-rr-learning-from-the-past-with-arlen-walker/</feedburner:origLink></item>
+		<itunes:duration>1:24:39</itunes:duration>
+        <media:content url="http://traffic.libsyn.com/rubyrogues/RR103Gems.mp3" fileSize="81256411" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/103-rr-ruby-gems/</feedburner:origLink>
+
+    </item>

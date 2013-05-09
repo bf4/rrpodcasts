@@ -1,162 +1,203 @@
 <item>
-		<title>080 RR Practical Metaprogramming with Steven Harms</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/GRmp_u3lzMM/</link>
-		<comments>http://rubyrogues.com/080-rr-practical-metaprogramming-with-steven-harms/#comments</comments>
-		<pubDate>Wed, 21 Nov 2012 14:00:12 +0000</pubDate>
+		<title>096 RR Topaz with Alex Gaynor</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/_teqRm6oNN8/</link>
+		<comments>http://rubyrogues.com/096-rr-topaz-with-alex-gaynor/#comments</comments>
+		<pubDate>Wed, 13 Mar 2013 13:00:09 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
+				<category><![CDATA[Alex Gaynor]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Steven Harms]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=879</guid>
-		<description>Panel Steven Harms (twitter github blog) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 02:20 &amp;#8211; Best of Parley Functional Programming for the Object-Oriented Programmer by Andy Lindeman 03:55 &amp;#8211; Practical metaprogramming 012 [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/GRmp_u3lzMM" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/080-rr-practical-metaprogramming-with-steven-harms/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR080PracticalMetaProgramming.mp3" length="69705288" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Steven Harms (twitter github blog)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) - Discussion </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1189</guid>
+		<description>Panel Alex Gaynor (twitter github blog) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:30 &amp;#8211; Alex Gaynor Introduction Rdio Topaz Python 01:54 &amp;#8211; Combining Python and Ruby Announcing Topaz: A New Ruby &amp;#8211; [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/_teqRm6oNN8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/096-rr-topaz-with-alex-gaynor/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR096Topaz.mp3" length="53941955" type="audio/mpeg"/>
+		<itunes:subtitle>Panel   Alex Gaynor (twitter github blog)   Katrina Owen (twitter github blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Steven Harms (twitter github blog)
-	James Edward Gray (blog twitter github)
+
+	Alex Gaynor (twitter github blog)
+	Katrina Owen (twitter github blog)
+	James Edward Gray (twitter github blog)
 	Josh Susser (twitter github blog)
-	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
 
 Discussion
-02:20 - Best of Parley
-
-	Functional Programming for the Object-Oriented Programmer by Andy Lindeman
-
-03:55 - Practical metaprogramming
-
-	012 RR Metaprogramming in Ruby
-	Practical Meta Programming Modeling Thought by Steven Harms
-	RubyTapas: 011 Method and Message
-
-08:54 - Steven Harms’ definition of metaprogramming
-
-	Redirection
-	At run time
-
-13:23 - Decorator patterns
-
-15:22 - Two categories of metaprogramming
-
-19:13 - Ruby 2.0 Module#prepend
-
-22:12 - Keys to understanding metaprogramming
-
-	Inheritance chain
-	Metaprogramming Ruby: Program Like the Ruby Pros by Paolo Perrotta
-	Redirect messages by defining things (def)
-
-26:43 - undef method vs remove method
-
-30:12 - Making code metaprogrammable
+01:30 - Alex Gaynor Introduction
 
 
-Find by email
 
-43:02 - Using metaprogramming
-
-
-Dynamic finders
-
-Ambiguity
-
-49:29 - How to level up in metaprogramming
-
-51:15 - Adding methods to objects and putting them in a module
+Rdio
 
 
-Polite metaprogramming
+Topaz
+
+
+Python
+
+
+01:54 - Combining Python and Ruby
+
+	Announcing Topaz: A New Ruby - Topaz 0.1 documentation
+	RPython
+
+PyPy
+
+
+DJango
+
+
+05:57 - Websites that run on DJango
+
+	addons.mozilla.org/
+	DISQUS
+
+06:38 - Running Topaz
+
+	Squeak
+	ANSI C
+
+09:15 - TopazWroclove2013: Tim Felgentreff
+
+
+Maglev
+
+
+13:44 - Compilation Errors
+
+
+15:10 - Integration with Ruby
+
+	RubySpec
+	Rubinius
+	lib-topaz
+
+17:47 - Performance and Benchmarking
+
+
+20:52 - Global Interpreter Lock
+
+
+Waiting to implement features
+
+
+23:26 - Design Goals
+
+	Simplicity
+	Performance
+
+26:10 - Worst Part of the Ruby Language
+
+	Complexity of constant lookups
+	Number of different scopes
+
+28:40 - Why Python, Ruby, and Javascript are Slow by Alex Gaynor
+
+
+35:16 - Where is Topaz now/Where will it be in the future?
+
+
+Pull requests
+
+
+FFI
+
+
+Targeting specs
+
+	PLY (Python Lex-Yacc)
+
+44:20 - Ruby features that people use wrong
+
+
+46:23 - Blocks
 
 Picks
 
 
-harukizaemon / hamster (James)
-
-iTunes Match (James)
-
-Rebuilding Rails by Noah Gibbs (Avdi)
-
-Aardman Animations (Avdi)
-
-The Insufficiency of Good Design: Sarah Mei (Josh)
-
-Toward a Design for Ruby: Brian Ford (Josh)
-
-Powers Vol. 1: Who Killed Retro Girl? by Michael Avon Oeming (Josh)
-
-Shop It To Me (Steven)
-
-Ember.js (Steven)
-
-fastrAck (Steven)
-
-GIFL (Steven)
-
-Social Engagement (Steven)
-
-The Ruby Object Model and Metaprogramming by Dave Thomas (Chuck)
-
-New Media Expo 2013 (Discount code Wood20) (Chuck)
-
-Next Week
-
-
-Rails 4 with Aaron Patterson
+	Tattoo yourself with electronic circuits - Crave Culture (Katrina)
+	iTextEditors - iPhone and iPad text/code editors and writing tools compared (James)
+	Textastic (James)
+	Nebulous Notes (James)
+	The Top 25 iPhone and iPad Games - IGN (James)
+	The Best 50 iOS Games of 2012 | Slide To Play (James)
+	Outwitters (James)
+	rumblelabs / asset_sync (Josh)
+	Powers Bureau Comic (Josh)
+	strftimer (Josh)
+	Synergy (Chuck)
+	astrails / safe (Chuck)
+	Fair Play by Steven E. Landsburg (Alex)
+	Werkzeug (The Python WSGI Utility Library) (Alex)
+	Gender Through the Prism of Difference by Michael A. Messner (Alex)
 
 Book Club
-The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via  InformIT.com.
-
-
-	First create a user account:  www.informit.com/join
-	SAVE 40% When You Buy 2:  www.informit.com/ruby
-	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
-	(Includes FREE SHIPPING within the U.S.!)
-
+Patterns of Enterprise Application Architecture by Martin Fowler: You have one week left to finish it! Yay!
+Next Week
+Patterns of Enterprise Application Architecture with Martin Fowler
 Transcript
-CHUCK: So folks, this is Episode 80 -- Practical Marijuana with Steven Harms.
+JOSH:  And I'm also drinking my coffee from an Aperture Science mug.
 
-[laughter]
+JAMES:  Wow!
+
+JOSH:  Yeah.
+
+JAMES:  Wow! Alright, you win! You're the geekiest!
+
+JOSH:  [Chuckles] Well, right now.
+
+JAMES:  [Chuckles] Yeah, right now.
 
 
 
-[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
 
-[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+CHUCK:  Hey everybody and welcome to Episode 96 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
 
-CHUCK: Hey everybody and welcome to Episode 80 of the Ruby Rogues Podcast! This week on our panel, we have James Edward Gray.
+KATRINA:  Hello from Denver.
 
-JOSH: Good morning everybody.
+CHUCK:  James Edward Gray.
 
-CHUCK: We also have Josh Susser.
+JAMES:  It’s time to take off your gem-crested boots and put on your hat with that cool slick thing.
 
-JOSH: Hey from overcast San Francisco!
+CHUCK:  Josh Susser.
 
-CHUCK: Avdi Grimm.
+JOSH:  Next time, make me go first because I never know how to follow anybody anymore.
 
-AVDI: Hello from sunny but cold, Pennsylvania!
+[Laughter]
 
-CHUCK: I'm Charles Max Wood from devchat.tv and we have a special guest – Steven harms.
+CHUCK:  Especially with gem-crested boots and a hat band, right?
 
-STEVEN: Hi there from… it’s actually sunny and warm, and beach house and bikinis in my district in San Francisco.
+JOSH:  Yeah, I don’t even know where that came from.
 
-JOSH: You are in the high rank district right?
+[Laughter]
 
-STEVEN: [chuckles] No, no I'm just two blocks away.
+JOSH:  But good morning!
 
-CHUCK: So I have to ask – I know people are going to wonder -- are you related in any way to Angela Harms?
+CHUCK:  I’m Charles Max Wood from DevChat.tv. And this week, we have a special guest. And that’s Alex Gaynor.
 
-STEVEN: No. I'm in fact no way related to any Harmses that are tech famous -- and this Steven Harms is certainly not tech famous -- so there are no famous tech Harmses that I am aware of.
+ALEX:  Hi! I was not told I need clever introductions.
 
-JAMES: I believe Angel Harms was one of our most popular episodes ever Steve,</itunes:summary>
+JAMES:  [Laughs] Well, you came up with one anyway.
+
+JOSH:  Alex, I've been doing this for over a year and I still don’t have one.
+
+CHUCK:  [Laughs] So, you want to introduce your self really quickly, Alex?
+
+ALEX:  Sure. So, my name is Alex. I live in San Francisco. I am primarily a Python programmer. I work for a company called Rdio.com. We do streaming Internet music. And I guess I'm here because I wrote a thing called Topaz which is a Ruby VM written in Python.
+
+JAMES:  [Chuckles] So, I guess the obvious question to follow is, why?
+
+JOSH:  [Laughs]
+
+ALEX:  Well, first and foremost, because it was a lot of fun.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:12:37</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR080PracticalMetaProgramming.mp3" fileSize="69705288" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/080-rr-practical-metaprogramming-with-steven-harms/</feedburner:origLink></item>
+		<itunes:duration>56:11</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR096Topaz.mp3" fileSize="53941955" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/096-rr-topaz-with-alex-gaynor/</feedburner:origLink></item>

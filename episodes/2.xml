@@ -1,108 +1,127 @@
 <item>
-		<title>001 RR Testing Practices and Tools</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/MF_pSRzdqKg/</link>
-		<comments>http://rubyrogues.com/001-rr-testing-practices-and-tools/#comments</comments>
-		<pubDate>Thu, 05 May 2011 22:42:50 +0000</pubDate>
+		<title>002 RR Virtual Machines, Concurrency, and the Future of Ruby</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/qwM_mTLYHm8/</link>
+		<comments>http://rubyrogues.com/002-rr-virtual-machines-concurrency-and-the-future-of-ruby/#comments</comments>
+		<pubDate>Thu, 12 May 2011 23:32:28 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Aaron Patterson]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
+				<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Evan Phoenix]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Peter Cooper]]></category>
-		<category><![CDATA[Testing]]></category>
-		<category><![CDATA[call recorder]]></category>
-		<category><![CDATA[crack attack]]></category>
-		<category><![CDATA[cucumber]]></category>
-		<category><![CDATA[east-facing tests]]></category>
-		<category><![CDATA[eloquent ruby]]></category>
-		<category><![CDATA[learned optimism]]></category>
-		<category><![CDATA[linux]]></category>
-		<category><![CDATA[linux programming interface]]></category>
-		<category><![CDATA[minecraft]]></category>
-		<category><![CDATA[minitest]]></category>
-		<category><![CDATA[minitest-spec]]></category>
-		<category><![CDATA[portal 2]]></category>
+		<category><![CDATA[Ruby Virtual Machines]]></category>
+		<category><![CDATA[ack]]></category>
+		<category><![CDATA[brain rules for baby]]></category>
+		<category><![CDATA[coffeescript cookbook]]></category>
+		<category><![CDATA[free-range kids]]></category>
+		<category><![CDATA[GIL]]></category>
+		<category><![CDATA[git-grep]]></category>
+		<category><![CDATA[janus]]></category>
+		<category><![CDATA[JIT compilers]]></category>
+		<category><![CDATA[jruby]]></category>
+		<category><![CDATA[JVM]]></category>
+		<category><![CDATA[macvim]]></category>
+		<category><![CDATA[maglev]]></category>
+		<category><![CDATA[mailchimp]]></category>
+		<category><![CDATA[mri]]></category>
+		<category><![CDATA[panic-free pregnancy]]></category>
 		<category><![CDATA[railscasts]]></category>
-		<category><![CDATA[riot]]></category>
-		<category><![CDATA[rspec]]></category>
-		<category><![CDATA[spotify]]></category>
-		<category><![CDATA[test unit]]></category>
-		<category><![CDATA[testing]]></category>
-		<category><![CDATA[tests]]></category>
-		<category><![CDATA[tmux]]></category>
+		<category><![CDATA[rubinius]]></category>
+		<category><![CDATA[ruby 1.8]]></category>
+		<category><![CDATA[ruby 1.9]]></category>
+		<category><![CDATA[rvm]]></category>
+		<category><![CDATA[sickpedia]]></category>
+		<category><![CDATA[thread safety]]></category>
+		<category><![CDATA[trader tales]]></category>
+		<category><![CDATA[vim]]></category>
+		<category><![CDATA[yarv]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=6</guid>
-		<description><![CDATA[Panelists: Aaron Patterson (@tenderlove) Charles Max Wood (@cmaxw) David Brady (@dbrady) James Edward Gray II (@JEG2) Peter Cooper (@peterc) Tools and topics mentioned in this episode: Rspec Test::Unit Minitest Minitest-spec Riot Cucumber East-facing Tests Picks: tmux (James) Ecamm call recorder (Chuck) Minecraft (Aaron) Crack attack (Aaron) Portal 2 (David) You can see the Portal 2 [...]]]></description>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=19</guid>
+		<description><![CDATA[Panelists: Charles Max Wood (@cmaxw) David Brady (@dbrady) Evan Phoenix (@evanphx) James Edward Gray II (@JEG2) Peter Cooper (@peterc) Tools and topics mentioned in this episode: Rubinius JRuby Maglev MRI (Ruby 1.8.x) Yarv (Ruby 1.9.x) JIT compilers Java Virtual Machine (JVM) Global Interpreter Lock (GIL) Thread Safety Picks: Brain Rules for Baby (James) Affiliate link [...]]]></description>
 			<content:encoded><![CDATA[<p></p><h3>Panelists:</h3>
 <ul>
-<li>Aaron Patterson (<a href="http://twitter.com/tenderlove">@tenderlove</a>)</li>
 <li>Charles Max Wood (<a href="http://twitter.com/cmaxw">@cmaxw</a>)</li>
 <li>David Brady (<a href="http://twitter.com/dbrady">@dbrady</a>)</li>
+<li>Evan Phoenix (<a href="http://twitter.com/evanphx">@evanphx</a>)</li>
 <li>James Edward Gray II (<a href="http://twitter.com/JEG2">@JEG2</a>)</li>
 <li>Peter Cooper (<a href="http://twitter.com/peterc">@peterc</a>)</li>
 </ul>
 <h3>Tools and topics mentioned in this episode:</h3>
 <ul>
-<li><a href="http://rspec.info">Rspec</a></li>
-<li><a href="http://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html">Test::Unit</a></li>
-<li><a href="https://github.com/seattlerb/minitest">Minitest</a></li>
-<li><a href="http://bfts.rubyforge.org/minitest/MiniTest/Spec.html">Minitest-spec</a></li>
-<li><a href="https://github.com/thumblemonks/riot">Riot</a></li>
-<li><a href="http://cukes.info">Cucumber</a></li>
-<li>East-facing Tests</li>
+<li><a href="http://rubini.us/">Rubinius</a></li>
+<li><a href="http://jruby.org/">JRuby</a></li>
+<li><a href="http://ruby.gemstone.com/">Maglev</a></li>
+<li><a href="http://ruby-lang.org">MRI (Ruby 1.8.x)</a></li>
+<li><a href="http://ruby-lang.org">Yarv (Ruby 1.9.x)</a></li>
+<li>JIT compilers</li>
+<li>Java Virtual Machine (JVM)</li>
+<li>Global Interpreter Lock (GIL)</li>
+<li>Thread Safety</li>
 </ul>
 <h3>Picks:</h3>
 <ul>
-<li><a href="http://tmux.sourceforge.net/">tmux</a> (James)</li>
-<li><a href="http://www.ecamm.com/mac/callrecorder/">Ecamm call recorder</a> (Chuck)</li>
-<li><a href="http://www.minecraft.net/">Minecraft</a> (Aaron)</li>
-<li><a href="http://www.aluminumangel.org/attack/">Crack attack</a> (Aaron)</li>
-<li><a href="http://www.thinkwithportals.com/">Portal 2</a> (David)<br />
-You can see the Portal 2 video David mentioned here: <a href="http://www.youtube.com/watch?v=0oFwJH0tlI0">http://www.youtube.com/watch?v=0oFwJH0tlI0</a></li>
-<li><a href="http://www.amazon.com/gp/product/1400078393/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399349&amp;creativeASIN=1400078393">Learned Optimism</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=1400078393&amp;camp=217145&amp;creative=399349" border="0" alt="" width="1" height="1" /> (David) This is an affiliate link.</li>
-<li><a href="http://railscasts.com">Railscasts</a> (Peter)</li>
-<li><a href="http://www.spotify.com/int/">Spotify</a> (Peter)</li>
-<li><a href="http://www.amazon.com/gp/product/0321584104/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399349&#038;creativeASIN=0321584104">Eloquent Ruby</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=0321584104&#038;camp=217145&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Peter) This is an affiliate link.</li>
-<li><a href="http://www.amazon.com/gp/product/1593272200/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399349&#038;creativeASIN=1593272200">The Linux Programming Interface</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=1593272200&#038;camp=217145&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Peter) This is an affiliate link.</li>
+<li><a href="http://www.amazon.com/gp/product/0979777755/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399349&#038;creativeASIN=0979777755">Brain Rules for Baby</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=0979777755&#038;camp=217145&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (James) Affiliate link</li>
+<li><a href="http://www.amazon.com/gp/product/0470574755/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399349&#038;creativeASIN=0470574755">Free-Range Kids</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=0470574755&#038;camp=217145&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (James) Affiliate link</li>
+<li><a href="http://www.amazon.com/gp/product/0399529896/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399349&#038;creativeASIN=0399529896">The Panic-Free Pregnancy</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=0399529896&#038;camp=217145&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Evan) Affiliate link</li>
+<li><a href="http://coffeescriptcookbook.com">CoffeeScriptCookbook.com</a> (Dave)</li>
+<li><a href="http://railscasts.com">RailsCasts</a> (Peter)</li>
+<li><a href="http://eepurl.com/Psz1">MailChimp</a> (Peter) Referral link</li>
+<li><a href="http://sickpedia.org/">Sickpedia</a> (Peter) NOTE: Peter says this is NSFW.</li>
+<li><a href="http://code.google.com/p/macvim/">macvim</a> (Chuck)</li>
+<li><a href="https://github.com/carlhuda/janus">janus</a> (Chuck)</li>
+<li><a href="https://rvm.beginrescueend.com/">RVM</a> (Chuck)</li>
+<li><a href="http://solarclipper.com/">Trader Tales</a> (Chuck)</li>
+<li><a href="http://betterthangrep.com/">ack</a> (Evan)</li>
+<li><a href="http://www.kernel.org/pub/software/scm/git/docs/git-grep.html">git-grep</a> (Evan)</li>
 </ul>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/MF_pSRzdqKg" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/001-rr-testing-practices-and-tools/feed/</wfw:commentRss>
-		<slash:comments>22</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues050511.mp3" length="66964754" type="audio/mpeg"/>
-			<itunes:keywords>call recorder,crack attack,cucumber,east-facing tests,eloquent ruby,learned optimism,linux,linux programming interface,minecraft,minitest,minitest-spec,portal 2</itunes:keywords>
-		<itunes:subtitle>Panelists:  Aaron Patterson (@tenderlove)   Charles Max Wood (@cmaxw)   David Brady (@dbrady)   James Edward Gray II (@JEG2)   Peter Cooper (@peterc) - Tools and topics mentioned in this episode:  Rspec   Test::Unit   Minitest   Minitest-spec </itunes:subtitle>
+<p>The music is &#8220;Not Your Choice&#8221; by Wetnurse and available on <a href="http://www.metalsucks.net/2011/03/01/nyc-sucks-volume-2-free-metal-download-now/">Metal Sucks</a>.</p>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/qwM_mTLYHm8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/002-rr-virtual-machines-concurrency-and-the-future-of-ruby/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues051211.mp3" length="64744166" type="audio/mpeg"/>
+			<itunes:keywords>ack,brain rules for baby,coffeescript cookbook,free-range kids,GIL,git-grep,janus,JIT compilers,jruby,JVM,macvim,maglev</itunes:keywords>
+		<itunes:subtitle>Panelists:  Charles Max Wood (@cmaxw)   David Brady (@dbrady)   Evan Phoenix (@evanphx)   James Edward Gray II (@JEG2)   Peter Cooper (@peterc) Tools and topics mentioned in this episode:  Rubinius   JRuby   Maglev   MRI (Ruby 1.8.x) </itunes:subtitle>
 		<itunes:summary>Panelists:
 
-	Aaron Patterson (@tenderlove)
 	Charles Max Wood (@cmaxw)
 	David Brady (@dbrady)
+	Evan Phoenix (@evanphx)
 	James Edward Gray II (@JEG2)
 	Peter Cooper (@peterc)
 
+
 Tools and topics mentioned in this episode:
 
-	Rspec
-	Test::Unit
-	Minitest
-	Minitest-spec
-	Riot
-	Cucumber
-	East-facing Tests
+	Rubinius
+	JRuby
+	Maglev
+	MRI (Ruby 1.8.x)
+	Yarv (Ruby 1.9.x)
+	JIT compilers
+	Java Virtual Machine (JVM)
+	Global Interpreter Lock (GIL)
+	Thread Safety
+
 
 Picks:
 
-	tmux (James)
-	Ecamm call recorder (Chuck)
-	Minecraft (Aaron)
-	Crack attack (Aaron)
-	Portal 2 (David)
-You can see the Portal 2 video David mentioned here: http://www.youtube.com/watch?v=0oFwJH0tlI0
-	Learned Optimism (David) This is an affiliate link.
-	Railscasts (Peter)
-	Spotify (Peter)
-	Eloquent Ruby (Peter) This is an affiliate link.
-	The Linux Programming Interface (Peter) This is an affiliate link.</itunes:summary>
+	Brain Rules for Baby (James) Affiliate link
+	Free-Range Kids (James) Affiliate link
+	The Panic-Free Pregnancy (Evan) Affiliate link
+	CoffeeScriptCookbook.com (Dave)
+	RailsCasts (Peter)
+	MailChimp (Peter) Referral link
+	Sickpedia (Peter) NOTE: Peter says this is NSFW.
+	macvim (Chuck)
+	janus (Chuck)
+	RVM (Chuck)
+	Trader Tales (Chuck)
+	ack (Evan)
+	git-grep (Evan)
+
+
+The music is "Not Your Choice" by Wetnurse and available on Metal Sucks.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>55:48</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues050511.mp3" fileSize="66964754" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/001-rr-testing-practices-and-tools/</feedburner:origLink></item>
+		<itunes:duration>53:57</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues051211.mp3" fileSize="64744166" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/002-rr-virtual-machines-concurrency-and-the-future-of-ruby/</feedburner:origLink></item>

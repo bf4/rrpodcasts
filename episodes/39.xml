@@ -1,80 +1,12 @@
 <item>
-		<title>035 RR Estimation</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/X64bcN3n8Tg/</link>
-		<comments>http://rubyrogues.com/035-rr-estimation/#comments</comments>
-		<pubDate>Sat, 31 Dec 2011 18:22:54 +0000</pubDate>
-		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Processes]]></category>
+      <title>Web Programming and Updating Frameworks</title>
+      <itunes:author>Chuck, James, Josh, Avdi, David &amp; Yehuda</itunes:author>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=348</guid>
-		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog twitter github ADDcasts) Josh Susser (twitter github blog) Discussion Planning Poker Velocity Pivotal Tracker Agile Development Ugh!knowns Picks Rolls Mic Mute &#8211; Rolls MM11 (Chuck) Kindle Touch (Chuck) Blanton&#8217;s (Avdi) Destroy All Software (Avdi) http://memegenerator.net/instance/12556174 (Josh) George Takei (twitter facebook) [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
-<ul>
-<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a><a href="http://teachmetocodeacademy.com/"> Rails Summer Camp</a>)</li>
-<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
-</ul>
-<h3>Discussion</h3>
-<ul>
-<li>Planning Poker</li>
-<li>Velocity</li>
-<li><a href="http://pivotaltracker.com">Pivotal Tracker</a></li>
-<li>Agile Development</li>
-<li>Ugh!knowns</li>
-</ul>
-<h3>Picks</h3>
-<ul>
-<li><a href="http://www.amazon.com/gp/product/B00102XXUQ/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00102XXUQ">Rolls Mic Mute &#8211; Rolls MM11</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B00102XXUQ" alt="" width="1" height="1" border="0" /> (Chuck)</li>
-<li><a href="http://www.amazon.com/gp/product/B005890G8Y/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B005890G8Y">Kindle Touch</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B005890G8Y" alt="" width="1" height="1" border="0" /> (Chuck)</li>
-<li><a href="https://www.blantonsbourbon.com/" target="_blank">Blanton&#8217;s</a> (Avdi)</li>
-<li><a href="https://www.destroyallsoftware.com/screencasts" target="_blank">Destroy All Software</a> (Avdi)</li>
-<li><a href="http://memegenerator.net/instance/12556174" target="_blank">http://memegenerator.net/instance/12556174</a> (Josh)</li>
-<li>George Takei (<a href="http://twitter.com/georgetakei" target="_blank">twitter</a> <a href="http://www.facebook.com/georgehtakei" target="_blank">facebook</a>) (Josh)</li>
-<li><a href="http://www.amazon.com/gp/product/1936608863/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1936608863">Make it Paleo: Over 200 Grain Free Recipes For Any Occasion</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=1936608863" alt="" width="1" height="1" border="0" /> (Josh)</li>
-<li><a href="http://primalpalette.com/" target="_blank">primalpalette</a> (Josh)</li>
-<li><a href="http://www.amazon.com/gp/product/0201546108/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0201546108">A Discipline for Software Engineering</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=1936608863" alt="" width="1" height="1" border="0" /> (David)</li>
-<li><a href="http://www.amazon.com/gp/product/0136301045/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0136301045">Class Construction in C and C++: Object-Oriented Programming Fundamentals</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0136301045" alt="" width="1" height="1" border="0" /> (David)</li>
-<li><a href="http://www.amazon.com/gp/product/0062011847/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0136301045">Snuff: A Novel of Discworld</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0062011847" alt="" width="1" height="1" border="0" /> (David)</li>
-</ul>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/X64bcN3n8Tg" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/035-rr-estimation/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR35Estimation.mp3" length="108164932" type="audio/mpeg"/>
-			<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog twitter github ADDcasts)   Josh Susser (twitter github blog) - Discussion  Planning Poker   Velocity </itunes:subtitle>
-		<itunes:summary>Panel
 
-	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
-	David Brady (blog twitter github ADDcasts)
-	Josh Susser (twitter github blog)
 
-Discussion
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/web_programming_and_updating_frameworks.mp3" length="27976601" type="audio/mp3"/>
+      <guid isPermaLink="false">036a75203e71551896dec8f4e267fabbaa55add7</guid>
+      <pubDate>Thu, 19 Jan 2012 19:30:34 -0600</pubDate>
+      <itunes:duration>4120</itunes:duration>
 
-	Planning Poker
-	Velocity
-	Pivotal Tracker
-	Agile Development
-	Ugh!knowns
-
-Picks
-
-	Rolls Mic Mute - Rolls MM11 (Chuck)
-	Kindle Touch (Chuck)
-	Blanton's (Avdi)
-	Destroy All Software (Avdi)
-	http://memegenerator.net/instance/12556174 (Josh)
-	George Takei (twitter facebook) (Josh)
-	Make it Paleo: Over 200 Grain Free Recipes For Any Occasion (Josh)
-	primalpalette (Josh)
-	A Discipline for Software Engineering (David)
-	Class Construction in C and C++: Object-Oriented Programming Fundamentals (David)
-	Snuff: A Novel of Discworld (David)</itunes:summary>
-		<itunes:author>Ruby Rogues</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:15:07</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR35Estimation.mp3" fileSize="108164932" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/035-rr-estimation/</feedburner:origLink></item>
+    </item>

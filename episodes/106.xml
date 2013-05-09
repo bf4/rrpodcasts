@@ -1,152 +1,173 @@
 <item>
-		<title>087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/3NhRGw5nrxw/</link>
-		<comments>http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/#comments</comments>
-		<pubDate>Wed, 09 Jan 2013 13:00:43 +0000</pubDate>
+		<title>104 RR The Rails View with John Athayde and Bruce Williams</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/V3X1VCSqi0U/</link>
+		<comments>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/#comments</comments>
+		<pubDate>Wed, 08 May 2013 13:00:32 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Book Club]]></category>
+				<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[Bruce Williams]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[John Athayde]]></category>
 		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Sandi Metz]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=1048</guid>
-		<description>Panel Sandi Metz (twitter github blog POODR) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion Practical Object-Oriented Design in Ruby (POODR) 04:51 &amp;#8211; Please take part in our survey: Best of Ruby Rogues 2012 rubyrogues.com/survey 05:03 &amp;#8211; Next [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/3NhRGw5nrxw" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR087PracticalObjectOrientedDesignInRuby.mp3" length="109698580" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Sandi Metz (twitter github blog POODR)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1317</guid>
+		<description>Panel Bruce Williams (twitter github blog) John Athayde (twitter github blog) Katrina Owen (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:43 &amp;#8211; John Athayde and Bruce Williams Introduction LivingSocial 03:00 &amp;#8211; The Rails View: Create [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/V3X1VCSqi0U" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" length="57658478" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Bruce Williams (twitter github blog)   John Athayde (twitter github blog)   Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code R...</itunes:subtitle>
 		<itunes:summary>Panel
 
-	Sandi Metz (twitter github blog POODR)
-	Josh Susser (twitter github blog)
+	Bruce Williams (twitter github blog)
+	John Athayde (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Josh Susser (twitter github blog)
 	James Edward Gray (twitter github blog)
-	David Brady (twitter github blog ADDcasts)
-	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
 
 Discussion
-Practical Object-Oriented Design in Ruby (POODR)
-
-04:51 - Please take part in our survey: Best of Ruby Rogues 2012
-
-	rubyrogues.com/survey
-
-05:03 - Next Book Club Pick
-
-	Patterns of Enterprise Application Architecture by Martin Fowler
-
-06:09 - Sandi’s Writing &amp; Speaking Processes
-
-	Sandi Metz Talks
-	Ratio of prose vs code samples
-
-14:07 - Parallelism between the process for writing software and the process for writing prose
-
-17:23 - The Flow of POODR
-
-21:57 - Design
+01:43 - John Athayde and Bruce Williams Introduction
 
 
-Understanding Concepts and Explaining them to Others
-	Rules and Using Best Judgement
-	Recipes are like Coding
+	LivingSocial
 
-34:00 - Practical Prescriptions and Visualizations
+03:00 - The Rails View: Create a Beautiful and Maintainable User Experience by John Athayde and Bruce Williams
 
-	Go Ahead, Make a Mess by Sandi Metz
-	RubyTapas
-	The Shape of Code
 
-41:20 - Beyond POODR
+	CSS
+	HTML
 
-	Objects on Rails Sponsor Edition
-	Rails App Advice
-	Best Practices in the Rails Community
+07:08 - HTML5
 
-45:11 - Rails
 
-	Null Object Pattern
+	[Confreaks] Ten Things You Didn't Know Rails Could Do: James Edward Grey II
+	HTML5 Element Flowchart
+	HTML5 Periodic Table of the Elements - Josh Duck
+	Modernizr
 
-51:03 - Frameworks
+11:07 - Tackling Technologies
 
-54:40 - Object-Oriented Design, Dependency Injection, Hiding Instance Variables vs YAGNI (You Ain’t Gonna Need It)
 
-01:00:45 - Inheritance
+	ERb
+	Haml
+	Sass
+	CSS
+	capybara
+	Vanity
+	Cucumber
+	Selenium
+	jQuery
+	jQuery Mobile
+	factory_girl
 
-01:06:25 - Chapter 9: Designing Cost-Effective Tests
+13:02 - Readability Refactoring
+14:47 - Potential Book Revisions
 
-	Testing Private Methods
-	Integration Tests
 
-01:17:46 - Sandi’s Programming Rules
+	New technologies
+	Asset Pipeline
+	CoffeeScript
 
-	Breaking the Rules vs Not Breaking the Rules
+17:01 - Intro for CoffeeScript vs Intro for CSS
+18:26 - Jasmine &amp; JavaScript Coverage
 
-01:35:28 - Too Many Small vs A Few Big
 
-	Code Climate
+	038 JSJ Jasmine with Justin Searls
+	jquery-ujs
 
-01:43:50 - New Media Expo
+21:08 - Using Technologies
+24:38 - Book Audience
+27:50 - HTML5 Shifting and Changing
+29:39 - Discussing Complicated Topics
+
+
+	IE Versions
+	Fonts
+
+30:16 - CSS
+
+
+	Nesting
+	Optimization
+	libsass
+	Keith Pitt &amp; Mario Visic - Keith and Mario's Guide to Fast Websites
+
+34:41 - Form Objects
+
+
+	ActiveModel
+	Strong Parameters
+	formtastic
+	simple_form
+
+42:40 - Design
+47:42 - Designing Email
+
+
+	roadie
+
 Picks
 
-	The Deep Synergy Between Testability and Good Design by Michael Feathers (James)
-	Endless Space (James)
-	defective yeti: The 2012 Good Gift Games Guide (James)
-	37. Penn.12.10.28.SS - George Takei: It’s OK To Be Takei (Avdi)
-	Dan Carlin’s Hardcore History (Avdi)
-	The Infinite Monkey Cage (Avdi)
-	Marked (Josh)
-	Aeron Chair by Herman Miller (Chuck)
-	iOS Development Podcast (Chuck)
-	BubbleTimer.com (Sandi)
-	iRobot Looj 330 Gutter Cleaning Robot (Sandi)
+	Lumosity - Brain Games &amp; Brain Training (Katrina)
+	flag_shih_tzu (James)
+	An Intervention for ActiveRecord by Ernie Miller (James)
+	Transmit (Josh)
+	Omni Magazine Archive (Josh)
+	Ticket to Ride Pocket (Chuck)
+	Hover (Chuck)
+	Heroku Postgres (Chuck)
+	Sync - Realtime Rails Partials - chrismccord (John)
+	Screenhero (John)
+	Joel Burgess: Skyrim's Modular Level Design (John)
+	Ruby on Rails 4.0 Release Notes (Bruce)
+	RubyMotion (Bruce)
+	Pixate (Bruce)
+	RubyMotion-Pixate (Bruce)
+	Go Outside! (Bruce)
 
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson
 Next Week
-Concurrency and Celluloid with Tony Arceri
+Regular Expressions with Nell Shamrell
 Transcript
-DAVID:  I tweeted this morning. I’ve gained seven pounds since I got a Fitbit for Christmas. This thing clearly does not work. And somebody wrote back and said, “You have to shake it.”
+KATRINA:  Keep...it...goin'!
 
 
 
-[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]
+[Hosting and bandwidth provided by The Blue Box Group. Check them out at BlueBox.net.] 
 
-[This episode is sponsored by Jet Brains, makers of Ruby Mine. If you like having an IDE that provides great inline debugging tools, built-in version control and intelligent code insight and refactorings, check out Ruby Mine by going to JetBrains.com/Ruby.]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+[This episode is sponsored by JetBrains, makers of Ruby Mine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out Ruby Mine by going to JetBrains.com/Ruby.]
 
-CHUCK:  Hey everybody, and welcome to Episode 87 of the Ruby Rogues podcast. This week on our panel, we have Josh Susser.
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database,  just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.]
 
-JOSH:  Hey, good morning everyone. Happy New Year!
+CHUCK:  Hey everybody, and welcome to Episode 104 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
+
+KATRINA:  Hello.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Good morning from San Francisco.
 
 CHUCK:  James Edward Gray.
 
-JAMES:  I’ll be your cyborg panelist for this episode.
+JAMES:  Good morning from Oklahoma where it is now over 80 degrees.
 
-CHUCK:  David Brady.
+CHUCK:  I’m Charles Max Wood from DevChat.tv. And this week, we have two special guests. Our first guest is Bruce Williams.
 
-DAVID:  Happy New Year, everybody! Well, I guess, last week was when you listened to me anyway. Happy January. Hi!
+BRUCE:  Hello from Portland, Oregon where it’s finally sunny.
 
-CHUCK:  Avdi Grimm.
+CHUCK:  And our other guest is John Athayde.
 
-AVDI:  Hello from sunny [inaudible]. And if I sound a little funny this week, it’s because I’m presently coating myself in sand trail in order to assume an immortal pre-worm form.
+JOHN:  Hello from outside of DC where we’re waiting for the Cicada invasion.
 
-[laughter]
+CHUCK:  Awesome. So, I'm wondering if you guys can briefly introduce your selves. We’ll have John go first.
 
-CHUCK:  Awesome. I'm Charles Max Wood from DevChat.tv and I'm working hard on RailsRampUp.com, so go check it out. Katrina isn’t here this week. She’s off chasing reindeer in Norway. And we’ve got a special guest, and that’s Sandi Metz.
-
-SANDI:  Hi!
-
-CHUCK:  So, I'm sure it comes as no surprise to anybody that we have Sandi here since she wrote the Book Club Book:   Practical Object-Oriented Design in Ruby.
-
-DAVID:  I'm surprised she agreed to come.
-
-[laughter]
-
-SANDI:  Withall the hype in the Fall,</itunes:summary>
+JOHN:  I work at LivingSocial. I run the small team that does all of the UX and frontend code for our internal applications.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:54:16</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR087PracticalObjectOrientedDesignInRuby.mp3" fileSize="109698580" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/087-rr-book-clubpractical-object-oriented-design-in-ruby-with-sandi-metz/</feedburner:origLink></item>
+		<itunes:duration>1:00:04</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" fileSize="57658478" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/</feedburner:origLink></item>

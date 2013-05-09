@@ -1,114 +1,146 @@
 <item>
-		<title>067 RR Gary Bernhardt’s Testing Style</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/_LL9PgUnu1w/</link>
-		<comments>http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/#comments</comments>
-		<pubDate>Tue, 21 Aug 2012 12:00:31 +0000</pubDate>
+		<title>082 RR Vagrant with Michael Ries</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/nkyDv_H7E2I/</link>
+		<comments>http://rubyrogues.com/082-rr-vagrant-with-michael-ries/#comments</comments>
+		<pubDate>Wed, 05 Dec 2012 13:00:48 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
+				<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[Gary Bernhardt]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Michael Ries]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=632</guid>
-		<description>Panel Gary Bernhardt (twitter github destroyallsoftware.com) Avdi Grimm (twitter github blog book) David Brady (blog witter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Destroy All Software OO Design Testing Unix Functional Core, Imperative Shell  Growing Object Oriented Software Guided by Tests Isolating Faking Values Garbage Collection Mars Rover Curiosity More Testable [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/_LL9PgUnu1w" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR067GaryBernhardt.mp3" length="89619080" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Gary Bernhardt (twitter github destroyallsoftware.com)   Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=952</guid>
+		<description>Panel Michael Ries (twitter blog) James Edward Gray (blog twitter github) Katrina Owen (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 01:30 &amp;#8211; Best of Parley Our New Rogue: Katrina Owen by Josh Susser Ruby Nuby Challenge Winners: Elise Worthy, Erin [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/nkyDv_H7E2I" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/082-rr-vagrant-with-michael-ries/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR082Vagrant.mp3" length="49377421" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Michael Ries (twitter blog)   James Edward Gray (blog twitter github)   Katrina Owen (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) - Discussion </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Gary Bernhardt (twitter github destroyallsoftware.com)
-	Avdi Grimm (twitter github blog book)
-	David Brady (blog witter github ADDcasts)
-	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
-	James Edward Gray (blog twitter github)
-	Josh Susser (twitter github blog)
+	Michael Ries (twitter blog)
+	James Edward Gray (blog twitter github)
+	Katrina Owen (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
 
 Discussion
+01:30 - Best of Parley
 
-	Destroy All Software
-	OO Design
-	Testing
-	Unix
-	Functional Core, Imperative Shell 
-	Growing Object Oriented Software Guided by Tests
-	Isolating
-	Faking
-	Values
-	Garbage Collection
-	Mars Rover Curiosity
-	More Testable Code vs. Improved Design
-	Threading
-	Controllers
-	Destroy All Software: Sucks/Rocks
+	Our New Rogue: Katrina Owen by Josh Susser
+	Ruby Nuby Challenge Winners: Elise Worthy, Erin Parker, Geoff Petrie, Matt Ruzicka
 
+03:22 - Vagrant
+
+	074 RR Developer Environments
+
+04:44 - Setting up Vagrant
+
+	Provisioners
+	VirtualBox
+
+Vagrantbox.es
+
+09:31 - What does it matter if your developer environment is different from your production environment?
+
+
+Multi-VM Environments
+
+Bosh
+	Chef
+
+14:17 - Benefits and advantages of using Vagrant
+
+18:41 - Multiple Machine Stacks
+
+24:07 - Repackaging
+
+	Puppet
+
+25:17 - Shared images
+
+
+vagrant-rails
+
+rails-dev-box
+
+27:09 - Does Vagrant run on Windows? 28:23 - Vagrant Gotchas
+
+
+DNS issues
+
+31:12 - IDEs, vim and TextMate
 Picks
 
-	Therapeutic Refactoring - Katrina Owen (James)
-	Therapeutic Refactoring - Katrina Owen (Avdi)
-	Charity Navigator (David)
-	Cardiio (Josh)
-	GitTip (Josh)
-	Alfred (Josh)
-	The Gang of Four is Wrong and You Don't Understand Delegation by Jim Gay (Avdi)
-	Stone IPA (Avdi)
-	Buffy the Vampire Slayer (Netflix) (Chuck)
-	Bones (Netflix) (Chuck)
-	VT100 Escape Codes (Gary)
-	An Conference (Gary)
+	Ubuntu (David)
+	The Twelve-Factor App (David)
+	5 Reasons You Should Use ri To Read Ruby Documentation by Jesse Storimer (James)
+	TEDxToronto 2012 Talk - Ryan Creighton &amp; Cassandra Creighton (James)
+	YAML::Store (Katrina)
+	Pygments (Katrina)
+	World Clock Meeting Planner (Katrina)
+	gomtv.net - Starcraft2 Tournaments (Michael)
+	Do a favor for someone at work that is hard to live with (Michael)
+	Opening Keynote: Code Blindness by Michael Feathers (Michael)
+	IOIO (Michael)
+	iPhone 5 (Chuck)
+	Omnifocus (Chuck)
+	SpeakPipe (Chuck)
 
-We are reading Growing Object Oriented Software Guided by Tests and we will review with the author on next time!
+Send the RubyRogues a voice message!
+Next Week
+Decomposing Fat Models with Bryan Helmkamp
+Book Club
+The next Ruby Rogues Book Club Pick will be  Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via  InformIT.com.
+
+	First create a user account:  www.informit.com/join
+	SAVE 40% When You Buy 2:  www.informit.com/ruby
+	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
+	(Includes FREE SHIPPING within the U.S.!)
+
 Transcript
-JAMES: So tell us about your conference Gary.
+MICHAEL: Has anyone actually met David Brady’s wife -- and is she real?
 
-GARY: Umm…. Yeah… I don’t know.
+CHUCK: Yes.
+
+JAMES: That's an excellent question. Chuck claims she’s real, but that's as far as we know.
+
+CHUCK: I can do one better. I have seen David Brady and his wife in a church.
 
 [laughter]
 
-JAMES: Well that sounds like great. Sounds awesome.
+DAVID: We were setting it on fire, but he did see us there.
 
-CHUCK: I was going to say, it sounds fascinating!
+[laughter]
 
 
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
 
-[Hosting bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
 
-[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control and intelligent code insight refactorings, check RubyMine by going to jetbrains.com/ruby.]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
 
-CHUCK: Hey everybody! And welcome to Episode 67 of the Ruby Rogues Podcast. This week on our panel we have James Edward Gray.
+CHUCK: Hey everybody and welcome to episode 82 of the Ruby Rogues podcast! This week on our panel, we have James Edward Gray.
 
-JAMES: Hello everyone!
+JAMES: Good morning everyone!
 
-CHUCK: Josh Susser.
+CHUCK: Katrina Owen.
 
-JOSH: Good morning!
+KATRINA: Hello!
 
-CHUCK: Avdi Grimm.
+CHUCK: David Brady.
 
-AVDI: Hello from Pennsylvania!
+DAVID: Holy crap! Did you just say “Katrina Owen”?
 
-CHUCK: I’m Charles Max Wood from devchat.tv and this week, we have a special guest and that‘s Gary Bernhardt.
+CHUCK: And I'm Charles Max Wood from devchat.tv. We also have a special guest and that's Michael Ries.
 
-GARY: Hello!
+MICHAEL: Yup. Good morning interwebs!
 
-CHUCK: So Gary, you’ve been on the show before. Do you just want to briefly introduce yourself since you’re not a regular member of the show?
+CHUCK: So we are gonna be talking about Vagrant – but before we get started, we are going to have a Best of Parley from James.
 
-GARY: Sure. I’ll just do the really quick version. I own Destroyer All Software, which is a company that produces screencasts every other week. I work mostly in Python, Ruby historically. I tend to become very bored with things and I’m becoming very bored with Ruby at this point to be honest. And yeah, I think that’s a sufficient introduction.
-
-JAMES: So Destroy All Software will be soon be “Destroy All Haskell”?
-
-GARY: I wouldn’t go that far. [laughs] Not that language.
-
-JAMES: That’s awesome. So Gary, Destroy All Software, I’ve watched all the episodes now and I’m actually current. You have like these recurring themes. What would you say the main recurring themes are?
-
-GARY: Well, OO design tends to come back over and over again. Although, what I’m talking about when I say OO design usually there’s little resemblance to classical OO design or what Alan Kay would call OO design probably. Another big one, of course, is testing which historically I can talk mostly about isolated testing or closed isolated. Although recently I’ve been talking about things that are still isolated testing I guess, except not doing it in the traditional mock and stub way. And of course, then there’s a lot of Unix stuff that tends to come back, shell stuff, a little bit of Vim, a little bit of Git. I think the 3 big ones though are OO Design, Testing and Unix.
-
-JAMES: Yeah. You’re testing is one of the really interesting parts for me I watching it. I think it was watching Destroy All Software that I really got good with mocking and stubbing.</itunes:summary>
+JAMES: Yeah. The cool thing about Parley this week (in my opinion) is that you can basically use it as the insider information channel on the Ruby Rogues. For example, if someday we were to bring on a new Rogue, it might just happen that we would mention it there. Another thing that's been announced there is the Ruby Nuby project winners -- which are Elise Worthy, Erin Parker,</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:14:41</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR067GaryBernhardt.mp3" fileSize="89619080" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/</feedburner:origLink></item>
+		<itunes:duration>51:26</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR082Vagrant.mp3" fileSize="49377421" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/082-rr-vagrant-with-michael-ries/</feedburner:origLink></item>

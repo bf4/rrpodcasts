@@ -1,156 +1,114 @@
 <item>
-		<title>020 RR Object Oriented Programming in Rails with Jim Weirich</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/JPNgqQC-ZUQ/</link>
-		<comments>http://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/#comments</comments>
-		<pubDate>Wed, 14 Sep 2011 23:17:56 +0000</pubDate>
+		<title>023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/pk7fTKcDqfQ/</link>
+		<comments>http://rubyrogues.com/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck/#comments</comments>
+		<pubDate>Fri, 07 Oct 2011 16:07:18 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Book Club]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Jim Weirich]]></category>
 		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Ruby on Rails]]></category>
+		<category><![CDATA[Kent Beck]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=140</guid>
-		<description><![CDATA[Panelists Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Jim Weirich (twitter github blog) Discussed in this Episode What is Object Oriented Programming? If Ruby or Rails programmers aren&#8217;t programming in an object oriented way does it matter? The goal isn&#8217;t to do OO for [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
-<ul>
-<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
-<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
-<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
-<li>Jim Weirich (<a href="http://twitter.com/jimweirich">twitter</a> <a href="https://github.com/jimweirich">github</a> <a href="http://onestepback.org">blog</a>)</li>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=240</guid>
+		<description><![CDATA[What is the rule or pattern? Kent said, &#8220;I am in terror of not understanding stuff.&#8221; Learn to feel good about ambiguous situations. &#8220;Most of the problems being dealt with by programmers are caused by programmers.&#8221; Programming at its best is an act of empathy. &#8220;Patterns are what you get when you run out of [...]]]></description>
+			<content:encoded><![CDATA[<p></p><ul>
+<li>What is the rule or pattern?</li>
+<li>Kent said, &#8220;I am in terror of not understanding stuff.&#8221;</li>
+<li>Learn to feel good about ambiguous situations.</li>
+<li>&#8220;Most of the problems being dealt with by programmers are caused by programmers.&#8221;</li>
+<li>Programming at its best is an act of empathy.</li>
+<li>&#8220;Patterns are what you get when you run out of language.&#8221;</li>
+<li>Composed Method</li>
+<li>Double Dispatch</li>
+<li>coerce</li>
+<li>Collection management</li>
+<li>Know your language features</li>
+<li>Ruby and Smalltalk solve common problems.</li>
+<li>Shortcut Method</li>
+<li>Naming patterns</li>
+<li>Question: I recognize some ideas from SBPP in later works by other authors, e.g. I think “Clean Code” by Robert Martin can be seen as the heir to SBPP. Do you agree?</li>
+<li>Question: What’s your opinion about the future of Smalltalk?</li>
+<li>Question: Do you think the latest Smalltalk’s community efforts such as Pharo, Seaside, Amber (previously known as JTalk), etc. could put Smalltalk again in the limelight?</li>
+<li>Question:  Do you think Smalltalk is worth learning by current programmers?</li>
+<li>Objects are just an inch under the class.</li>
+<li>Question: I thought I heard a couple of years ago that you were working on a “Ruby Best Practice Patterns” book with one of the ex-Hashrocket guys. Any truth to this? Any plans for making a ruby version of this book?</li>
+<li>Question: Any chance of an e-book version of SBPP appearing?</li>
+<li>Question: How does he balance between learning new or current things versus going back to old (say more than 10 yrs old) publications?</li>
 </ul>
-<h3>Discussed in this Episode</h3>
+<div>Picks</div>
+<div>
 <ul>
-<li>What is Object Oriented Programming?</li>
-<li>If Ruby or Rails programmers aren&#8217;t programming in an object oriented way does it matter?</li>
-<li>The goal isn&#8217;t to do OO for OO&#8217;s sake.</li>
-<li>Polymorphism</li>
-<li>Tell, don&#8217;t ask</li>
-<li>Encapsulation</li>
-<li>Case switching on the object&#8217;s class can be refactored to take advantage of Polymorphism</li>
-<li>Law of Demeter: Am I allowed to know this?</li>
-<li>Single Responsibility Principle</li>
-<li>Ask &#8220;What does this object do?&#8221; rather than building around the data contained in the object.</li>
-<li>Presenters (The Presenter Pattern)</li>
-<li><a href="http://blog.steveklabnik.com/2011/09/06/the-secret-to-rails-oo-design.html">Steven Kabnik&#8217;s Post on Object Oriented Programming and the Presenter Pattern in Rails</a></li>
-<li>The problem with Helpers</li>
-<li>In OO, you&#8217;re allowed to add more Objects (or Classes)</li>
-<li>Building your models without referencing ActiveRecord</li>
-<li>Business objects that reference ActiveRecord data access objects</li>
-<li><a href="http://www.amazon.com/gp/product/0735619654/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0735619654">Object Thinking</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0735619654&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /></li>
-<li>The database is the last bastion of non-object oriented thinking</li>
-<li>Behavior centric vs data centric design</li>
-<li>The impedance mismatch between the database and the object oriented designs</li>
-<li>Inheritance</li>
-<li>Object Oriented Design centers around maintainability and complexity</li>
-<li>Don&#8217;t use generators</li>
-<li>Create classes and evolve them into models as you need the persistence</li>
-<li>Rather than asking for data, tell a class to do something for you</li>
-<li>Three small things to watch out for:</li>
-<ul>
-<li>Switch/case on class</li>
-<li>Arrays and hashes or arrays of hashes of arrays (Primitive Obsession)</li>
-<li>Subclassing Array or Hash</li>
+<li><a href="http://www.amazon.com/gp/product/0596009763/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0596009763">SQL Cookbook</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0596009763&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" />(David)</li>
+<li><a href="http://www.amazon.com/gp/product/1558609202/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1558609202">Trees and Hierarchies in SQL for Smarties, (The Morgan Kaufmann Series in Data Management Systems)</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=1558609202&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" />(David)</li>
+<li><a title="TDD Videos by Kent Beck on PragProg" href="http://pragprog.com/screencasts/v-kbtdd/test-driven-development" target="_blank">TDD Videos by Kent Beck on PragProg</a> (James)</li>
+<li><a title="http://avdi.org/devblog/2011/10/03/declarative-keyword-parameters-in-ruby-sbpp-5/" href="https://github.com/avdi/keyword_params" target="_blank">keyword params for Ruby by Avdi Grimm</a> (James)</li>
+<li><a title="steampunk laptops" href="http://www.datamancer.net/" target="_blank">steampunk laptops</a> (James)</li>
+<li><a title="http://coderwall.com/" href="coderwall" target="_blank">coderwall</a> (Josh)</li>
+<li><a title="pinktocat shirt" href="http://shop.github.com/products/breast-cancer-awareness-t-shirt" target="_blank">pinktocat shirt</a> (Josh)</li>
+<li><a title="priceline.com" href="http://www.priceline.com" target="_blank">priceline.com</a> (Avdi)</li>
+<li><a title="Gregg Pollack screencast" href="http://www.screenr.com/QOd" target="_blank">Gregg Pollack screencast</a> (Avdi)</li>
+<li><a title="eXMP - rcodetools gem" href="http://rubygems.org/gems/rcodetools" target="_blank">eXMP &#8211; rcodetools gem</a> (Avdi)</li>
+<li><a title="Rooibos tea" href="http://www.rooibostea.com/" target="_blank">Rooibos tea</a> (Kent)</li>
+<li><a title="d3 from Michael Bostock" href="http://mbostock.github.com/d3/" target="_blank">d3 project from Michael Bostock </a>(Kent)</li>
+<li><a href="http://www.amazon.com/gp/product/0199237964/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0199237964">Shapes</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0199237964&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" />, <a href="http://www.amazon.com/gp/product/0199604878/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0199604878">Flow</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0199604878&amp;camp=217145&amp;creative=399373" alt="" width="1" height="1" border="0" />, and <a href="http://www.amazon.com/gp/product/0199604886/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0199604886">Branches</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0199604886&amp;camp=217145&amp;creative=399373" alt="" width="1" height="1" border="0" /> by Phillip Ball (Kent)</li>
+<li><a title="railties" href="http://edgeapi.rubyonrails.org/classes/Rails/Railtie.html" target="_blank">railties</a></li>
+<li><a href="http://www.amazon.com/gp/product/B000BQXOEM/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B000BQXOEM">Heil PR-40</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B000BQXOEM&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /></li>
+<li><a title="Hivelogic Podcasting Recommendations" href="http://hivelogic.com/articles/podcasting-equipment-guide/" target="_blank">Hivelogic Podcasting Recommendations</a></li>
+<li><a title="podcastanswerman.com" href="http://podcastanswerman.com/" target="_blank">PodcastAnswerMan.com</a></li>
 </ul>
-<li><a href="http://ruby-doc.org/stdlib/libdoc/forwardable/rdoc/index.html">forwardable</a></li>
-<li><a href="http://ruby-doc.org/stdlib/libdoc/delegate/rdoc/index.html">delegate</a></li>
-<li>Don&#8217;t inherit from String</li>
-<li><a href="http://www.ruby-doc.org/core/classes/Enumerable.html">Enumerable module</a></li>
-<li><a href="http://rake.rubyforge.org/classes/Rake/FileList.html">Rake&#8217;s FileList</a></li>
-<li>Skinny Controllers</li>
-<li>Is REST simply a way of pulling the impedance mismatch from the database all the way up to URL&#8217;s?</li>
-</ul>
-<h3>Picks</h3>
-<ul>
-<li><a href="http://wiki.railsbridge.org/projects/1/wiki/Workshops">RailsBridge workshops</a> (Josh)</li>
-<li><a href="http://tomayko.com/writings/unicorn-is-unix">Ryan Tomayko&#8217;s blog post on Unicorn</a> (James)</li>
-<li><a href="http://www.ruby-forum.com/topic/2535619">The Unix System Programming with Ruby list</a> (James)</li>
-<li><a href="https://github.com/michaeldv/awesome_print">awesome_print gem</a> (David)</li>
-<li><a href="http://vimcasts.org">vimcasts.org</a> (David)</li>
-<li><a href="https://github.com/blog/564-hub-git-with-github">hub</a> (Avdi)</li>
-<li><a href="http://www.amazon.com/gp/product/B001HBCVX0/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=B001HBCVX0">AeroPress Coffee and Espresso Maker</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=B001HBCVX0&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Avdi)</li>
-<li><a href="http://letsfreckle.com/institute-of-awesome/#day26">Institute of Awesome</a> (Chuck)</li>
-<li><a href="http://ninjakiwi.com/Games/Tower-Defense/Play/Bloons-Tower-Defense-4.html">Bloons Tower Defense 4</a> (Chuck)</li>
-<li><a href="<a href=&quot;http://click.linksynergy.com/fs-bin/click?id=tINTP47iIA8&amp;offerid=146261.401301276&amp;type=2&amp;subid=0&quot;>World of Goo HD</a><IMG border=0 width=1 height=1 src=&quot;http://ad.linksynergy.com/fs-bin/show?id=tINTP47iIA8&amp;bids=146261.401301276&amp;type=2&amp;subid=0&quot; >&#8220;>World of Goo</a> (Chuck)</li>
-<li><a href="<a href=&quot;http://www.amazon.com/gp/product/1556155514/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1556155514&quot;>Writing Solid Code</a><img src=&quot;http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=1556155514&amp;camp=217145&amp;creative=399369&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /> &#8220;>Writing Solid Code</a> (Jim)</li>
-<li><a href="http://www.amazon.com/s?ie=UTF8&amp;redirect=true&amp;ref_=sr_ex_n_0&amp;keywords=ukulele&amp;qid=1316031292&amp;rh=i%3Aaps%2Ck%3Aukulele#?_encoding=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Ukuleles</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=ur2&amp;o=1" alt="" width="1" height="1" border="0" /> (Jim)</li>
-<li><a href="http://www.youtube.com/watch?v=snPQ1z5FoqQ">Jake Shimabukuro</a></li>
-</ul>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/JPNgqQC-ZUQ" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/feed/</wfw:commentRss>
-		<slash:comments>10</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110914.mp3" length="51748324" type="audio/mpeg"/>
-			<itunes:subtitle>Panelists  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) </itunes:subtitle>
-		<itunes:summary>Panelists
-
-	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code)
-	David Brady (blog twitter github ADDcasts)
-	James Edward Gray (blog twitter github)
-	Josh Susser (twitter github blog)
-	Jim Weirich (twitter github blog)
-
-Discussed in this Episode
-
-	What is Object Oriented Programming?
-	If Ruby or Rails programmers aren't programming in an object oriented way does it matter?
-	The goal isn't to do OO for OO's sake.
-	Polymorphism
-	Tell, don't ask
-	Encapsulation
-	Case switching on the object's class can be refactored to take advantage of Polymorphism
-	Law of Demeter: Am I allowed to know this?
-	Single Responsibility Principle
-	Ask "What does this object do?" rather than building around the data contained in the object.
-	Presenters (The Presenter Pattern)
-	Steven Kabnik's Post on Object Oriented Programming and the Presenter Pattern in Rails
-	The problem with Helpers
-	In OO, you're allowed to add more Objects (or Classes)
-	Building your models without referencing ActiveRecord
-	Business objects that reference ActiveRecord data access objects
-	Object Thinking
-	The database is the last bastion of non-object oriented thinking
-	Behavior centric vs data centric design
-	The impedance mismatch between the database and the object oriented designs
-	Inheritance
-	Object Oriented Design centers around maintainability and complexity
-	Don't use generators
-	Create classes and evolve them into models as you need the persistence
-	Rather than asking for data, tell a class to do something for you
-	Three small things to watch out for:
-
-	Switch/case on class
-	Arrays and hashes or arrays of hashes of arrays (Primitive Obsession)
-	Subclassing Array or Hash
-
-	forwardable
-	delegate
-	Don't inherit from String
-	Enumerable module
-	Rake's FileList
-	Skinny Controllers
-	Is REST simply a way of pulling the impedance mismatch from the database all the way up to URL's?
+</div>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/pk7fTKcDqfQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/smalltalk_best_practice_patterns.mp3" length="33677714" type="audio/mpeg"/>
+			<itunes:subtitle>What is the rule or pattern?   Kent said, "I am in terror of not understanding stuff."   Learn to feel good about ambiguous situations.   "Most of the problems being dealt with by programmers are caused by programmers." </itunes:subtitle>
+		<itunes:summary>What is the rule or pattern?
+	Kent said, "I am in terror of not understanding stuff."
+	Learn to feel good about ambiguous situations.
+	"Most of the problems being dealt with by programmers are caused by programmers."
+	Programming at its best is an act of empathy.
+	"Patterns are what you get when you run out of language."
+	Composed Method
+	Double Dispatch
+	coerce
+	Collection management
+	Know your language features
+	Ruby and Smalltalk solve common problems.
+	Shortcut Method
+	Naming patterns
+	Question: I recognize some ideas from SBPP in later works by other authors, e.g. I think “Clean Code” by Robert Martin can be seen as the heir to SBPP. Do you agree?
+	Question: What’s your opinion about the future of Smalltalk?
+	Question: Do you think the latest Smalltalk’s community efforts such as Pharo, Seaside, Amber (previously known as JTalk), etc. could put Smalltalk again in the limelight?
+	Question:  Do you think Smalltalk is worth learning by current programmers?
+	Objects are just an inch under the class.
+	Question: I thought I heard a couple of years ago that you were working on a “Ruby Best Practice Patterns” book with one of the ex-Hashrocket guys. Any truth to this? Any plans for making a ruby version of this book?
+	Question: Any chance of an e-book version of SBPP appearing?
+	Question: How does he balance between learning new or current things versus going back to old (say more than 10 yrs old) publications?
 
 Picks
 
-	RailsBridge workshops (Josh)
-	Ryan Tomayko's blog post on Unicorn (James)
-	The Unix System Programming with Ruby list (James)
-	awesome_print gem (David)
-	vimcasts.org (David)
-	hub (Avdi)
-	AeroPress Coffee and Espresso Maker (Avdi)
-	Institute of Awesome (Chuck)
-	Bloons Tower Defense 4 (Chuck)
-	World of Goo (Chuck)
-	Writing Solid Code (Jim)
-	Ukuleles (Jim)
-	Jake Shimabukuro</itunes:summary>
+
+	SQL Cookbook(David)
+	Trees and Hierarchies in SQL for Smarties, (The Morgan Kaufmann Series in Data Management Systems)(David)
+	TDD Videos by Kent Beck on PragProg (James)
+	keyword params for Ruby by Avdi Grimm (James)
+	steampunk laptops (James)
+	coderwall (Josh)
+	pinktocat shirt (Josh)
+	priceline.com (Avdi)
+	Gregg Pollack screencast (Avdi)
+	eXMP - rcodetools gem (Avdi)
+	Rooibos tea (Kent)
+	d3 project from Michael Bostock (Kent)
+	Shapes, Flow, and Branches by Phillip Ball (Kent)
+	railties
+	Heil PR-40
+	Hivelogic Podcasting Recommendations
+	PodcastAnswerMan.com</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:09:13</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110914.mp3" fileSize="51748324" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/object-oriented-programming-in-rails-with-jim-weirich/</feedburner:origLink></item>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/smalltalk_best_practice_patterns.mp3" fileSize="33677714" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck/</feedburner:origLink></item>

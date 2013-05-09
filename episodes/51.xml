@@ -1,115 +1,12 @@
 <item>
-		<title>Personal Design Rules</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/crtAxPFp9e0/</link>
-		<comments>http://rubyrogues.com/personal-design-rules/#comments</comments>
-		<pubDate>Fri, 08 Jul 2011 14:28:30 +0000</pubDate>
-		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Ruby on Rails]]></category>
-		<category><![CDATA[agile development]]></category>
-		<category><![CDATA[best practices]]></category>
-		<category><![CDATA[complexity]]></category>
-		<category><![CDATA[design rules]]></category>
-		<category><![CDATA[development]]></category>
-		<category><![CDATA[inside-out]]></category>
-		<category><![CDATA[jelly]]></category>
-		<category><![CDATA[mediation]]></category>
-		<category><![CDATA[open mindedness]]></category>
-		<category><![CDATA[paranoia]]></category>
-		<category><![CDATA[pragmatic programmer]]></category>
-		<category><![CDATA[premature optimization]]></category>
-		<category><![CDATA[programming]]></category>
-		<category><![CDATA[programming practices]]></category>
-		<category><![CDATA[REST]]></category>
-		<category><![CDATA[routers]]></category>
-		<category><![CDATA[ruby]]></category>
-		<category><![CDATA[rules]]></category>
-		<category><![CDATA[simplicity]]></category>
-		<category><![CDATA[tools]]></category>
-		<category><![CDATA[top-down]]></category>
-		<category><![CDATA[tracker]]></category>
-		<category><![CDATA[tradeoffs]]></category>
-		<category><![CDATA[URL]]></category>
-		<category><![CDATA[yagni]]></category>
+      <title/>
+      <itunes:author/>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=72</guid>
-		<description><![CDATA[Topics Discussed in this Episode Premature optimization is the root of all evil. Choosing the right tool. Be top-down (premature implementation). Don’t do big upfront design. Why are you doing this? Who is going to use it and why do they want it? How high up is the “top”? James starts with the URL. Be [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3 id="internal-source-marker_0.037695386348988835" dir="ltr">Topics Discussed in this Episode</h3>
-<ul>
-<li>Premature optimization is the root of all evil.</li>
-<li>Choosing the right tool.</li>
-<li>Be top-down (premature implementation).</li>
-<li>Don’t do big upfront design.</li>
-<li>Why are you doing this? Who is going to use it and why do they want it?</li>
-<li>How high up is the “top”? James starts with the URL.</li>
-<li>Be open to design rules not applying.</li>
-<li>Be open to being wrong.</li>
-<li>“Simple things should be simple, complex things should be possible.” ~Alan Kay</li>
-<li>Implement the functions that natural come out of the function you’re building.</li>
-<li><a href="http://avdi.org/devblog/2009/10/29/simplicity-is-complicated/">Simplicity is Complicated</a> &#8211; Avdi’s blog post</li>
-<li>YAGNI &#8211; You aren’t going to need it.</li>
-<li>“There is no rules.” ~James</li>
-<li>There is always a tradeoff.</li>
-<li>Use the appropriate amount of paranoia for a particular problem. ~James</li>
-<li>“Just because you’re paranoid doesn’t mean someone isn’t trying to kill you” ~Woody Allen</li>
-<li>“It’s more important to know how to get the cows back into the barn than knowing how to keep the cows in the barn.” ~David</li>
-<li>“If you don’t have a mediation plan for something, don’t bother checking.”</li>
-<li>“Listen to your tests.” ~Avdi</li>
-</ul>
-<h3>Picks</h3>
-<ul>
-<li><a href="http://www.amazon.com/gp/product/013476904X/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=013476904X">Smalltalk Best Practice Patterns</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=013476904X&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> by Kent Beck (David)</li>
-<li><a href="http://www.amazon.com/gp/product/097451408X/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=097451408X">Practices of an Agile Developer</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=097451408X&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Avdi)</li>
-<li><a href="http://www.amazon.com/gp/product/0596529260/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0596529260">Restful Web Services</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0596529260&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Josh)</li>
-<li><a href="http://www.ics.uci.edu/%7Efielding/pubs/dissertation/top.htm">Dissertation on REST</a> by Roy Fielding (Josh)</li>
-<li><a href="http://www.amazon.com/gp/product/B004K1EZDS/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=B004K1EZDS">Cisco-Linksys E4200</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=B004K1EZDS&amp;camp=217145&amp;creative=399373" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a href="http://pivotaltracker.com/">Pivotal Tracker</a> (Chuck)</li>
-<li><a href="https://github.com/pivotal/jelly">Jelly</a> (Chuck)</li>
-<li><a href="http://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=020161622X">The Pragmatic Programmer</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=020161622X&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Chuck)</li>
-</ul>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/crtAxPFp9e0" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/personal-design-rules/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110707_01.mp3" length="86287206" type="audio/mpeg"/>
-			<itunes:keywords>agile development,best practices,complexity,design rules,development,inside-out,jelly,mediation,open mindedness,paranoia,pragmatic programmer,premature optimization</itunes:keywords>
-		<itunes:subtitle>Topics Discussed in this Episode  Premature optimization is the root of all evil.   Choosing the right tool.   Be top-down (premature implementation).   Don’t do big upfront design.   Why are you doing this?</itunes:subtitle>
-		<itunes:summary>Topics Discussed in this Episode
 
-	Premature optimization is the root of all evil.
-	Choosing the right tool.
-	Be top-down (premature implementation).
-	Don’t do big upfront design.
-	Why are you doing this? Who is going to use it and why do they want it?
-	How high up is the “top”? James starts with the URL.
-	Be open to design rules not applying.
-	Be open to being wrong.
-	“Simple things should be simple, complex things should be possible.” ~Alan Kay
-	Implement the functions that natural come out of the function you’re building.
-	Simplicity is Complicated - Avdi’s blog post
-	YAGNI - You aren’t going to need it.
-	“There is no rules.” ~James
-	There is always a tradeoff.
-	Use the appropriate amount of paranoia for a particular problem. ~James
-	“Just because you’re paranoid doesn’t mean someone isn’t trying to kill you” ~Woody Allen
-	“It’s more important to know how to get the cows back into the barn than knowing how to keep the cows in the barn.” ~David
-	“If you don’t have a mediation plan for something, don’t bother checking.”
-	“Listen to your tests.” ~Avdi
 
-Picks
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR50HungryAcademy.mp3" length="73885478" type="audio/mp3"/>
+      <guid isPermaLink="false">6be1bbb0437c899ae1d4182573baeb7437e5632e</guid>
+      <pubDate>Mon, 16 Apr 2012 03:13:48 -0500</pubDate>
+      <itunes:duration>3694</itunes:duration>
 
-	Smalltalk Best Practice Patterns by Kent Beck (David)
-	Practices of an Agile Developer (Avdi)
-	Restful Web Services (Josh)
-	Dissertation on REST by Roy Fielding (Josh)
-	Cisco-Linksys E4200 (James)
-	Pivotal Tracker (Chuck)
-	Jelly (Chuck)
-	The Pragmatic Programmer (Chuck)</itunes:summary>
-		<itunes:author>Ruby Rogues</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>59:55</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110707_01.mp3" fileSize="86287206" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/personal-design-rules/</feedburner:origLink></item>
+    </item>

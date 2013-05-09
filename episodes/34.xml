@@ -1,119 +1,142 @@
 <item>
-		<title>030 RR Software Craftsmanship</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/aVm0tiv62ko/</link>
-		<comments>http://rubyrogues.com/030-rr-software-craftsmanship/#comments</comments>
-		<pubDate>Thu, 24 Nov 2011 08:11:35 +0000</pubDate>
+		<title>034 RR Benchmarking and Profiling</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/J0UfNTpi5o8/</link>
+		<comments>http://rubyrogues.com/034-rr-benchmarking-and-profiling/#comments</comments>
+		<pubDate>Sat, 24 Dec 2011 02:13:02 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=301</guid>
-		<description><![CDATA[Panel Noel Rappin (twitter blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman Software Craftsmanship SCNA Glenn Vanderburg&#8217;s RailsConf talk Apprenticeship Programs Groupon Obtiva Code Retreats Global Code Retreat day Software Craftsmanship Manifesto Dave Hoover&#8217;s Apprenticeship Patterns [...]]]></description>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=341</guid>
+		<description><![CDATA[Panel Aaron Patterson (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog twitter github ADDcasts) Josh Susser (twitter github blog) Discussion Benchmarking Ruby&#8217;s Benchmark library Measuring speed Managing maintainability Startup and test speed Evan Phoenix&#8217;s benchmark suite gem Benchmark accuracy What are you measuring? What else [...]]]></description>
 			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
 <ul>
-<li>Noel Rappin (<a title="@noelrap" href="http://twitter.com/#!/noelrap" target="_blank">twitter</a> <a title="RailsRX" href="http://railsrx.com/" target="_blank">blog</a>)</li>
+<li>Aaron Patterson (<a href="http://twitter.com/tenderlove">twitter</a><a href="http://github.com/tenderlove"> github</a><a href="https://docs.google.com/a/teachmetocode.com/document/d/1KqLA9wp65NPQtpIxoGPsF6zCdJTsHGleA0Mbn-gXdBA/http%3A%2F%2Ftenderlovemaking.com"> blog</a>)</li>
 <li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
-<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a><a href="http://teachmetocodeacademy.com/"> Rails Summer Camp</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
 </ul>
 <h3>Discussion</h3>
-<div>
 <ul>
-<li><a href="http://www.amazon.com/gp/product/0596518382/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0596518382">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0596518382&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /></li>
-<li><a title="Software Craftsmanship" href="http://softwarecraftsmanship.org/" target="_blank">Software Craftsmanship</a></li>
-<li>SCNA</li>
-<li><a title="YouTube - RailsConf 2011, Glenn Vanderburg Talk" href="http://www.youtube.com/watch?v=LlTiMUzLMgM" target="_blank">Glenn Vanderburg&#8217;s RailsConf talk</a></li>
-<li>Apprenticeship Programs</li>
+<li>Benchmarking</li>
+<li><a href="http://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/index.html" target="_blank">Ruby&#8217;s Benchmark library</a></li>
+<li>Measuring speed</li>
+<li>Managing maintainability</li>
+<li>Startup and test speed</li>
+<li>Evan Phoenix&#8217;s benchmark suite gem</li>
+<li>Benchmark accuracy</li>
 <ul>
-<li>Groupon</li>
-<li>Obtiva</li>
+<li>What are you measuring?</li>
+<li>What else is happening?</li>
 </ul>
-<li><a title="Coderetreat.com" href="http://coderetreat.com/" target="_blank">Code Retreats</a></li>
-<li>Global Code Retreat day</li>
-<li><a title="Software Craftsmanship Manifesto" href="http://manifesto.softwarecraftsmanship.org/" target="_blank">Software Craftsmanship Manifesto</a></li>
-<li>Dave Hoover&#8217;s Apprenticeship Patterns book</li>
-<li>Capability Maturity Model</li>
-<li>omphaloskepsis: the contemplation of one&#8217;s navel (Thanks, Josh)</li>
+<li>Wet stones and dry stones</li>
+<li>Don&#8217;t build toward your benchmarks. Let your benchmarks tell you what&#8217;s going on.</li>
+<li>Printing benchmarks to the terminal &#8211; measures the write to the terminal too</li>
+<li>rubyprof</li>
+<li>code coverage tangent</li>
+<ul>
+<li>require &#8216;coverage&#8217; for code coverage</li>
+<li>simple_cov</li>
+</ul>
+<li>perf tools</li>
+<li>dtrace</li>
+<li>New Relic</li>
+<li>Scout</li>
+<li><a href="http://en.wikipedia.org/wiki/Profiling_(computer_programming)" target="_blank">sampling profiling</a></li>
+<li>Test the benchmarks you&#8217;re given</li>
+<li>Communicate the process</li>
+<li>Aaron goes into Rails&#8217; startup time profiling (blog post)</li>
+<ul>
+<li>to_s</li>
+<li>sub-shells (shelling out to find or run commands)</li>
+<li>finding javascript runtimes</li>
+</ul>
+<li>using the gemspec.erb method (from Dave)</li>
 </ul>
 <h3>Picks</h3>
-<div>
 <ul>
-<li>Our Troops! (James)</li>
-<li><a title="Wikipedia - Mathematics" href="http://en.wikipedia.org/wiki/Math" target="_blank">Math</a> (James)</li>
-<li><a title="Innumeracy" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/0679726012" target="_blank">Innumeracy</a> (James)</li>
-<li><a title="Proofiness" href="http://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/dp/0670022160" target="_blank">Proofiness</a> (James)</li>
-<li><a title="101 Things Everyone Should Know About Math" href="http://www.amazon.com/Things-Everyone-Should-Know-About/dp/0967802032/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1322243671&amp;sr=1-1" target="_blank">101 things everyone should know about math</a> (James)</li>
-<li><a title="Dancia McKellar - Math Doesn't Suck" href="http://www.mathdoesntsuck.com/" target="_blank">Danica McKellar</a></li>
-<li><a href="http://www.amazon.com/gp/product/1934356646/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=1934356646">Rails Test Prescriptions (Pragmatic Programmers)</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=1934356646&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Avdi)</li>
-<li><a title="Olbas Tea" href="http://www.olbas.com/olbasherbaltea.htm" target="_blank">Olbas Tea</a> (Avdi)</li>
-<li><a title="MailCatcher" href="http://mailcatcher.me/" target="_blank">MailCatcher</a> (Avdi)</li>
-<li><a title="Bootstrap from Twitter" href="http://twitter.github.com/bootstrap/" target="_blank">Bootstrap</a> (Josh)</li>
-<li><a href="http://www.amazon.com/gp/product/B000HEWEJ4/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B000HEWEJ4">Star Trek The Animated Series &#8211; The Animated Adventures of Gene Roddenberry&#8217;s Star Trek</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=B000HEWEJ4&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Josh)</li>
-<li><a href="http://www.amazon.com/mn/search?_encoding=UTF8&#038;x=12&#038;y=12&#038;field-keywords=diane%20duane&#038;url=search-alias%3Dstripbooks&#038;_encoding=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=ur2&#038;camp=1789&#038;creative=390957">Diane Duane</a><img src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=ur2&#038;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Josh)</li>
-<li><a title="Since you were asking: The Door into Starlight" href="http://www.dianeduane.com/outofambit/2011/07/15/since-you-were-asking-the-door-into-starlight/" target="_blank">Diane Duane&#8217;s blog post about the Door into Starlight?</a> (Josh)</li>
-<li><a title="Textastic" href="http://www.textasticapp.com/" target="_blank">Textastic</a> (Noel)</li>
-<li><a href="http://www.amazon.com/gp/product/B001XW7ICW/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B001XW7ICW">The Middleman: The Complete Series</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=B001XW7ICW&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Noel)</li>
-<li><a title="Crossword Light - Apple Appstore" href="http://itunes.apple.com/us/app/crossword-light/id285702231?mt=8" target="_blank">Crossword Light</a> (Chuck)</li>
-<li><a title="USA Today - Crosswords - Apple Appstore" href="http://itunes.apple.com/us/app/usa-today-crosswords/id289273523?mt=8" target="_blank">USA Today Crossword</a> (Chuck)</li>
-<li><a title="LA Times - Games" href="http://www.latimes.com/games/" target="_blank">LA Times Crossword</a> (Chuck)</li>
-<li><a title="Acorn, a great Mac image editor" href="http://flyingmeat.com/acorn/" target="_blank">Acorn</a> (Chuck)</li>
+<li><a href="http://mizage.com/#macdivvy" target="_blank">Divvy</a> (Josh)</li>
+<li><a href="http://www.amazon.com/gp/product/B004QSQMG8/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004QSQMG8">How the Universe Works</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B004QSQMG8" alt="" width="1" height="1" border="0" /> (Josh)</li>
+<li><a href="http://www.freakonomics.com/books/freakonomics/" target="_blank">Freakonomics</a> (Dave)</li>
+<li><a href="http://danariely.com/the-books/" target="_blank">Predictably Irrational </a>(Dave)</li>
+<li><a href="http://www.freakonomics.com/books/superfreakonomics/" target="_blank">Freakonomics 2</a> (Dave)</li>
+<li><a href="http://www.irradiatedsoftware.com/sizeup/" target="_blank">Size-up</a> (Dave)</li>
+<li><a href="http://itunes.apple.com/us/podcast/the-dave-ramsey-show/id77001367" target="_blank">The Dave Ramsey Show</a> (Chuck)</li>
+<li><a href="http://itunes.apple.com/us/podcast/the-entreleadership-podcast/id435836905" target="_blank">The Entreleadership Podcast</a> (Chuck)</li>
+<li><a href="http://www.amazon.com/gp/product/B001LF347E/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001LF347E">The Adventures of Merlin</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B001LF347E" alt="" width="1" height="1" border="0" /> (Chuck)</li>
+<li><a href="http://www.amazon.com/gp/product/B001NXC65K/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001NXC65K">George Foreman Grill</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B001NXC65K" alt="" width="1" height="1" border="0" /> (Aaron)</li>
+<li><a href="http://www.amazon.com/gp/product/1934356050/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1934356050">Pragmatic Thinking and Learning</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=1934356050" alt="" width="1" height="1" border="0" /> (Aaron)</li>
+<li><a href="http://flexibits.com/fantastical" target="_blank">Fantastical</a> (Aaron)</li>
+<li><a href="https://github.com/raganwald/homoiconic/blob/master/2008-11-07/from_birds_that_compose_to_method_advice.markdown#readme" target="_blank">Reg Braithwaite&#8217;s Combinators in Ruby</a> (Avdi)</li>
+<li><a href="http://www.amazon.com/gp/product/B0015RRNMA/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0015RRNMA">Burn Notice</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B0015RRNMA" alt="" width="1" height="1" border="0" />(Avdi)</li>
 </ul>
-</div>
-</div>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/aVm0tiv62ko" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/030-rr-software-craftsmanship/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/software_craftsmanship.mp3" length="26337365" type="audio/mpeg"/>
-			<itunes:subtitle>Panel  Noel Rappin (twitter blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion </itunes:subtitle>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/J0UfNTpi5o8" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/034-rr-benchmarking-and-profiling/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/033_RR_Benchmarking_and_Profiling.mp3" length="92049758" type="audio/mpeg"/>
+			<itunes:subtitle>Panel  Aaron Patterson (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog twitter github ADDcasts)   Josh Susser (twitter github blog) - </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Noel Rappin (twitter blog)
+	Aaron Patterson (twitter github blog)
 	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code)
-	James Edward Gray (blog twitter github)
-	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog twitter github ADDcasts)
+	Josh Susser (twitter github blog)
 
 Discussion
 
+	Benchmarking
+	Ruby's Benchmark library
+	Measuring speed
+	Managing maintainability
+	Startup and test speed
+	Evan Phoenix's benchmark suite gem
+	Benchmark accuracy
 
-	Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
-	Software Craftsmanship
-	SCNA
-	Glenn Vanderburg's RailsConf talk
-	Apprenticeship Programs
+	What are you measuring?
+	What else is happening?
 
-	Groupon
-	Obtiva
+	Wet stones and dry stones
+	Don't build toward your benchmarks. Let your benchmarks tell you what's going on.
+	Printing benchmarks to the terminal - measures the write to the terminal too
+	rubyprof
+	code coverage tangent
 
-	Code Retreats
-	Global Code Retreat day
-	Software Craftsmanship Manifesto
-	Dave Hoover's Apprenticeship Patterns book
-	Capability Maturity Model
-	omphaloskepsis: the contemplation of one's navel (Thanks, Josh)
+	require 'coverage' for code coverage
+	simple_cov
+
+	perf tools
+	dtrace
+	New Relic
+	Scout
+	sampling profiling
+	Test the benchmarks you're given
+	Communicate the process
+	Aaron goes into Rails' startup time profiling (blog post)
+
+	to_s
+	sub-shells (shelling out to find or run commands)
+	finding javascript runtimes
+
+	using the gemspec.erb method (from Dave)
 
 Picks
 
-
-	Our Troops! (James)
-	Math (James)
-	Innumeracy (James)
-	Proofiness (James)
-	101 things everyone should know about math (James)
-	Danica McKellar
-	Rails Test Prescriptions (Pragmatic Programmers) (Avdi)
-	Olbas Tea (Avdi)
-	MailCatcher (Avdi)
-	Bootstrap (Josh)
-	Star Trek The Animated Series - The Animated Adventures of Gene Roddenberry's Star Trek (Josh)
-	Diane Duane (Josh)
-	Diane Duane's blog post about the Door into Starlight? (Josh)
-	Textastic (Noel)
-	The Middleman: The Complete Series (Noel)
-	Crossword Light (Chuck)
-	USA Today Crossword (Chuck)
-	LA Times Crossword (Chuck)
-	Acorn (Chuck)</itunes:summary>
+	Divvy (Josh)
+	How the Universe Works (Josh)
+	Freakonomics (Dave)
+	Predictably Irrational (Dave)
+	Freakonomics 2 (Dave)
+	Size-up (Dave)
+	The Dave Ramsey Show (Chuck)
+	The Entreleadership Podcast (Chuck)
+	The Adventures of Merlin (Chuck)
+	George Foreman Grill (Aaron)
+	Pragmatic Thinking and Learning (Aaron)
+	Fantastical (Aaron)
+	Reg Braithwaite's Combinators in Ruby (Avdi)
+	Burn Notice(Avdi)</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/software_craftsmanship.mp3" fileSize="26337365" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/030-rr-software-craftsmanship/</feedburner:origLink></item>
+		<itunes:duration>1:03:55</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/033_RR_Benchmarking_and_Profiling.mp3" fileSize="92049758" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/034-rr-benchmarking-and-profiling/</feedburner:origLink></item>

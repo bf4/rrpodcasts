@@ -1,125 +1,105 @@
 <item>
-		<title>032 RR Ruby Antipatterns</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/UIkNE-GTZDA/</link>
-		<comments>http://rubyrogues.com/032-rr-ruby-antipatterns/#comments</comments>
-		<pubDate>Thu, 08 Dec 2011 23:50:29 +0000</pubDate>
+		<title>036 RR RubyGems</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/o1MKDBi2JEA/</link>
+		<comments>http://rubyrogues.com/036-rr-rubygems/#comments</comments>
+		<pubDate>Thu, 05 Jan 2012 04:48:33 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Nick Quaranto]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=317</guid>
-		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion rescue nil Exceptional Ruby terniary operator as a guard clause Law of Demeter andand turtles! unless&#8230;else&#8230; method_missing respond_to? super mixin modules subclassing/inheritance defined? &#8220;Never use a symbol to do a method&#8217;s job!&#8221; inheritance [...]]]></description>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=358</guid>
+		<description><![CDATA[Panel Nick Quaranto (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Jekyll Rubygems.org Rubyforge github gems Jeweler Tom Preston-Werner (from github.com) gforge a Gems API hoe gemcutter gem push Ruby Inside rubygems Ruby Central bundler [...]]]></description>
 			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
 <ul>
+<li>Nick Quaranto (<a href="http://twitter.com/qrush" target="_blank">twitter</a> <a href="https://github.com/qrush" target="_blank">github</a> <a href="http://quaran.to/" target="_blank">blog</a>)</li>
 <li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
-<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a><a href="http://teachmetocodeacademy.com/"> Rails Summer Camp</a>)</li>
 <li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
 </ul>
 <h3>Discussion</h3>
-<div>
 <ul>
-<li>rescue nil</li>
-<li><a title="Exceptional Ruby by Avdi Grimm" href="http://exceptionalruby.com/" target="_blank">Exceptional Ruby</a></li>
-<li>terniary operator as a guard clause</li>
-<li><a title="Wikipedia - Law of Demeter" href="http://en.wikipedia.org/wiki/Law_of_Demeter" target="_blank">Law of Demeter</a></li>
-<li><a title="Reginald Braithwaite - andand" href="http://weblog.raganwald.com/2008/01/objectandand-objectme-in-ruby.html" target="_blank">andand</a></li>
-<li>turtles!</li>
-<li><a title="37 Signals - Unless" href="http://37signals.com/svn/posts/2699-making-sense-with-rubys-unless" target="_blank">unless&#8230;else&#8230;</a></li>
-<li><a title="ruby-doc.org - method_missing" href="http://ruby-doc.org/docs/ProgrammingRuby/html/ref_c_object.html#object.method_missing" target="_blank">method_missing</a></li>
-<li><a title="ruby-doc.org - respond_to?" href="http://www.ruby-doc.org/core-1.9.3/Object.html#method-i-respond_to-3F" target="_blank">respond_to?</a></li>
-<li>super</li>
-<li>mixin modules</li>
-<li>subclassing/inheritance</li>
-<li><a title="ruby-doc.org - method_defined?" href="http://www.ruby-doc.org/core-1.8.7/Module.html#method-i-method_defined-3F" target="_blank">defined?</a></li>
-<li>&#8220;Never use a symbol to do a method&#8217;s job!&#8221;</li>
-<li>inheritance from Core classes</li>
-<li>inherit from Struct.new(&#8230;)</li>
-<li>terniary operators that cause side effect methods rather than simply returning values</li>
-<li>test ? true : false</li>
-<li>!! for boolean</li>
-<li><a href="http://www.ruby-forum.com/topic/160638" target="_blank">Don&#8217;t override #nil?</a></li>
+<li><a href="http://rubygems.org/gems/jekyll" target="_blank">Jekyll</a></li>
+<li><a href="http://rubygems.org/" target="_blank">Rubygems.org</a></li>
+<li><a href="http://rubyforge.org/" target="_blank">Rubyforge</a></li>
+<li><a href="http://gems.github.com/" target="_blank">github gems</a></li>
+<li><a href="http://rubygems.org/gems/jeweler" target="_blank">Jeweler</a></li>
+<li>Tom Preston-Werner (from github.com)</li>
+<li>gforge</li>
+<li>a Gems API</li>
+<li><a href="http://rubygems.org/gems/hoe" target="_blank">hoe</a></li>
+<li><a href="https://rubygems.org/gems/gemcutter" target="_blank">gemcutter</a></li>
+<li>gem push</li>
+<li><a href="http://rubyinside.com">Ruby Inside</a></li>
+<li><a href="http://rubygems.org/" target="_blank">rubygems</a></li>
+<li>Ruby Central</li>
+<li><a href="http://gembundler.com">bundler</a></li>
+<li>module counts</li>
+<li>gemspec</li>
+<li><a href="http://rubygems.org/gems/bones" target="_blank">bones</a></li>
+<li><a href="http://rubygems.org/gems/rake" target="_blank">rakegems</a></li>
 </ul>
 <h3>Picks</h3>
-<div>
 <ul>
-<li><a title="Chrome Web Store - Pretty JSON" href="https://chrome.google.com/webstore/detail/ddngkjbldiejbheifcmnfmmfiniimbbg" target="_blank">Pretty JSON (chrome plugin)</a> (David)</li>
-<li><a title="Github - Simpleform" href="https://github.com/plataformatec/simple_form" target="_blank">simpleform gem</a> (Josh)</li>
-<li><a title="Wikipedia - Nasal Irrigation" href="http://en.wikipedia.org/wiki/Nasal_irrigation" target="_blank">netti pot</a> (Josh)</li>
-<li><a href="http://www.amazon.com/gp/product/1934356050/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1934356050">Pragmatic Thinking and Learning</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=1934356050" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a href="http://www.amazon.com/gp/product/0142000280/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0142000280">Getting Things Done</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0142000280" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a title="Pomodoro Technique" href="http://www.pomodorotechnique.com/" target="_blank">Pomodoro Technique</a> (James)</li>
-<li><a href="http://www.amazon.com/gp/product/1934356506/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1934356506">Pomodoro Technique Illustrated</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=1934356506" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a href="http://www.amazon.com/gp/product/8866130273/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=8866130273">Star Wars Moleskine</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=8866130273" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a title="Evernote" href="http://www.evernote.com/" target="_blank">Evernote</a> (James)</li>
-<li><a title="yojimbo" href="http://www.barebones.com/products/yojimbo/" target="_blank">yojimbo</a> (James)</li>
-<li><a title="Simple Note" href="http://simplenoteapp.com/" target="_blank">Simple Note</a> (James)</li>
-<li><a title="Workflowy" href="https://workflowy.com/" target="_blank">workflowy </a>(James)</li>
-<li><a title="Totalfinder - Bring Tabs to Your Finder" href="http://totalfinder.binaryage.com/" target="_blank">totalfinder</a> (Chuck)</li>
-<li><a title="Business Tech Weekly Podcast" href="http://gspn.tv/category/all-shows/technology/bustech/" target="_blank">Business Tech Weekly</a> (Chuck)</li>
-<li><a title="48 Days" href="http://www.48days.com/category/48-days-podcast/" target="_blank">48 Days Show</a> (Chuck)</li>
-<li><a title="No More Mondays" href="http://48days.net/page/no-more-mondays-show" target="_blank">No More Mondays Show</a> (Chuck)</li>
-<li>Obi Wan Kenobi (David)</li>
+<li><a href="https://github.com/cinchrb/cinch" target="_blank">cinch irc bot </a>(James)</li>
+<li><a href="http://www.amazon.com/gp/product/B004HYIAPM/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004HYIAPM">Skyrim</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B004HYIAPM" alt="" width="1" height="1" border="0" /> (James)</li>
+<li><a href="http://www.amazon.com/gp/product/B004P6IVPQ/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004P6IVPQ">Catherine</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B004P6IVPQ" alt="" width="1" height="1" border="0" /> (James)</li>
+<li><a href="http://rubygems.org/gems/addressable" target="_blank">Addressable URI </a> (Avdi)</li>
+<li><a href="http://cocktailenthusiast.com/2011/10/03/johnnie-walker-double-black-scotch-whisky-review/" target="_blank">Johnnie Walker Double Black</a> (Avdi)</li>
+<li><a href="https://gemnasium.com/">Gemnasium</a> (Josh)</li>
+<li><a href="http://www.amazon.com/gp/product/B000OEUUG6/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000OEUUG6">Screaming Monkey</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B000OEUUG6" alt="" width="1" height="1" border="0" /> (Chuck)</li>
+<li><a href="http://www.amazon.com/gp/product/B0009VBTP0/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0009VBTP0">The Office</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B0009VBTP0" alt="" width="1" height="1" border="0" /> (Chuck)</li>
+<li><a href="https://showoff.io/" target="_blank">showoff.io</a> (Nick)</li>
 </ul>
-</div>
-</div>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/UIkNE-GTZDA" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/032-rr-ruby-antipatterns/feed/</wfw:commentRss>
-		<slash:comments>7</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/ruby_antipatterns.mp3" length="26775961" type="audio/mpeg"/>
-			<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion </itunes:subtitle>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/o1MKDBi2JEA" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/036-rr-rubygems/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/rubygems_org.mp3" length="25828161" type="audio/mpeg"/>
+			<itunes:subtitle>Panel  Nick Quaranto (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion - </itunes:subtitle>
 		<itunes:summary>Panel
 
+	Nick Quaranto (twitter github blog)
 	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code)
-	David Brady (blog twitter github ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
 	James Edward Gray (blog twitter github)
-	Josh Susser (twitter github blog)
+	Josh Susser (twitter github blog)
 
 Discussion
 
-
-	rescue nil
-	Exceptional Ruby
-	terniary operator as a guard clause
-	Law of Demeter
-	andand
-	turtles!
-	unless...else...
-	method_missing
-	respond_to?
-	super
-	mixin modules
-	subclassing/inheritance
-	defined?
-	"Never use a symbol to do a method's job!"
-	inheritance from Core classes
-	inherit from Struct.new(...)
-	terniary operators that cause side effect methods rather than simply returning values
-	test ? true : false
-	!! for boolean
-	Don't override #nil?
+	Jekyll
+	Rubygems.org
+	Rubyforge
+	github gems
+	Jeweler
+	Tom Preston-Werner (from github.com)
+	gforge
+	a Gems API
+	hoe
+	gemcutter
+	gem push
+	Ruby Inside
+	rubygems
+	Ruby Central
+	bundler
+	module counts
+	gemspec
+	bones
+	rakegems
 
 Picks
 
-
-	Pretty JSON (chrome plugin) (David)
-	simpleform gem (Josh)
-	netti pot (Josh)
-	Pragmatic Thinking and Learning (James)
-	Getting Things Done (James)
-	Pomodoro Technique (James)
-	Pomodoro Technique Illustrated (James)
-	Star Wars Moleskine (James)
-	Evernote (James)
-	yojimbo (James)
-	Simple Note (James)
-	workflowy (James)
-	totalfinder (Chuck)
-	Business Tech Weekly (Chuck)
-	48 Days Show (Chuck)
-	No More Mondays Show (Chuck)
-	Obi Wan Kenobi (David)</itunes:summary>
+	cinch irc bot (James)
+	Skyrim (James)
+	Catherine (James)
+	Addressable URI  (Avdi)
+	Johnnie Walker Double Black (Avdi)
+	Gemnasium (Josh)
+	Screaming Monkey (Chuck)
+	The Office (Chuck)
+	showoff.io (Nick)</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/ruby_antipatterns.mp3" fileSize="26775961" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/032-rr-ruby-antipatterns/</feedburner:origLink></item>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/rubygems_org.mp3" fileSize="25828161" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/036-rr-rubygems/</feedburner:origLink></item>

@@ -1,161 +1,187 @@
 <item>
-		<title>075 RR Open Source Licenses</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/6lhuECf2USY/</link>
-		<comments>http://rubyrogues.com/075-rr-open-source-licenses/#comments</comments>
-		<pubDate>Wed, 17 Oct 2012 07:00:03 +0000</pubDate>
+		<title>090 RR Ruby Nuby Episode</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/tX6SqyvrTNg/</link>
+		<comments>http://rubyrogues.com/090-rr-ruby-nuby-episode/#comments</comments>
+		<pubDate>Wed, 30 Jan 2013 16:00:53 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[David Brady]]></category>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Elise Worthy]]></category>
+		<category><![CDATA[Erin Parker]]></category>
+		<category><![CDATA[Geoff Petrie]]></category>
 		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Matt Ruzicka]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=800</guid>
-		<description>Panel Jeremy Hinegardner (twitter github blog) Chris Wilson (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter githubblog ADDcasts) Discussion 01:51 &amp;#8211; Open Source Licenses 02:14 &amp;#8211; Chris and Jeremy Introduction 03:35 &amp;#8211; Ruby Nuby Challenge 05:09 &amp;#8211; Best of Parley Object Initialization and Construction Thread 06:03 [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/6lhuECf2USY" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/075-rr-open-source-licenses/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR075OpenSourceLicenses.mp3" length="21615547" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Jeremy Hinegardner (twitter github blog)   Chris Wilson (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter githubblog ADDcasts) - Discussion 01:51 - Open Source Licenses </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1100</guid>
+		<description>Panel Erin Parker (twitter github Spitfire Athlete) Matt Ruzicka (twitter github blog) Geoff Petrie (twitter github blog) Elise Worthy (twitter github Brandworthy) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 00:43 &amp;#8211; Ruby Nuby Project Spitfire Athlete LivingSocial’s Hungry Academy Program Rails Ramp Up 04:11 &amp;#8211; Learning Ruby Ruby on [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/tX6SqyvrTNg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/090-rr-ruby-nuby-episode/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR090RubyNubyEpisode.mp3" length="79215942" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Erin Parker (twitter github Spitfire Athlete)   Matt Ruzicka (twitter github blog)   Geoff Petrie (twitter github blog)   Elise Worthy (twitter github Brandworthy)   Josh Susser (twitter github blog) </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Jeremy Hinegardner (twitter github blog)
-	Chris Wilson (twitter github blog)
-	Josh Susser (twitter github blog)
-	Avdi Grimm (twitter github blog book)
-	David Brady (twitter githubblog ADDcasts)
+	Erin Parker (twitter github Spitfire Athlete)
+	Matt Ruzicka (twitter github blog)
+	Geoff Petrie (twitter github blog)
+	Elise Worthy (twitter github Brandworthy)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
 
 Discussion
-01:51 - Open Source Licenses
+00:43 - Ruby Nuby Project
 
-02:14 - Chris and Jeremy Introduction
+	Spitfire Athlete
+	LivingSocial’s Hungry Academy Program
 
-03:35 - Ruby Nuby Challenge
+Rails Ramp Up
 
-05:09 - Best of Parley
-
-	Object Initialization and Construction Thread
-
-06:03 - Rogues Golf Winners
+04:11 - Learning Ruby
 
 
-Lucas Dohmen: @moonbeamlabs
+Ruby on Rails Tutorial
 
-Erik Michaels-Ober: @sferik
+Jesse Proudman
 
-09:44 - Why care about open source licenses?
-10:44 - Licenses
+Blue Box
 
+Beginning Ruby: From Novice to Professional by Peter Cooper
 
+Rails Bridge
 
-OpenBSD
-
-WTFPL
-
-13:17 - Intellectual Property Law
-13:40 - Public Domain
-16:21 - Licenses (cont’d)
+09:56 - The Ruby Community
 
 
+PyCon
 
-GPL
+CodeMash
 
-AGPL
+Pivotal NY Tech Talks
 
-18:36 - Distribution clauses
-19:30 - MongoDB
-22:00 - Dual Licensing
-23:20 - relicensing
-24:33 - The Fedora Project
-25:17 - MIT License
-28:40 - Free as in Freedom oggcast
-35:00 - Meaning of “affero”
-36:52 - Apache license
-37:36 - Creative Commons Licensing
-39:13 - Problematic licenses
+12:41 - Beginner Tutorials
 
 
+Stack Overflow
 
-Patents
+PeepCode
 
-Reciprocal License
+Geoffrey Grosenbach
 
-43:36 - Patent trolling
-44:37 - Hudson/Jenkins/Oracle
-46:52 - Risks
-50:24 - TiVo and open source licensing
+PeepCode: Meet CoffeeScript
+
+turbolinks
+
+17:13 - Diversity Within the Ruby Community
+
+
+Women Who Code
+
+Women Who Code (Twitter)
+
+25:21 - Challenges Facing Nuby Developers
+
+
+Codeacademy
+
+RVM
+
+RailsInstaller
+	Homebrew
+
+tokaido
+
+Try Ruby
+
+Google Searches
+
+34:56 - Experts, Novices &amp; Mentoring
+
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+	Seattle.rb
+
+@ HackDays -- Tech@NYU
+
+41:52 - Pair Programming
+
+	espnW Hack Day
+
+47:05 - Community Heroes
+
+	Sarah Mei
+	Aaron Patterson
+	Geoff Grosenbach
+	Ryan Davis
+	Eric Hodel
+	Therapeutic Refactoring: Katrina Owen
+	Steve Klabnik
+	Evadne Wu
+
+53:20 - Technology
+
+
+Rails has Two Default Stacks: Steve Klabnik
+
+HAML
+
+Markaby
+	PostgreSQL
 
 Picks
 
+	Craft Coffee (Matt)
+	Duolingo (Matt)
+	Luis von Ahn: Massive-scale online collaboration (Matt)
+	The Ruby Hangout (Geoff)
+	Bentoconf (Geoff)
+	Code Triage (Geoff)
+	nvALT (Geoff)
+	Pragmatic Studio Ruby (Geoff)
+	Making a difference, right off the bat! Ashish Dixit (Madison Ruby 2012) (Geoff)
+	Rails Heroku Tutorial (Erin)
+	Minimum Desirable Product: Andrew Chen (Erin)
+	Solitude and Leadership by William Deresiewicz (Erin)
+	Canvas by Instructure (Chuck)
+	Mastermind Groups (Chuck)
+	Parralox (Josh)
+	Cloak (Elise)
+	Code Climate (Elise)
+	The Man Who Mistook His Wife For A Hat: And Other Clinical Tales by Oliver Sacks (Elise)
 
-LicenseFinder (Josh)
+083 RR Decomposing Fat Models with Bryan Helmkamp
+041 RR Code Metrics with Bryan Helmkamp
 
-Coderetreat (Josh)
+Once again, big thanks to RailsCasts.com, RubyMonk.com and The Pragmatic Studio for their generous support!
+Book Club
+Patterns of Enterprise Application Architecture by Martin Fowler
+Next Week
+Ruby's Design Process with Brian Shirai
+Transcript
+JOSH: The first time somebody recognized my voice from the podcast, he thought I was David Brady.
 
-Tanker Desks (Avdi)
+CHUCK: Oh really? [laughs]
 
-Tröegs Troegenator  (Avdi)
+JOSH: He’s like, “Oh my god! I know your voice from somewhere!” I'm like, “Do you listen to Ruby Rogues?” “Oh my god, you’re David Brady!”
 
-Cards Against Humanity (David)
-
-The Kitten Cam (David)
-
-JSMin isn't welcome on Google Code (Chris)
-
-Avro (Jeremy)
-
-The Floyd Code Retreat (Jeremy)
-
-Museum of the Moving Image (Jeremy)
-
-Transcript 
-DAVID: Wow. My wife just came in and threw Tater Tots all over the room.
-
-[laughter]
-
-That was kind of random.
-
-[laughter]
-
-JOSH: I really wish we were doing a video.
-
-DAVID: (laughs)
-
-JEREMY: I would definitely appreciate video. Yes.
-
-[laughter]
-
-DAVID: So, All right. I guess I have to eat the Tater Tots off the floor.
+CHUCK: [laughs] You have more hair than David. It comes across in your voice.
 
 
 
-[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+[Hosting and bandwidth provided by Blue Box Group. Check them out at bluebox.net.]
 
-[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, then check out RubyMine by going to jetbrains.com/ruby]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+ELISE: Welcome to the first episode of bizarro Ruby Rogues; featuring Erin, Matt, Geoff and me – Elise Worthy. Where have your regular hosts gone? I have no idea. Erin, do you wanna go first?
 
-DAVID: Hello and welcome to episode 75 of Ruby Rogues. I'm David Brady and I'm sitting in for Chuck and James at the same time, who are on vacation in Hawaii and can’t be bothered to do their weekly podcast. We are short two rogues, but we are up two guests! So, today on the podcast we have Avdi Grimm.
+ERIN:  Sure. [laughs] Hey everyone. My name is Erin Parker. I’ve been learning Ruby on Rails since August of last year. And I’m using it to build a site called Spitfire Athlete, which is a fitness network for women.
 
-AVDI: Hello, hello!
+ELISE: Matt?
 
-DAVID: We have Josh Susser.
+MATT: How are you doing? I’ve been using Ruby for about a year and a half. And I’m just working on a couple of personal projects right now -- or projects that I hope to release soon. And that’s about it.
 
-JOSH: Yes. I'm appearing here on a Creative Commons Misattribution License.
+ELISE: Geoffrey.
 
-DAVID: (laughs) We have Jeremy Hinegardner.
+JOSH: Hi I’m Geoff Petrie. I’ve been working with Ruby for probably about 4-5 months now, but on and off for a few years. But this has been really the first time I've been diving further than just sort of a cursory look.
 
-JEREMY: Hello and I am not a lawyer.
-
-DAVID: (laughs) And we also have Chris Wilson.
-
-CHRIS: Yeah, same here.
-
-DAVID: Okay. So, I guess just to start us off, we are going to be talking about Open Source Licenses today. This is a fun, complex issue. I remember sitting in on a panel years and years ago, talking about the subtle vagaries and evils of LGPL versus GPL and that good stuff. And people get completely, just been out of shape about this. But before we get in to that, I wanted to give our guests a chance to kind of do an introduction. Chris, why don’t we start with you? Your Twitter handle is “e” and that's not very rational. So, do you want to introduce yourself?
-
-CHRIS: Yeah. I'm Chris Wilson. I'm a developer up in Madison, Wisconsin at Ruby consulting development shop called “Bendyworks“. Yeah, so my handle and some of the other ways I identify myself is kind of a science nerd. So, I’ve sort of always been in science. I gave a little spiel at the Bendyworks internal conference recently, all about how to build a particle accelerator.
-
-DAVID: Very cool. Jeremy, do you wanna tell us about you?
-
-JEREMY: Sure. I'm Jeremy Hinegardner. I'm a developer in Boulder, Colorado.</itunes:summary>
+ELISE: Cool. And I’m Elise Worthy.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:10:34</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR075OpenSourceLicenses.mp3" fileSize="21615547" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/075-rr-open-source-licenses/</feedburner:origLink></item>
+		<itunes:duration>1:22:31</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR090RubyNubyEpisode.mp3" fileSize="79215942" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/090-rr-ruby-nuby-episode/</feedburner:origLink></item>

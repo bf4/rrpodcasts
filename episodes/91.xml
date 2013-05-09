@@ -1,182 +1,158 @@
 <item>
-		<title>074 RR Developer Environments</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/MSzo9dA7SIM/</link>
-		<comments>http://rubyrogues.com/0074-rr-developer-environments/#comments</comments>
-		<pubDate>Wed, 10 Oct 2012 11:00:28 +0000</pubDate>
+		<title>089 RR Rescue Projects</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/B7TOMQ0VtgA/</link>
+		<comments>http://rubyrogues.com/089-rr-rescue-projects/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 13:40:38 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=779</guid>
-		<description>Panel Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) James Edward Gray (blog twitter github) David Brady (blog twitter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 02:05 &amp;#8211; Developer Environments 02:40 &amp;#8211; Standing desks Health benefits Physical fitness 04:51 &amp;#8211; Exercise balls Keeps core [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/MSzo9dA7SIM" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/0074-rr-developer-environments/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR074DeveloperEnvironments.mp3" length="45996540" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   James Edward Gray (blog twitter github)   David Brady (blog twitter github ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) - </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1087</guid>
+		<description>Panel Katrina Owen (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:05 &amp;#8211; Podcast Awards Results The Audacity to Podcast 02:33 &amp;#8211; Best Ruby Rogues Episode of 2012 Results 1. 069 RR Therapeutic Refactoring with Katrina Owen [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/B7TOMQ0VtgA" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/089-rr-rescue-projects/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR089RescueProjects.mp3" length="62693177" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
 		<itunes:summary>Panel
 
+	Katrina Owen (twitter github blog)
 	Josh Susser (twitter github blog)
-	Avdi Grimm (twitter github blog book)
-	James Edward Gray (blog twitter github)
-	David Brady (blog twitter github ADDcasts)
-	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
 
 Discussion
-02:05 - Developer Environments
+01:05 - Podcast Awards Results
 
-02:40 - Standing desks
+	The Audacity to Podcast
 
-	Health benefits
-	Physical fitness
+02:33 - Best Ruby Rogues Episode of 2012 Results
 
-04:51 - Exercise balls
+	1. 069 RR Therapeutic Refactoring with Katrina Owen
+	2. 067 RR Gary Bernhardt’s Testing Style
+	3. 049 RR Agile Communication with Angela Harms
 
-	Keeps core engaged
-	Prevents slouching
+03:49 - Rescue Projects
 
-06:29 - Uses for a Mac Pro
+	Twitter brings in big guns from Pivotal Labs to help rebuild it’s troubled infrastructure
+	Process vs Code Quality
+	Rails and Rescue Projects
 
-	Telepresence machine
-	Main development machine
+08:50 - Things that need Rescued
 
-08:40 - Multiple monitors
+	Performance
+	One Person/Small Dev Teams
+	Stability
+	Low-Communication Team
+	The Outsourced Project
+	The Big Port
+	The Prototype that went into Production
+	The Startup
 
-11:25 - Background noise
+13:18 - The Panic Factor
 
-	Podcasts
-	Music
-
-15:42 - General noise
-
-17:43 - Working from different environments
-
-	Restaurants
-	Coffee shops
-	Libraries
-
-22:02 - Knowing what works for you and adapting your environment
-
-23:18 - Office environments versus home environments
-
-25:35 - Desks: cluttered/uncluttered
-
-29:08 - Ergonomics
+14:23 - Legacy Code
 
 
-Split keyboards
+Aloha Ruby Conf 2012: Legacy by Chad Fowler
 
-Posture and positions
+17:28 - Fresh Attitude/Perspective
 
-35:46 - Software and programs that contribute to productivity
+	“The Omega Mess” (Go Ahead, Make a Mess: Sandi Metz)
 
-	Balsamiq
-	Skitch
-	Pivotal Tracker
-	Guard
-	tmux
-	Continuous Integration
-	CCMenu
+24:53 - The Big Rewrite
 
-41:08 - Light
+	Songkick:The path to SOA
 
+Working Effectively with Legacy Code by Michael Feathers
 
-f.lux
+30:47 - Josh’s 4-Step Plan for how to do a Rescue Project
 
-Fluorescent lighting
+	1. Stop Making Things Worse
+	2. Figure Out the Actual Problems
+	3. Make a Plan to Fix the Problems
+	4. Incrementally Dig Yourself Out of the Hole
 
-Ambient lighting
+37:32 - The One Big Issue
 
-Programming outside
+40:49 - Psychological Aspects
 
-Matte/Glossy displays
+	Blame/Guilt Cycle
+	Team Structure
+	The Insufficiency of Good Design: Sarah Mei
+	Pairing
 
-Screen brightness &amp; keyboard backlighting
+46:47 - Depression, Frustration &amp; Trust
 
-48:50 - Contrast/color themes
-
-
-Tomorrow theme
-
-Zenburn
-
-Molokai for Vim
-
-Molokai for Emacs
-
-OSX Dark Terminal Theme for Mac Snow Leopard
-
-52:35 - Programming in Windows
-
-55:37 - Mac vs Linux
-
-Why Linux: Avdi Grimm
-MacPorts
-Homebrew
-
-01:07:28 - Pomodoro Technique
-
-	Pomodoro Technique Illustrated
+	Taking Breaks
 
 Picks
 
-	Vitamix 6300 (Dave)
-	Xiki (Avdi)
-	Star Trek: The Next Generation Season 8 on Twitter (Avdi)
-	Hashrocket Lunch n' Learn - Defining Object-Oriented Design: Sandi Metz (James)
-	Apple iTunes Match (James)
-	The Trouble with the Electoral College: C.G.P. Grey (Josh)
-	National Popular Vote Interstate Compact (Josh)
-	Practical Object-Oriented Design in Ruby: Sandi Metz (Chuck)
-	Ergotron Arm (Chuck)
+	The Deep Synergy Between Testability and Good Design: Michael Feathers (Avdi)
+	The Insufficiency of Good Design: Sarah Mei (Josh)
+	Project Implicit (Josh)
+	The White House Blog: Why We’re Raising the Signature Threshold for We the People (Josh)
+	The White House Blog: We the Coders: Open-Sourcing We the People, the White House’s Online Petitions System (Josh)
+	The Mikado Method by Ola Ellnestam, Daniel Brolund (Katrina)
+	Servolux by Tim Pease (Katrina)
+	The Room (iPad game) (Katrina)
+	The Room (Avdi)
+	Service Oriented Architecture at Square: Chris Hunt (James)
+	Inter-Service Authentication with SSL: Steve Richert (James)
+	Nonviolent Communication: A Language of Life by Marshall B. Rosenberg (James)
+	Kodak Zi8 Pocket Video Camera (Chuck)
+	Powermat Home &amp; Office Mat (Chuck)
 
-Book Club Book Pick
-
-	Service-Oriented Design with Ruby and Rails: Paul Dix
-
+Book Club
+Patterns of Enterprise Application Architecture by Martin Fowler
+Next Week
+The Nuby Episode
 Transcript
-JOSH: As everyone watches the Presidential Debates tonight and gets despondent over the state of national politics, I want you to contrast that with the terrible state of affairs here in San Francisco, where our huge political issue this week is the fact that one of the supervisors wants to ban public nudity to stop the old naked dudes from hanging out in the town square of Nicastro.
-
-AVDI: Why is that a problem?
-
-[laughter]
-
-DAVID: All I want to know is are they going to do anything about the roller-skating hat cocker on the Embarcadero?
+JOSH:  For our 100th episode, we will record as the ‘Ruby Rouges’.
 
 
 
-[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]
+[Hosting and bandwidth provided by Blue Box Group. Check them out at bluebox.net.]
 
-[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great in line debugging tools, built in version control and intelligent code insight and refactorings, checkout RubyMine by going to jetbrains.com/ruby.]
+ [This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
+CHUCK:  Hey everybody and welcome to Episode 89 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
 
-CHUCK: Hey everybody and welcome to episode 74 of the Ruby Rogues Podcast. This week on our panel we have Josh Susser.
+KATRINA:  Hello.
 
-JOSH: Hey, good morning everyone!
+CHUCK:  Josh Susser.
 
-CHUCK:  We have Avdi Grimm.
+JOSH:  Good morning, everyone!
 
-AVDI: Hey, this is Avdi, Head Chef at rubytapas.com.
+CHUCK:  James Edward Gray.
 
-CHUCK: We also have James Edward Gray.
+JAMES:  I’m recording this episode from the Hot System.
 
-JAMES: We have had complaints about our jokes, so I am not opening with a joke this time.
+CHUCK:  Avdi Grimm.
 
-CHUCK: We also have David Brady.
+AVDI:  I’m recording this episode from [Inaudible].
 
-DAVID: I just want to start with a warning, [unintelligible]
+CHUCK:  And I’m Charles Max Wood from devchat.tv and I just got back from New Media Expo and CES.
 
-CHUCK: I am Charles Max Wood from devchat.tv. I am actually working on an introduction to CoffeeScript webinar or online training that I am going to be doing. You can get it at introtocoffeescript.eventbright.com. Alright, well so let’s get this started. So, we are going to be talking about our Development Environments.
+JOSH:  Where was that?
 
-JOSH: Do you mean IDEs?
+CHUCK:  They were both in Vegas.
 
-[laughter]
+JOSH:  So can you actually tell us about what happened there or does everything that happens there, et cetera?
 
-CHUCK: Yeah,</itunes:summary>
+CHUCK:  [Laughs] Well, so New Media Expo, I was actually there speaking on Podcasting. They also had the Podcast Awards and we were nominated as one of the Technology Podcasts.
+
+AVDI:  Thank you, everyone.
+
+CHUCK:  And being nominated is kind of a big deal. So yeah, thank you everybody who nominated us.
+
+JAMES:  I think we’re the only specific language Podcast in the entire Tech category. So, that was kind of crazy.
+
+JOSH:  I think we were sort of the underdog.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:22:36</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR074DeveloperEnvironments.mp3" fileSize="45996540" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/0074-rr-developer-environments/</feedburner:origLink></item>
+		<itunes:duration>1:05:18</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR089RescueProjects.mp3" fileSize="62693177" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/089-rr-rescue-projects/</feedburner:origLink></item>

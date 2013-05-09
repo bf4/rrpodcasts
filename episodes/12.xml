@@ -1,187 +1,162 @@
 <item>
-		<title>011 RR Corporate Sponsors of Open Source Software</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/ErNSSLQMa1g/</link>
-		<comments>http://rubyrogues.com/corporate-sponsors-of-open-source-software/#comments</comments>
-		<pubDate>Fri, 15 Jul 2011 16:37:11 +0000</pubDate>
+		<title>012 RR Metaprogramming in Ruby</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/Wosf0PxbNEg/</link>
+		<comments>http://rubyrogues.com/metaprogramming-in-ruby/#comments</comments>
+		<pubDate>Sun, 24 Jul 2011 17:28:30 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Charles Max Wood]]></category>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Gregory Brown]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Peter Cooper]]></category>
-		<category><![CDATA[Aaron Patterson]]></category>
-		<category><![CDATA[america]]></category>
-		<category><![CDATA[apache]]></category>
-		<category><![CDATA[AT&T]]></category>
-		<category><![CDATA[blendtec]]></category>
+		<category><![CDATA[Ruby on Rails]]></category>
+		<category><![CDATA[abstract syntax tree]]></category>
+		<category><![CDATA[alias method chain]]></category>
+		<category><![CDATA[aliasing]]></category>
+		<category><![CDATA[ast]]></category>
 		<category><![CDATA[books]]></category>
 		<category><![CDATA[cassandra]]></category>
-		<category><![CDATA[code brawl]]></category>
-		<category><![CDATA[corporate]]></category>
-		<category><![CDATA[engagement]]></category>
-		<category><![CDATA[engineyard]]></category>
-		<category><![CDATA[expertise]]></category>
-		<category><![CDATA[hateoas]]></category>
-		<category><![CDATA[heroku]]></category>
-		<category><![CDATA[hiring]]></category>
-		<category><![CDATA[in plain sight]]></category>
-		<category><![CDATA[iterm2]]></category>
-		<category><![CDATA[jruby]]></category>
-		<category><![CDATA[mri]]></category>
-		<category><![CDATA[netflix]]></category>
-		<category><![CDATA[open source]]></category>
-		<category><![CDATA[open source software]]></category>
-		<category><![CDATA[oss]]></category>
-		<category><![CDATA[passions]]></category>
-		<category><![CDATA[postgres]]></category>
-		<category><![CDATA[programmer]]></category>
+		<category><![CDATA[class]]></category>
+		<category><![CDATA[class_eval]]></category>
+		<category><![CDATA[define_method]]></category>
+		<category><![CDATA[defining]]></category>
+		<category><![CDATA[escapepod]]></category>
+		<category><![CDATA[extend]]></category>
+		<category><![CDATA[fantasy]]></category>
+		<category><![CDATA[fiction]]></category>
+		<category><![CDATA[gardening]]></category>
+		<category><![CDATA[guide]]></category>
+		<category><![CDATA[hackfest]]></category>
+		<category><![CDATA[include]]></category>
+		<category><![CDATA[irc]]></category>
+		<category><![CDATA[irssi]]></category>
+		<category><![CDATA[jquery-ui]]></category>
+		<category><![CDATA[mentoring]]></category>
+		<category><![CDATA[metaprogramming]]></category>
+		<category><![CDATA[method]]></category>
+		<category><![CDATA[method_missing]]></category>
+		<category><![CDATA[module]]></category>
+		<category><![CDATA[pairing]]></category>
 		<category><![CDATA[rails]]></category>
-		<category><![CDATA[reputation]]></category>
-		<category><![CDATA[rubinius]]></category>
-		<category><![CDATA[ruby]]></category>
-		<category><![CDATA[ruby on rails]]></category>
-		<category><![CDATA[ruby spec]]></category>
-		<category><![CDATA[rvm]]></category>
-		<category><![CDATA[rvmrc]]></category>
-		<category><![CDATA[sponsorships]]></category>
-		<category><![CDATA[star trek]]></category>
-		<category><![CDATA[stargate]]></category>
-		<category><![CDATA[support]]></category>
-		<category><![CDATA[tk]]></category>
-		<category><![CDATA[yarv]]></category>
-		<category><![CDATA[Yehuda Katz]]></category>
-		<category><![CDATA[Yukihiro Matsumoto]]></category>
+		<category><![CDATA[rdoc]]></category>
+		<category><![CDATA[remote]]></category>
+		<category><![CDATA[restructuring]]></category>
+		<category><![CDATA[ripper]]></category>
+		<category><![CDATA[rspec]]></category>
+		<category><![CDATA[ruby quiz]]></category>
+		<category><![CDATA[screen]]></category>
+		<category><![CDATA[super]]></category>
+		<category><![CDATA[teamviewer]]></category>
+		<category><![CDATA[vagrant]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=76</guid>
-		<description><![CDATA[Panelists Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Dr. Nic Williams (twitter github blog EngineYard) Peter Cooper (site twitter github The Ruby Show Ruby Inside) Items discussed in this episode Ruby distributions Why haven’t companies sponsored core Ruby [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3 id="internal-source-marker_0.8680581825804904" dir="ltr">Panelists</h3>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=81</guid>
+		<description><![CDATA[Panelists Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) Gregory Brown (blog twitter github Ruby Mendicant University) James Edward Gray (blog twitter github) Discussed in this episode What is metaprogramming AST Ripper method_missing send super defined?(super) alias method chain rdoc rspec Guidelines Aliasing/Redifining methods (generally wrong) Dynamic Module generation (Generally right) understand Ruby’s method call [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
 <ul>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a><a href="http://teachmetocodeacademy.com/"> Rails Summer Camp</a>)</li>
-<li>James Edward Gray II (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
-<li>Dr. Nic Williams (<a href="http://twitter.com/#%21/drnic">twitter</a> <a href="http://github.com/drnic">github</a> <a href="http://drnicwilliams.com/blog/">blog</a> <a href="http://engineyard.com/">EngineYard</a>)</li>
-<li>Peter Cooper (<a href="http://peterc.org/">site</a><a href="http://twitter.com/peterc"> twitter</a><a href="http://github.com/peterc"> github</a><a href="http://rubyshow.com/"> The Ruby Show</a><a href="https://docs.google.com/a/teachmetocode.com/document/d/1KqLA9wp65NPQtpIxoGPsF6zCdJTsHGleA0Mbn-gXdBA/http%3A%2F%2Fwww.rubyinside.com%2F"> Ruby Inside</a>)</li>
+<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
+<li>Gregory Brown (<a href="http://blog.majesticseacreature.com/">blog</a> <a href="http://twitter.com/seacreature">twitter</a> <a href="http://github.com/sandal">github</a> <a href="http://university.rubymendicant.com/">Ruby Mendicant University</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
 </ul>
-<h3 dir="ltr">Items discussed in this episode</h3>
+<h3 dir="ltr">Discussed in this episode</h3>
 <ul>
-<li>Ruby distributions</li>
-<li>Why haven’t companies sponsored core Ruby</li>
-<li>AT&amp;T Interactive sponsoring Aaron Patterson’s work on Ruby &amp; Rails</li>
-<li>Engine Yard sponsors or sponsored Rubinius &amp; JRuby &amp; Rails</li>
-<li>Company Benefits</li>
-<ul>
-<li>Expertise of OSS developers</li>
-<li>Attracting awesome employees</li>
+<li>What is metaprogramming</li>
+<li><a href="http://en.wikipedia.org/wiki/Abstract_syntax_tree">AST</a></li>
+<li><a href="https://github.com/lsegal/ripper18">Ripper</a></li>
+<li>method_missing</li>
+<li>send</li>
+<li>super</li>
+<li>defined?(super)</li>
+<li>alias method chain</li>
+<li>rdoc</li>
+<li>rspec</li>
 </ul>
-<li>Developer Benefits</li>
+<h3 dir="ltr">Guidelines</h3>
 <ul>
-<li>Work on their passions</li>
-<li>Higher level of engagement</li>
-</ul>
-<li>Possible Problems</li>
-<ul>
-<li>Community can become dependent on corporate support</li>
-<li>Can damage reputation</li>
-<li>Can cause problems moving forward</li>
-</ul>
-<li>Heroku hiring Matz</li>
-<li>SQLite has several Sponsors</li>
-<li>SQLite forces all code into the public domain</li>
-<li>Corporate fork (Twitter forking Ruby Enterprise Edition)</li>
-<li>Ruby Enterprise Edition forked from Ruby by Phusion</li>
-<li><a href="http://blog.new-bamboo.co.uk/2011/7/12/translation-of-matz-q-a-article-after-joining-heroku">Matz Interview on Heroku </a></li>
-<li>Better process</li>
-<li>Corporate vs Community Kerfuffles</li>
-<li>What should Ruby do with its new resources?</li>
-<ul>
-<li>Web based VM performance features?</li>
-<li>Ruby-spec</li>
-</ul>
+<li>Aliasing/Redifining methods (generally wrong)</li>
+<li>Dynamic Module generation (Generally right)</li>
+<li>understand Ruby’s method call lookup</li>
+<li>understand modules (extend and include)</li>
+<li>Calling super is usually a good idea</li>
+<li>If you’re going to monkey patch, make sure that the method isn’t already there</li>
+<li>Make your changes easy to find</li>
+<li>class_eval def vs define_method</li>
+<li>Convenience constructors &#8211; In a medium sized project, you should not do this more than 3 times.</li>
 </ul>
 <h3 dir="ltr">Picks</h3>
-<p><a href="http://cassandra.apache.org/">Cassandra</a> (Chuck)<br />
-Stargate SG1 (<a href="http://movies.netflix.com/WiMovie/Stargate_SG-1/70155599?trkid=4213507">netflix</a>)(Chuck)<br />
-Anti-pick <a href="http://en.wikipedia.org/wiki/Tk_%28framework%29">TK</a> (Peter)<br />
-<a href="http://www.amazon.com/gp/product/0596516177/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0596516177">The Ruby Programming Language</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0596516177&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Peter)<br />
-<a href="http://codebrawl.com/">Code Brawl </a>(Peter)<br />
-<a href="https://github.com/michaeledgar/ruby-patches">Ruby Patches</a> by Michael Edgar (Peter)<br />
-HATEOAS (Josh)<br />
-<a href="http://timelessrepo.com/haters-gonna-hateoas">Steve Klabnik’s write up on HATEOAS</a> (Josh)<br />
-<a href="http://blendtec.com/">Blendtec blender</a> (Josh)<br />
-<a href="http://www.iterm2.com/#/section/home">iterm2</a> (James)<br />
-<a href="https://docs.google.com/a/contemporaryva.com/document/d/1KcwMZGODIADWJCyLL77uMVh0cPYbL-AWxyU2uHAHsvk/http%3A%2F%2Fnetflix.com">Netflix</a> (James)<br />
-Star Trek: The Next Generation (<a href="http://movies.netflix.com/WiMovie/Star_Trek_The_Next_Generation/70158329?trkid=2361637">netflix</a>) (James)<br />
-<a href="http://www.postgresql.org/">PostgreSQL</a> (Nic)<br />
-In Plain Sight (<a href="http://movies.netflix.com/WiMovie/In_Plain_Sight/70143828?trkid=2361637">netflix</a>) (Nic)<br />
-<a href="http://beginrescueend.com/workflow/rvmrc/">.rvmrc</a> (Nic)<br />
-Living in America (Nic)</p>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/ErNSSLQMa1g" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/corporate-sponsors-of-open-source-software/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110714_01.mp3" length="99174042" type="audio/mpeg"/>
-			<itunes:keywords>Aaron Patterson,america,apache,AT&amp;T,blendtec,books,cassandra,code brawl,corporate,engagement,engineyard,expertise</itunes:keywords>
-		<itunes:subtitle>Panelists  Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github)   Josh Susser (twitter github blog)   Dr. Nic Williams (twitter github blog EngineYard) </itunes:subtitle>
+<ul>
+<li><a href="http://vagrantup.com/">vagrant</a> (Avdi)</li>
+<li><a href="http://www.amazon.com/gp/product/0976694077/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0976694077">Best of Ruby Quiz</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0976694077&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Avdi)</li>
+<li>anti-pick: <a href="http://www.teamviewer.com/">TeamViewer</a> (David)</li>
+<li>Let Dave know if you have a great tool for sharing screens and collaborating over the web.</li>
+<li><a href="http://www.gnu.org/s/screen/">gnu screen</a> (Greg)</li>
+<li><a href="http://irssi.org/">irssi</a> (Greg)</li>
+<li><a href="http://www.squarefootgardening.com/">square foot gardening</a>(Greg)</li>
+<li>find/be a mentor (James)</li>
+<li><a href="http://www.amazon.com/gp/product/0345529057/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0345529057">George R. R. Martin&#8217;s A Song of Ice and Fire</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0345529057&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (James)</li>
+<li>#rmu channel on freenode for mentoring (Greg/James)</li>
+<li><a href="http://weblog.rubyonrails.org/2011/7/14/rails-3-1-hackfest">Rails 3.1 hackfest</a> (Josh)</li>
+<li><a href="http://escapepod.org/">escapepod.org</a> (Josh)</li>
+<li><a href="http://www.amazon.com/gp/product/1449390412/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1449390412">Cassandra: The Definitive Guide</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=1449390412&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /></li>
+<li><a href="http://jqueryui.com/">jQuery-UI</a></li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/Wosf0PxbNEg" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/metaprogramming-in-ruby/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110721_01.mp3" length="99944360" type="audio/mpeg"/>
+			<itunes:keywords>abstract syntax tree,alias method chain,aliasing,ast,books,cassandra,class,class_eval,define_method,defining,escapepod,extend</itunes:keywords>
+		<itunes:subtitle>Panelists  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   Gregory Brown (blog twitter github Ruby Mendicant University) </itunes:subtitle>
 		<itunes:summary>Panelists
 
-	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
-	James Edward Gray II (blog twitter github)
-	Josh Susser (twitter github blog)
-	Dr. Nic Williams (twitter github blog EngineYard)
-	Peter Cooper (site twitter github The Ruby Show Ruby Inside)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code)
+	David Brady (blog twitter github ADDcasts)
+	Gregory Brown (blog twitter github Ruby Mendicant University)
+	James Edward Gray (blog twitter github)
 
-Items discussed in this episode
+Discussed in this episode
 
-	Ruby distributions
-	Why haven’t companies sponsored core Ruby
-	AT&amp;T Interactive sponsoring Aaron Patterson’s work on Ruby &amp; Rails
-	Engine Yard sponsors or sponsored Rubinius &amp; JRuby &amp; Rails
-	Company Benefits
+	What is metaprogramming
+	AST
+	Ripper
+	method_missing
+	send
+	super
+	defined?(super)
+	alias method chain
+	rdoc
+	rspec
 
-	Expertise of OSS developers
-	Attracting awesome employees
+Guidelines
 
-	Developer Benefits
-
-	Work on their passions
-	Higher level of engagement
-
-	Possible Problems
-
-	Community can become dependent on corporate support
-	Can damage reputation
-	Can cause problems moving forward
-
-	Heroku hiring Matz
-	SQLite has several Sponsors
-	SQLite forces all code into the public domain
-	Corporate fork (Twitter forking Ruby Enterprise Edition)
-	Ruby Enterprise Edition forked from Ruby by Phusion
-	Matz Interview on Heroku
-	Better process
-	Corporate vs Community Kerfuffles
-	What should Ruby do with its new resources?
-
-	Web based VM performance features?
-	Ruby-spec
-
+	Aliasing/Redifining methods (generally wrong)
+	Dynamic Module generation (Generally right)
+	understand Ruby’s method call lookup
+	understand modules (extend and include)
+	Calling super is usually a good idea
+	If you’re going to monkey patch, make sure that the method isn’t already there
+	Make your changes easy to find
+	class_eval def vs define_method
+	Convenience constructors - In a medium sized project, you should not do this more than 3 times.
 
 Picks
-Cassandra (Chuck)
-Stargate SG1 (netflix)(Chuck)
-Anti-pick TK (Peter)
-The Ruby Programming Language (Peter)
-Code Brawl (Peter)
-Ruby Patches by Michael Edgar (Peter)
-HATEOAS (Josh)
-Steve Klabnik’s write up on HATEOAS (Josh)
-Blendtec blender (Josh)
-iterm2 (James)
-Netflix (James)
-Star Trek: The Next Generation (netflix) (James)
-PostgreSQL (Nic)
-In Plain Sight (netflix) (Nic)
-.rvmrc (Nic)
-Living in America (Nic)</itunes:summary>
+
+	vagrant (Avdi)
+	Best of Ruby Quiz (Avdi)
+	anti-pick: TeamViewer (David)
+	Let Dave know if you have a great tool for sharing screens and collaborating over the web.
+	gnu screen (Greg)
+	irssi (Greg)
+	square foot gardening(Greg)
+	find/be a mentor (James)
+	George R. R. Martin's A Song of Ice and Fire (James)
+	#rmu channel on freenode for mentoring (Greg/James)
+	Rails 3.1 hackfest (Josh)
+	escapepod.org (Josh)
+	Cassandra: The Definitive Guide
+	jQuery-UI</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:08:52</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110714_01.mp3" fileSize="99174042" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/corporate-sponsors-of-open-source-software/</feedburner:origLink></item>
+		<itunes:duration>1:09:24</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110721_01.mp3" fileSize="99944360" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/metaprogramming-in-ruby/</feedburner:origLink></item>

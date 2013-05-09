@@ -1,193 +1,25 @@
 <item>
-		<title>014 RR Queues and Background Processing</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/uw5Ra4JYnDw/</link>
-		<comments>http://rubyrogues.com/queues-and-background-processing/#comments</comments>
-		<pubDate>Sun, 07 Aug 2011 17:41:49 +0000</pubDate>
+		<title>The 015 RR Science and Engineering of Computer Programming</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/GWPZslQ8lpc/</link>
+		<comments>http://rubyrogues.com/live-from-the-lone-star-ruby-conference/#comments</comments>
+		<pubDate>Tue, 16 Aug 2011 21:34:22 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=96</guid>
-		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) &#160; Discussed in this podcast: Definition of Queuing and Background Processes: Queuing is about messaging. Typically first in first out (FIFO) Background [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3 id="internal-source-marker_0.5203669412500035" dir="ltr">Panel</h3>
-<ul>
-<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
-<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
-<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
-</ul>
-<p>&nbsp;</p>
-<h3 dir="ltr">Discussed in this podcast:</h3>
-<p>Definition of Queuing and Background Processes:</p>
-<ul>
-<li>Queuing is about messaging. Typically first in first out (FIFO)</li>
-<li>Background Processes are processes that pull messages off the queue and do things later.</li>
-</ul>
-<p>Systems that people have used</p>
-<ul>
-<li><a href="http://kr.github.com/beanstalkd/">Beanstalk</a></li>
-<li><a href="https://github.com/defunkt/resque">Resque</a></li>
-<li><a href="http://en.wikipedia.org/wiki/Cron">cron</a></li>
-<li><a href="http://www.rabbitmq.com/">RabbitMQ</a></li>
-<li><a href="https://github.com/celldee/bunny/wiki">bunny</a></li>
-<li><a href="http://www.zeromq.org/">ZeroMQ</a></li>
-<li><a href="http://backgroundrb.rubyforge.org/">BackgroundRB</a></li>
-<li><a href="http://www.amqp.org/">AMQP</a></li>
-<li><a href="about:blank">Delayed Job</a></li>
-<li><a href="https://github.com/ryandotsmith/queue_classic">Queue Classic</a></li>
-</ul>
-<p>&nbsp;</p>
-<ul>
-<li>Poor man’s queue or database backed queue</li>
-</ul>
-<p>What do you look for in your queue technology?</p>
-<ul>
-<li>How it takes failure</li>
-<li>Introspection</li>
-<li>It depends on what you’re doing</li>
-<ul>
-<li>Regular tasks vs. Immediate tasks</li>
-<li>One worker vs several workers on several servers</li>
-</ul>
-</ul>
-<p><a href="https://github.com/dbrady/bin">Dave’s beanstalk utilities</a><br />
-<a href="http://railscasts.com/episodes/243-beanstalkd-and-stalker">Beanstalk RailsCast</a></p>
-<p>Hybrid approaches</p>
-<ul>
-<li>Google’s Geocoding API &#8211; Rate-limiting with cron</li>
-<li>Amazon’s FPS &#8211; polling amazon to get updates on payments</li>
-</ul>
-<p>Best Practices</p>
-<ul>
-<li>Structure jobs so they are simple input/output</li>
-<li>Isolate your jobs as much as possible from the database</li>
-<li>Decouple your application from your queue &#8211; Message Passing</li>
-<li>Distributed == Not Dependent &#8211; If the job dies and you are broken, you’re designed wrong</li>
-<li>Idempotence on the job</li>
-<li>Messaging Queue == State Machine</li>
-<li>Logging/Emailing when something is unprocessed for too long</li>
-</ul>
-<p>What do you send to the background?</p>
-<ul>
-<li>Payment Processing</li>
-<li>Emails</li>
-<li>PDF Generation</li>
-<li>Billing reconciliation</li>
-<li>Geocoding</li>
-<li>External Web Services</li>
-<li>Collate events into an aggregate event</li>
-<li>Farming out multiple jobs to multiple queues</li>
-<li>Separate unusual resources onto other servers</li>
-</ul>
-<p>Picks</p>
-<ul>
-<li><a href="http://www.amazon.com/gp/product/0321659368/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0321659368">Service-Oriented Design with Ruby and Rails (Addison-Wesley Professional Ruby Series)</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0321659368&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Dave)</li>
-<li><a href="http://www.amazon.com/gp/product/1591843790/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=1591843790">Enchantment: The Art of Changing Hearts, Minds, and Actions</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=1591843790&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (Dave)</li>
-<li><a href="http://robots.thoughtbot.com/post/8181879506/if-you-gaze-into-nil-nil-gazes-also-into-you">If you gaze into nil, nil gazes also into you</a> (Avdi)</li>
-<li><a href="http://hackermonthly.com/">hacker monthly</a> (Avdi)</li>
-<li><a href="http://rubythere.com/">rubythere.com</a> (Josh)</li>
-<li><a href="http://codeforamerica.org/">code for america </a>(Josh)</li>
-<li><a href="http://www.amazon.com/gp/product/0747232717/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0747232717">Philosophy Gym</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0747232717&amp;camp=217145&amp;creative=399373" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a href="http://www.philosophybites.com/">Philosophy Bites</a> (James)</li>
-<li><a href="http://www.askaninja.com/">Ask a Ninja</a> (Chuck)</li>
-<li><a href="http://ruby-lang.org/">Ruby 1.9</a> (Chuck)</li>
-<li><a href="https://rvm.beginrescueend.com/">RVM</a> (Chuck)</li>
-</ul>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/uw5Ra4JYnDw" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/queues-and-background-processing/feed/</wfw:commentRss>
-		<slash:comments>6</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110804_01.mp3" length="95742310" type="audio/mpeg"/>
-			<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) -   </itunes:subtitle>
-		<itunes:summary>Panel
+		<guid isPermaLink="false">http://rubyrogues.com/?p=102</guid>
+		<description><![CDATA[This episode was recorded live at Lone Star Ruby Conference by Opus Video Productions Show notes are on their way.]]></description>
+			<content:encoded><![CDATA[<p></p><p>This episode was recorded live at <a href="http://lonestarrubyconf.com/">Lone Star Ruby Conference</a> by <a href="http://opusvideoproductions.com/">Opus Video Productions</a></p>
+<p>Show notes are on their way.</p>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/GWPZslQ8lpc" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/live-from-the-lone-star-ruby-conference/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110811_01.mp3" length="101807647" type="audio/mpeg"/>
+			<itunes:subtitle>This episode was recorded live at Lone Star Ruby Conference by Opus Video Productions - Show notes are on their way.</itunes:subtitle>
+		<itunes:summary>This episode was recorded live at Lone Star Ruby Conference by Opus Video Productions
 
-	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code)
-	David Brady (blog twitter github ADDcasts)
-	James Edward Gray (blog twitter github)
-	Josh Susser (twitter github blog)
-
- 
-Discussed in this podcast:
-Definition of Queuing and Background Processes:
-
-	Queuing is about messaging. Typically first in first out (FIFO)
-	Background Processes are processes that pull messages off the queue and do things later.
-
-Systems that people have used
-
-	Beanstalk
-	Resque
-	cron
-	RabbitMQ
-	bunny
-	ZeroMQ
-	BackgroundRB
-	AMQP
-	Delayed Job
-	Queue Classic
-
- 
-
-	Poor man’s queue or database backed queue
-
-What do you look for in your queue technology?
-
-	How it takes failure
-	Introspection
-	It depends on what you’re doing
-
-	Regular tasks vs. Immediate tasks
-	One worker vs several workers on several servers
-
-
-Dave’s beanstalk utilities
-Beanstalk RailsCast
-
-Hybrid approaches
-
-	Google’s Geocoding API - Rate-limiting with cron
-	Amazon’s FPS - polling amazon to get updates on payments
-
-Best Practices
-
-	Structure jobs so they are simple input/output
-	Isolate your jobs as much as possible from the database
-	Decouple your application from your queue - Message Passing
-	Distributed == Not Dependent - If the job dies and you are broken, you’re designed wrong
-	Idempotence on the job
-	Messaging Queue == State Machine
-	Logging/Emailing when something is unprocessed for too long
-
-What do you send to the background?
-
-	Payment Processing
-	Emails
-	PDF Generation
-	Billing reconciliation
-	Geocoding
-	External Web Services
-	Collate events into an aggregate event
-	Farming out multiple jobs to multiple queues
-	Separate unusual resources onto other servers
-
-Picks
-
-	Service-Oriented Design with Ruby and Rails (Addison-Wesley Professional Ruby Series) (Dave)
-	Enchantment: The Art of Changing Hearts, Minds, and Actions (Dave)
-	If you gaze into nil, nil gazes also into you (Avdi)
-	hacker monthly (Avdi)
-	rubythere.com (Josh)
-	code for america (Josh)
-	Philosophy Gym (James)
-	Philosophy Bites (James)
-	Ask a Ninja (Chuck)
-	Ruby 1.9 (Chuck)
-	RVM (Chuck)</itunes:summary>
+Show notes are on their way.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:06:29</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110804_01.mp3" fileSize="95742310" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/queues-and-background-processing/</feedburner:origLink></item>
+		<itunes:duration>1:10:42</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110811_01.mp3" fileSize="101807647" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/live-from-the-lone-star-ruby-conference/</feedburner:origLink></item>

@@ -1,171 +1,133 @@
 <item>
-		<title>085 RR Cloud Computing with Wesley Beary</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/M4skJ-GdmjI/</link>
-		<comments>http://rubyrogues.com/085-rr-cloud-computing-with-wesley-beary/#comments</comments>
-		<pubDate>Wed, 26 Dec 2012 16:00:04 +0000</pubDate>
+		<title>102 RR Rhetoric with Joseph Wilk</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/AHEZRcW9uVI/</link>
+		<comments>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/#comments</comments>
+		<pubDate>Wed, 24 Apr 2013 13:00:36 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Joseph Wilk]]></category>
 		<category><![CDATA[Katrina Owen]]></category>
-		<category><![CDATA[Wesley Beary]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=995</guid>
-		<description>Panel Wesley Beary (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:07 &amp;#8211; Best of Parley Method Chaining Benefits by Patrick Veverka 03:41 &amp;#8211; [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/M4skJ-GdmjI" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/085-rr-cloud-computing-with-wesley-beary/feed/</wfw:commentRss>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1290</guid>
+		<description>Panel Joseph Wilk (twitter github blog) Katrina Owen (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) Discussion 00:55 &amp;#8211; Joseph Wilk Introduction 01:43 &amp;#8211; Confreaks &amp;#124; Ruby Conference 2012: Someone is Wrong by Joseph Wilk 02:55 &amp;#8211; Rhetoric Amphora 04:35 &amp;#8211; Why [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/AHEZRcW9uVI" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR085CloudComputing.mp3" length="63539981" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Wesley Beary (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Katrina Owen (twitter github blog) </itunes:subtitle>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" length="63384911" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Joseph Wilk (twitter github blog)   Katrina Owen (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog) - Discussion </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Wesley Beary (twitter github blog)
-	Avdi Grimm (twitter github blog book)
-	David Brady (twitter github blog ADDcasts)
-	James Edward Gray (twitter github blog)
+	Joseph Wilk (twitter github blog)
 	Katrina Owen (twitter github blog)
-	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
 
 Discussion
-02:07 - Best of Parley
-
-	Method Chaining Benefits by Patrick Veverka
-
-03:41 - The Cloud
-
-	Cloud Computing (Wikipedia)
-
-EngineYard
-
-Terremark
-
-05:30 - Services offered in the Amazon Cloud
+00:55 - Joseph Wilk Introduction
+01:43 - Confreaks | Ruby Conference 2012: Someone is Wrong by Joseph Wilk
+02:55 - Rhetoric
 
 
-Amazon Elastic Compute Cloud (EC2)
-	Amazon Simple Storage Services (S3)
-	Amazon CloudFront Content Delivery Network (CDN)
-	Amazon DynamoDB
+	Amphora
 
-06:28 - VPS Providers
+04:35 - Why should rhetoric be important to programmers?
 
 
-Linode - Xen VPS Hosting
+	Communication
+	Building for the real world
 
-Rackspace Cloud
-
-07:19 - Difference between VPS Providers and Cloud Resources
-
-09:02 - Cost and Storage
+06:33 - Persuasion
 
 
-VMware
+	Persuasion vs Winning
+	Writing persuasive code
+	Growth of human factors in application development: Alistair Cockburn
 
-RightScale Cloud Management
-
-Heroku
-
-17:30 - Types/Categories of Cloud Services
-
-	DNS Management
-
-Block Storage (EBS on EC2)
-
-Database related services
-
-Low balancing related services
-
-Email
-
-19:16 - SaaS vs Cloud
-
-26:59 - Preferred tools for Provisioning
+11:59 - Expressing ideas via programming languages
 
 
-Chef
+	Creating Passionate Users: When only the glib win, we all lose
+	YouTube | Growing a Language by Guy Steele
+	“Autistic Language”
 
-Puppet Labs
-
-28:04 - Getting Started with SaaS
-
-
-Instagram Architecture: 14 Million Users, Terabytes Of Photos, 100s of Instances, Dozens Of Technologies
-
-Instagram Engineering Blog
-
-35:32 - fog - The Ruby cloud services library
-
-	SimpleDB
-
-37:47 - Moving to the Cloud
-
-	Transience
-	Colos vs Clouds
-
-47:48 - Heroku API
+19:59 - Literate Programming
+24:35 - Emotions and Words
 
 
-Running Heroku on Heroku by Noah Zoschke
+	Thank You for Arguing: What Aristotle, Lincoln, And Homer Simpson Can Teach Us About the Art of Persuasion by Jay Heinrichs
+	Past Tense/Forensic Debate: Seeks to find out why or how something happened; to fix blame
+	Present Tense/Ethical Debate: Seeks to divide the listeners into tribes pro/con; for/against
+	Future Tense/Deliberative Debate: Seeks to choose among alternatives
+
+35:59 - Rhetoric of Tools
+
+
+	Six Thinking Hats
+	Dreyfus model of skill acquisition
+	Persuasion by authority
+
+46:36 - Rhetoric and persuasion in code
 
 Picks
 
-	TotalSpaces - the ultimate grid spaces manager for your Mac (James)
-	Random Shopper (James)
-	xkcd (David)
-	The Happiness Project by Gretchen Rubin (David)
-	Power of 60 (Katrina)
-	Thesaurus.com (Katrina)
-	Wordoid (Katrina)
-	Lenovo ThinkPad X230 Ultrathin &amp; Light Laptop (Avdi)
-	Epic Rap Battles of History (Avdi)
-	Iowa City, Iowa (Wesley)
-	ithlete Heart Rate Variability Monitor (Wesley)
-	The Hobbit (Chuck)
-	The Hobbit Soundtrack (Chuck)
+	Thank You for Arguing: What Aristotle, Lincoln, And Homer Simpson Can Teach Us About the Art of Persuasion by Jay Heinrichs (David)
+	Crucial Conversations: Tools for Talking When Stakes Are High by Kerry Patterson (David)
+	Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior by Kerry Patterson (David)
+	The Bromeliad Trilogy: Truckers, Diggers, and Wings by Terry Pratchett (David)
+	HandBrake (Avdi)
+	Terry Pratchett Movies: Going Postal, The Color of Magic, Hogfather (Avdi)
+	The Gentle Art of Verbal Self Defense by Suzette Haden Elgin (Katrina)
+	Procrastination Is Not Laziness | Thought Catalog (Katrina)
+	Dynamic Method Definitions | Tenderlovemaking (James)
+	MRI's Method Caches | James Golick (James)
+	Quotes of Contempt (Joseph)
+	Your Logical Fallacy Is Poster (Joseph)
+	Winning Arguments: From Aristotle to Obama - Everything You Need to Know about the Art of Persuasion by Jay Heinrichs (Joseph)
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andrew Hunt (Joseph)
 
-Next Week
-Learning from the Past with Arlen Walker
+Homework
+
+Watch the first ten minutes of YouTube | Growing a Language by Guy Steele.
 Book Club
-The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
-
-	First create a user account:  www.informit.com/join
-	SAVE 40% When You Buy 2:  www.informit.com/ruby
-	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
-	(Includes FREE SHIPPING within the U.S.!)
-
+The Rails View by John Athayde and Bruce Williams: Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+Next Week
+Rogues Only: The Care and Feeding of Ruby Gems
 Transcript
-DAVID: Dear monkeys!                         
 
-Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net.
 
-This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby.
+JOSEPH:  Arguing with an Engineer is like wrestling with a pig in mud. After a while, you realize the pig is enjoying it.
 
-This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.
+[Laughter]
 
-CHUCK: Hey everybody and welcome to Episode 85 of the Ruby Rogues podcast! This week on our panel, we have Avdi Grimm.
 
-AVDI: Hello from Pennsylvania!
 
-CHUCK: David Brady.
+[Hosting and bandwidth provided by The Blue Box Group. Check them out at BlueBox.net.] 
 
-DAVID: I will not make jokes during the intro. I will not make jokes during the intro.
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
 
-CHUCK: James Edward Gray.
+JAMES:  Hello everybody, and welcome to Ruby Rogues. This is Episode 102. And I will be your host today. I'm James Edward Gray II. With me today are, Katrina Owen.
 
-JAMES: I always make jokes during the intro.
+KATRINA:  Hello.
 
-CHUCK: Katrina Owen.
+JAMES:  David Brady.
 
-KATRINA: Hello from Oslo!
+DAVID:  Hello and welcome!
 
-CHUCK: I'm Charles Max Wood from devchat.tv. I really quickly want to announce that I'm going to be teaching a Ruby on Rails Course this spring, and you can sign up at railsrampup.com. We also have special guest and that's Wesley. Is it Berry or Beery?
+JAMES:  Avid Grimm.
 
-WESLEY: Berry like the animal. Or the fruit, I guess.
+AVDI:  Hello, hello!
 
-CHUCK: Do you want to introduce yourself real quick? I don't think you've been on the show before.
+JAMES:  And today, we have a special guest, Joseph Wilk. Joseph, since this is your first time on here, why don’t you introduce your self?
 
-WESLEY: Sure, yeah. My name's Wesley Beary,</itunes:summary>
+JOSEPH:  Yeah. Hi, as you said, my name is Joseph Wilk. I've been messing around with Ruby the last ten years or so. And I've been doing a lot of work and looking into Rhetoric and how that helps us in development.
+
+JAMES:  So, I guess we’ll start with the super obvious question. Rhetoric is a new programming language that we’re all going to be using soon?
+
+</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:06:11</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR085CloudComputing.mp3" fileSize="63539981" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/085-rr-cloud-computing-with-wesley-beary/</feedburner:origLink></item>
+		<itunes:duration>1:06:02</itunes:duration>
+        <media:content url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" fileSize="63384911" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/</feedburner:origLink>
+</item>

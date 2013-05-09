@@ -1,153 +1,143 @@
 <item>
-		<title>078 RR Hexagonal Rails with Matt Wynne and Kevin Rutherford</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/ArBeuiZgnqc/</link>
-		<comments>http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/#comments</comments>
-		<pubDate>Wed, 07 Nov 2012 13:00:10 +0000</pubDate>
+		<title>094 RR Robust Ruby with Ara T. Howard</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/DZca8XzaRHU/</link>
+		<comments>http://rubyrogues.com/094-rr-robust-ruby-with-ara-t-howard/#comments</comments>
+		<pubDate>Wed, 27 Feb 2013 14:00:36 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
+				<category><![CDATA[Ara T. Howard]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Kevin Rutherford]]></category>
-		<category><![CDATA[Matt Wynne]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=850</guid>
-		<description>Panel Matt Wynne (twitter github blog) Kevin Rutherford (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Josh Susser (twitter github blog) James Edward Gray (blog twitter github) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 01:30 &amp;#8211; Ruby Nuby Project Ruby Rogues Ruby [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/ArBeuiZgnqc" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR078HexagonalRails.mp3" length="66711052" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Matt Wynne (twitter github blog)   Kevin Rutherford (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Josh Susser (twitter github blog)   James Edward Gray (blog twitter github) </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1166</guid>
+		<description>Panel Ara T. Howard (twitter github mostlovelyart) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:48 &amp;#8211; Ara T. Howard Introduction CTO of codeforpeople.com dojo4 NOAA &amp;#8211; [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/DZca8XzaRHU" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/094-rr-robust-ruby-with-ara-t-howard/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR094AraTHoward.mp3" length="68142527" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Ara T. Howard (twitter github mostlovelyart)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Katrina Owen (twitter github blog) </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Matt Wynne (twitter github blog)
-	Kevin Rutherford (twitter github blog)
+	Ara T. Howard (twitter github mostlovelyart)
+	James Edward Gray (twitter github blog)
 	Avdi Grimm (twitter github blog book)
 	David Brady (twitter github blog ADDcasts)
-	Josh Susser (twitter github blog)
-	James Edward Gray (blog twitter github)
-	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+	Katrina Owen (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
 
 Discussion
-01:30 - Ruby Nuby Project
+01:48 - Ara T. Howard Introduction
 
-	Ruby Rogues Ruby Nuby Project Submitted Videos
+	CTO of codeforpeople.com
+	dojo4
+	NOAA - National Oceanic and Atmospheric Administration
+	ahoward / map
+	ahoward / dao
+	ahoward / slave
 
-02:30 - Best of Parley
+10:11 - ahoward / rq (Ruby Queue)
 
-	Life After POODR by Eoin Kelly
+	Jeremy Hinegardner (@copiousfreetime)
+	NOAA Jet Supercomputer
+	NOAA National Geophysical Data Center (NGDC)
+	Change Detection In Satellite Observed Change Detection In Satellite Observed Nighttime Lights: 1992 - 2003
 
-03:20 - Podcast Awards
+15:04 - Hurricane Katrina Image Processing
 
-	Vote once a day, every day for Ruby Rogues!
+	Linux Clustering with Ruby Queue: Small Is Beautiful - Ara T. Howard
+	Katrina images generated with Ruby - Ara T. Howard
+	Google Search: katrina dmsp ara t. howard results
+	Guy Decoux
 
-05:34 - Hexagonal Rails Definition
+24:21 - Making Ruby Robust
 
-	Growing Object-Oriented Software, Guided by Tests by Steve Freeman
-	Hexagonal Rails by Matt Wynne: GORUCO 2012 talk
+	SQLite
+	Dining Philosophers Problem
+	Caching
+	Ruby on Rails Guides: Asset Pipeline
 
-08:31 - Alistair Cockburn: Hexagonal Architecture
+33:00 - Thinking and mapping problems (Design)
 
-	Ports and Adapters
-	Active Record
+	An XP Guy
+	Exceptional Ruby by Avdi Grimm
+	rescue Object vs rescue Exception
 
-15:15 - Dependency Inversion
+48:53 - Testing and Documentation
 
-
-Hidden depencies
-
-Rake tasks
-
-19:53 - Domain models and persistence models
-
-	Demoting Active Record model classes to be merely persistence
-	Domain logic
-
-27:57 - Flowing the code
-
-35:58 - Object-oriented design
-
-	Kent Beck: To Design or Not to Design? A Third Good Question
-	Connected architecture and modular architecture
-	Smalltalk Best Practice Patterns by Kent Beck
-	076 RR Service-Oriented Design with Paul Dix
-
-45:03 - Writing acceptance tests and unit tests
-
-	The Cucumber Book: Behavior-Driven Development for Testers and Developers by Matt Wynne
-
-50:21 - Service Oriented Architecture (SOA)
-
-	CQRS - Command Query Responsibility Segregation
-	Daniel Lucraft: From 15 hours to 15 seconds: reducing a crushing build time
+	ahoward / rego
+	ahoward / testy
+	Readme Driven Development - Tom Preston-Werner
 
 Picks
 
-	Xiki (James)
-	Xiki: Can your shell console do this? (James)
-	Kathryn Schulz: On being wrong (James)
-	RubyConf (Josh)
-	#RubyFriends (Josh)
-	Redshirts: A Novel with Three Codas by John Scalzi (Avdi)
-	ASUS Zenbook Prime UX31A-DB71 13.3-Inch Ultrabook (David)
-	GhostSingles.com (Chuck)
-	RailsApps / rails-stripe-membership-saas (Chuck)
-	Metaphors We Live By by George Lakoff and Mark Johnson (Kevin)
-	Paleolithic diet (Kevin)
-	The River Cottage Bread Handbook by Daniel Stevens (Matt)
-	Mighty Leaf Tea (Matt)
-	webmachine-ruby (Matt)
-	Kensington 3374 Wireless Presenter with Laser Pointer (Matt)
+	Celluloid: Fix some potential concurrent mutation problems (Tony Arcieri) (James)
+	Sentinels of the Multiverse (James)
+	Ara T. Howard Github Repositories (Avdi)
+	Index of /lib/ruby (Avdi)
+	Tom Bihn (Avdi)
+	Google Search: katrina dmsp ara t. howard results (David)
+	codeforpeople.com/katrina/ (David)
+	Ashe Dryden / @ashedryden (David)
+	ahoward / main (Katrina)
+	C.G.P. Grey (Katrina)
+	Designer Habitat - Floating Adjustable Shelf Wall Mount Bracket (Chuck)
+	Parade of Homes (Chuck)
+	Gödel's incompleteness theorems (Ara)
+	How to Practice : The Way to a Meaningful Life by Dalai Lama (Ara)
+	Artsy: What did the Sphinx Say? (Ara)
 
+Book Club
+Patterns of Enterprise Application Architecture by Martin Fowler: Read along with us! We will be discussing the book with Martin himself and the episode will air on Wednesday, March 20th, 2013.
 Next Week
-
-	Documenting Code
-
-Ruby Rogues Book Club
-The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
-
-	First create a user account: www.informit.com/join
-	SAVE 40% When You Buy 2: www.informit.com/ruby
-	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
-	(Includes FREE SHIPPING within the U.S.!)
-
+People and Team Dynamics with Joe O'Brien
 Transcript
-DAVE: I wanna close down 19 pubs with you guys.
+DAVID:  Well, my mom doesn’t remember Woodstock, which means she was there.
 
-[laughter]
+[Laughter]
 
-MATT: Yes. Exactly.
-
-DAVE: And I don’t drink. [laughs]
-
-KEVIN: Well, nor do I. But join us for a cup of tea anytime.
+ARA:  Oh, that’s hilarious.
 
 
 
-[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at  BlueBox.net.] 
 
-[This episode is sponsored by JetBrains -- makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to  RubyRogues.com/NewRelic.] 
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+[This episode is brought to you by WAZA, Heroku’s one day celebration of art and technique. Join Matz, Aaron Patterson, and more on February 28th in San Francisco. Use exclusive code ruby-rogues-13 for $50 off registration at WAZA.Heroku.com.] 
 
-CHUCK: Hey everybody and welcome to episode 78 of the Ruby Rogues Podcast! This week on our panel, we have Avdi Grimm.
+CHUCK:  Hey, everybody and welcome to Episode 94 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
 
-AVDI: Hello from the top of Mount Ararat.
+JAMES:  Hello everyone.
 
-CHUCK: We also have David Brady.
+CHUCK:  Avdi Grimm.
 
-DAVE: Good morning! And if the opening show quote was from me, I didn’t say it.
+AVDI:  Hey from Pennsylvania.
 
-CHUCK: We also have Josh Susser.
+CHUCK:  David Brady.
 
-JOSH: Hey. Good morning from sunny San Francisco!
+DAVID:  Hey everybody. I’m really excited to be here today because I’ve been stalking Ara for about seven years now. And the closest I’ve come is I filled in for him at MountWest Ruby Conf last year when he couldn’t make it to the conference. I took his speaker slot.
 
-CHUCK: We have James Edward Gray.
+CHUCK:  So, the closest you’ve ever gotten is him not being there.
 
-JAMES: Good morning everybody!
+DAVID:  Yes.
 
-CHUCK: And I'm Charles Max Wood from devchat.tv.</itunes:summary>
+[Laughter]
+
+CHUCK:  Alright. We also have Katrina Owen.
+
+KATRINA:  Hi, I’m very excited to be here today because I’ve missed the last two episodes due to being stuck in a time travel paradox.
+
+CHUCK:  Wow!
+
+JAMES:  Ouch!
+
+CHUCK:  I’m Charles Max Wood from DevChat.tv. You have one week left to sign up for Rails Ramp Up. And we have a special guest. That is Ara T. Howard. Is that how you want to be introduced?
+
+ARA:  That will do just fine.
+
+CHUCK:  Alright. Since you haven’t been on the show before,</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:09:29</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR078HexagonalRails.mp3" fileSize="66711052" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/</feedburner:origLink></item>
+		<itunes:duration>1:10:59</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR094AraTHoward.mp3" fileSize="68142527" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/094-rr-robust-ruby-with-ara-t-howard/</feedburner:origLink></item>

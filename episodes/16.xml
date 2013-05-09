@@ -1,25 +1,204 @@
 <item>
-		<title>The 015 RR Science and Engineering of Computer Programming</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/GWPZslQ8lpc/</link>
-		<comments>http://rubyrogues.com/live-from-the-lone-star-ruby-conference/#comments</comments>
-		<pubDate>Tue, 16 Aug 2011 21:34:22 +0000</pubDate>
+		<title>016 RR Becoming a Better Developer</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/-3kavIgbdEE/</link>
+		<comments>http://rubyrogues.com/becoming-a-better-developer/#comments</comments>
+		<pubDate>Thu, 25 Aug 2011 17:25:43 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[ruby]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=102</guid>
-		<description><![CDATA[This episode was recorded live at Lone Star Ruby Conference by Opus Video Productions Show notes are on their way.]]></description>
-			<content:encoded><![CDATA[<p></p><p>This episode was recorded live at <a href="http://lonestarrubyconf.com/">Lone Star Ruby Conference</a> by <a href="http://opusvideoproductions.com/">Opus Video Productions</a></p>
-<p>Show notes are on their way.</p>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/GWPZslQ8lpc" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/live-from-the-lone-star-ruby-conference/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110811_01.mp3" length="101807647" type="audio/mpeg"/>
-			<itunes:subtitle>This episode was recorded live at Lone Star Ruby Conference by Opus Video Productions - Show notes are on their way.</itunes:subtitle>
-		<itunes:summary>This episode was recorded live at Lone Star Ruby Conference by Opus Video Productions
+		<guid isPermaLink="false">http://rubyrogues.com/?p=113</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussed in this Episode How do you score developers? Salary When you run out of ideas How wide is the angle of [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3 id="internal-source-marker_0.6137702692332551" dir="ltr">Panel</h3>
+<ul>
+<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+</ul>
+<h3 dir="ltr">Discussed in this Episode</h3>
+<p>How do you score developers?</p>
+<ul>
+<li>Salary</li>
+<li>When you run out of ideas</li>
+<li>How wide is the angle of your re-approach</li>
+</ul>
+<p>Debugging does not stop when you run out of answers, it stops when you run out of questions</p>
+<p>Josh brought up <a href="http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/">this article.</a></p>
+<p>A few points brought up regarding getting better were:</p>
+<ul>
+<li>Practice</li>
+<li>Measuring achievements</li>
+<li>Learn the Fundamentals</li>
+<li>Start a hard project</li>
+<li>Practice builds skills and habits</li>
+<li>Habit vs instinct</li>
+<li>Dunning Kruger effect</li>
+</ul>
+<p>Non-code related qualities that make you a better coder:</p>
+<ul>
+<li>Empathy</li>
+<li>Communication Skills</li>
+</ul>
+<h3 dir="ltr">Panel suggestions for being better</h3>
+<p>James:</p>
+<ul>
+<li>Become a better communicator</li>
+<li>Learn from other fields (brain physiology as an example)</li>
+</ul>
+<p>Avdi:</p>
+<ul>
+<li>Practice</li>
+<li>Read</li>
+<ul>
+<li><a href="http://www.amazon.com/gp/product/0735619670/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0735619670">Code Complete</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0735619670&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /></li>
+<li><a href="http://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=020161622X">The Pragmatic Programmer</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=020161622X&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /></li>
+</ul>
+<li>Work with other people and read their code</li>
+</ul>
+<p>David:</p>
+<ul>
+<li>Never stop playing</li>
+<li>Never stop learning</li>
+<li>Never stop failing</li>
+<li>Never stop until you succeed</li>
+</ul>
+<p>Josh:</p>
+<ul>
+<li>Pair program</li>
+<li>Care about something</li>
+<li>Tackle hard problems</li>
+</ul>
+<p>Chuck:</p>
+<ul>
+<li>Be confident in your skills</li>
+<li>Tackle hard problems</li>
+<li>Get to know advanced programmers</li>
+</ul>
+<p>Problems you can tackle:</p>
+<ul>
+<li>Language Interpreter</li>
+</ul>
+<h3 dir="ltr">Picks</h3>
+<ul>
+<li><a href="http://pragprog.com/">Pragmatic Programmers</a> (James)</li>
+<li><a href="http://avdi.org/">Avdi Grimm in every form</a> (James)</li>
+<li><a href="http://exceptionalruby.com/">Exceptional Ruby</a> (James)</li>
+<li><a href="http://blog.grayproductions.net/articles/all_about_struct">James’ blog</a> (Avdi)</li>
+<li><a href="https://github.com/velesin/jasmine-jquery">jasmine-jquery</a> (Avdi)</li>
+<li><a href="http://sinonjs.org/">sinon.js</a> (Avdi)</li>
+<li><a href="https://github.com/froots/jasmine-sinon">jasmine-sinon</a> (Avdi)</li>
+<li><a href="http://travis-ci.org/">Travis CI </a>(Josh)</li>
+<li>Yoga (Josh)</li>
+<li><a href="http://www.amazon.com/s?ie=UTF8&amp;x=0&amp;ref_=nb_sb_noss&amp;y=0&amp;field-keywords=standing%20desk&amp;url=search-alias%3Daps#?_encoding=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=ur2&amp;camp=1789&amp;creative=390957">Standing Desk</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=ur2&amp;o=1" alt="" width="1" height="1" border="0" /> (David)</li>
+<li><a href="http://www.amazon.com/gp/product/0321278658/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0321278658">Extreme Programming Explained</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0321278658&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (David)</li>
+<li><a href="http://www.amazon.com/gp/product/0470876417/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0470876417">Business Model Generation</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=&amp;l=as2&amp;o=1&amp;a=0470876417&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /> (David)</li>
+<li><a href="http://www.rubyquiz.com/">Ruby Quiz</a> (Chuck)</li>
+<li><a href="http://projecteuler.net/">Project Euler</a> (Chuck)</li>
+<li><a href="https://github.com/rails/rails/tree/master/activemodel">ActiveModel</a> (Chuck)</li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/-3kavIgbdEE" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/becoming-a-better-developer/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110818_01.mp3" length="110152552" type="audio/mpeg"/>
+			<itunes:keywords>ruby</itunes:keywords>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussed in this Episode </itunes:subtitle>
+		<itunes:summary>Panel
 
-Show notes are on their way.</itunes:summary>
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code)
+	David Brady (blog twitter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussed in this Episode
+How do you score developers?
+
+	Salary
+	When you run out of ideas
+	How wide is the angle of your re-approach
+
+Debugging does not stop when you run out of answers, it stops when you run out of questions
+
+Josh brought up this article.
+
+A few points brought up regarding getting better were:
+
+	Practice
+	Measuring achievements
+	Learn the Fundamentals
+	Start a hard project
+	Practice builds skills and habits
+	Habit vs instinct
+	Dunning Kruger effect
+
+Non-code related qualities that make you a better coder:
+
+	Empathy
+	Communication Skills
+
+Panel suggestions for being better
+James:
+
+	Become a better communicator
+	Learn from other fields (brain physiology as an example)
+
+Avdi:
+
+	Practice
+	Read
+
+	Code Complete
+	The Pragmatic Programmer
+
+	Work with other people and read their code
+
+David:
+
+	Never stop playing
+	Never stop learning
+	Never stop failing
+	Never stop until you succeed
+
+Josh:
+
+	Pair program
+	Care about something
+	Tackle hard problems
+
+Chuck:
+
+	Be confident in your skills
+	Tackle hard problems
+	Get to know advanced programmers
+
+Problems you can tackle:
+
+	Language Interpreter
+
+Picks
+
+	Pragmatic Programmers (James)
+	Avdi Grimm in every form (James)
+	Exceptional Ruby (James)
+	James’ blog (Avdi)
+	jasmine-jquery (Avdi)
+	sinon.js (Avdi)
+	jasmine-sinon (Avdi)
+	Travis CI (Josh)
+	Yoga (Josh)
+	Standing Desk (David)
+	Extreme Programming Explained (David)
+	Business Model Generation (David)
+	Ruby Quiz (Chuck)
+	Project Euler (Chuck)
+	ActiveModel (Chuck)</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:10:42</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110811_01.mp3" fileSize="101807647" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/live-from-the-lone-star-ruby-conference/</feedburner:origLink></item>
+		<itunes:duration>1:16:29</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110818_01.mp3" fileSize="110152552" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/becoming-a-better-developer/</feedburner:origLink></item>

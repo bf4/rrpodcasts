@@ -1,31 +1,152 @@
 <item>
-		<title>079 RR Documenting Code</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/8Va6m4NdRpI/</link>
-		<comments>http://rubyrogues.com/079-rr-documenting-code/#comments</comments>
-		<pubDate>Wed, 14 Nov 2012 13:00:45 +0000</pubDate>
+		<title>095 RR People and Team Dynamics with Joe O’Brien</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/dXMrO79o8X8/</link>
+		<comments>http://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/#comments</comments>
+		<pubDate>Wed, 06 Mar 2013 14:00:04 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Joe O'Brien]]></category>
 		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=864</guid>
-		<description>Panel David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) James Edward Gray (blog twitter github) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 01:58 &amp;#8211; Ruby Nuby Submissions: 2.5+ hours worth of content 02:37 &amp;#8211; Best of Parley Crafting Outside the [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/8Va6m4NdRpI" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/079-rr-documenting-code/feed/</wfw:commentRss>
-		<slash:comments>6</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR079DocumentingCode.mp3" length="77370229" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   James Edward Gray (blog twitter github)   Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) - </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1178</guid>
+		<description>Panel Joe O’Brien (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Katrina Owen (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:06 &amp;#8211; Joe O’Brien Introduction EdgeCase Funemployment GoGaRuCo 2012 &amp;#8211; Joe O&amp;#8217;Brien: People the [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/dXMrO79o8X8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR095PeopleTeamDynamics.mp3" length="67639389" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Joe O’Brien (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Katrina Owen (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Cod...</itunes:subtitle>
 		<itunes:summary>Panel
 
-	David Brady (twitter github blog ADDcasts)
-	Avdi Grimm (twitter github blog book)
+	Joe O’Brien (twitter github blog)
 	Josh Susser (twitter github blog)
-	James Edward Gray (blog twitter github)
-	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+	Avdi Grimm (twitter github blog book)
+	Katrina Owen (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
 
-Dis...</itunes:summary>
+Discussion
+01:06 - Joe O’Brien Introduction
+
+	EdgeCase
+	Funemployment
+	GoGaRuCo 2012 - Joe O'Brien: People the missing ingredient
+	Steel City Ruby 2012 - Joe O'Brien: People Patterns
+
+04:46 - People for Geeks
+
+	Introverts and Extroverts
+	Myers-Briggs Test
+
+13:13 - Empathy and Sympathy
+
+	Assburger Syndrome
+	Asperger Syndrome
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+
+19:33 - Conversation Rolodex
+
+	Giving compliments and taking compliments
+
+26:58 - The 3 Realities
+
+31:56 - Working with empathetic people vs skilled people
+
+37:33 - Evaluating prospective employees
+
+	Passion
+
+39:50 - Team “Fit”
+
+	Abrasiveness
+	“The Secretary Test” / “The Waiter Test”
+
+45:52 - Dealing w/ Bosses
+
+	Training
+
+51:26 - Project Phases and People
+
+	Groupthink
+	Trust Building
+	Agile Retrospectives: Making Good Teams Great by Esther Derby
+
+Picks
+
+	oEmbed (Avdi)
+	Embedly (Avdi)
+	Mass Effect (Avdi)
+	DataTables (David)
+	Archer (David)
+	TOML (Josh)
+	If you ever feel alone in this...: Darius "Bubs" Monsef (Josh)
+	Jeff Goldblum's ‘80s work (Josh)
+	Earth Girls Are Easy (Josh)
+	Vibes (Josh)
+	The Adventures of Buckaroo Banzai Across the 8th Dimension (Josh)
+	Mob Programming (Katrina)
+	The Up-Goer Five Text Editor (Katrina)
+	xkcd: Up Goer Five (Katrina)
+	The Up-Goer Five Text Editor (Katrina's Example) (Katrina)
+	RailsCasts: Episode #340 DataTables (Chuck)
+	rweng / jquery-datatables-rails (Chuck)
+	nathanl / authority (Chuck)
+	Anker Battery Pack (Chuck)
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt (Joe)
+	How To Win Friends and Influence People by Dale Carnegie (Joe)
+	Rands In Repose (Joe)
+	Being Geek (Joe)
+	Managing Humans (Joe)
+	Get a hobby (Joe)
+
+Book Club
+Patterns of Enterprise Application Architecture by Martin Fowler: Read along with us! We will be discussing the book with Martin himself and the episode will air on Wednesday, March 20th, 2013.
+Next Week
+Topaz with Alex Gaynor
+Transcript
+JOE:  People, the cause of all greatness and problems.
+
+CHUCK:  That’s so true.
+
+JOSH:  I thought it was beer.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey, everybody and welcome to Episode 95 of the Ruby Rogues podcast. This week on our panel, we have Josh Susser.
+
+JOSH:  Hey, good morning from beautiful, sunny San Francisco.
+
+CHUCK:  We also have Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hello from Montreal.
+
+CHUCK:  David Brady.
+
+DAVID:  Montreal? You're in Denver!
+
+KATRINA:  That was yesterday.
+
+DAVID:  Hi from Salt Lake City.
+
+[Laughter]
+
+CHUCK:  I’m Charles Max Wood from  HYPERLINK "http://www.DevChat.tv" DevChat.tv. And this week, we have a special guest. And that is Joe O’Brien.
+
+JOE:  Hello and welcome from a not-so-sunny, not-so-beautiful flyover City of Ohio.
+
+CHUCK:  So Joe, I know we all know who you are. But this is your first time on the show. Do you want to introduce yourself really quickly so people can get an idea of where you're at and who you are?
+
+JOE:  Yeah. So, hello, I'm Joe O’Brien. I founded a company called EdgeCase, co-founded back in 2006, right about the start of the Rails boom. I got to speak at the first ever Rails, first two ever Rails conferences, depending on how you measure it and look at it. I was at both of them. And I have been enjoying it ever since. And I recently left the company. They're in great hands.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:20:36</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR079DocumentingCode.mp3" fileSize="77370229" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/079-rr-documenting-code/</feedburner:origLink></item>
+		<itunes:duration>1:10:27</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR095PeopleTeamDynamics.mp3" fileSize="67639389" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/095-rr-people-and-team-dynamics-with-joe-obrien/</feedburner:origLink></item>

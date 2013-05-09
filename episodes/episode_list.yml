@@ -2,320 +2,320 @@
 - :feed_number: 1
   :title: 001 RR Testing Practices and Tools
   :enclosure: RubyRogues050511.mp3
-- :feed_number: 3
+- :feed_number: 2
   :title: 002 RR Virtual Machines, Concurrency, and the Future of Ruby
   :enclosure: RubyRogues051211.mp3
-- :feed_number: 4
+- :feed_number: 3
   :title: 003 RR Templating Languages for HTML, CSS, and JavaScript
   :enclosure: RubyRogues20110519.mp3
-- :feed_number: 5
+- :feed_number: 4
   :title: 004 RR Databases, SQL, & NoSQL
   :enclosure: RubyRogues20110526.mp3
-- :feed_number: 6
+- :feed_number: 5
   :title: 005 RR RubyGems, Open Source, and Community
   :enclosure: RubyRogues20110602.mp3
-- :feed_number: 7
+- :feed_number: 6
   :title: 006 RR Conferences and User Groups
   :enclosure: RubyRogues20110609.mp3
-- :feed_number: 8
+- :feed_number: 7
   :title: 007 RR Debugging in Ruby
   :enclosure: RubyRogues20110616.mp3
-- :feed_number: 9
+- :feed_number: 8
   :title: 008 RR Where is Rails Headed?
   :enclosure: RubyRogues20110623.mp3
-- :feed_number: 10
+- :feed_number: 9
   :title: 009 RR What Makes Beautiful Code
   :enclosure: RubyRogues20110630_01.mp3
-- :feed_number: 11
+- :feed_number: 10
   :title: 010 RR Personal Design Rules
   :enclosure: RubyRogues20110707_01.mp3
-- :feed_number: 12
+- :feed_number: 11
   :title: 011 RR Corporate Sponsors of Open Source Software
   :enclosure: RubyRogues20110714_01.mp3
-- :feed_number: 13
+- :feed_number: 12
   :title: 012 RR Metaprogramming in Ruby
   :enclosure: RubyRogues20110721_01.mp3
-- :feed_number: 14
+- :feed_number: 13
   :title: 013 RR Technical Debt
   :enclosure: RubyRogues20110728_01.mp3
-- :feed_number: 15
+- :feed_number: 14
   :title: 014 RR Queues and Background Processing
   :enclosure: RubyRogues20110804_01.mp3
-- :feed_number: 16
+- :feed_number: 15
   :title: The 015 RR Science and Engineering of Computer Programming
   :enclosure: RubyRogues20110811_01.mp3
-- :feed_number: 18
+- :feed_number: 16
   :title: 016 RR Becoming a Better Developer
   :enclosure: RubyRogues20110818_01.mp3
-- :feed_number: 19
+- :feed_number: 17
   :title: 017 RR What’s Wrong with Ruby?
   :enclosure: RubyRogues20110901_01.mp3
-- :feed_number: 20
+- :feed_number: 18
   :title: 018 RR What Not to Test
   :enclosure: RubyRogues20110825_01.mp3
-- :feed_number: 21
+- :feed_number: 19
   :title: ! '019 RR Book Club: Exceptional Ruby'
   :enclosure: RubyRogues20110907.mp3
-- :feed_number: 23
+- :feed_number: 20
   :title: 020 RR Object Oriented Programming in Rails with Jim Weirich
   :enclosure: RubyRogues20110914.mp3
-- :feed_number: 24
+- :feed_number: 21
   :title: 021 RR REST Done Right with Steve Klabnik
   :enclosure: RubyRogues20110920.mp3
-- :feed_number: 25
+- :feed_number: 22
   :title: 022 RR When to Use Modules
   :enclosure: RubyRogues20110927.mp3
-- :feed_number: 27
+- :feed_number: 23
   :title: ! '023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck'
   :enclosure: smalltalk_best_practice_patterns.mp3
-- :feed_number: 28
+- :feed_number: 24
   :title: 024 RR Best Practice Patterns Follow Up
   :enclosure: RubyRogues20111011.mp3
-- :feed_number: 29
+- :feed_number: 25
   :title: 025 RR Logging – I Do Not Think It Means What You Think It Means
   :enclosure: RubyRogues20111018.mp3
-- :feed_number: 30
+- :feed_number: 26
   :title: 026 RR Pair Programming
   :enclosure: RubyRogues20111025.mp3
-- :feed_number: 31
+- :feed_number: 27
   :title: 027 RR Teaching Ruby
   :enclosure: RubyRogues20111101.mp3
-- :feed_number: 32
+- :feed_number: 28
   :title: 028 RR Beyond the Web
   :enclosure: RubyRogues20111116.mp3
-- :feed_number: 33
+- :feed_number: 29
   :title: 029 RR Keeping Up with Gowalla
   :enclosure: RubyRogues20111117.mp3
-- :feed_number: 34
+- :feed_number: 30
   :title: 030 RR Software Craftsmanship
   :enclosure: software_craftsmanship.mp3
-- :feed_number: 35
+- :feed_number: 31
   :title: 031 RR Code Reading
   :enclosure: code_reading.mp3
-- :feed_number: 36
+- :feed_number: 32
   :title: 032 RR Ruby Antipatterns
   :enclosure: ruby_antipatterns.mp3
-- :feed_number: 37
+- :feed_number: 33
   :title: 033 RR Book Club – Eloquent Ruby
   :enclosure: eloquent_ruby.mp3
-- :feed_number: 38
+- :feed_number: 34
   :title: 034 RR Benchmarking and Profiling
   :enclosure: 033_RR_Benchmarking_and_Profiling.mp3
-- :feed_number: 39
+- :feed_number: 35
   :title: 035 RR Estimation
   :enclosure: RR35Estimation.mp3
-- :feed_number: 40
+- :feed_number: 36
   :title: 036 RR RubyGems
   :enclosure: rubygems_org.mp3
-- :feed_number: 41
+- :feed_number: 37
   :title: 036A RubyGems Bonus Content
   :enclosure: rubygems_org_bonus_content.mp3
-- :feed_number: 52
+- :feed_number: 38
   :title: Versioning and Releases
   :enclosure: versioning_and_releases.mp3
-- :feed_number: 53
+- :feed_number: 39
   :title: Web Programming and Updating Frameworks
   :enclosure: web_programming_and_updating_frameworks.mp3
-- :feed_number: 54
+- :feed_number: 40
   :title: Programming Language Fundamentals
   :enclosure: Programming_Language_Fundamentals.mp3
-- :feed_number: 55
+- :feed_number: 41
   :title: ''
   :enclosure: RR_40_Editor_War.mp3
-- :feed_number: 56
+- :feed_number: 42
   :title: ''
   :enclosure: 041_RR_Code_Metrics.mp3
-- :feed_number: 57
+- :feed_number: 43
   :title: Ruby Rogues - 042 - Peter Cooper
   :enclosure: 042RRPeterCooper.mp3
-- :feed_number: 58
+- :feed_number: 44
   :title: ! 'Ruby Rogues 043 - Book Club: Land of Lisp'
   :enclosure: RR043LandOfLisp.mp3
-- :feed_number: 59
+- :feed_number: 45
   :title: ''
   :enclosure: 044RRCareer_Choices.mp3
-- :feed_number: 60
+- :feed_number: 46
   :title: Ruby Rogues 045 - Bundler
   :enclosure: RR045Bundler.mp3
-- :feed_number: 61
+- :feed_number: 47
   :title: Ruby Rogues 046 - Objects in Ruby 2
   :enclosure: RR046ObjectsInRuby2.mp3
-- :feed_number: 62
+- :feed_number: 48
   :title: ''
   :enclosure: RR047CodingDiscipline160.mp3
-- :feed_number: 63
+- :feed_number: 49
   :title: Ruby Rogues 048 - Crafting Rails Applications
   :enclosure: RR048-CraftingRailsApplications.mp3
-- :feed_number: 64
+- :feed_number: 50
   :title: Ruby Rogues 049 - Agile Communication
   :enclosure: RR049-Agile_Communication.mp3
-- :feed_number: 65
+- :feed_number: 51
   :title: ''
   :enclosure: RR50HungryAcademy.mp3
-- :feed_number: 66
+- :feed_number: 52
   :title: Ruby Rogues
   :enclosure: RR051GettingStartedWithOpenSource.mp3
-- :feed_number: 68
+- :feed_number: 53
   :title: ''
   :enclosure: RR052LiveFromRailsConf2012.mp3
-- :feed_number: 67
+- :feed_number: 54
   :title: ''
   :enclosure: RR05320-20Square.mp3
-- :feed_number: 69
+- :feed_number: 55
   :title: ''
   :enclosure: RR054CodeExercisesKatasQuizzes.mp3
-- :feed_number: 70
+- :feed_number: 56
   :title: ''
   :enclosure: RR055RubyMotion.mp3
-- :feed_number: 71
+- :feed_number: 57
   :title: ''
   :enclosure: RR056DHH.mp3
-- :feed_number: 72
+- :feed_number: 58
   :title: 057 RR – Ruby Central
   :enclosure: RR057RubyCentral.mp3
-- :feed_number: 73
+- :feed_number: 59
   :title: Ruby Rogues - 058 - Working With Unix Processes
   :enclosure: RR058WorkingWithUnixProcesses.mp3
-- :feed_number: 74
+- :feed_number: 60
   :title: ''
   :enclosure: RR059Security.mp3
-- :feed_number: 75
+- :feed_number: 61
   :title: ''
   :enclosure: RR060Solid.mp3
-- :feed_number: 76
+- :feed_number: 62
   :title: ''
   :enclosure: RR061DDD.mp3
-- :feed_number: 77
+- :feed_number: 63
   :title: ''
   :enclosure: RR062Monitoring.mp3
-- :feed_number: 78
+- :feed_number: 64
   :title: ''
   :enclosure: RR063_HiringProgrammers.mp3
-- :feed_number: 79
+- :feed_number: 65
   :title: ''
   :enclosure: RR064_PresentingAtConferences.mp3
-- :feed_number: 81
+- :feed_number: 66
   :title: 065 RR Functional vs Object Oriented Programming with Michael Feathers
   :enclosure: RR065_FPvsOO_Michael_Feathers.mp3
-- :feed_number: 82
+- :feed_number: 67
   :title: 066 RR Rails Bridge with Sarah Mei
   :enclosure: RR066RailsBridge.mp3
-- :feed_number: 83
+- :feed_number: 68
   :title: 067 RR Gary Bernhardt’s Testing Style
   :enclosure: RR067GaryBernhardt.mp3
-- :feed_number: 84
+- :feed_number: 69
   :title: ! '068 RR Book Club: Growing Object Oriented Software Guided by Tests'
   :enclosure: RR068_GOOS.mp3
-- :feed_number: 85
+- :feed_number: 70
   :title: 069 RR Therapeutic Refactoring with Katrina Owen
   :enclosure: RR069.mp3
-- :feed_number: 86
+- :feed_number: 71
   :title: 070 RR What is a Good Starter Project?
   :enclosure: RR070WhatsAGoodStarterProject.mp3
-- :feed_number: 87
+- :feed_number: 72
   :title: 071 RR Zero Downtime Deploys
   :enclosure: RR071ZeroDowntimeDeploys.mp3
-- :feed_number: 88
+- :feed_number: 73
   :title: 072 RR Entrepreneurship with Amy Hoy
   :enclosure: RR072Entrepreneurship4.mp3
-- :feed_number: 89
+- :feed_number: 74
   :title: 073 RR APIs
   :enclosure: RR073APIs.mp3
-- :feed_number: 91
+- :feed_number: 75
   :title: 074 RR Developer Environments
   :enclosure: RR074DeveloperEnvironments.mp3
-- :feed_number: 92
+- :feed_number: 76
   :title: 075 RR Open Source Licenses
   :enclosure: RR075OpenSourceLicenses.mp3
-- :feed_number: 93
+- :feed_number: 77
   :title: 076 RR Service-Oriented Design with Paul Dix
   :enclosure: RR076ServiceOrientedDesign.mp3
-- :feed_number: 94
+- :feed_number: 78
   :title: 077 RR Complexity with Glenn Vanderburg
   :enclosure: RR077Complexity.mp3
-- :feed_number: 96
+- :feed_number: 79
   :title: 078 RR Hexagonal Rails with Matt Wynne and Kevin Rutherford
   :enclosure: RR078HexagonalRails.mp3
-- :feed_number: 97
+- :feed_number: 80
   :title: 079 RR Documenting Code
   :enclosure: RR079DocumentingCode.mp3
-- :feed_number: 98
+- :feed_number: 81
   :title: 080 RR Practical Metaprogramming with Steven Harms
   :enclosure: RR080PracticalMetaProgramming.mp3
-- :feed_number: 99
+- :feed_number: 82
   :title: 081 RR Rails 4 with Aaron Patterson
   :enclosure: RR081Rails4.mp3
-- :feed_number: 100
+- :feed_number: 83
   :title: 082 RR Vagrant with Michael Ries
   :enclosure: RR082Vagrant.mp3
-- :feed_number: 101
+- :feed_number: 84
   :title: Ruby Bits Code School
   :enclosure: Code_School.mp3
-- :feed_number: 102
+- :feed_number: 85
   :title: 083 RR Decomposing Fat Models with Bryan Helmkamp
   :enclosure: RR083DecomposingFatModels.mp3
-- :feed_number: 103
+- :feed_number: 86
   :title: 084 RR Github with Zach Holman
   :enclosure: RR084Github.mp3
-- :feed_number: 104
+- :feed_number: 87
   :title: 085 RR Cloud Computing with Wesley Beary
   :enclosure: RR085CloudComputing.mp3
-- :feed_number: 105
+- :feed_number: 88
   :title: 086 RR Learning From The Past with Arlen Walker
   :enclosure: RR086LearningFromThePast.mp3
-- :feed_number: 106
+- :feed_number: 89
   :title: ! '087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi
     Metz'
   :enclosure: RR087PracticalObjectOrientedDesignInRuby.mp3
-- :feed_number: 107
+- :feed_number: 90
   :title: 088 RR Concurrency and Celluloid with Tony Arcieri
   :enclosure: RR088ConcurrencyCelluloid.mp3
-- :feed_number: 108
+- :feed_number: 91
   :title: 089 RR Rescue Projects
   :enclosure: RR089RescueProjects.mp3
-- :feed_number: 109
+- :feed_number: 92
   :title: 090 RR Ruby Nuby Episode
   :enclosure: RR090RubyNubyEpisode.mp3
-- :feed_number: 110
+- :feed_number: 93
   :title: 091 RR The Ruby Design Process with Brian Shirai
   :enclosure: RR091RubyDesignProcess.mp3
-- :feed_number: 111
+- :feed_number: 94
   :title: 092 RR Picksplosion!
   :enclosure: RR092Picksplosion.mp3
-- :feed_number: 112
+- :feed_number: 95
   :title: 093 RR Security Exploits with Patrick McKenzie
   :enclosure: RR093SecurityExploits.mp3
-- :feed_number: 113
+- :feed_number: 96
   :title: 094 RR Robust Ruby with Ara T. Howard
   :enclosure: RR094AraTHoward.mp3
-- :feed_number: 114
+- :feed_number: 97
   :title: 095 RR People and Team Dynamics with Joe O’Brien
   :enclosure: RR095PeopleTeamDynamics.mp3
-- :feed_number: 115
+- :feed_number: 98
   :title: 096 RR Topaz with Alex Gaynor
   :enclosure: RR096Topaz.mp3
-- :feed_number: 116
+- :feed_number: 99
   :title: ! '097 RR Book Club: Patterns of Enterprise Application Architecture with
     Martin Fowler'
   :enclosure: RR097POEAA.mp3
-- :feed_number: 117
+- :feed_number: 100
   :title: 098 RR DRb with Davy Stevenson
   :enclosure: RR098DRb.mp3
-- :feed_number: 118
+- :feed_number: 101
   :title: 099 RR Ruby 2
   :enclosure: RR099Ruby2.mp3
-- :feed_number: 119
+- :feed_number: 102
   :title: 100 RR 100th Episode! Behind the Scenes with The Ruby Rogues
   :enclosure: RR100.mp3
-- :feed_number: 120
+- :feed_number: 103
   :title: 101 RR Diversity with Ashe Dryden
   :enclosure: RR101Diversity.mp3
-- :feed_number: 121
+- :feed_number: 104
   :title: 102 RR Rhetoric with Joseph Wilk
   :enclosure: RR102Rhetoric.mp3
-- :feed_number: 122
+- :feed_number: 105
   :title: 103 RR Ruby Gems
   :enclosure: RR103Gems.mp3
-- :feed_number: 123
+- :feed_number: 106
   :title: 104 RR The Rails View with John Athayde and Bruce Williams
   :enclosure: RR104TheRailsView.mp3

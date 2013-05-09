@@ -1,21 +1,139 @@
 <item>
-		<title>Book Club: Exceptional Ruby by Avdi Grimm</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/R7EpN5ohriM/</link>
-		<comments>http://rubyrogues.com/book-club-exceptional-ruby-by-avdi-grimm/#comments</comments>
-		<pubDate>Fri, 19 Aug 2011 23:48:20 +0000</pubDate>
+		<title>017 RR What’s Wrong with Ruby?</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/k86VmBn7LBQ/</link>
+		<comments>http://rubyrogues.com/what%e2%80%99s-wrong-with-ruby/#comments</comments>
+		<pubDate>Wed, 07 Sep 2011 23:30:37 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Book Club]]></category>
+				<category><![CDATA[Brian Ford]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[ruby]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=108</guid>
-		<description><![CDATA[Ruby Rogues will be reading and then discussing one Ruby or Programming related book each month on the second Thursday of the month. If you want to read along and leave your thoughts, then leave a comment on this post. James insisted that this month we read Avdi Grimm&#8217;s Exceptional Ruby book. You can get [...]]]></description>
-			<content:encoded><![CDATA[<p></p><p>Ruby Rogues will be reading and then discussing one Ruby or Programming related book each month on the second Thursday of the month. If you want to read along and leave your thoughts, then leave a comment on this post.</p>
-<p>James insisted that this month we read Avdi Grimm&#8217;s <a href="http://exceptionalruby.com">Exceptional Ruby</a> book. You can get it at any of the following locations:</p>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=117</guid>
+		<description><![CDATA[Panelists Brian Ford (blog twitter github) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code) Discussed in this Episode Rubinius RubySpec Testing Test::Unit RSpec Cucumber Levels or Ruby Language Implementation Community/Culture Ecosystem Assignment to something that could be a local variable or a setter method [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
 <ul>
-<li><a href="http://exceptionalruby.com">ExceptionalRuby.com</a> &#8211; Avdi&#8217;s website for the book (Use the code ROGUES for a $3 discount.)</li>
-<li><a href="http://pragprog.com/book/ager/exceptional-ruby">PragProg.com</a> &#8211; Get it in your preferred e-book flavor or the beta dead tree version</li>
+<li>Brian Ford (<a href="http://blog.brightredglow.com/">blog</a> <a href="http://twitter.com/brixen">twitter</a> <a href="http://github.com/brixen">github</a>)</li>
+<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
+<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
 </ul>
-<div>We&#8217;ll be discussing the book on September 8, 2011 at 2pm Mountain Time (1pm Pacific, 4pm Eastern)</div>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/R7EpN5ohriM" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/book-club-exceptional-ruby-by-avdi-grimm/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		<feedburner:origLink>http://rubyrogues.com/book-club-exceptional-ruby-by-avdi-grimm/</feedburner:origLink></item>
+<h3>Discussed in this Episode</h3>
+<ul>
+<li><a href="http://rubini.us/">Rubinius</a></li>
+<li><a href="http://rubyspec.org/">RubySpec</a></li>
+<li>Testing</li>
+<li><a href="http://ruby-doc.org/stdlib/libdoc/test/unit/rdoc/classes/Test/Unit.html">Test::Unit</a></li>
+<li><a href="http://rspec.info/">RSpec</a></li>
+<li><a href="http://cukes.info/">Cucumber</a></li>
+<li>Levels or Ruby</li>
+<ul>
+<li>Language</li>
+<li>Implementation</li>
+<li>Community/Culture</li>
+<li>Ecosystem</li>
+</ul>
+<li>Assignment to something that could be a local variable or a setter method</li>
+<li>Having more than one way to do things</li>
+<li>map vs collect</li>
+<li>and vs &amp;&amp;</li>
+<li>aliases</li>
+<li>alias method chain</li>
+<li>copy on alias</li>
+<li>when you alias a method, then alias its aliases for consistency</li>
+<li>in some cases ruby is white space sensitive</li>
+<li>ruby’s complex grammar</li>
+<li>documentation</li>
+<ul>
+<li>How much documentation do we need if we can open the source of our projects?</li>
+</ul>
+<li>speed</li>
+<ul>
+<li>Generally takes an architecture change to get better.</li>
+</ul>
+<li><a href="http://raa.ruby-lang.org/">the Ruby Application Archive (RAA)</a></li>
+<ul>
+<li><a href="http://raa.ruby-lang.org/project/narray/">narray</a></li>
+<li><a href="http://raa.ruby-lang.org/project/ruby-rbtree/">rbtree</a></li>
+</ul>
+</ul>
+<h3>Picks</h3>
+<ul>
+<li><a href="http://martinfowler.com/articles/itsNotJustStandingUp.html">standup meetings post</a> (Josh)</li>
+<li><a href="http://officeplayground.com/">officeplayground.com</a> (Josh)</li>
+<li><a href="http://www.thinkgeek.com/geektoys">www.thinkgeek.com/geektoys</a> (Josh)</li>
+<li>Rails 3.0 (James)</li>
+<li>Snow Leopard (James)</li>
+<li><a href="http://www.dalnefre.com/wp/">Actors Blog Post</a> (Brian)</li>
+<li><a href="http://www.wirfs-brock.com/allen/posts/228">Mirrors Post</a> (Brian)</li>
+<li>Netflix for iPad (Chuck)</li>
+<li><a href="http://skype.com">Skype</a> (Chuck)</li>
+</ul>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/k86VmBn7LBQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/what%e2%80%99s-wrong-with-ruby/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110901_01.mp3" length="95392921" type="audio/mpeg"/>
+			<itunes:keywords>ruby</itunes:keywords>
+		<itunes:subtitle>Panelists  Brian Ford (blog twitter github)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code) - Discussed in this Episode  Rubinius   RubySpec   Testing </itunes:subtitle>
+		<itunes:summary>Panelists
+
+	Brian Ford (blog twitter github)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code)
+
+Discussed in this Episode
+
+	Rubinius
+	RubySpec
+	Testing
+	Test::Unit
+	RSpec
+	Cucumber
+	Levels or Ruby
+
+	Language
+	Implementation
+	Community/Culture
+	Ecosystem
+
+	Assignment to something that could be a local variable or a setter method
+	Having more than one way to do things
+	map vs collect
+	and vs &amp;&amp;
+	aliases
+	alias method chain
+	copy on alias
+	when you alias a method, then alias its aliases for consistency
+	in some cases ruby is white space sensitive
+	ruby’s complex grammar
+	documentation
+
+	How much documentation do we need if we can open the source of our projects?
+
+	speed
+
+	Generally takes an architecture change to get better.
+
+	the Ruby Application Archive (RAA)
+
+	narray
+	rbtree
+
+
+Picks
+
+	standup meetings post (Josh)
+	officeplayground.com (Josh)
+	www.thinkgeek.com/geektoys (Josh)
+	Rails 3.0 (James)
+	Snow Leopard (James)
+	Actors Blog Post (Brian)
+	Mirrors Post (Brian)
+	Netflix for iPad (Chuck)
+	Skype (Chuck)</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:06:14</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110901_01.mp3" fileSize="95392921" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/what%e2%80%99s-wrong-with-ruby/</feedburner:origLink></item>

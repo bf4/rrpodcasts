@@ -1,108 +1,33 @@
 <item>
-		<title>033 RR Book Club – Eloquent Ruby</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/Ud3UOBvAEw0/</link>
-		<comments>http://rubyrogues.com/033-rr-book-club-eloquent-ruby/#comments</comments>
-		<pubDate>Thu, 15 Dec 2011 19:27:30 +0000</pubDate>
+		<title>036A RubyGems Bonus Content</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/lYEbtevAqSY/</link>
+		<comments>http://rubyrogues.com/036a-rubygems-bonus-content/#comments</comments>
+		<pubDate>Thu, 05 Jan 2012 05:03:31 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Book Club]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=329</guid>
-		<description><![CDATA[Panel Russ Olsen (twitter russolsen.com eloquentruby.com designpatternsinruby.com) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Eloquent Ruby Design Patterns in Ruby until Eloquent Ruby is aimed at being your second Ruby book metaprogramming Beginner vs. Advanced Method length Explicit returns The Weirich rule Design Patterns closures [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=360</guid>
+		<description><![CDATA[Discussion Funny Gem Names rack-rewrite informal metadata slimgems]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Discussion</h3>
 <ul>
-<li>Russ Olsen (<a href="http://twitter.com/russolsen" target="_blank">twitter</a> <a href="http://russolsen.com/" target="_blank">russolsen.com</a> <a href="http://eloquentruby.com/" target="_blank">eloquentruby.com</a> <a href="http://designpatternsinruby.com/" target="_blank">designpatternsinruby.com</a>)</li>
-<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
-<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
+<li>Funny Gem Names</li>
+<li>rack-rewrite</li>
+<li>informal</li>
+<li>metadata</li>
+<li>slimgems</li>
 </ul>
-<h3>Discussion</h3>
-<div>
-<ul>
-<li><a href="http://www.amazon.com/gp/product/0321584104/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399373&amp;creativeASIN=0321584104">Eloquent Ruby</a></li>
-<li><a href="http://www.amazon.com/gp/product/0321490452/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0321490452">Design Patterns in Ruby</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0321490452" alt="" width="1" height="1" border="0" /></li>
-<li><a title="ruby-doc.org - Loops" href="http://www.ruby-doc.org/docs/ProgrammingRuby/language.html#loops" target="_blank">until</a></li>
-<li>Eloquent Ruby is aimed at being your second Ruby book</li>
-<li>metaprogramming</li>
-<li>Beginner vs. Advanced</li>
-<li>Method length</li>
-<li>Explicit returns</li>
-<li><a href="http://onestepback.org/index.cgi/Tech/Ruby/BraceVsDoEnd.rdoc">The Weirich rule</a></li>
-<li><a href="http://www.amazon.com/gp/product/0201633612/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0201633612">Design Patterns</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0201633612" alt="" width="1" height="1" border="0" /></li>
-<li>closures</li>
-<li>around filter metaphor</li>
-<li>dragging along scope variables</li>
-</ul>
-<h3>Picks</h3>
-<div>
-<ul>
-<li><a href="http://think-like-a-git.net">think like a git</a> (Avdi)</li>
-<li>weekly standup with non-team members (Avdi)</li>
-<li><a href="http://e-mealz.com">e-mealz.com</a> (Chuck)</li>
-<li><a title="Apple - iWork" href="http://www.apple.com/iwork/" target="_blank">iWork</a> (Chuck)</li>
-<li>The art of speaking (James)</li>
-<li><a href="http://www.amazon.com/gp/product/B0002MPQBE/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0002MPQBE">Green Day Blue Grass</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B0002MPQBE" alt="" width="1" height="1" border="0" /></li>
-<li><a href="http://www.amazon.com/mn/search?_encoding=UTF8&amp;x=0&amp;tag=chamaxwoo-20&amp;ie=UTF8&amp;linkCode=ur2&amp;y=0&amp;camp=1789&amp;creative=390957&amp;field-keywords=zoe%20keating&amp;url=search-alias%3Dstripbooks%23">Zoe Keating</a><img style="border: none !important; margin: 0px !important;" src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=ur2&amp;o=1" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a href="http://www.amazon.com/gp/product/B000CAKQ0M/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000CAKQ0M">Once Cello X 16: Natoma</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B000CAKQ0M" alt="" width="1" height="1" border="0" />(James)</li>
-<li><a href="http://www.amazon.com/gp/product/B001Q897GS/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B001Q897GS">Marian Call: Got to Fly</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B001Q897GS" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a title="Balsamiq - Mockups" href="http://www.balsamiq.com/products/mockups" target="_blank">Balsamiq Mockups</a> (Josh)</li>
-<li><a title="Skitch" href="http://skitch.com/" target="_blank">Skitch</a> (Josh)</li>
-<li>Drag to <a href="http://pivotaltracker.com">Pivotal Tracker</a> (Josh)</li>
-<li>Get out with people who are trying to learn Ruby (Russ)</li>
-<li><a title="WriteRoom" href="http://www.hogbaysoftware.com/products/writeroom" target="_blank">WriteRoom</a> (Russ)</li>
-<li><a href="http://jakeshimabukuro.com/home/" target="_blank">Ukulele</a> (Russ)</li>
-</ul>
-</div>
-</div>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/Ud3UOBvAEw0" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/033-rr-book-club-eloquent-ruby/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/eloquent_ruby.mp3" length="28388964" type="audio/mpeg"/>
-			<itunes:subtitle>Panel  Russ Olsen (twitter russolsen.com eloquentruby.com designpatternsinruby.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github) </itunes:subtitle>
-		<itunes:summary>Panel
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/lYEbtevAqSY" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/036a-rubygems-bonus-content/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/rubygems_org_bonus_content.mp3" length="6770142" type="audio/mpeg"/>
+			<itunes:subtitle>Discussion  Funny Gem Names   rack-rewrite   informal   metadata   slimgems</itunes:subtitle>
+		<itunes:summary>Discussion
 
-	Russ Olsen (twitter russolsen.com eloquentruby.com designpatternsinruby.com)
-	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code)
-	James Edward Gray (blog twitter github)
-	Josh Susser (twitter github blog)
-
-Discussion
-
-
-	Eloquent Ruby
-	Design Patterns in Ruby
-	until
-	Eloquent Ruby is aimed at being your second Ruby book
-	metaprogramming
-	Beginner vs. Advanced
-	Method length
-	Explicit returns
-	The Weirich rule
-	Design Patterns
-	closures
-	around filter metaphor
-	dragging along scope variables
-
-Picks
-
-
-	think like a git (Avdi)
-	weekly standup with non-team members (Avdi)
-	e-mealz.com (Chuck)
-	iWork (Chuck)
-	The art of speaking (James)
-	Green Day Blue Grass
-	Zoe Keating (James)
-	Once Cello X 16: Natoma(James)
-	Marian Call: Got to Fly (James)
-	Balsamiq Mockups (Josh)
-	Skitch (Josh)
-	Drag to Pivotal Tracker (Josh)
-	Get out with people who are trying to learn Ruby (Russ)
-	WriteRoom (Russ)
-	Ukulele (Russ)</itunes:summary>
+	Funny Gem Names
+	rack-rewrite
+	informal
+	metadata
+	slimgems</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>42:51</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/eloquent_ruby.mp3" fileSize="28388964" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/033-rr-book-club-eloquent-ruby/</feedburner:origLink></item>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/rubygems_org_bonus_content.mp3" fileSize="6770142" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/036a-rubygems-bonus-content/</feedburner:origLink></item>

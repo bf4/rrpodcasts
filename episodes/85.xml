@@ -1,158 +1,169 @@
 <item>
-		<title>069 RR Therapeutic Refactoring with Katrina Owen</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/6rzeR5l4lPc/</link>
-		<comments>http://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/#comments</comments>
-		<pubDate>Wed, 05 Sep 2012 12:00:46 +0000</pubDate>
+		<title>083 RR Decomposing Fat Models with Bryan Helmkamp</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/u2tNiWQk118/</link>
+		<comments>http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/#comments</comments>
+		<pubDate>Wed, 12 Dec 2012 16:00:27 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Bryan Helmkamp]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Josh Susser]]></category>
 		<category><![CDATA[Katrina Owen]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=649</guid>
-		<description>Panel Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (blog witter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Firefly Therapeutic Refactoring &amp;#8211; Katrina Owen Serenity Refactoring Livecoding at Talks: Trapeze Sans Net Refactoring makes you feel better Choke by Sian Beilock Test Driven Development [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/6rzeR5l4lPc" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/feed/</wfw:commentRss>
-		<slash:comments>3</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR069.mp3" length="83536214" type="audio/mpeg"/>
-		<itunes:subtitle>Panel   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh S...</itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=968</guid>
+		<description>Panel Bryan Helmkamp (twitter github codeclimate.com) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code) Discussion 02:01 &amp;#8211; Best of Parley Code Quality by jnanney 02:23 &amp;#8211; Code School’s Ruby Bits 1 Course FREE! 04:21 &amp;#8211; 041 RR Code Metrics with Bryan Helmkamp 04:40 &amp;#8211; Code Climate [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/u2tNiWQk118" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR083DecomposingFatModels.mp3" length="65576287" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Bryan Helmkamp (twitter github codeclimate.com)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   Katrina Owen (twitter github blog) </itunes:subtitle>
 		<itunes:summary>Panel
 
-
-	Katrina Owen (twitter github blog)
-	Avdi Grimm (twitter github blog book)
-	David Brady (blog witter github ADDcasts)
-	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
-	James Edward Gray (blog twitter github)
+	Bryan Helmkamp (twitter github codeclimate.com)
 	Josh Susser (twitter github blog)
-
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	Katrina Owen (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code)
 
 Discussion
+02:01 - Best of Parley
 
-	Firefly
-	Therapeutic Refactoring - Katrina Owen
-	Serenity
-	Refactoring
-	Livecoding at Talks: Trapeze Sans Net
-	Refactoring makes you feel better
-	Choke by Sian Beilock
-	Test Driven Development (TDD)
-	Bryan Takita RR Test Library
-	rspec-fire
-	Heckle
-	Chartjunk
-	The Visual Display of Quantitative Information by Edward Tufte
-	Explicit Returns, Surprise Return!
-	Getting Started with Refactoring - Pick Something Easy, Gain Confidence
-	Red/Green Refactor
-	Call a Method, Send a Message
-	Step away from the computer.
+	Code Quality by jnanney
+
+02:23 - Code School’s Ruby Bits 1 Course
+
+	FREE!
+
+04:21 - 041 RR Code Metrics with Bryan Helmkamp
+
+04:40 - Code Climate
+
+	Blog
+	Twitter
+
+06:21 - 7 Patterns to Refactor Fat ActiveRecord Models
+
+10:05 - Don’t Extract Mixins from Fat Models
+
+	Use composition, not inheritance
+	Mixins to patch together objects which are working together through composition
+
+15:49 - Recognizing an object that is hiding in a big class
+
+	Code Climate scores
+	Look for methods that have repeated words
+
+17:41 - Value Objects
+
+	Helper Methods
+
+25:21 - Why Ruby Class Methods Resist Refactoring
+
+	Global variables
+	When is it good to use class methods?
+
+37:26 - Skinny Controllers; Fat Models
+
+39:32 - Your Objects, the Unix Way by John Pignata
+
+	Open/Close Principle
+	Decorators
 
 Picks
 
-	Rupa/z (Katrina)
-	XUnit Test Patterns by Gerard Meszaros (Avdi)
-	Mei Tai Child Carrier (Avdi)
-	Practical Object Oriented Design in Ruby by Sandi Metz (Katrina)
-	The Little Schemer by Daniel P. Friedman (Katrina)
-	Pebblestack.org (Katrina)
-	Hashrocket Lunch and Learn Video - Tests, Mocks, Dependency Injections - Sandi Metz (James)
-	The Rational Optimist by Matt Ridley (James)
-	Google Web Fonts (Josh)
-	Math Video - Parabolas (Josh)
-	Chirp (iPhone) (Josh)
-	Fontsquirrel (Avdi)
-	Encouraging Others Through Christ Podcast (Chuck)
-	The $100 Startup by Chris Biligo (Chuck)
+	The Happiness Project by Gretchen Rubin (David)
+	How To Win Friends and Influence People by Dale Carnegie (David)
+	24 Pull Requests (Katrina)
+	Pan Frying: Testing for Proper Pan Heat (Rouxbe Cooking School) (Katrina)
+	Fashion It So (Josh)
+	Very Scary Solstice Carols (Josh)
+	Blue Microphones: Snowball (Avdi)
+	7 Dwarves (Avdi)
+	Oversized Low-Profile Creeper (Chuck)
+	Floor Jack with Rapid Pump, 2.5 Ton (Chuck)
+	brakeman (Bryan)
+	GORUCO (Bryan)
+
+Next Week
+Zach Holman of Github
+Book Club
+The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
+
+	First create a user account: www.informit.com/join
+	SAVE 40% When You Buy 2: www.informit.com/ruby
+	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
+	(Includes FREE SHIPPING within the U.S.!)
 
 Transcript
-JOSH: Katrina, do you know about the picks?
+CHUCK: Let’s get your best evil laugh.
 
-KATRINA: I do. I have like four lined up. If that's too many, I can reduce it.
+BRYAN: [evil laugh]
 
-JAMES: Not at all.
+JOSH: OK that’s going into the show opener.
 
-CHUCK: Four is good.
+[laughter]
 
-JOSH: You know 4 picks from you is probably about equal to one pick from David so...
+DAVID: Show opener? That's going as my ringtone!
+
+[laughter]
+
+BRYAN: It’s already my ringtone.
+
+[laughter]
+
+JOSH: I wanna like… something… there's going to be something on Code Climate that when it throws a red flag, [chuckles] it does that.
+
+CHUCK: Oh there you go.
 
 
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
 
-[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby.]
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
 
-[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net.]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
 
-CHUCK: Hey everybody! And welcome to Episode 69 of the Ruby Rouges podcast. This week on our panel we have Avdi Grimm.
+CHUCK: Hey everybody and welcome to episode 83 of the Ruby Rogues Podcast! This week on our panel, we have Josh Susser.
 
-AVDI: Hello! Hello!
+JOSH: Hey everyone!
 
 CHUCK: David Brady.
 
-DAVID: Hey everybody! In honor of the Mass Effect 3 ending, I'm going to spend the last 10 minutes of this podcast showing you the ultimate way to repair your car!
+DAVID: In the unlikely event of a water landing, your headphones can be used as a floatation device.
 
-CHUCK: Josh Susser.
+CHUCK: Avdi Grimm.
 
-JOSH: Here I come to save the day.
+AVDI: Hey from Pennsylvania!
 
-DAVID: Yey!
-
-CHUCK: James Edward Grey.
-
-JAMES: According to Twitter, I am the “laughing bird” of this podcast.
-
-[laughter]
-
-AVDI: Who is the drinking bird?
-
-JOSH: That would be you!
-
-DAVID: Is that your answer on Jeopardy?
-
-CHUCK: I'm Charles Max Wood from devchat.tv and this week, we have a special guest and that's Katrina Owen.
+CHUCK: Katrina Owen.
 
 KATRINA: Hello!
 
-CHUCK: Since you’re new to the show, do you want to introduce yourself really quick?
+CHUCK: I'm Charles Max Wood from devchat.tv and this week, have a special guest – it’s Bryan Helmkamp.
 
-KATRINA: Sure. I've been doing Ruby for about 2 years. I did this at a small product development company in Oslo, Norway.
+BRYAN: Hi everyone!
 
-CHUCK: Oh.
+DAVID: We are missing someone today.
 
-JOSH: What did you do before Ruby?
+CHUCK: Really?
 
-KATRINA: Do we have to talk about this?
+JOSH: Yeah. Where is James?
 
-[laughter]
+AVDI: Haven’t seen him.
 
-JOSH: No.
+DAVID: James can’t be here today because he’s tutoring the pope in the scientific method.
 
-JAMES: Oh! It's shameful.
+CHUCK: All right.
 
-CHUCK: She lives in the land of the chosen frozen. And she doesn't want to talk about what she did before Ruby.
+JOSH: We’ll go with that.
 
-KATRINA: So I actually, I can reveal that I wrote PHP for a fashion company in Los Angeles.
+DAVID: Yeah.
 
-CHUCK: Wow.
-
-JAMES: Way to find the pain point right off the bat, Josh.
-
-[laughter]
-
-DAVID: I am coming out of the cold but you moved to Norway.
-
-KATRINA: Yeah, I've been back and forth a few times.
-
-JOSH: Sorry about that Katrina. Welcome to the show! How are you today?
-
-KATRINA: Thank you. I'm fine. How are you?
-
-CHUCK: Aren’t we supposed to start the show off? Go on. So did you guys do anything interesting this week?
+CHUCK: All right. So we have a couple of announcements before we get going. The first one I'm going to let Katrina give us the Best of Parley.
 
 </itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:09:37</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR069.mp3" fileSize="83536214" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/069-rr-therapeutic-refactoring-with-katrina-owen/</feedburner:origLink></item>
+		<itunes:duration>1:08:19</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR083DecomposingFatModels.mp3" fileSize="65576287" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/</feedburner:origLink></item>

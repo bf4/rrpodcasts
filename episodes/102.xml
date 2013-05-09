@@ -1,169 +1,191 @@
 <item>
-		<title>083 RR Decomposing Fat Models with Bryan Helmkamp</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/u2tNiWQk118/</link>
-		<comments>http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/#comments</comments>
-		<pubDate>Wed, 12 Dec 2012 16:00:27 +0000</pubDate>
+		<title>100 RR 100th Episode! Behind the Scenes with The Ruby Rogues</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/L8BmygvcZBg/</link>
+		<comments>http://rubyrogues.com/100-rr-100th-episode-behind-the-scenes-with-the-ruby-rogues/#comments</comments>
+		<pubDate>Wed, 10 Apr 2013 13:00:52 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Bryan Helmkamp]]></category>
+				<category><![CDATA[Aaron Patterson]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Josh Susser]]></category>
 		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Mandy Moore]]></category>
+		<category><![CDATA[Peter Cooper]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=968</guid>
-		<description>Panel Bryan Helmkamp (twitter github codeclimate.com) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code) Discussion 02:01 &amp;#8211; Best of Parley Code Quality by jnanney 02:23 &amp;#8211; Code School’s Ruby Bits 1 Course FREE! 04:21 &amp;#8211; 041 RR Code Metrics with Bryan Helmkamp 04:40 &amp;#8211; Code Climate [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/u2tNiWQk118" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/feed/</wfw:commentRss>
-		<slash:comments>2</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR083DecomposingFatModels.mp3" length="65576287" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Bryan Helmkamp (twitter github codeclimate.com)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   Katrina Owen (twitter github blog) </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1266</guid>
+		<description>Panel Peter Cooper (twitter github blog) Aaron Patterson (twitter github blog) Mandy Moore (twitter blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:21 &amp;#8211; Mystery Guest: Peter [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/L8BmygvcZBg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/100-rr-100th-episode-behind-the-scenes-with-the-ruby-rogues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR100.mp3" length="67025766" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Peter Cooper (twitter github blog)   Aaron Patterson (twitter github blog)   Mandy Moore (twitter blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
 		<itunes:summary>Panel
 
-	Bryan Helmkamp (twitter github codeclimate.com)
-	Josh Susser (twitter github blog)
-	David Brady (twitter github blog ADDcasts)
-	Avdi Grimm (twitter github blog book)
-	Katrina Owen (twitter github blog)
-	Charles Max Wood (twitter github Teach Me To Code)
+	Peter Cooper (twitter github blog)
+	Aaron Patterson (twitter github blog)
+	Mandy Moore (twitter blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Katrina Owen (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
 
 Discussion
-02:01 - Best of Parley
+01:21 - Mystery Guest: Peter Cooper
 
-	Code Quality by jnanney
 
-02:23 - Code School’s Ruby Bits 1 Course
+	Ruby Reloaded
+	Ruby Weekly (Newsletter)
+	JavaScript Weekly (Newsletter)
+	HTML5 Weekly (Newsletter)
+	042 RR Producing Content with Peter Cooper
 
-	FREE!
+03:46 - How Ruby Rogues got started
 
-04:21 - 041 RR Code Metrics with Bryan Helmkamp
 
-04:40 - Code Climate
+	TWiT.TV
+	The Skeptics’ Guide to the Universe
 
-	Blog
-	Twitter
+06:45 - Ruby Rogues: In the Beginning
 
-06:21 - 7 Patterns to Refactor Fat ActiveRecord Models
 
-10:05 - Don’t Extract Mixins from Fat Models
+	Audio Quality
+	Editing Shows
+	VA Problems
+	ROGUESPOTTING
 
-	Use composition, not inheritance
-	Mixins to patch together objects which are working together through composition
+09:47 - Picks
+11:23 - Ruby 2 with Peter Cooper
+15:50 - Losing and Adding Rogues
+16:41 - Mystery Guest: Aaron Patterson
 
-15:49 - Recognizing an object that is hiding in a big class
 
-	Code Climate scores
-	Look for methods that have repeated words
+	Dr. Who
+	Cereal
+	DOGUE
+	Ruby Rogues Parley
+	Ryan Davis @the_zenspider
+	minitest &amp; minitest pride
+	C-I-C-I-O
 
-17:41 - Value Objects
+26:17 - How the show is recorded
+27:21 - Rails with Aaron Patterson
 
-	Helper Methods
 
-25:21 - Why Ruby Class Methods Resist Refactoring
+	081 RR Rails 4 with Aaron Patterson
 
-	Global variables
-	When is it good to use class methods?
+33:17 - Mystery Guest: Mandy Moore (The RubyRep)
+37:15 - Podcast Production
 
-37:26 - Skinny Controllers; Fat Models
 
-39:32 - Your Objects, the Unix Way by John Pignata
+	Wide Teams
+	The Ruby Freelancers Show
 
-	Open/Close Principle
-	Decorators
+41:56 - Picking the Intro Joke
+43:27 - Episode Editing Process
+
+
+	Audacity
+
+48:33 - Transcripts
+
+
+	oDesk
+
+50:38 - Site Improvements
+54:00 - Katrina on being the newest Rogue
+
+
+	069 RR Therapeutic Refactoring with Katrina Owen
+
+58:43 - The Future of Ruby Rogues
+
+
+	Back transcripts
+	Panelist bios
+	T-Shirts
+	Ruby Best Practice Patterns book
+	LoneStarRuby Conference 2013
 
 Picks
 
-	The Happiness Project by Gretchen Rubin (David)
-	How To Win Friends and Influence People by Dale Carnegie (David)
-	24 Pull Requests (Katrina)
-	Pan Frying: Testing for Proper Pan Heat (Rouxbe Cooking School) (Katrina)
-	Fashion It So (Josh)
-	Very Scary Solstice Carols (Josh)
-	Blue Microphones: Snowball (Avdi)
-	7 Dwarves (Avdi)
-	Oversized Low-Profile Creeper (Chuck)
-	Floor Jack with Rapid Pump, 2.5 Ton (Chuck)
-	brakeman (Bryan)
-	GORUCO (Bryan)
+	023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck (Josh)
+	087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz (Katrina)
+	049 RR Agile Communication with Angela Harms (David)
+	047 RR Coding Disciplines with Dan Kubb (James)
+	020 RR Object Oriented Programming in Rails with Jim Weirich (Chuck)
+	Audacity (Mandy)
+	Readability (Mandy)
+	Franzia (Mandy)
+	090 RR Ruby Nuby Episode (Mandy)
 
-Next Week
-Zach Holman of Github
 Book Club
-The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
-
-	First create a user account: www.informit.com/join
-	SAVE 40% When You Buy 2: www.informit.com/ruby
-	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
-	(Includes FREE SHIPPING within the U.S.!)
-
+The Rails View by John Athayde and Bruce Williams: Read along with us! We will be discussing the book with John and Bruce and the episode will air on Wednesday, May 8th, 2013.
+Next Week
+Diversity with Ashe Dryden
 Transcript
-CHUCK: Let’s get your best evil laugh.
+PETER:  Yeah, I've just come off a month of having a sore throat so you're very lucky to get me. It's literally in the last couple of days it seems to have gone back to normal which is good.
 
-BRYAN: [evil laugh]
+CHUCK:  Yeah. I could hear it in your newsletters.
 
-JOSH: OK that’s going into the show opener.
+PETER:  Exactly.
 
-[laughter]
-
-DAVID: Show opener? That's going as my ringtone!
-
-[laughter]
-
-BRYAN: It’s already my ringtone.
-
-[laughter]
-
-JOSH: I wanna like… something… there's going to be something on Code Climate that when it throws a red flag, [chuckles] it does that.
-
-CHUCK: Oh there you go.
+[Laughter]
 
 
 
-[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+[Hosting and bandwidth was provided by The Blue Box Group, check them out at BlueBox.net.] 
 
-[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+CHUCK:  Hey everybody and welcome to Episode 100 of the Ruby Rogues podcast.
 
-CHUCK: Hey everybody and welcome to episode 83 of the Ruby Rogues Podcast! This week on our panel, we have Josh Susser.
+ALL:  Woohoo!
 
-JOSH: Hey everyone!
+JAMES:  Wow!
 
-CHUCK: David Brady.
+CHUCK:  Yeah. We made it, somehow. This week on our panel, we have James Edward Gray.
 
-DAVID: In the unlikely event of a water landing, your headphones can be used as a floatation device.
+JAMES:  If I sound like a zombie today, it’s because I am.
 
-CHUCK: Avdi Grimm.
+CHUCK:  Josh Susser.
 
-AVDI: Hey from Pennsylvania!
+JOSH:  Hello from San Francisco!
 
-CHUCK: Katrina Owen.
+CHUCK:  David Brady.
 
-KATRINA: Hello!
+DAVID:  “Hello from Mount West Ruby Conf,” is what I would say if I had not skipped the first half of the first day of Mount West Ruby Conf to be here to record.
 
-CHUCK: I'm Charles Max Wood from devchat.tv and this week, have a special guest – it’s Bryan Helmkamp.
+CHUCK:  Katrina Owen.
 
-BRYAN: Hi everyone!
+KATRINA:  Hello from Denver.
 
-DAVID: We are missing someone today.
+CHUCK:  I’m Charles Max Wood from DevChat.tv, also skipping Mount West Ruby Conference. We’re going to have a series of guests on for our 100th episode. Right now, we have Peter Cooper on the line.
 
-CHUCK: Really?
+PETER:  Good afternoon, full of Doctor Who fans.
 
-JOSH: Yeah. Where is James?
+[Laughter]
 
-AVDI: Haven’t seen him.
+JAMES:  He’s lying!
 
-DAVID: James can’t be here today because he’s tutoring the pope in the scientific method.
+DAVID:  Impostor! Impostor!
 
-CHUCK: All right.
+CHUCK:  [Laughs]
 
-JOSH: We’ll go with that.
+DAVID:  Exterminate!
 
-DAVID: Yeah.
+JAMES:  He won't get that joke.
 
-CHUCK: All right. So we have a couple of announcements before we get going. The first one I'm going to let Katrina give us the Best of Parley.
+JOSH:  So, if you're not a Doctor Who fan, are you a fan of like Upstairs, Downstairs instead?
+
+PETER:  I have stairs in my house.
+
+JOSH:  Okay. That will work.
+
+[Laughter]
 
 </itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:08:19</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR083DecomposingFatModels.mp3" fileSize="65576287" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/083-rr-decomposing-fat-models-with-bryan-helmkamp/</feedburner:origLink></item>
+		<itunes:duration>1:09:49</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR100.mp3" fileSize="67025766" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/100-rr-100th-episode-behind-the-scenes-with-the-ruby-rogues/</feedburner:origLink></item>

@@ -1,105 +1,12 @@
 <item>
-		<title>036 RR RubyGems</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/o1MKDBi2JEA/</link>
-		<comments>http://rubyrogues.com/036-rr-rubygems/#comments</comments>
-		<pubDate>Thu, 05 Jan 2012 04:48:33 +0000</pubDate>
-		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Nick Quaranto]]></category>
+      <title>Programming Language Fundamentals</title>
+      <itunes:author>Charles Max Wood, David Brady, James Edward Gray, Josh Susser</itunes:author>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=358</guid>
-		<description><![CDATA[Panel Nick Quaranto (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Jekyll Rubygems.org Rubyforge github gems Jeweler Tom Preston-Werner (from github.com) gforge a Gems API hoe gemcutter gem push Ruby Inside rubygems Ruby Central bundler [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
-<ul>
-<li>Nick Quaranto (<a href="http://twitter.com/qrush" target="_blank">twitter</a> <a href="https://github.com/qrush" target="_blank">github</a> <a href="http://quaran.to/" target="_blank">blog</a>)</li>
-<li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a><a href="http://teachmetocodeacademy.com/"> Rails Summer Camp</a>)</li>
-<li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
-<li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
-</ul>
-<h3>Discussion</h3>
-<ul>
-<li><a href="http://rubygems.org/gems/jekyll" target="_blank">Jekyll</a></li>
-<li><a href="http://rubygems.org/" target="_blank">Rubygems.org</a></li>
-<li><a href="http://rubyforge.org/" target="_blank">Rubyforge</a></li>
-<li><a href="http://gems.github.com/" target="_blank">github gems</a></li>
-<li><a href="http://rubygems.org/gems/jeweler" target="_blank">Jeweler</a></li>
-<li>Tom Preston-Werner (from github.com)</li>
-<li>gforge</li>
-<li>a Gems API</li>
-<li><a href="http://rubygems.org/gems/hoe" target="_blank">hoe</a></li>
-<li><a href="https://rubygems.org/gems/gemcutter" target="_blank">gemcutter</a></li>
-<li>gem push</li>
-<li><a href="http://rubyinside.com">Ruby Inside</a></li>
-<li><a href="http://rubygems.org/" target="_blank">rubygems</a></li>
-<li>Ruby Central</li>
-<li><a href="http://gembundler.com">bundler</a></li>
-<li>module counts</li>
-<li>gemspec</li>
-<li><a href="http://rubygems.org/gems/bones" target="_blank">bones</a></li>
-<li><a href="http://rubygems.org/gems/rake" target="_blank">rakegems</a></li>
-</ul>
-<h3>Picks</h3>
-<ul>
-<li><a href="https://github.com/cinchrb/cinch" target="_blank">cinch irc bot </a>(James)</li>
-<li><a href="http://www.amazon.com/gp/product/B004HYIAPM/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004HYIAPM">Skyrim</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B004HYIAPM" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a href="http://www.amazon.com/gp/product/B004P6IVPQ/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004P6IVPQ">Catherine</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B004P6IVPQ" alt="" width="1" height="1" border="0" /> (James)</li>
-<li><a href="http://rubygems.org/gems/addressable" target="_blank">Addressable URI </a> (Avdi)</li>
-<li><a href="http://cocktailenthusiast.com/2011/10/03/johnnie-walker-double-black-scotch-whisky-review/" target="_blank">Johnnie Walker Double Black</a> (Avdi)</li>
-<li><a href="https://gemnasium.com/">Gemnasium</a> (Josh)</li>
-<li><a href="http://www.amazon.com/gp/product/B000OEUUG6/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000OEUUG6">Screaming Monkey</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B000OEUUG6" alt="" width="1" height="1" border="0" /> (Chuck)</li>
-<li><a href="http://www.amazon.com/gp/product/B0009VBTP0/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0009VBTP0">The Office</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=B0009VBTP0" alt="" width="1" height="1" border="0" /> (Chuck)</li>
-<li><a href="https://showoff.io/" target="_blank">showoff.io</a> (Nick)</li>
-</ul>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/o1MKDBi2JEA" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/036-rr-rubygems/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/rubygems_org.mp3" length="25828161" type="audio/mpeg"/>
-			<itunes:subtitle>Panel  Nick Quaranto (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion - </itunes:subtitle>
-		<itunes:summary>Panel
 
-	Nick Quaranto (twitter github blog)
-	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
-	James Edward Gray (blog twitter github)
-	Josh Susser (twitter github blog)
 
-Discussion
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/Programming_Language_Fundamentals.mp3" length="90356377" type="audio/mp3"/>
+      <guid isPermaLink="false">1879d7fbc24bf55434a644d1962b911669390f16</guid>
+      <pubDate>Sun, 29 Jan 2012 01:09:29 -0600</pubDate>
+      <itunes:duration>3764</itunes:duration>
 
-	Jekyll
-	Rubygems.org
-	Rubyforge
-	github gems
-	Jeweler
-	Tom Preston-Werner (from github.com)
-	gforge
-	a Gems API
-	hoe
-	gemcutter
-	gem push
-	Ruby Inside
-	rubygems
-	Ruby Central
-	bundler
-	module counts
-	gemspec
-	bones
-	rakegems
-
-Picks
-
-	cinch irc bot (James)
-	Skyrim (James)
-	Catherine (James)
-	Addressable URI  (Avdi)
-	Johnnie Walker Double Black (Avdi)
-	Gemnasium (Josh)
-	Screaming Monkey (Chuck)
-	The Office (Chuck)
-	showoff.io (Nick)</itunes:summary>
-		<itunes:author>Ruby Rogues</itunes:author>
-		<itunes:explicit>no</itunes:explicit>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/rubygems_org.mp3" fileSize="25828161" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/036-rr-rubygems/</feedburner:origLink></item>
+    </item>

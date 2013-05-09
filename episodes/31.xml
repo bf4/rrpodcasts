@@ -1,135 +1,68 @@
 <item>
-		<title>027 RR Teaching Ruby</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/q06zcjUsN9s/</link>
-		<comments>http://rubyrogues.com/027-rr-teaching-ruby/#comments</comments>
-		<pubDate>Thu, 03 Nov 2011 19:32:25 +0000</pubDate>
+		<title>031 RR Code Reading</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/pW-J-xAPtTQ/</link>
+		<comments>http://rubyrogues.com/031-rr-code-reading/#comments</comments>
+		<pubDate>Fri, 02 Dec 2011 00:45:45 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Mike Clark]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=270</guid>
-		<description><![CDATA[Panelists Mike Clark (twitter github Pragmatic Studio) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussed in this Episode Classroom teaching Pair Programming Mentoring Online Learning Build something Training at Conferences Rails Guidebook Programming Ruby by Dave Thomas Pragmatic Studio Training Ruby Talk mailing list Course [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=310</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Wittgenstein&#8217;s ladder Software Archaeology with Dave Thomas The Rubygems.org source Picks Apple Store Personal Pickup  (Josh) Build Awesome Command-Line Applications in Ruby  (Avdi) Test-drive the development of your command-line applications  (Josh) GALAXY Tab 10.1  (Avdi) Alfred  (James) &#160;]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
 <ul>
-<li>Mike Clark (<a title="twitter - clarkware" href="http://twitter.com/#!/clarkware" target="_blank">twitter</a> <a title="Clarkware - Github" href="https://github.com/clarkware" target="_blank">github</a> <a title="The Pragmatic Studio" href="http://pragmaticstudio.com/" target="_blank">Pragmatic Studio</a>)</li>
 <li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
 <li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
 <li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
 </ul>
-<h3>Discussed in this Episode</h3>
+<h3>Discussion</h3>
 <div>
 <ul>
-<li>Classroom teaching</li>
-<li>Pair Programming</li>
-<li>Mentoring</li>
-<li>Online Learning</li>
-<li>Build something</li>
-<li>Training at Conferences</li>
-<li>Rails Guidebook</li>
-<li><a title="Progamming Ruby - Dave Thomas" href="http://www.amazon.com/Programming-Ruby-Pragmatic-Programmers-Second/dp/0974514055" target="_blank">Programming Ruby by Dave Thomas</a></li>
-<li><a title="Pragmatic Studio Training" href="http://pragmaticstudio.com/" target="_blank">Pragmatic Studio Training</a></li>
-<li>Ruby Talk mailing list</li>
-<li>Course preparation</li>
-<li>People coming to the language may not know how to program</li>
-<li>Are we beginner friendly?</li>
-<li><a title="Why's Poignant Guide to Ruby" href="http://mislav.uniqpath.com/poignant-guide/book/" target="_blank">Why&#8217;s poignant guide</a></li>
-<li><a title="Shoes" href="http://shoesrb.com/" target="_blank">shoes</a></li>
-<li>learn to program book</li>
-<li><a title="tryruby.org" href="http://tryruby.org" target="_blank">tryruby.org</a></li>
-<li><a title="Kids Ruby" href="http://kidsruby.com/" target="_blank">kids ruby</a></li>
-<li>Find a way that works for you to get started, then set a real goal</li>
-<li>Don&#8217;t worry about learning syntax, learn to think about problems</li>
-<li>Syntax isn&#8217;t something you can ignore, but it&#8217;s not the most important part</li>
-<li>It&#8217;s important to remember what you&#8217;re doing and what it means</li>
-<li>Blow your mind pattern</li>
-<li><a title="Enumerable" href="http://www.ruby-doc.org/core-1.9.2/Enumerable.html" target="_blank">Enumeration protocol</a></li>
-<li><a title="Enumerable - Partition Method" href="http://www.ruby-doc.org/core-1.9.2/Enumerable.html#method-i-partition" target="_blank">partition</a></li>
-<li><a title="irb" href="http://ruby-doc.org/docs/ProgrammingRuby/html/irb.html" target="_blank">irb</a></li>
-<li>getting little wins</li>
-<li><a title="REXML" href="http://www.ruby-doc.org/stdlib-1.9.2/libdoc/rexml/rdoc/REXML/Elements.html" target="_blank">REXML</a></li>
+<li><a title="Wittgenstein's Ladder" href="http://en.wikipedia.org/wiki/Lie-to-children" target="_blank">Wittgenstein&#8217;s ladder</a></li>
+<li><a title="Software Archaeology with Dave Thomas" href="http://www.se-radio.net/2009/11/episode-148-software-archaeology-with-dave-thomas/" target="_blank">Software Archaeology with Dave Thomas</a></li>
+<li><a title="The Rubygems.org source" href="https://github.com/rubygems/rubygems.org" target="_blank">The Rubygems.org source</a></li>
 </ul>
 <h3>Picks</h3>
 <div>
 <ul>
-<li><a title="Ruby 1.9.3" href="http://www.ruby-lang.org/en/news/2011/10/31/ruby-1-9-3-p0-is-released/" target="_blank">Ruby 1.9.3</a> (Avdi)</li>
-<li>Plantronics 995 wireless headphones (anti-pick) (Avdi)</li>
-<li><a title="TestFirst.org" href="http://testfirst.org/" target="_blank">testfirst.org</a> (Josh)</li>
-<li><a title="MagLev Developers" href="http://maglev.github.com/" target="_blank">MagLev</a> (<a title="MagLev Developers on twitter" href="http://twitter.com/#!/maglev" target="_blank">twitter</a>) (Josh)</li>
-<li><a title="Ancient Inventions" href="http://en.wikipedia.org/wiki/Ancient_Inventions" target="_blank">Ancient Inventions documentary series</a> (Josh)</li>
-<li><a title="SendGrid" href="http://sendgrid.com/" target="_blank">sendgrid</a> (James)</li>
-<li><a title="gatling_gun" href="https://github.com/okrb/gatling_gun/" target="_blank">gatling_gun gem</a> (James)</li>
-<li><a title="redcar ruby editor" href="http://pragmaticstudio.com/screencast_downloads/redcar.mov" target="_blank">redcar ruby editor</a> (Mike)</li>
-<li><a title="Instacast" href="http://vemedio.com/products/instacast" target="_blank">instacast</a> (Mike)</li>
-<li><a title="Bloons TD" href="http://itunes.apple.com/us/app/bloons-td/id331271904?mt=8" target="_blank">Bloons Tower Defense 4 iPhone App</a> (Chuck)</li>
-<li><a title="Ruby Show" href="http://rubyshow.com/" target="_blank">Ruby Show</a> (Chuck)</li>
-<li><a title="Ruby5" href="http://ruby5.envylabs.com/" target="_blank">Ruby5</a> (Chuck)</li>
+<li><a title="Apple Store Personal Pickup" href="http://store.apple.com/us/help/shipping_delivery#pickup" target="_blank">Apple Store Personal Pickup</a>  (Josh)</li>
+<li><a title="Build Awesome Command-Line Applications in Ruby" href="http://pragprog.com/book/dccar/build-awesome-command-line-applications-in-ruby" target="_blank">Build Awesome Command-Line Applications in Ruby</a>  (Avdi)</li>
+<li><a title="Test-drive the development of your command-line applications" href="http://confreaks.net/videos/638-gogaruco2011-test-drive-the-development-of-your-command-line-applications" target="_blank">Test-drive the development of your command-line applications</a>  (Josh)</li>
+<li><a title="GALAXY Tab 10.1" href="http://www.samsung.com/global/microsite/galaxytab/10.1/index.html" target="_blank">GALAXY Tab 10.1 </a> (Avdi)</li>
+<li><a title="Alfred" href="http://www.alfredapp.com/" target="_blank">Alfred </a> (James)</li>
 </ul>
+<p>&nbsp;</p>
+<p><span style="font-family: Consolas, Monaco, monospace;"><span class="Apple-style-span" style="font-size: 12px; line-height: 18px; white-space: pre;"><br />
+</span></span></p>
 </div>
 </div>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/q06zcjUsN9s" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/027-rr-teaching-ruby/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111101.mp3" length="21420646" type="audio/mpeg"/>
-			<itunes:subtitle>Panelists  Mike Clark (twitter github Pragmatic Studio)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - </itunes:subtitle>
-		<itunes:summary>Panelists
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/pW-J-xAPtTQ" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/031-rr-code-reading/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/code_reading.mp3" length="23787314" type="audio/mpeg"/>
+			<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion   Wittgenstein's ladder   Software Archaeology with Dave Thomas   The Rubygems.org source - Picks </itunes:subtitle>
+		<itunes:summary>Panel
 
-	Mike Clark (twitter github Pragmatic Studio)
 	Avdi Grimm (twitter github blog book)
-	Charles Max Wood (twitter github Teach Me To Code)
 	James Edward Gray (blog twitter github)
 	Josh Susser (twitter github blog)
 
-Discussed in this Episode
+Discussion
 
 
-	Classroom teaching
-	Pair Programming
-	Mentoring
-	Online Learning
-	Build something
-	Training at Conferences
-	Rails Guidebook
-	Programming Ruby by Dave Thomas
-	Pragmatic Studio Training
-	Ruby Talk mailing list
-	Course preparation
-	People coming to the language may not know how to program
-	Are we beginner friendly?
-	Why's poignant guide
-	shoes
-	learn to program book
-	tryruby.org
-	kids ruby
-	Find a way that works for you to get started, then set a real goal
-	Don't worry about learning syntax, learn to think about problems
-	Syntax isn't something you can ignore, but it's not the most important part
-	It's important to remember what you're doing and what it means
-	Blow your mind pattern
-	Enumeration protocol
-	partition
-	irb
-	getting little wins
-	REXML
+	Wittgenstein's ladder
+	Software Archaeology with Dave Thomas
+	The Rubygems.org source
 
 Picks
 
 
-	Ruby 1.9.3 (Avdi)
-	Plantronics 995 wireless headphones (anti-pick) (Avdi)
-	testfirst.org (Josh)
-	MagLev (twitter) (Josh)
-	Ancient Inventions documentary series (Josh)
-	sendgrid (James)
-	gatling_gun gem (James)
-	redcar ruby editor (Mike)
-	instacast (Mike)
-	Bloons Tower Defense 4 iPhone App (Chuck)
-	Ruby Show (Chuck)
-	Ruby5 (Chuck)</itunes:summary>
+	Apple Store Personal Pickup  (Josh)
+	Build Awesome Command-Line Applications in Ruby  (Avdi)
+	Test-drive the development of your command-line applications  (Josh)
+	GALAXY Tab 10.1  (Avdi)
+	Alfred  (James)
+
+ </itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111101.mp3" fileSize="21420646" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/027-rr-teaching-ruby/</feedburner:origLink></item>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/code_reading.mp3" fileSize="23787314" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/031-rr-code-reading/</feedburner:origLink></item>

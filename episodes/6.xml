@@ -1,86 +1,149 @@
 <item>
-		<title>005 RR RubyGems, Open Source, and Community</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/435Edjl0tXo/</link>
-		<comments>http://rubyrogues.com/rubygems-open-source-and-community/#comments</comments>
-		<pubDate>Fri, 03 Jun 2011 03:58:35 +0000</pubDate>
+		<title>006 RR Conferences and User Groups</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/W7ftrXy9sUw/</link>
+		<comments>http://rubyrogues.com/conferences-and-user-groups/#comments</comments>
+		<pubDate>Wed, 15 Jun 2011 19:55:29 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[Gregory Brown]]></category>
+				<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Marty Haught]]></category>
+		<category><![CDATA[Mike Moore]]></category>
+		<category><![CDATA[Peter Cooper]]></category>
+		<category><![CDATA[Ruby Community]]></category>
+		<category><![CDATA[conferences]]></category>
+		<category><![CDATA[dual track]]></category>
+		<category><![CDATA[highline]]></category>
+		<category><![CDATA[lanyrd]]></category>
+		<category><![CDATA[multi tracke]]></category>
+		<category><![CDATA[padrino]]></category>
+		<category><![CDATA[pharo]]></category>
+		<category><![CDATA[repeated talks]]></category>
+		<category><![CDATA[ruby on rails]]></category>
+		<category><![CDATA[ruby speedup patches]]></category>
+		<category><![CDATA[ruby there]]></category>
+		<category><![CDATA[single track]]></category>
+		<category><![CDATA[social interaction]]></category>
+		<category><![CDATA[user groups]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=37</guid>
-		<description><![CDATA[This week we really dug into the issues surrounding RubyGems and why people are worried about it. Gregory Brown (RMU) really helped us unravel some of the issues people are having. If you want to know what the issues are in this dog fight, this is a good place to find out. Panelists Charles Max [...]]]></description>
-			<content:encoded><![CDATA[<p></p><p>This week we really dug into the issues surrounding RubyGems and why people are worried about it. Gregory Brown (RMU) really helped us unravel some of the issues people are having. If you want to know what the issues are in this dog fight, this is a good place to find out.</p>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=41</guid>
+		<description><![CDATA[This week the rogues discuss the importance of conferences and user groups to the Ruby community. Panelists David Brady (blog twitter github ADDcasts) Peter Cooper (site twitter github The Ruby Show Ruby Inside) James Edward Gray II (blog twitter github) Marty Haught (site twitter github) Mike Moore (blog twitter github Rubiverse Podcast) Items discussed in [...]]]></description>
+			<content:encoded><![CDATA[<p></p><p>This week the rogues discuss the importance of conferences and user groups to the Ruby community.</p>
 <h3>Panelists</h3>
 <ul>
-<li>Charles Max Wood (<a href="http://twitter.com/cmaxw">@cmaxw</a>)</li>
-<li>David Brady (<a href="http://twitter.com/dbrady">@dbrady</a>)</li>
-<li>Gregory Brown (<a href="http://twitter.com/seacreature">@seacreature</a>)</li>
-<li>James Edward Gray II (<a href="http://twitter.com/JEG2">@JEG2</a>)</li>
+<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a> <a href="http://twitter.com/dbrady">twitter</a> <a href="http://github.com/dbrady">github</a> <a href="http://addcasts.com/">ADDcasts</a>)</li>
+<li>Peter Cooper (<a href="http://peterc.org/">site</a> <a href="http://twitter.com/peterc">twitter</a> <a href="http://github.com/peterc">github</a> <a href="http://rubyshow.com/">The Ruby Show</a> <a href="http://www.rubyinside.com/">Ruby Inside</a>)</li>
+<li>James Edward Gray II (<a href="http://blog.grayproductions.net/">blog</a> <a href="http://twitter.com/JEG2">twitter</a> <a href="http://github.com/JEG2">github</a>)</li>
+<li>Marty Haught (<a href="http://martyhaught.com/">site</a> <a href="http://twitter.com/mghaught">twitter</a> <a href="http://github.com/mghaught">github</a>)</li>
+<li>Mike Moore (<a href="http://blowmage.com/">blog</a> <a href="http://twitter.com/blowmage">twitter</a> <a href="http://github.com/blowmage">github</a> <a href="http://rubiverse.com/">Rubiverse Podcast</a>)</li>
 </ul>
 <h3>Items discussed in today&#8217;s episode</h3>
 <ul>
-<li><a href="http://rubyforge.org/projects/rubygems/">RubyGems</a></li>
-<li><a href="http://slimgems.github.com/">SlimGems</a></li>
-<li><a href="http://rdoc.rubyforge.org/">RDoc</a></li>
-<li><a href="http://yardoc.org/">YarDoc</a></li>
-<li><a href="http://rtomayko.github.com/rocco/">Rocco.rb</a></li>
-<li><a href="https://github.com/evanphx/rubygems_fp">RubyGems Future Proofing</a></li>
-<li><a href="http://addcasts.com">ADDCasts</a></li>
-<li><a href="http://ruby-pdf.rubyforge.org/pdf-writer/">PDFWriter</a></li>
-<li><a href="http://prawn.majesticseacreature.com/">Prawn</a></li>
-<li><a href="http://university.rubymendicant.com/">Ruby Mendicant University (RMU)</a> (Greg told me that there are a few slots open in July that will probably fill soon if you want them.)</li>
+<li>User Groups:
+<ul>
+<li><a href="http://ok-ruby.org/">OK.rb</a></li>
+<li><a href="http://boulderruby.org/">Boulder Ruby</a></li>
+<li><a href="http://utruby.org/">Utah Ruby User Group (URUG)</a></li>
+</ul>
+</li>
+<li>Conferences:
+<ul>
+<li><a href="http://reddirtrubyconf.com/">Red Dirt RubyConf</a></li>
+<li><a href="http://mountainrb.com/">mountain.rb</a></li>
+<li><a href="http://rockymtnruby.com/">Rocky Mountain Ruby</a></li>
+<li><a href="http://mtnwestrubyconf.org/">MountainWest RubyConf (MWRC)</a></li>
+<li><a href="http://rubywebconf.org/">Ruby Web Conference</a></li>
+</ul>
+</li>
+<li>Should speakers pay admission?
+<ul>
+<li><a href="http://jessenoller.com/2011/05/25/pycon-everybody-pays/">PyCon: Everybody Pays</a></li>
+<li><a href="http://martyhaught.com/articles/2011/06/07/conference-organizing-and-speakers/">Conference organizing and speakers</a></li>
+</ul>
+</li>
+<li>What makes a great conference?
+<ul>
+<li>Try something different</li>
+<li>Melted brains</li>
+<li>Single track</li>
+<li>Social interaction</li>
+<li>Dual tracks</li>
+<li>Managing repeated talks</li>
+</ul>
+</li>
 </ul>
 <h3>Panel Picks</h3>
 <ul>
-<li><a href="http://exceptionalruby.com/">Exceptional Ruby</a> (Dave)</li>
-<li><a href="http://www.amazon.com/gp/product/158297103X/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217153&#038;creative=399349&#038;creativeASIN=158297103X">How to Write Science Fiction &#038; Fantasy</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=158297103X&#038;camp=217153&#038;creative=399349" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Dave) Affiliate Link</li>
-<li><a href="http://www.icfpcontest.org/">International Conference on Functional Programming Contest</a> (James)</li>
-<li><a href="http://slimtimer.com">Slimtimer</a> (Chuck) </li>
-<li><a href="http://www.amazon.com/gp/product/0321773772/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217153&#038;creative=399701&#038;creativeASIN=0321773772">iOS Programming: The Big Nerd Ranch Guide (2nd Edition) (Big Nerd Ranch Guides)</a><img src="http://www.assoc-amazon.com/e/ir?t=&#038;l=as2&#038;o=1&#038;a=0321773772&#038;camp=217153&#038;creative=399701" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Chuck)</li>
-<li><a href="https://github.com/banister/pry">pry</a> (Greg)</li>
-<li>Conversations with Smart People</li>
+<li><a href="http://rubythere.com/">Ruby There</a></li>
+<li><a href="http://www.rubyinside.com/get-edge-ruby-faster-loading-ruby-1-9-2-now-4973.html">Ruby speedup patches</a></li>
+<li><a href="http://www.pharo-project.org/home">Pharo</a></li>
+<li><a href="http://pharobyexample.org/">Pharo by example</a></li>
+<li><a href="http://rubyonrails.org/">Ruby on Rails</a></li>
+<li><a href="http://highline.rubyforge.org/">HighLine</a></li>
+<li><a href="http://lanyrd.com/">Lanyrd</a></li>
+<li><a href="http://www.padrinorb.com/">padrino</a></li>
 </ul>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/435Edjl0tXo" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/rubygems-open-source-and-community/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110602.mp3" length="89027198" type="audio/mpeg"/>
-			<itunes:subtitle>This week we really dug into the issues surrounding RubyGems and why people are worried about it. Gregory Brown (RMU) really helped us unravel some of the issues people are having. If you want to know what the issues are in this dog fight,</itunes:subtitle>
-		<itunes:summary>This week we really dug into the issues surrounding RubyGems and why people are worried about it. Gregory Brown (RMU) really helped us unravel some of the issues people are having. If you want to know what the issues are in this dog fight, this is a good place to find out.
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/W7ftrXy9sUw" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/conferences-and-user-groups/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110609.mp3" length="96296204" type="audio/mpeg"/>
+			<itunes:keywords>conferences,dual track,highline,lanyrd,multi tracke,padrino,pharo,repeated talks,ruby on rails,ruby speedup patches,ruby there,single track</itunes:keywords>
+		<itunes:subtitle>This week the rogues discuss the importance of conferences and user groups to the Ruby community. - Panelists  David Brady (blog twitter github ADDcasts)   Peter Cooper (site twitter github The Ruby Show Ruby Inside) </itunes:subtitle>
+		<itunes:summary>This week the rogues discuss the importance of conferences and user groups to the Ruby community.
 
 Panelists
 
-	Charles Max Wood (@cmaxw)
-	David Brady (@dbrady)
-	Gregory Brown (@seacreature)
-	James Edward Gray II (@JEG2)
-
+	David Brady (blog twitter github ADDcasts)
+	Peter Cooper (site twitter github The Ruby Show Ruby Inside)
+	James Edward Gray II (blog twitter github)
+	Marty Haught (site twitter github)
+	Mike Moore (blog twitter github Rubiverse Podcast)
 
 Items discussed in today's episode
 
-	RubyGems
-	SlimGems
-	RDoc
-	YarDoc
-	Rocco.rb
-	RubyGems Future Proofing
-	ADDCasts
-	PDFWriter
-	Prawn
-	Ruby Mendicant University (RMU) (Greg told me that there are a few slots open in July that will probably fill soon if you want them.)
+	User Groups:
+
+	OK.rb
+	Boulder Ruby
+	Utah Ruby User Group (URUG)
+
+
+	Conferences:
+
+	Red Dirt RubyConf
+	mountain.rb
+	Rocky Mountain Ruby
+	MountainWest RubyConf (MWRC)
+	Ruby Web Conference
+
+
+	Should speakers pay admission?
+
+	PyCon: Everybody Pays
+	Conference organizing and speakers
+
+
+	What makes a great conference?
+
+	Try something different
+	Melted brains
+	Single track
+	Social interaction
+	Dual tracks
+	Managing repeated talks
+
 
 
 Panel Picks
 
-	Exceptional Ruby (Dave)
-	How to Write Science Fiction &amp; Fantasy (Dave) Affiliate Link
-	International Conference on Functional Programming Contest (James)
-	Slimtimer (Chuck)
-	iOS Programming: The Big Nerd Ranch Guide (2nd Edition) (Big Nerd Ranch Guides) (Chuck)
-	pry (Greg)
-	Conversations with Smart People</itunes:summary>
+	Ruby There
+	Ruby speedup patches
+	Pharo
+	Pharo by example
+	Ruby on Rails
+	HighLine
+	Lanyrd
+	padrino</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:01:49</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110602.mp3" fileSize="89027198" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/rubygems-open-source-and-community/</feedburner:origLink></item>
+		<itunes:duration>1:05:43</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110609.mp3" fileSize="96296204" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/conferences-and-user-groups/</feedburner:origLink></item>

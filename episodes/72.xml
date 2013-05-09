@@ -1,138 +1,118 @@
 <item>
-		<title>057 RR – Ruby Central</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/QKYihIqIId8/</link>
-		<comments>http://rubyrogues.com/057-rr-rubycentral/#comments</comments>
-		<pubDate>Thu, 14 Jun 2012 03:57:32 +0000</pubDate>
+		<title>071 RR Zero Downtime Deploys</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/NUmq6OSEE9g/</link>
+		<comments>http://rubyrogues.com/071-rr-zero-downtime-deploys/#comments</comments>
+		<pubDate>Mon, 24 Sep 2012 12:00:35 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
 				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Chad Fowler]]></category>
-		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[Evan Phoenix]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Pedro Belo]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=554</guid>
-		<description>Panel Evan Phoenix (twitter github blog) Chad Fowler (twitter github chadfowler.com) Avdi Grimm (twitter github blog book) David Brady (blog witter github ADDcasts) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Discussion Chad Fowler doesn&amp;#8217;t listen to podcasts Learning sign language Evil League of Evil Ruby Central RubyConf RailsConf RailsConf Europe RubyCon vs. RubyConf/Ruby Central RubyForge Gforge RAA RAA.SUCC RubyGems.org PDI as a career choice JavaCentral? [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/QKYihIqIId8" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/057-rr-rubycentral/feed/</wfw:commentRss>
-		<slash:comments>4</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR057RubyCentral.mp3" length="77032094" type="audio/mpeg"/>
-		<itunes:subtitle>Panel  Evan Phoenix (twitter github blog)   Chad Fowler (twitter github chadfowler.com)   Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   James Edward Gray II (blog twitter github) </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=719</guid>
+		<description>Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Pedro Belo (twitter github) Discussion Zero Downtime Deploys Continuous Deployment Unicorn Migrations Heroku Gradual Depoloyment Coordinated Rollbacks Splunk Graphite Picks Dabblers and Blowhards (Avdi) The Might Be Giants &amp;#8211; Here Come the ABCs, Here Come [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/NUmq6OSEE9g" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/071-rr-zero-downtime-deploys/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR071ZeroDowntimeDeploys.mp3" length="78669887" type="audio/mpeg"/>
+		<itunes:subtitle>Panel   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog)   Pedro Belo (twitter github) Discussion  Zer...</itunes:subtitle>
 		<itunes:summary>Panel
 
-	Evan Phoenix (twitter github blog)
-	Chad Fowler (twitter github chadfowler.com)
-	Avdi Grimm (twitter github blog book)
-	David Brady (blog witter github ADDcasts)
-	James Edward Gray II (blog twitter github)
-	Josh Susser (twitter github blog)
+
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+	Pedro Belo (twitter github)
+
 
 Discussion
 
-	Chad Fowler doesn't listen to podcasts
-	Learning sign language
-	Evil League of Evil Ruby Central
-	RubyConf
-	RailsConf
-	RailsConf Europe
-	RubyCon vs. RubyConf/Ruby Central
-	RubyForge
-	Gforge
-	RAA
-	RAA.SUCC
-	RubyGems.org
-	PDI as a career choice
-	JavaCentral? PythonCentral?
-	Sun Oracle (Snoracle)
-	Python Software Foundation
-	Perl Software Foundation
-	Organizing conferences make people go crazy
-	RubyCentral encouraged the formation of regional conferences
-	ClassBox
-	Ruby/Rails community can risk echochamber/groupthink
-	The wrong style of OO
-	"Programmers have a tendency to build castles in the sky."
-	"Overdecomplecting"
-	Moving RubyCentral forward
-	RubyCentral-like site for cataloging regional conferences - Josh Susser, PDI
+	Zero Downtime Deploys
+	Continuous Deployment
+	Unicorn
+	Migrations
+	Heroku
+	Gradual Depoloyment
+	Coordinated Rollbacks
+	Splunk
+	Graphite
 
 Picks
 
-	Loratdine Alergy Tablets (Generic Claritin) (Evan)
-	RubyLVM (Evan)
-	Legend of Korra (Josh)
-	SimpleForm (Josh)
-	Go outside and play (David)
-	Mosin Nagant (David)
-	Trap and Skeet Shooting in San Francisco (David)
-	Hunter's Education (David)
-	Badminton (Avdi)
-	Diablo III (James)
-	Gratuitous Tank Battles (James)
-	Esoteric Programming Languages by David Morgan Marr (Chad)
-	Let Over Lambda (Chad)
+	Dabblers and Blowhards (Avdi)
+	The Might Be Giants - Here Come the ABCs, Here Come the 123s and Here Comes Science (Avdi)
+	Service-oriented Songkick (James)
+	Sick Science! (James)
+	iPhone 5 (Josh)
+	Kickoff Labs (Josh)
+	Primal Palet Books (Josh)
+	Confreaks - How To Get The Most Out Of Your Conference Experience (Josh)
+	Surge Protectors (Chuck)
+	UPS (Chuck)
+	LG Tone Headset (Chuck)
+	Why Our Code Smells (Pedro)
+	Zues (Pedro)
 
 Transcript
-CHAD: Oh! That’s Avdi’s voice that sounds so amazing, isn’t it?
-AVDI: (laughs) That’s going to have to go in and overheard.
+JOSH: Hey, guys.
 
-EVAN: It does lend itself to a good sort of like “sensual intro”.
+JAMES: Hello, hello.
+
+AVDI: Howdy.
+
+JOSH: Good morning. Hey, how you doing Pedro?
+
+PEDRO: Hey. Pretty good. Pretty good. And you man?
+
+JOSH: Well, I am awake.
 
 [laughter]
 
-AVDI: We should do the Ruby Shoe Diaries.
-
-JAMES: Ruby Shoe Diaries.
 
 
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
 
-[This episode is sponsored by railsthemes.com. Have a website only a mother could love? Then you need a theme. Go to railsthemes.com and sign up for our early access and when they release, you’ll be able to check out and use their themes on your Rails App.]
+[This episode is sponsored by JetBrains -- makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
 
-[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
 
-JAMES: Hey everybody! Welcome to the Ruby Rogues podcast. This is Episode 57 and with us today we have Josh Susser.
+CHUCK: Hey everybody and welcome to episode of 71 of the Ruby Rogues Podcast! This week on our panel, we have Avdi Grimm.
 
-JOSH: Hello! James just told me. Hey! Good Morning from San Francisco!
+AVDI: Hello from Pennsylvania.
 
-JAMES: You’re supposed to un-mute when you talk Josh.
+CHUCK: We have Josh Susser.
 
-JOSH: I know. I know. I must have got that wrong.
+JOSH: Hey, good morning everyone!
 
-JAMES: I don’t know how many instructions do I have…
+CHUCK: James Edward Gray.
 
-JOSH: Un-mute first and then talk.
+JAMES: Chuck, we are going to need to use my formal title from now on.
 
-JAMES: And we have…
+CHUCK: Is that ‘Your Majesty’? Kind of like ‘Your Worship’?
 
-JOSH: Moving right along.
+JAMES: No. I'm going with “Ninjeneer Snowflake”.
 
-JAMES: We have Avdi Grimm.
+CHUCK: [laughs] OK. Our resident Snowflake, and we also have special guest and that's Pedro Belo.
 
-AVDI: Hi! This is Avdi. And James, please tell Josh that I’m not speaking to him because he insulted my hair.
+PEDRO: Hey, yeah. Good morning guys!
 
-JAMES: (Josh, Avdi’s not speaking to you.) And we have David Brady.
+CHUCK: Pedro, do you wanna introduce yourself really quick?
 
-DAVID: Hey everybody! I’m back from vacation except that I carefully time my vacations to be between episodes and so I’m just still here.
+PEDRO: Yeah, for sure. So, I'm a developer at Heroku. I've been working on the API right now, but I joined the company quite a few time ago; did quite a few different projects in there. And yeah, I guess that's what I'm doing.
 
-JAMES: Just to be clear nobody has yet insulted David Brady’s hair this morning.
+CHUCK: Cool. So, we are going to be talking about Zero Downtime Deploys, which sounds kind of interesting to me. I keep hearing the term, and for some reason my mind conflates it with continuous deployment, which I guess is a different idea. So, zero downtime deploy means that you run your deploy and your users don’t see the site go down for even a second, right?
 
-AVDI: I have had my hair pattern insulted several, several times.
+PEDRO: Exactly. There is not a single user that is affected by the deploy. And not only like 500 errors, like we talking about like assets; they show properly. They don’t got any like weird CSS from the previous version or anything like that, right?
 
-JAMES: I’m James Edward Grey II. I’m standing in as host today because we’re minus our usual leader Chuck. But we have two guests today. We have Evan Phoenix who’s been on the show before. Hi Evan!
+CHUCK: Right.
 
-EVAN: Hi everybody from sunny Los Angeles.
+JOSH: So aside form just niceness, why is that important?
 
-JAMES: And we have Chad Fowler who admits he doesn’t listen to the show. Hi Chad!
+PEDRO: That is a great question. I wouldn’t think it’s that important like, a year ago or this is something that started growing in me together with the growth of the Heroku API, right? So in the beginning, we had like, let’s say, five requests a sec or something like that. And then at that point, it doesn’t hurt you too much, right? Maybe you will see one 500 or another on a deploy but it’s like really rare. But now, if you are talking about a website that has hundreds of calls a second, then as soon as something goes wrong in a deploy, like you will see 20 exceptions or even more. So, I think when you have a big site, it becomes pretty important so you can establish trust with your customers. They down want to get 500s. They rely on you and that's why I think it’s important.
 
-CHAD: (laughs) Hello! But to be fair, I don’t listen to any podcast and I am in Washington, DC where it is tropical and hideous.
-
-JAMES: I’m in Oklahoma where it’s hailing and taking out everybody’s power and stuff like that. So we’ll see how well this recording goes today.
-
-DAVID: Chad, you don’t listen to podcast. In the pre-call you said that’s because you’re Amish.
-
-CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said it was that I am unable to actually comprehend things when they’re spoken to me in large volumes.
-
-</itunes:summary>
+JOSH: I guess some of it really is just related to revenue. If you think about Amazon,</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:04:12</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR057RubyCentral.mp3" fileSize="77032094" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/057-rr-rubycentral/</feedburner:origLink></item>
+		<itunes:duration>1:05:33</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR071ZeroDowntimeDeploys.mp3" fileSize="78669887" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/071-rr-zero-downtime-deploys/</feedburner:origLink></item>

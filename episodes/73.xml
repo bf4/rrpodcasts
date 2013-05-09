@@ -1,12 +1,126 @@
 <item>
-      <title>Ruby Rogues - 058 - Working With Unix Processes</title>
-      <itunes:author>Charles Max Wood</itunes:author>
+		<title>072 RR Entrepreneurship with Amy Hoy</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/r-grNUbc6rA/</link>
+		<comments>http://rubyrogues.com/072-rr-entrepreneurship-with-amy-hoy/#comments</comments>
+		<pubDate>Fri, 28 Sep 2012 09:00:49 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Amy Hoy]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=662</guid>
+		<description>Panel Amy Hoy (twitter blog) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) Discussion Ruby On Rails Best of Parley Paul Graham: Black Swan Farming The Black Swan: Nassim Nicholas Taleb Dropbox Venture capitalism [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/r-grNUbc6rA" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/072-rr-entrepreneurship-with-amy-hoy/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR072Entrepreneurship4.mp3" length="37356183" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Amy Hoy (twitter blog)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) - Discussion - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Amy Hoy (twitter blog)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+
+Discussion
+
+	Ruby On Rails
+	Best of Parley
+	Paul Graham: Black Swan Farming
+	The Black Swan: Nassim Nicholas Taleb
+	Dropbox
+	Venture capitalism
+	Business versus startup
+	Why Blacksmiths are Better at Startups Than You: Amy Hoy
+	Funding
+	37 Signals
+	Github
+	Angel investors
+	Customer finding process
+	The Passionate Programmer: Chad Fowler
+	Would you pay for this/Would you pay for this right now?
+	Double Your Freelancing Rate: Brennan Dunn
+	Brennan Dunn - planscope.io
+	Confident Ruby: Avdi Grimm
+	The Lean Startup: Eric Ries
+	Better software
+	Cherishing problems
+	Failure archetypes
+	Choosing customers/distribution mechanisms
+	Gary Vaynerchuk
+	“Shut Up and Take My Money!” Or, How to Pitch so People Will Listen: Amy Hoy
+Kickstarter
+	Getting money upfront
+	SkyCube Project
+
+Picks
+
+	Photo registration (Josh)
+	Rock The Vote (Josh)
+	Practical Object-Oriented Design in Ruby: POODR: Sandy Metz (Josh)
+	Pick Withdraw: Parallels Workstation (Avdi)
+	Airbnb (Avdi)
+	SuperShuttle (Avdi)
+	Naming From the Outside In: Kent Beck (Avdi)
+	Linguistic Potluck: Crowdsourcing Localization in Rails: Heather Rivers (Avdi)
+	Avdi’s dancing (Josh)
+	Blue Yeti USB Microphone - Silver Edition (David)
+	Shush App (David)
+	Civilization IV (Chuck)
+	Joe Satriani (Chuck)
+	BBC Mastercrafts (Amy)
+	Circa Notebooks (Amy)
+	Breakthrough Advertising: Eugene M. Schwartz (Amy)
+
+Transcript
+JOSH: I have a massage therapist I’ve been seeing lately, who does really deep tissue work and sometimes the next day, I feel like I got run over by a stampede of Pygmies.
+AMY: Live Pygmies? (laughs) That’s a very vivid illustration.
+
+JOSH: Well, because –
+
+AMY: Most people would say “truck” or “reindeer.”
+
+JOSH: (laughs) Reindeer. You know, I’ve never been run over by a heard of reindeer.
 
 
 
-      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR058WorkingWithUnixProcesses.mp3" length="68570372" type="audio/mp3"/>
-      <guid isPermaLink="false">f848e30ee4cac6a5dbdf8f073730c771cd229a04</guid>
-      <pubDate>Fri, 15 Jun 2012 04:06:13 -0500</pubDate>
-      <itunes:duration>3428</itunes:duration>
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic] 
 
-      </item>
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great in line debugging tools, built in version control and intelligent code insight and refactoring, checkout RubyMine by going to jetbrains.com/Ruby.] 
+
+[Hosting and bandwidth provided by The Blue Box Group. Check them out at bluebox.net]
+
+CHUCK: Hey, everybody and welcome to episode 72 of the Ruby Rogues Podcast! This week on our panel, we have Josh Susser.
+
+JOSH: Hey good morning everyone. I’m back to normal. (Whatever that means.)
+
+CHUCK: We have David Brady.
+
+DAVID: Hey, it’s David Brady and I’m 90° out of phase with everything.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello, hello!
+
+CHUCK:  I’m Charles Max Wood from devchat.tv and this week we have a special guest and that’s Amy Hoy!
+
+AMY:  Hi everybody!
+
+CHUCK:  Amy, do you want to introduce yourself real quick?
+
+AMY:  Oh, no. You didn’t tell me I had to do this. Yes, hi, I’m Amy. I got involved in Ruby on Rails in, I think 2004 or 2005. It was definitely the winter. Rails was at 0.7 and became a little bit famous because I wrote the sort of right brain tutorials about Rails and Ruby. That totally changed my life and now I’m a product superstar!
+
+CHUCK:  There you go. That’s why we have you on the show.
+
+DAVID: So, that’s actually the perfect lead in to the story I mentioned in the pre-call. So, Amy, you and I have never met before this call, but name dropping your name actually helped me get a job.
+
+AMY: I have to hear this.
+
+DAVID: Okay. So, it’s a pretty short story. It starts with a very sad joke, which is that I was – well, actually, the whole point of it is the joke. In an interview, talking about how much do you know Rails. It was in 2005 or so, somebody asked me how much I knew Ruby on Rails, and I said, “Well,</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:10:02</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR072Entrepreneurship4.mp3" fileSize="37356183" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/072-rr-entrepreneurship-with-amy-hoy/</feedburner:origLink></item>

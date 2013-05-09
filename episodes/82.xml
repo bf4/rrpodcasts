@@ -1,32 +1,165 @@
 <item>
-		<title>066 RR Rails Bridge with Sarah Mei</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/t-FRel_NC2o/</link>
-		<comments>http://rubyrogues.com/066-rr-rails-bridge-with-sarah-mei/#comments</comments>
-		<pubDate>Tue, 14 Aug 2012 12:00:08 +0000</pubDate>
+		<title>081 RR Rails 4 with Aaron Patterson</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/_y-ducD_WSU/</link>
+		<comments>http://rubyrogues.com/081-rr-rails-4-with-aaron-patterson/#comments</comments>
+		<pubDate>Wed, 28 Nov 2012 14:00:04 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
+				<category><![CDATA[Aaron Patterson]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
 		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
 		<category><![CDATA[James Edward Gray II]]></category>
 		<category><![CDATA[Josh Susser]]></category>
-		<category><![CDATA[Sarah Mei]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=628</guid>
-		<description>Panel Sarah Mei (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (blog witter github ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion RailsBridge Blind Application Process Getting Started With Rails Bridge Collaboration Between Rails Bridge and Other Groups PyStar Confident Coding The Starfish and the Spider Toastmasters Starting [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/t-FRel_NC2o" height="1" width="1"/&gt;</description>
-		<wfw:commentRss>http://rubyrogues.com/066-rr-rails-bridge-with-sarah-mei/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR066RailsBridge.mp3" length="89429072" type="audio/mpeg"/>
-		<itunes:subtitle>Panel   Sarah Mei (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github) </itunes:subtitle>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=900</guid>
+		<description>Panel Aaron Patterson (twitter github blog) Avdi Grimm (twitter github blog book) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 03:06 &amp;#8211; Best of Parley Ordering of Methods by Ian M. Whitney 04:28 &amp;#8211; Everyone’s first version of Rails [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/_y-ducD_WSU" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/081-rr-rails-4-with-aaron-patterson/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR081Rails4.mp3" length="68221949" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Aaron Patterson (twitter github blog)   Avdi Grimm (twitter github blog book)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) - </itunes:subtitle>
 		<itunes:summary>Panel
 
+	Aaron Patterson (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
 
-	Sarah Mei (twitter github blog)
-	Avdi Grimm (twitter github blog book)
-	David Brady (blog witter github ADDcasts)
-	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
-	James Edward Gray (blog twitter github)
-	Josh Suss...</itunes:summary>
+Discussion
+03:06 - Best of Parley
+
+	Ordering of Methods by Ian M. Whitney
+
+04:28 - Everyone’s first version of Rails
+
+06:11 - Major changes in Rails 4
+
+	Moved tests around
+	Changing directory structure
+
+07:57 - What’s been taken out of Rails 4
+
+	Sprockets Rails
+
+09:31 - New deprecation policy
+
+10:42 - Committers and the Core Team
+
+13:07 - Release process
+
+15:54 - Beta vs Release Candidate
+
+17:08 - minitest vs test-unit
+
+	minitest-spec
+
+22:51 - routing_concerns and turbolinks
+
+30:00 - Matryoshka Doll/Russian Doll Caching
+
+34:20 - Rails 4 and thread safety
+
+	WEBrick
+	Heroku
+
+39:59 - Aaron’s individual Rails 4 contributions
+
+	Live streaming
+	Bug fixes in Rails
+	Refactoring in actionpack
+	Ruby 2.0 Compatability
+
+40:28 - Live streaming
+
+41:29 - PostgresSQL
+
+46:15 - Strong Parameters
+
+49:14 - Queuing system
+
+52:53 - Community participation and learning Rails
+Picks
+
+	Squeel (Avdi)
+	Bulleit Bourbon (Avdi)
+	The Trevor Project (Josh)
+	The Pragmatic Programmer by Andrew Hunt and David Thomas (James)
+	Tech Toys for Kids, From Tots to Teens (and Grown-Ups, Too) (James)
+	rolify (Chuck)
+	Keynote - Rails 4 and the Future of Web by Aaron Patterson (Chuck)
+	ScreenFlow 4 (Aaron)
+	BeagleBone(Aaron)
+
+Next Week
+Vagrant with Michael Ries
+Book Club
+The next Ruby Rogues Book Club Pick will be  Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via  InformIT.com.
+
+	First create a user account:  www.informit.com/join
+	SAVE 40% When You Buy 2:  www.informit.com/ruby
+	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
+	(Includes FREE SHIPPING within the U.S.!)
+
+Transcript
+AARON: Avdi?
+
+AVDI: Yes.
+
+AARON: How come your sound is so good?
+
+JAMES: [chuckles] It’s his voice.
+
+JOSH: Genetics.
+
+[laughter]
+
+JAMES: That's awesome.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to episode 81 of the Ruby Rogues podcast! This week on our panel, we have Avdi Grimm.
+
+AVDI: Hello, hello.
+
+CHUCK: James Edward Gray.
+
+JAMES: So excited to be on the [inaudible] episode.
+
+CHUCK: Josh Susser.
+
+JOSH: No comment.
+
+CHUCK: I'm Charles Max Wood from devchat.tv and this week, we have a special guest – Aaron Patterson.
+
+AARON: Hi this is Avdi Grimm.
+
+[laughter]
+
+CHUCK: So it’s been a while since you've been in the show Aaron, do you wanna just quickly introduce yourself for the handful of folks that haven’t seen you speak at the myriad conference you’d been to?
+
+AARON: Sure. My name is Aaron Paterson. I work on the Rails Core Team and the Ruby Core Team and I tweet as “tenderlove”. I don’t know what else to say about myself. How's that?
+
+CHUCK: Ruby Core Team? Do you speak Japanese?
+
+AARON: I do. Yes. It’s true.
+
+CHUCK: [laughs]
+
+AARON: [laughs] And I only participate in Japanese too.
+
+CHUCK: [laughs]
+
+AARON: …intentionally so that nobody can understand what I'm saying.
+
+CHUCK: And by “nobody”, you mean neither the Japanese speakers nor the English speakers, right?
+
+AARON: Exactly, yes.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-		<itunes:duration>1:14:31</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR066RailsBridge.mp3" fileSize="89429072" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/066-rr-rails-bridge-with-sarah-mei/</feedburner:origLink></item>
+		<itunes:duration>1:11:04</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR081Rails4.mp3" fileSize="68221949" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/081-rr-rails-4-with-aaron-patterson/</feedburner:origLink></item>

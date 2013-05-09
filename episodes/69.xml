@@ -1,12 +1,95 @@
 <item>
-      <title/>
-      <itunes:author/>
+		<title>068 RR Book Club: Growing Object Oriented Software Guided by Tests</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/o_l8qPcyGrk/</link>
+		<comments>http://rubyrogues.com/068-rr-book-club-growing-object-oriented-software-guided-by-tests/#comments</comments>
+		<pubDate>Fri, 24 Aug 2012 12:00:30 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Nat Pryce]]></category>
+		<category><![CDATA[Steve Freeman]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=640</guid>
+		<description>Panel Steve Freeman (twitter website book) Nat Pryce (twitter website book) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Discussion Growing Object Oriented Software Guided by Tests Testing and Design as a Holistic Process Design and Development Philosophy Context Independent Pieces That Work Well Together Focus on [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/o_l8qPcyGrk" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/068-rr-book-club-growing-object-oriented-software-guided-by-tests/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR068_GOOS.mp3" length="94415216" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Steve Freeman (twitter website book)   Nat Pryce (twitter website book)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github) - Discussion - ...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Steve Freeman (twitter website book)
+	Nat Pryce (twitter website book)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+
+Discussion
+
+	Growing Object Oriented Software Guided by Tests
+	Testing and Design as a Holistic Process
+	Design and Development Philosophy
+	Context Independent Pieces That Work Well Together
+	Focus on the communication between pieces, rather than the pieces themselves.
+	Falling into the "communication as an afterthought" trap.
+	Mediators
+	"Tell, don't ask"
+	My System - Aron Nimzowitsch
+	Outside-In Development
+	Ports and Adapter Architecture
+	Deployment to Production
+	Rhythm
+	Development Within Highly Integrated Systems
+	The Progress Principle by Teresa Amabile
+	Warning - Projects May Appear Too Simple
+	The "Release - Get Shouted At" Cycle
+	The Power in Naming (or Renaming) a Concept
+	Code Should Express Why it Exists
+	Improve The Diagnostic, Improve Your Understanding
+
+Picks
+
+	Subclassing The Module Class in Ruby (Avdi)
+	Teacher's Scotch (Avdi)
+	Full Ack, Doc 1, Doc 2 (James)
+	The Strangest Secret - Kindle, MP3 (Chuck)
+	Networking (Chuck)
+	Raspberry PI (Steve)
+	Atul Gawande (Steve)
+	Codea (iOS) (Nat)
+
+Our next book club: Service Oriented Design with Ruby and Rails by Paul Dix
+Transcript 
+CHUCK: Alright. I’m back. I have a “STOP” sign I put on my door to signal to my kids not to come in.
+
+JAMES: Does it work?
+
+CHUCK: Ah, yes. It’s only failed once. And it was because she was already in trouble and was coming to appeal to me to not be in trouble.
 
 
 
-      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR054CodeExercisesKatasQuizzes.mp3" length="88504610" type="audio/mp3"/>
-      <guid isPermaLink="false">e0cbda416780329cff598e56081fe9426d3d0db8</guid>
-      <pubDate>Sat, 12 May 2012 02:08:36 -0500</pubDate>
-      <itunes:duration>4425</itunes:duration>
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
 
-    </item>
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby.]
+
+[Hosting bandwidth provided by the Blue Box Group. Check them out at bluebox.net.]
+
+CHUCK: Hey everybody and welcome to Episode 68 of the Ruby Rogues podcast! This week we’re going to be talking about our book club book and that’s “Growing Object Oriented Software Guided by Tests”. And we also have the authors here, and that’s Steve Freeman and Nat Pryce. We’ll talk to them in a minute. I just want to introduce our panel; first we have James Edward Grey.
+
+JAMES: Hello!
+
+CHUCK: We also have Avdi Grimm.
+
+AVDI: Hello hello!
+
+CHUCK: I’m Charles Max Wood from devchat.tv and let’s go ahead and introduce you guys. Steve, why don’t you go first? Just tell us a little about yourself.
+
+STEVE: Oh hi! So I’m based in London where I’m a freelance software person. Slightly complicated check, complicated history which evolved working for all bunch of things including software houses and consultancies. Never directed for a certain client, usually I have either through a consultancy or as independent. Stopped for a PhD along the way, which gave me a chance to get in touch with a few things a bit deeper. And along with that sort of early member of the London Extreme Tuesday Club, which is a group of like-minded people who got together about 12 years ago now. And as we say on the book, a lot of the materials has come out of a decade of arguing and pubs. It’s been quite thoroughly road tested before we wrote it down.
+
+CHUCK: Awesome. How about you Nat? Do you want to introduce yourself?
+
+NAT: Hello. Just like Steve, I also am a freelance independent computer programmer and have worked in a variety of industries: some banking, some sports visualization and the first dot com boom. I’ve done a PhD. I’m currently doing some embedded Java stuff for a major broadcaster for a set of boxes. Again, I met Steve and XTC and many other people banked these ideas around and that’s carried on with until they became a book.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:18:41</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR068_GOOS.mp3" fileSize="94415216" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/068-rr-book-club-growing-object-oriented-software-guided-by-tests/</feedburner:origLink></item>

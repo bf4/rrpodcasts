@@ -1,12 +1,167 @@
 <item>
-      <title/>
-      <itunes:author/>
+		<title>076 RR Service-Oriented Design with Paul Dix</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/1SAnplxIgGg/</link>
+		<comments>http://rubyrogues.com/076-rr-service-oriented-design-with-paul-dix/#comments</comments>
+		<pubDate>Wed, 24 Oct 2012 13:00:06 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Paul Dix]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=817</guid>
+		<description>Panel Paul Dix (twitter github blog book) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 01:29 &amp;#8211; Errplane 01:31 &amp;#8211; Service-Oriented Design with Ruby and Rails: Paul Dix 01:49 &amp;#8211; Best of Parley Date Formating RailsRumble Maglev Object Prevalence [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/1SAnplxIgGg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/076-rr-service-oriented-design-with-paul-dix/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR076ServiceOrientedDesign.mp3" length="65577950" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Paul Dix (twitter github blog book)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) - Discussion 01:29 - Errplane - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Paul Dix (twitter github blog book)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+
+Discussion
+01:29 - Errplane
+
+01:31 - Service-Oriented Design with Ruby and Rails: Paul Dix
+
+01:49 - Best of Parley
+
+	Date Formating
+	RailsRumble
+	Maglev
+	Object Prevalence
+
+04:12 - Definition of Service-Oriented Design
+
+06:12 - Email and Service-Oriented Design
+
+	Solr
+
+09:34 - Latency between services
+
+	Avoid call-depth
+	Caching
+
+11:58 - Beginning applications
+
+	Iteration speed
+	Background work
+
+16:15 - Splitting things off
+
+18:29 - Layers
+
+	Sinatra
+	Scala
+	Go
+
+21:11 - Where to draw the lines between services
+
+	Keep things that change together, together
+	Defining and connecting APIs
+
+27:06 - activeresource
+
+30:05 - Interest in service-oriented design
+
+31:29 - Service-oriented design NOW
+
+
+Messaging
+
+Building services
+
+35:30 - Applications
+
+38:27 - Status Code 400
+
+40:15 - Don’t be afraid to define a protocol
+
+42:17 - Error code
+
+43:29 - Conway’s Law
+
+	Long-lived services
+	Teams
+
+49:41 - Security
+
+	Customer facing security
+	Internal security
+
+55:37 - typhoeus
+Picks
+
+	HTTP Status Codes (Josh)
+	Mega Rails: Jack Danger Canty (Josh)
+	Services, Scale, Backgrounding and WTF is going on here ?!??! David Copeland (Josh)
+	Ruby Nuby Project (Josh)
+	Classes vs. Prototypes - Some Philosophical and Historical Observations (1996) (Avdi)
+	JavaScript Jabber (Chuck)
+	The Ruby Freelancer’s Show (Chuck)
+	Getting Started with D3: Mike Dewar (Paul)
+	The Go Programming Language (Paul)
+	Apache Kafka (Paul)
+	NSQ: realtime distributed message processing at scale (Paul)
+
+Ruby Rogues Book Club
+The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer: Sandi Metz. We will be interviewing Sandi on January 2, 2013 with the episode airing January 9, 2013.
+
+The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
+
+	First create a user account: www.informit.com/join
+	SAVE 40% When You Buy 2: www.informit.com/ruby
+	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
+	(Includes FREE SHIPPING within the U.S.!)
+
+Next Week
+
+	Complexity with Glenn Vanderburg
+
+Transcript 
+JOSH: Paul, can you give us spoilers for the rest of the book?
+
+PAUL: Er… let’s see. I think I actually have to look at the table of contents.
+
+[laughter]
+
+AVDI: Do they finally get together at the end?
+
+PAUL: Well, they go to the top of this big fiery volcano like thing and they throw the ring in.
+
+JOSH: And it turns out that they are secretly brother and sister.
+
+[laughter]
 
 
 
-      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR062Monitoring.mp3" length="79255292" type="audio/mp3"/>
-      <guid isPermaLink="false">02ec9437c6dc2244de112d51f4e6ed417c63cb82</guid>
-      <pubDate>Mon, 23 Jul 2012 00:19:45 -0500</pubDate>
-      <itunes:duration>3962</itunes:duration>
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
 
-    </item>
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to episode 76 of the Ruby Rogues podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI: Hi, I'm Avdi. Head chef at rubytapas.com
+
+CHUCK: We also have Josh Susser.
+
+JOSH: Hey good morning everyone. Every day is an adventure!
+
+CHUCK: I'm Charles Max Wood from devchat.tv and this week we have a special guest and that is Paul Dix.
+
+PAUL: Hi everybody I'm Paul Dix. I am the co-founder Errplane and also the author of the book for this week.
+
+CHUCK: Awesome. So if you didn’t know, we are doing a book club this week, we are going to be talking about “Service Oriented Architectures” and I think the full title is “with Ruby and Rails”. So let’s get started. First, definition.
+
+AVDI: Definition!
+
+JOSH: Yeah.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:19</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR076ServiceOrientedDesign.mp3" fileSize="65577950" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/076-rr-service-oriented-design-with-paul-dix/</feedburner:origLink></item>

@@ -1,12 +1,153 @@
 <item>
-      <title/>
-      <itunes:author/>
+		<title>078 RR Hexagonal Rails with Matt Wynne and Kevin Rutherford</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/ArBeuiZgnqc/</link>
+		<comments>http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/#comments</comments>
+		<pubDate>Wed, 07 Nov 2012 13:00:10 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Kevin Rutherford]]></category>
+		<category><![CDATA[Matt Wynne]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=850</guid>
+		<description>Panel Matt Wynne (twitter github blog) Kevin Rutherford (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Josh Susser (twitter github blog) James Edward Gray (blog twitter github) Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript) Discussion 01:30 &amp;#8211; Ruby Nuby Project Ruby Rogues Ruby [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/ArBeuiZgnqc" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR078HexagonalRails.mp3" length="66711052" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Matt Wynne (twitter github blog)   Kevin Rutherford (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Josh Susser (twitter github blog)   James Edward Gray (blog twitter github) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Matt Wynne (twitter github blog)
+	Kevin Rutherford (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Josh Susser (twitter github blog)
+	James Edward Gray (blog twitter github)
+	Charles Max Wood (twitter github Teach Me To Code Intro to CoffeeScript)
+
+Discussion
+01:30 - Ruby Nuby Project
+
+	Ruby Rogues Ruby Nuby Project Submitted Videos
+
+02:30 - Best of Parley
+
+	Life After POODR by Eoin Kelly
+
+03:20 - Podcast Awards
+
+	Vote once a day, every day for Ruby Rogues!
+
+05:34 - Hexagonal Rails Definition
+
+	Growing Object-Oriented Software, Guided by Tests by Steve Freeman
+	Hexagonal Rails by Matt Wynne: GORUCO 2012 talk
+
+08:31 - Alistair Cockburn: Hexagonal Architecture
+
+	Ports and Adapters
+	Active Record
+
+15:15 - Dependency Inversion
+
+
+Hidden depencies
+
+Rake tasks
+
+19:53 - Domain models and persistence models
+
+	Demoting Active Record model classes to be merely persistence
+	Domain logic
+
+27:57 - Flowing the code
+
+35:58 - Object-oriented design
+
+	Kent Beck: To Design or Not to Design? A Third Good Question
+	Connected architecture and modular architecture
+	Smalltalk Best Practice Patterns by Kent Beck
+	076 RR Service-Oriented Design with Paul Dix
+
+45:03 - Writing acceptance tests and unit tests
+
+	The Cucumber Book: Behavior-Driven Development for Testers and Developers by Matt Wynne
+
+50:21 - Service Oriented Architecture (SOA)
+
+	CQRS - Command Query Responsibility Segregation
+	Daniel Lucraft: From 15 hours to 15 seconds: reducing a crushing build time
+
+Picks
+
+	Xiki (James)
+	Xiki: Can your shell console do this? (James)
+	Kathryn Schulz: On being wrong (James)
+	RubyConf (Josh)
+	#RubyFriends (Josh)
+	Redshirts: A Novel with Three Codas by John Scalzi (Avdi)
+	ASUS Zenbook Prime UX31A-DB71 13.3-Inch Ultrabook (David)
+	GhostSingles.com (Chuck)
+	RailsApps / rails-stripe-membership-saas (Chuck)
+	Metaphors We Live By by George Lakoff and Mark Johnson (Kevin)
+	Paleolithic diet (Kevin)
+	The River Cottage Bread Handbook by Daniel Stevens (Matt)
+	Mighty Leaf Tea (Matt)
+	webmachine-ruby (Matt)
+	Kensington 3374 Wireless Presenter with Laser Pointer (Matt)
+
+Next Week
+
+	Documenting Code
+
+Ruby Rogues Book Club
+The next Ruby Rogues Book Club Pick will be Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz. We will be interviewing Sandi on January 2, 2013, with the episode airing January 9, 2013. The publisher, Pearson/Addison-Wesley is offering a discount via InformIT.com.
+
+	First create a user account: www.informit.com/join
+	SAVE 40% When You Buy 2: www.informit.com/ruby
+	Add books of choice to Shopping Cart, then enter the code SAVEONRUBY during Checkout
+	(Includes FREE SHIPPING within the U.S.!)
+
+Transcript
+DAVE: I wanna close down 19 pubs with you guys.
+
+[laughter]
+
+MATT: Yes. Exactly.
+
+DAVE: And I don’t drink. [laughs]
+
+KEVIN: Well, nor do I. But join us for a cup of tea anytime.
 
 
 
-      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR064_PresentingAtConferences.mp3" length="97898000" type="audio/mp3"/>
-      <guid isPermaLink="false">db8f1ad74cd13b9ae595b2f6fcda7014da4baa30</guid>
-      <pubDate>Thu, 02 Aug 2012 04:09:13 -0500</pubDate>
-      <itunes:duration>4894</itunes:duration>
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at bluebox.net]
 
-    </item>
+[This episode is sponsored by JetBrains -- makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetbrains.com/ruby]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to episode 78 of the Ruby Rogues Podcast! This week on our panel, we have Avdi Grimm.
+
+AVDI: Hello from the top of Mount Ararat.
+
+CHUCK: We also have David Brady.
+
+DAVE: Good morning! And if the opening show quote was from me, I didn’t say it.
+
+CHUCK: We also have Josh Susser.
+
+JOSH: Hey. Good morning from sunny San Francisco!
+
+CHUCK: We have James Edward Gray.
+
+JAMES: Good morning everybody!
+
+CHUCK: And I'm Charles Max Wood from devchat.tv.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:29</itunes:duration>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR078HexagonalRails.mp3" fileSize="66711052" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/078-rr-hexagonal-rails-with-matt-wynne-and-kevin-rutherford/</feedburner:origLink></item>

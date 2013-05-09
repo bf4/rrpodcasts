@@ -1,139 +1,119 @@
 <item>
-		<title>026 RR Pair Programming</title>
-		<link>http://feedproxy.google.com/~r/RubyRogues/~3/zePack6Lmao/</link>
-		<comments>http://rubyrogues.com/026-rr-pair-programming/#comments</comments>
-		<pubDate>Thu, 27 Oct 2011 19:28:50 +0000</pubDate>
+		<title>030 RR Software Craftsmanship</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/aVm0tiv62ko/</link>
+		<comments>http://rubyrogues.com/030-rr-software-craftsmanship/#comments</comments>
+		<pubDate>Thu, 24 Nov 2011 08:11:35 +0000</pubDate>
 		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
-				<category><![CDATA[Avdi Grimm]]></category>
-		<category><![CDATA[Best Practices]]></category>
-		<category><![CDATA[Charles Max Wood]]></category>
-		<category><![CDATA[David Brady]]></category>
-		<category><![CDATA[James Edward Gray II]]></category>
-		<category><![CDATA[Josh Susser]]></category>
+				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">http://rubyrogues.com/?p=261</guid>
-		<description><![CDATA[Panelists Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussed in this Episode Driver/Navigator vs Driver/Driver One person writes a test, the other makes it pass (Ping-pong pairing) It can be more productive Code review Shortens code review cycle Higher engagement Raises the [...]]]></description>
-			<content:encoded><![CDATA[<p></p><h3>Panelists</h3>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=301</guid>
+		<description><![CDATA[Panel Noel Rappin (twitter blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman Software Craftsmanship SCNA Glenn Vanderburg&#8217;s RailsConf talk Apprenticeship Programs Groupon Obtiva Code Retreats Global Code Retreat day Software Craftsmanship Manifesto Dave Hoover&#8217;s Apprenticeship Patterns [...]]]></description>
+			<content:encoded><![CDATA[<p></p><h3>Panel</h3>
 <ul>
+<li>Noel Rappin (<a title="@noelrap" href="http://twitter.com/#!/noelrap" target="_blank">twitter</a> <a title="RailsRX" href="http://railsrx.com/" target="_blank">blog</a>)</li>
 <li>Avdi Grimm (<a href="http://twitter.com/avdi">twitter</a><a href="http://github.com/avdi"> github</a><a href="http://virtuouscode.com/"> blog</a><a href="http://exceptionalruby.com/"> book</a>)</li>
 <li>Charles Max Wood (<a href="http://twitter.com/cmaxw">twitter</a><a href="http://github.com/charlesmaxwood"> github</a><a href="http://teachmetocode.com/"> Teach Me To Code</a>)</li>
-<li>David Brady (<a href="http://www.heartmindcode.com/">blog</a><a href="http://twitter.com/dbrady"> twitter</a><a href="http://github.com/dbrady"> github</a><a href="http://addcasts.com/"> ADDcasts</a>)</li>
 <li>James Edward Gray (<a href="http://blog.grayproductions.net/">blog</a><a href="http://twitter.com/JEG2"> twitter</a><a href="http://github.com/JEG2"> github</a>)</li>
 <li>Josh Susser (<a href="http://twitter.com/joshsusser">twitter</a><a href="http://github.com/joshsusser"> github</a><a href="http://hasmanythrough.com/"> blog</a>)</li>
 </ul>
-<h3>Discussed in this Episode</h3>
+<h3>Discussion</h3>
+<div>
 <ul>
-<li>Driver/Navigator vs Driver/Driver</li>
-<li>One person writes a test, the other makes it pass (Ping-pong pairing)</li>
-<li>It can be more productive</li>
-<li>Code review</li>
-<li>Shortens code review cycle</li>
-<li>Higher engagement</li>
-<li>Raises the quality floor</li>
-<li>Pairing effectiveness</li>
-<li>Less likely to rabbit hole</li>
-<li>We learn from each other</li>
-<li>Better code quality</li>
-<li>Transmitting information</li>
-<li>Lowers your bus number</li>
-<li>Territoriality and knowledge silos</li>
-<li>Learning new things from people who know how to do them better</li>
-<li>Challenging peoples&#8217; assumptions</li>
-<li>Ability to roll new teams in</li>
-<li>Pass on programming practices and culture</li>
-<li>Lower defect rates</li>
-<li>Fewer failed launches</li>
-<li>Maintainability is higher</li>
-<li>To get started:</li>
+<li><a href="http://www.amazon.com/gp/product/0596518382/ref=as_li_ss_tl?ie=UTF8&amp;tag=chamaxwoo-20&amp;linkCode=as2&amp;camp=217145&amp;creative=399369&amp;creativeASIN=0596518382">Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman</a><img style="border: none !important; margin: 0px !important;" src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&amp;l=as2&amp;o=1&amp;a=0596518382&amp;camp=217145&amp;creative=399369" alt="" width="1" height="1" border="0" /></li>
+<li><a title="Software Craftsmanship" href="http://softwarecraftsmanship.org/" target="_blank">Software Craftsmanship</a></li>
+<li>SCNA</li>
+<li><a title="YouTube - RailsConf 2011, Glenn Vanderburg Talk" href="http://www.youtube.com/watch?v=LlTiMUzLMgM" target="_blank">Glenn Vanderburg&#8217;s RailsConf talk</a></li>
+<li>Apprenticeship Programs</li>
 <ul>
-<li>Have a neutral setting for pairing. Location. Software. etc.</li>
-<li>Use a text editor you&#8217;re both comfortable with.</li>
-<li>Use driver/navigator.</li>
-<li>Communicate well.</li>
+<li>Groupon</li>
+<li>Obtiva</li>
 </ul>
-<li>Keep your partner apprised of where you&#8217;re going</li>
-<li>Pair programming is a learned skill</li>
-<li>You have to get your ego in check</li>
-<li>Reduce barriers to collaboration</li>
+<li><a title="Coderetreat.com" href="http://coderetreat.com/" target="_blank">Code Retreats</a></li>
+<li>Global Code Retreat day</li>
+<li><a title="Software Craftsmanship Manifesto" href="http://manifesto.softwarecraftsmanship.org/" target="_blank">Software Craftsmanship Manifesto</a></li>
+<li>Dave Hoover&#8217;s Apprenticeship Patterns book</li>
+<li>Capability Maturity Model</li>
+<li>omphaloskepsis: the contemplation of one&#8217;s navel (Thanks, Josh)</li>
 </ul>
 <h3>Picks</h3>
 <div>
 <ul>
-<li><a title="Google+ Hangouts" href="http://plus.google.com" target="_blank">Google Plus Hangouts</a> (Avdi)</li>
-<li><a title="Wide Teams - Podcasts" href="http://wideteams.com/category/podcast/" target="_blank">Wide Teams Podcast</a> (Avdi)</li>
-<li><a title="Qido" href="http://www.keyghost.com/qido/" target="_blank">Qido</a> (David)</li>
-<li><a title="Dove Men's Care Products" href="http://content.dove.us/mencare/Products.aspx?utm_source=google&amp;utm_medium=ppc&amp;utm_campaign=Dove%20Democracy%20Content&amp;utm_term=men%2bcare" target="_blank">Dove Men&#8217;s Care Products</a> (David)</li>
-<li><a title="Castle" href="http://beta.abc.go.com/shows/castle" target="_blank">Castle </a> (<a href="http://www.amazon.com/s?ie=UTF8&#038;x=0&#038;ref_=nb_sb_noss&#038;y=0&#038;field-keywords=castle&#038;url=search-alias%3Dmovies-tv&#038;_encoding=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=ur2&#038;camp=1789&#038;creative=390957">On Amazon</a><img src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=ur2&#038;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)(James)</li>
-<li><a title="subtlepatterns.com" href="http://subtlepatterns.com/" target="_blank">subtlepatterns.com</a> (James)</li>
-<li><a title="Lying by Sam Harris" href="http://www.amazon.com/Lying-Kindle-Single-ebook/dp/B005N0KL5G/ref=sr_1_1?ie=UTF8&amp;qid=1319556329&amp;sr=8-1" target="_blank">Lying</a> by Sam Harris (James)</li>
-<li><a title="RemotePairProgramming.com" href="http://remotepairprogramming.com/" target="_blank">RemotePairProgramming.com</a> (Josh)</li>
-<li><a title="Rolling Your Own Object Creation Methods" href="http://pivotallabs.com/users/jdean/blog/articles/1900-rolling-your-own-object-creation-methods-for-specs" target="_blank">How to do your own object creation methods</a> (Josh)</li>
-<li><a title="BBC - The Adventures of Merlin" href="http://www.bbc.co.uk/merlin/#" target="_blank">Adventures of Merlin</a> (<a href="http://www.amazon.com/gp/product/B001LF347E/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399373&#038;creativeASIN=B001LF347E">On Amazon</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=B001LF347E&#038;camp=217145&#038;creative=399373" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) (Josh)</li>
-<li>Meeting People in the Community (Chuck)</li>
+<li>Our Troops! (James)</li>
+<li><a title="Wikipedia - Mathematics" href="http://en.wikipedia.org/wiki/Math" target="_blank">Math</a> (James)</li>
+<li><a title="Innumeracy" href="http://www.amazon.com/Innumeracy-Mathematical-Illiteracy-Consequences-Vintage/dp/0679726012" target="_blank">Innumeracy</a> (James)</li>
+<li><a title="Proofiness" href="http://www.amazon.com/Proofiness-Dark-Arts-Mathematical-Deception/dp/0670022160" target="_blank">Proofiness</a> (James)</li>
+<li><a title="101 Things Everyone Should Know About Math" href="http://www.amazon.com/Things-Everyone-Should-Know-About/dp/0967802032/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1322243671&amp;sr=1-1" target="_blank">101 things everyone should know about math</a> (James)</li>
+<li><a title="Dancia McKellar - Math Doesn't Suck" href="http://www.mathdoesntsuck.com/" target="_blank">Danica McKellar</a></li>
+<li><a href="http://www.amazon.com/gp/product/1934356646/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=1934356646">Rails Test Prescriptions (Pragmatic Programmers)</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=1934356646&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Avdi)</li>
+<li><a title="Olbas Tea" href="http://www.olbas.com/olbasherbaltea.htm" target="_blank">Olbas Tea</a> (Avdi)</li>
+<li><a title="MailCatcher" href="http://mailcatcher.me/" target="_blank">MailCatcher</a> (Avdi)</li>
+<li><a title="Bootstrap from Twitter" href="http://twitter.github.com/bootstrap/" target="_blank">Bootstrap</a> (Josh)</li>
+<li><a href="http://www.amazon.com/gp/product/B000HEWEJ4/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B000HEWEJ4">Star Trek The Animated Series &#8211; The Animated Adventures of Gene Roddenberry&#8217;s Star Trek</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=B000HEWEJ4&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Josh)</li>
+<li><a href="http://www.amazon.com/mn/search?_encoding=UTF8&#038;x=12&#038;y=12&#038;field-keywords=diane%20duane&#038;url=search-alias%3Dstripbooks&#038;_encoding=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=ur2&#038;camp=1789&#038;creative=390957">Diane Duane</a><img src="https://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=ur2&#038;o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Josh)</li>
+<li><a title="Since you were asking: The Door into Starlight" href="http://www.dianeduane.com/outofambit/2011/07/15/since-you-were-asking-the-door-into-starlight/" target="_blank">Diane Duane&#8217;s blog post about the Door into Starlight?</a> (Josh)</li>
+<li><a title="Textastic" href="http://www.textasticapp.com/" target="_blank">Textastic</a> (Noel)</li>
+<li><a href="http://www.amazon.com/gp/product/B001XW7ICW/ref=as_li_ss_tl?ie=UTF8&#038;tag=chamaxwoo-20&#038;linkCode=as2&#038;camp=217145&#038;creative=399369&#038;creativeASIN=B001XW7ICW">The Middleman: The Complete Series</a><img src="http://www.assoc-amazon.com/e/ir?t=chamaxwoo-20&#038;l=as2&#038;o=1&#038;a=B001XW7ICW&#038;camp=217145&#038;creative=399369" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (Noel)</li>
+<li><a title="Crossword Light - Apple Appstore" href="http://itunes.apple.com/us/app/crossword-light/id285702231?mt=8" target="_blank">Crossword Light</a> (Chuck)</li>
+<li><a title="USA Today - Crosswords - Apple Appstore" href="http://itunes.apple.com/us/app/usa-today-crosswords/id289273523?mt=8" target="_blank">USA Today Crossword</a> (Chuck)</li>
+<li><a title="LA Times - Games" href="http://www.latimes.com/games/" target="_blank">LA Times Crossword</a> (Chuck)</li>
+<li><a title="Acorn, a great Mac image editor" href="http://flyingmeat.com/acorn/" target="_blank">Acorn</a> (Chuck)</li>
 </ul>
 </div>
-<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/zePack6Lmao" height="1" width="1"/>]]></content:encoded>
-			<wfw:commentRss>http://rubyrogues.com/026-rr-pair-programming/feed/</wfw:commentRss>
-		<slash:comments>3</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111025.mp3" length="21890191" type="audio/mpeg"/>
-			<itunes:subtitle>Panelists  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - </itunes:subtitle>
-		<itunes:summary>Panelists
+</div>
+<img src="http://feeds.feedburner.com/~r/RubyRogues/~4/aVm0tiv62ko" height="1" width="1"/>]]></content:encoded>
+			<wfw:commentRss>http://rubyrogues.com/030-rr-software-craftsmanship/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/software_craftsmanship.mp3" length="26337365" type="audio/mpeg"/>
+			<itunes:subtitle>Panel  Noel Rappin (twitter blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
 
+	Noel Rappin (twitter blog)
 	Avdi Grimm (twitter github blog book)
 	Charles Max Wood (twitter github Teach Me To Code)
-	David Brady (blog twitter github ADDcasts)
 	James Edward Gray (blog twitter github)
 	Josh Susser (twitter github blog)
 
-Discussed in this Episode
+Discussion
 
-	Driver/Navigator vs Driver/Driver
-	One person writes a test, the other makes it pass (Ping-pong pairing)
-	It can be more productive
-	Code review
-	Shortens code review cycle
-	Higher engagement
-	Raises the quality floor
-	Pairing effectiveness
-	Less likely to rabbit hole
-	We learn from each other
-	Better code quality
-	Transmitting information
-	Lowers your bus number
-	Territoriality and knowledge silos
-	Learning new things from people who know how to do them better
-	Challenging peoples' assumptions
-	Ability to roll new teams in
-	Pass on programming practices and culture
-	Lower defect rates
-	Fewer failed launches
-	Maintainability is higher
-	To get started:
 
-	Have a neutral setting for pairing. Location. Software. etc.
-	Use a text editor you're both comfortable with.
-	Use driver/navigator.
-	Communicate well.
+	Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman
+	Software Craftsmanship
+	SCNA
+	Glenn Vanderburg's RailsConf talk
+	Apprenticeship Programs
 
-	Keep your partner apprised of where you're going
-	Pair programming is a learned skill
-	You have to get your ego in check
-	Reduce barriers to collaboration
+	Groupon
+	Obtiva
+
+	Code Retreats
+	Global Code Retreat day
+	Software Craftsmanship Manifesto
+	Dave Hoover's Apprenticeship Patterns book
+	Capability Maturity Model
+	omphaloskepsis: the contemplation of one's navel (Thanks, Josh)
 
 Picks
 
 
-	Google Plus Hangouts (Avdi)
-	Wide Teams Podcast (Avdi)
-	Qido (David)
-	Dove Men's Care Products (David)
-	Castle  (On Amazon)(James)
-	subtlepatterns.com (James)
-	Lying by Sam Harris (James)
-	RemotePairProgramming.com (Josh)
-	How to do your own object creation methods (Josh)
-	Adventures of Merlin (On Amazon) (Josh)
-	Meeting People in the Community (Chuck)</itunes:summary>
+	Our Troops! (James)
+	Math (James)
+	Innumeracy (James)
+	Proofiness (James)
+	101 things everyone should know about math (James)
+	Danica McKellar
+	Rails Test Prescriptions (Pragmatic Programmers) (Avdi)
+	Olbas Tea (Avdi)
+	MailCatcher (Avdi)
+	Bootstrap (Josh)
+	Star Trek The Animated Series - The Animated Adventures of Gene Roddenberry's Star Trek (Josh)
+	Diane Duane (Josh)
+	Diane Duane's blog post about the Door into Starlight? (Josh)
+	Textastic (Noel)
+	The Middleman: The Complete Series (Noel)
+	Crossword Light (Chuck)
+	USA Today Crossword (Chuck)
+	LA Times Crossword (Chuck)
+	Acorn (Chuck)</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111025.mp3" fileSize="21890191" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/026-rr-pair-programming/</feedburner:origLink></item>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/software_craftsmanship.mp3" fileSize="26337365" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/030-rr-software-craftsmanship/</feedburner:origLink></item>
