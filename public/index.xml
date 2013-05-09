@@ -4502,6 +4502,19 @@ CHUCK: Avdi Grimm.
 		<itunes:duration>1:09:05</itunes:duration>
 	<media:content url="http://traffic.libsyn.com/rubyrogues/RR077Complexity.mp3" fileSize="66321055" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/077-rr-complexity-with-glenn-vanderburg/</feedburner:origLink></item>
 <item>
+		<title>Ruby Nuby Project</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/6HM6vWolK1o/</link>
+		<comments>http://rubyrogues.com/ruby-nuby-project-2/#comments</comments>
+		<pubDate>Fri, 02 Nov 2012 23:11:36 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Announcements]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=854</guid>
+		<description>The Ruby Nuby Project is now CLOSED for submissions. However, check out all the great videos listed below and leave comments for your favorites! (Remember: MINASWAN!) Matt Ruzicka Brian Kung Jon Lazar Justin (serialhex) Erin Parker Nathalie Wong Dafydd Crosby Derek Damko John Sextro Paul Dawson Toni Rosati Daniel Clark William Metz Guillermo Haas-Thompson Zillah Dryke [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/6HM6vWolK1o" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/ruby-nuby-project-2/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		<feedburner:origLink>http://rubyrogues.com/ruby-nuby-project-2/</feedburner:origLink></item>
+<item>
 		<title>076 RR Service-Oriented Design with Paul Dix</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/1SAnplxIgGg/</link>
 		<comments>http://rubyrogues.com/076-rr-service-oriented-design-with-paul-dix/#comments</comments>
