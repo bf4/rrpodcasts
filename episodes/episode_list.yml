@@ -230,6 +230,9 @@
 - :feed_number: 77
   :title: 076 RR Service-Oriented Design with Paul Dix
   :enclosure: RR076ServiceOrientedDesign.mp3
+- :feed_number: 107
+  :title: Ruby Nuby Project
+  :enclosure:
 - :feed_number: 78
   :title: 077 RR Complexity with Glenn Vanderburg
   :enclosure: RR077Complexity.mp3
