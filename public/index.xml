@@ -25,7 +25,7 @@
 </image>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
-    <item>
+<item>
 		<title>104 RR The Rails View with John Athayde and Bruce Williams</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/V3X1VCSqi0U/</link>
 		<comments>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/#comments</comments>
@@ -43,7 +43,7 @@
 		<description>Panel Bruce Williams (twitter github blog) John Athayde (twitter github blog) Katrina Owen (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:43 &amp;#8211; John Athayde and Bruce Williams Introduction LivingSocial 03:00 &amp;#8211; The Rails View: Create [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/V3X1VCSqi0U" height="1" width="1"/&gt;</description>
 		<wfw:commentRss>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" length="57658478" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" length="57658478" type="audio/mpeg"/>
 		<itunes:subtitle>Panel  Bruce Williams (twitter github blog)   John Athayde (twitter github blog)   Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code R...</itunes:subtitle>
 		<itunes:summary>Panel
 
@@ -197,8 +197,8 @@ JOHN:  I work at LivingSocial. I run the small team that does all of the UX and
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:00:04</itunes:duration>
-	<media:content url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" fileSize="57658478" type="audio/mpeg" /><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/</feedburner:origLink></item>
-    <item>
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR104TheRailsView.mp3" fileSize="57658478" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/</feedburner:origLink></item>
+<item>
 		<title>103 RR Ruby Gems</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/K1Ctgya3o7k/</link>
 		<comments>http://rubyrogues.com/103-rr-ruby-gems/#comments</comments>
@@ -214,7 +214,7 @@ JOHN:  I work at LivingSocial. I run the small team that does all of the UX and
 		<description>Panel Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:22 &amp;#8211; Ruby Gems RubyGems.org 03:13 &amp;#8211; Should you build a gem? Daniel Huckstep (@darkhelmetlive) Ruby Batteries Included [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/K1Ctgya3o7k" height="1" width="1"/&gt;</description>
 		<wfw:commentRss>http://rubyrogues.com/103-rr-ruby-gems/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR103Gems.mp3" length="81256411" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR103Gems.mp3" length="81256411" type="audio/mpeg"/>
 		<itunes:subtitle>Panel  Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
 		<itunes:summary>Panel
 
@@ -400,10 +400,10 @@ JAMES:  Well, there what we got.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:24:39</itunes:duration>
-        <media:content url="http://traffic.libsyn.com/rubyrogues/RR103Gems.mp3" fileSize="81256411" type="audio/mpeg" /><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/103-rr-ruby-gems/</feedburner:origLink>
+        <media:content url="http://traffic.libsyn.com/rubyrogues/RR103Gems.mp3" fileSize="81256411" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/103-rr-ruby-gems/</feedburner:origLink>
 
     </item>
-    <item>
+<item>
 		<title>102 RR Rhetoric with Joseph Wilk</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/AHEZRcW9uVI/</link>
 		<comments>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/#comments</comments>
@@ -419,7 +419,7 @@ JAMES:  Well, there what we got.</itunes:summary>
 		<description>Panel Joseph Wilk (twitter github blog) Katrina Owen (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) Discussion 00:55 &amp;#8211; Joseph Wilk Introduction 01:43 &amp;#8211; Confreaks &amp;#124; Ruby Conference 2012: Someone is Wrong by Joseph Wilk 02:55 &amp;#8211; Rhetoric Amphora 04:35 &amp;#8211; Why [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/AHEZRcW9uVI" height="1" width="1"/&gt;</description>
 		<wfw:commentRss>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
-<enclosure url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" length="63384911" type="audio/mpeg" />
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" length="63384911" type="audio/mpeg"/>
 		<itunes:subtitle>Panel  Joseph Wilk (twitter github blog)   Katrina Owen (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog) - Discussion </itunes:subtitle>
 		<itunes:summary>Panel
 
@@ -534,9 +534,8 @@ JAMES:  So, I guess we’ll start with the super obvious question. Rhetoric is 
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:06:02</itunes:duration>
-        <media:content url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" fileSize="63384911" type="audio/mpeg" /><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/</feedburner:origLink>
+        <media:content url="http://traffic.libsyn.com/rubyrogues/RR102Rhetoric.mp3" fileSize="63384911" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/102-rr-rhetoric-with-joseph-wilk/</feedburner:origLink>
 </item>
-
 <item>
 		<title>101 RR Diversity with Ashe Dryden</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/i9gyUxLv5j8/</link>
@@ -6237,7 +6236,6 @@ Living in America (Nic)</itunes:summary>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:08:52</itunes:duration>
 	<media:content url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110714_01.mp3" fileSize="99174042" type="audio/mpeg"/><feedburner:origLink>http://rubyrogues.com/corporate-sponsors-of-open-source-software/</feedburner:origLink></item>
-
 <item>
       <title/>
       <itunes:author/>
@@ -6249,7 +6247,8 @@ Living in America (Nic)</itunes:summary>
       <pubDate>Thu, 02 Aug 2012 04:09:13 -0500</pubDate>
       <itunes:duration>4894</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6260,7 +6259,8 @@ Living in America (Nic)</itunes:summary>
       <pubDate>Tue, 31 Jul 2012 03:26:23 -0500</pubDate>
       <itunes:duration>4041</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6271,7 +6271,8 @@ Living in America (Nic)</itunes:summary>
       <pubDate>Mon, 23 Jul 2012 00:19:45 -0500</pubDate>
       <itunes:duration>3962</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6282,7 +6283,8 @@ Living in America (Nic)</itunes:summary>
       <pubDate>Thu, 05 Jul 2012 22:58:15 -0500</pubDate>
       <itunes:duration>3665</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6293,7 +6295,8 @@ Living in America (Nic)</itunes:summary>
       <pubDate>Mon, 25 Jun 2012 02:35:32 -0500</pubDate>
       <itunes:duration>3461</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6304,7 +6307,8 @@ Living in America (Nic)</itunes:summary>
       <pubDate>Mon, 18 Jun 2012 01:52:21 -0500</pubDate>
       <itunes:duration>3584</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues - 058 - Working With Unix Processes</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6316,8 +6320,6 @@ Living in America (Nic)</itunes:summary>
       <itunes:duration>3428</itunes:duration>
 
       </item>
-
-
 <item>
 		<title>057 RR – Ruby Central</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/QKYihIqIId8/</link>
@@ -6456,7 +6458,7 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:04:12</itunes:duration>
 	<media:content url="http://traffic.libsyn.com/rubyrogues/RR057RubyCentral.mp3" fileSize="77032094" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/057-rr-rubycentral/</feedburner:origLink></item>
-      <item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6467,7 +6469,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Fri, 08 Jun 2012 21:06:50 -0500</pubDate>
       <itunes:duration>4585</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6478,7 +6481,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Mon, 21 May 2012 15:02:51 -0500</pubDate>
       <itunes:duration>4736</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6489,7 +6493,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Sat, 12 May 2012 02:08:36 -0500</pubDate>
       <itunes:duration>4425</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6500,7 +6505,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Tue, 08 May 2012 11:09:08 -0500</pubDate>
       <itunes:duration>4116</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6511,7 +6517,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Tue, 08 May 2012 10:58:30 -0500</pubDate>
       <itunes:duration>3733</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6522,7 +6529,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Tue, 01 May 2012 16:50:23 -0500</pubDate>
       <itunes:duration>3954</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6533,7 +6541,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Mon, 16 Apr 2012 03:13:48 -0500</pubDate>
       <itunes:duration>3694</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues 049 - Agile Communication</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6544,7 +6553,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Sat, 07 Apr 2012 00:39:11 -0500</pubDate>
       <itunes:duration>3629</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues 048 - Crafting Rails Applications</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6555,7 +6565,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Thu, 29 Mar 2012 00:46:46 -0500</pubDate>
       <itunes:duration>4828</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6566,7 +6577,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Tue, 27 Mar 2012 20:50:16 -0500</pubDate>
       <itunes:duration>4113</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues 046 - Objects in Ruby 2</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6577,7 +6589,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Tue, 20 Mar 2012 01:08:19 -0500</pubDate>
       <itunes:duration>3730</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues 045 - Bundler</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6588,7 +6601,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Tue, 13 Mar 2012 03:44:02 -0500</pubDate>
       <itunes:duration>4372</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6599,7 +6613,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Mon, 05 Mar 2012 01:53:05 -0600</pubDate>
       <itunes:duration>4531</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues 043 - Book Club: Land of Lisp</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6610,7 +6625,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Sat, 25 Feb 2012 00:35:51 -0600</pubDate>
       <itunes:duration>4602</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Ruby Rogues - 042 - Peter Cooper</title>
       <itunes:author>Charles Max Wood</itunes:author>
 
@@ -6621,7 +6637,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Wed, 15 Feb 2012 20:26:06 -0600</pubDate>
       <itunes:duration>3540</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6632,7 +6649,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Thu, 09 Feb 2012 19:21:00 -0600</pubDate>
       <itunes:duration>4139</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title/>
       <itunes:author/>
 
@@ -6643,7 +6661,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Thu, 02 Feb 2012 20:19:51 -0600</pubDate>
       <itunes:duration>4045</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Programming Language Fundamentals</title>
       <itunes:author>Charles Max Wood, David Brady, James Edward Gray, Josh Susser</itunes:author>
 
@@ -6654,7 +6673,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Sun, 29 Jan 2012 01:09:29 -0600</pubDate>
       <itunes:duration>3764</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Web Programming and Updating Frameworks</title>
       <itunes:author>Chuck, James, Josh, Avdi, David &amp; Yehuda</itunes:author>
 
@@ -6665,7 +6685,8 @@ CHAD: Kind of. Yeah. I mean essentially that’s what I meant but the way I said
       <pubDate>Thu, 19 Jan 2012 19:30:34 -0600</pubDate>
       <itunes:duration>4120</itunes:duration>
 
-    </item><item>
+    </item>
+<item>
       <title>Versioning and Releases</title>
       <itunes:author>Chuck, James, Josh, Avdi, &amp; David</itunes:author>
 
