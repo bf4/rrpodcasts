@@ -232,7 +232,7 @@
   :enclosure: RR076ServiceOrientedDesign.mp3
 - :feed_number: 107
   :title: Ruby Nuby Project
-  :enclosure:
+  :enclosure: 
 - :feed_number: 78
   :title: 077 RR Complexity with Glenn Vanderburg
   :enclosure: RR077Complexity.mp3
@@ -322,3 +322,6 @@
 - :feed_number: 106
   :title: 104 RR The Rails View with John Athayde and Bruce Williams
   :enclosure: RR104TheRailsView.mp3
+- :feed_number: 108
+  :title: 105 RR Regular Expressions with Nell Shamrell
+  :enclosure: RR105RegularExpressions.mp3

@@ -1,0 +1,22 @@
+<item>
+    <title>105 RR Regular Expressions with Nell Shamrell</title>
+    <link>http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/</link>
+		<pubDate>Wed, 15 May 2013 13:00:32 +0000</pubDate>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1318</guid>
+        <description>Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood</description>
+        <enclosure url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" length="78651719" type="audio/mpeg"/>
+        <itunes:subtitle>
+        Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood
+        </itunes:subtitle>
+		<itunes:summary>
+        Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood
+       </itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:21:56</itunes:duration>
+        <media:content url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" fileSize="78651719" type="audio/mpeg"/>
+        <itunes:keywords>
+            ruby,rails,rspec,regex
+    </itunes:keywords>
+</item>
+

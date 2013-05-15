@@ -26,6 +26,29 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+    <title>105 RR Regular Expressions with Nell Shamrell</title>
+    <link>http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/</link>
+		<pubDate>Wed, 15 May 2013 13:00:32 +0000</pubDate>
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1318</guid>
+        <description>Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood</description>
+        <enclosure url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" length="78651719" type="audio/mpeg"/>
+        <itunes:subtitle>
+        Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood
+        </itunes:subtitle>
+		<itunes:summary>
+        Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood
+       </itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:21:56</itunes:duration>
+        <media:content url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" fileSize="78651719" type="audio/mpeg"/>
+        <itunes:keywords>
+            ruby,rails,rspec,regex
+    </itunes:keywords>
+</item>
+
+
+<item>
 		<title>104 RR The Rails View with John Athayde and Bruce Williams</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/V3X1VCSqi0U/</link>
 		<comments>http://rubyrogues.com/104-rr-the-rails-view-with-john-athayde-and-bruce-williams/#comments</comments>
