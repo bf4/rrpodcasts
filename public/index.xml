@@ -26,28 +26,311 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
-    <title>105 RR Regular Expressions with Nell Shamrell</title>
-    <link>http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/</link>
-		<pubDate>Wed, 15 May 2013 13:00:32 +0000</pubDate>
-		<guid isPermaLink="false">http://rubyrogues.com/?p=1318</guid>
-        <description>Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood</description>
-        <enclosure url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" length="78651719" type="audio/mpeg"/>
-        <itunes:subtitle>
-        Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood
-        </itunes:subtitle>
-		<itunes:summary>
-        Panel Nell Shamrell, James Edward Gray, Avdi Grimm, Katrina Owen, Josh Susser, Charles Max Wood
-       </itunes:summary>
+		<title>106 RR Discourse with Jeff Atwood</title>
+		<link>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/</link>
+		<comments>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/#comments</comments>
+		<pubDate>Wed, 22 May 2013 13:00:52 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Jeff Atwood]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1341</guid>
+		<description><![CDATA[Panel Jeff Atwood (twitter github blog) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:34 &#8211; Jeff Atwood Introduction Coding Horror Stack Overflow Stack Exchange Discourse 02:14 &#8211; Stack Overflow 03:11 &#8211; Goals and [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR106Discourse.mp3" length="59873219" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Jeff Atwood (twitter github blog)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Jeff Atwood (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:34 - Jeff Atwood Introduction
+
+
+	Coding Horror
+	Stack Overflow
+	Stack Exchange
+	Discourse
+
+02:14 - Stack Overflow
+03:11 - Goals and Motivations
+
+
+	discourse / discourse
+	Experts Exchange
+	phpBB
+	vBulletin
+	Reddit
+
+10:35 - Success
+
+
+	How-To Geek
+
+16:46 - Discourse’s Code
+
+
+	Coding Horror: Why Ruby?
+	Coding Horror: The Principle of Least Power (Atwood’s Law)
+	ForumWarz
+	discourse / discourse
+
+23:12 - Open-Source Licensing
+
+
+	GPL (General Public License)
+
+26:43 - Using a CLA (Contributor License Agreement)
+29:48 - Open-Source Versions vs Proprietary Versions
+
+
+	Vanilla
+
+33:12 - Discourse and Ruby
+
+
+	Giving back to the community
+	Performance
+
+45:35 - Choosing PostgreSQL
+47:15 - Releasing Discourse
+
+
+	“The Rule of Three”
+	Using Discourse for Ruby Rogues Parley
+	Ember
+	Greenheart Games Tricks Players for Lesson on Piracy
+	Greenheart Games Forum
+	Soylent Discourse
+
+Picks
+
+	Barefoot Running (Avdi)
+	Barefoot Running Step by Step by Roy M. Wallack (Avdi)
+	Cal Newport: Getting Creative Things Done: How To Fit Hard Thinking Into a Busy Schedule (Katrina)
+	The Fred Factor: How Passion in Your Work and Life Can Turn the Ordinary into the Extraordinary by Mark Sanborn (Chuck)
+	59 Seconds: Think a Little, Change a Lot by Richard Wiseman (Jeff)
+
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+Next Week
+Imposter Syndrome with Tim Chevalier
+Transcript
+JOSH:  Good day.
+
+CHUCK:  Isn’t that what bonjour means anyway? Of course, if that’s really what it means, then why do they have bonsoir, which means good evening?
+
+KATRINA:  They do. They use it whenever it’s not day anymore.
+
+JOSH:  Because the night is the time for love and deserves its own word.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+ [This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 106 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
+
+KATRINA:  Hello from the laundry room.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello from the basement.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hello from the office nook.
+
+CHUCK:  I’m Charles Max Wood from the upstairs bedroom office. [Chuckles] We have a special guest and that’s Jeff Atwood.
+
+JEFF:  Hi everybody.
+
+CHUCK:  So Jeff, can you introduce yourself for those who don’t know who you are?
+
+JEFF:  Sure, absolutely. So, most people know me for a couple of reasons. I’m going to list those reasons. One is I have this blog Coding Horror that I’ve written since 2004, that got surprisingly popular. And then, the other big thing that I did was in 2008, I formed a business partnership with Joel Spolsky and we built Stack Overflow and Stack Exchange, a network of Q&amp;A sites for programmers and then larger technical topics. And then this year, we launched the project Discourse,</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:22</itunes:duration>
+	</item>
+<item>
+		<title>105 RR Regular Expressions with Nell Shamrell</title>
+		<link>http://feedproxy.google.com/~r/RubyRogues/~3/_5xnoN6tmGA/</link>
+		<comments>http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/#comments</comments>
+		<pubDate>Wed, 15 May 2013 13:00:27 +0000</pubDate>
+		<dc:creator>chuck@teachmetocode.com (Charles Max Wood)</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Nell Shamrell]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1330</guid>
+		<description>Panel Nell Shamrell (twitter github) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Katrina Owen (twitter github blog) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:33 &amp;#8211; DevChat.tv Indiegogo Campaign 02:16 &amp;#8211; Nell Shamrell Introduction Blue Box Nell Shamrell: Using [...]&lt;img src="http://feeds.feedburner.com/~r/RubyRogues/~4/_5xnoN6tmGA" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" length="78651719" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Nell Shamrell (twitter github)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rail...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Nell Shamrell (twitter github)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Katrina Owen (twitter github blog)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:33 - DevChat.tv Indiegogo Campaign
+02:16 - Nell Shamrell Introduction
+
+
+	Blue Box
+	Nell Shamrell: Using Regular Expressions in Ruby (Part 1 of 3)
+	Nell Shamrell: Using Regular Expressions in Ruby (Part 2 of 3)
+	Nell Shamrell: Using Regular Expressions in Ruby (Part 3 of 3)
+
+03:11 - Regular Expressions
+
+
+	Regular Language
+
+08:38 - Being intimidated by Regular Expressions
+
+
+	Beyond the Basics: Regular Expressions in Ruby (Nell’s Seattle.rb SlideShare Presentation)
+	Oniguruma Regular Expressions Version 5.9.1
+	Rubular
+
+14:54 - Managing Regular Expressions
+15:51 - Regular Expression Gotchas
+
+
+	sub and gsub
+	regex speed
+	O'Reilly Media: Mastering Regular Expressions by Jeffrey E.F. Friedl
+	Anchoring
+
+20:39 - Possessive, Greedy and Lazy Quantifiers
+24:10 - Lookaheads, Lookbehinds and Lookarounds
+
+
+	scan
+
+28:21 - Regular Expression Engines
+
+
+	PCRE
+
+31:56 - Ruby-Specific ways of working with regular expressions
+
+
+	match
+	Capture Groups
+	Magic Globals
+	Oniguruma
+	Onigmo
+	grep
+	rindex
+
+47:02 - What shouldn’t you use regular expressions for?
+
+
+	include?
+	start_with?
+	html - RegEx match open tags except XHTML self-contained tags - Stack Overflow
+	Mail::RFC822::Address: regexp-based address validation
+
+51:09 - Substitutions
+
+
+	Escapes &amp; Escaping
+	%r
+	O'Reilly Media: The Ruby Programming Language by David Flanagan, Yukihiro Matsumoto
+
+01:00:37 - Regex xkcd Comics
+
+
+	xkcd | Regular Expressions
+	xkcd | 1171: Perl Problems
+
+01:02:51 - Tricks
+
+
+	Lea Verou: /Reg(exp){2}lained/: Demystifying Regular Expressions
+	StringScanner
+	split
+
+Picks
+
+	GOG.com (James)
+	Master of Orion 1+2 (James)
+	Starbase Orion (James)
+	xkcd: I Know Regular Expressions T-Shirt (Josh)
+	s/teh/the/ (Josh)
+	Brakeman (Katrina)
+	rx (Avdi)
+	Re Builder (Avdi)
+	Southwest Airlines (Avdi)
+	StarCraft II (Chuck)
+	Continuum (Chuck)
+	Pat Shaughnessy: Exploring Ruby’s Regular Expression Algorithm (Nell)
+	Lea Verou: /Reg(exp){2}lained/: Demystifying Regular Expressions (Nell)
+	Naginata (Nell)
+
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+Next Week
+Discourse with Jeff Atwood
+Transcript
+JAMES:  We aren’t always good about passing the ball around. So, if you have something to say, speak up.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetBrains.com/Ruby.] 
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 105 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Yey, regex!
+
+CHUCK:  We also have Avdi Grimm.
+
+AVDI:  Hello from jetlag.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hello from jetlag’s neighbor.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Good morning from San Francisco.
+
+CHUCK:  I’m Charles Max Wood from DevChat.tv.</itunes:summary>
 		<itunes:author>Ruby Rogues</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:duration>1:21:56</itunes:duration>
-        <media:content url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" fileSize="78651719" type="audio/mpeg"/>
-        <itunes:keywords>
-            ruby,rails,rspec,regex
-    </itunes:keywords>
-</item>
-
-
+	<media:content url="http://traffic.libsyn.com/rubyrogues/RR105RegularExpressions.mp3" fileSize="78651719" type="audio/mpeg"/><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><feedburner:origLink>http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/</feedburner:origLink></item>
 <item>
 		<title>104 RR The Rails View with John Athayde and Bruce Williams</title>
 		<link>http://feedproxy.google.com/~r/RubyRogues/~3/V3X1VCSqi0U/</link>

@@ -1,0 +1,142 @@
+<item>
+		<title>106 RR Discourse with Jeff Atwood</title>
+		<link>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/</link>
+		<comments>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/#comments</comments>
+		<pubDate>Wed, 22 May 2013 13:00:52 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Jeff Atwood]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1341</guid>
+		<description><![CDATA[Panel Jeff Atwood (twitter github blog) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:34 &#8211; Jeff Atwood Introduction Coding Horror Stack Overflow Stack Exchange Discourse 02:14 &#8211; Stack Overflow 03:11 &#8211; Goals and [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR106Discourse.mp3" length="59873219" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Jeff Atwood (twitter github blog)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Jeff Atwood (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:34 - Jeff Atwood Introduction
+
+
+	Coding Horror
+	Stack Overflow
+	Stack Exchange
+	Discourse
+
+02:14 - Stack Overflow
+03:11 - Goals and Motivations
+
+
+	discourse / discourse
+	Experts Exchange
+	phpBB
+	vBulletin
+	Reddit
+
+10:35 - Success
+
+
+	How-To Geek
+
+16:46 - Discourse’s Code
+
+
+	Coding Horror: Why Ruby?
+	Coding Horror: The Principle of Least Power (Atwood’s Law)
+	ForumWarz
+	discourse / discourse
+
+23:12 - Open-Source Licensing
+
+
+	GPL (General Public License)
+
+26:43 - Using a CLA (Contributor License Agreement)
+29:48 - Open-Source Versions vs Proprietary Versions
+
+
+	Vanilla
+
+33:12 - Discourse and Ruby
+
+
+	Giving back to the community
+	Performance
+
+45:35 - Choosing PostgreSQL
+47:15 - Releasing Discourse
+
+
+	“The Rule of Three”
+	Using Discourse for Ruby Rogues Parley
+	Ember
+	Greenheart Games Tricks Players for Lesson on Piracy
+	Greenheart Games Forum
+	Soylent Discourse
+
+Picks
+
+	Barefoot Running (Avdi)
+	Barefoot Running Step by Step by Roy M. Wallack (Avdi)
+	Cal Newport: Getting Creative Things Done: How To Fit Hard Thinking Into a Busy Schedule (Katrina)
+	The Fred Factor: How Passion in Your Work and Life Can Turn the Ordinary into the Extraordinary by Mark Sanborn (Chuck)
+	59 Seconds: Think a Little, Change a Lot by Richard Wiseman (Jeff)
+
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+Next Week
+Imposter Syndrome with Tim Chevalier
+Transcript
+JOSH:  Good day.
+
+CHUCK:  Isn’t that what bonjour means anyway? Of course, if that’s really what it means, then why do they have bonsoir, which means good evening?
+
+KATRINA:  They do. They use it whenever it’s not day anymore.
+
+JOSH:  Because the night is the time for love and deserves its own word.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+ [This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 106 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
+
+KATRINA:  Hello from the laundry room.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello from the basement.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hello from the office nook.
+
+CHUCK:  I’m Charles Max Wood from the upstairs bedroom office. [Chuckles] We have a special guest and that’s Jeff Atwood.
+
+JEFF:  Hi everybody.
+
+CHUCK:  So Jeff, can you introduce yourself for those who don’t know who you are?
+
+JEFF:  Sure, absolutely. So, most people know me for a couple of reasons. I’m going to list those reasons. One is I have this blog Coding Horror that I’ve written since 2004, that got surprisingly popular. And then, the other big thing that I did was in 2008, I formed a business partnership with Joel Spolsky and we built Stack Overflow and Stack Exchange, a network of Q&amp;A sites for programmers and then larger technical topics. And then this year, we launched the project Discourse,</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:22</itunes:duration>
+	</item>
