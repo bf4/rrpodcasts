@@ -26,6 +26,149 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>107 RR Impostor Syndrome with Tim Chevalier</title>
+		<link>http://rubyrogues.com/107-rr-impostor-syndrome-with-tim-chevalier/</link>
+		<comments>http://rubyrogues.com/107-rr-impostor-syndrome-with-tim-chevalier/#comments</comments>
+		<pubDate>Wed, 29 May 2013 13:00:40 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Tim Chevalier]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1347</guid>
+		<description><![CDATA[Panel Tim Chevalier (twitter github blog) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:32 &#8211; Tim Chevalier Introduction Research Engineer at Mozilla Rust Geek Feminism Blog Tim’s Dreamwidth Journal Impostor Syndrome: Part [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/107-rr-impostor-syndrome-with-tim-chevalier/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR107ImpostorSyndrome.mp3" length="71001392" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Tim Chevalier (twitter github blog)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Tim Chevalier (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:32 - Tim Chevalier Introduction
+
+
+	Research Engineer at Mozilla
+	Rust
+	Geek Feminism Blog
+	Tim’s Dreamwidth Journal
+	Impostor Syndrome: Part 1 of 4
+	Impostor Syndrome: Part 2 of 4
+	Impostor Syndrome: Part 3 of 4
+	Impostor Syndrome: Part 4 of 4
+
+02:01 - Impostor Syndrome
+05:16 - Marginalized groups and Impostor Syndrome
+
+
+	Stereotype Threat
+	“I don’t belong here”
+
+08:13 - Keeping score and comparing yourself to others
+11:05 - Identifying people with Impostor Syndrome
+
+
+	Self-deprecation
+	Withdrawing
+
+13:50 - Unfalsifiable Beliefs
+
+
+	Evidence
+	Reinforcement
+
+21:33 - Don't Tell Your Kids They’re ‘Smart’
+28:42 - Helping yourself overcome Impostor Syndrome
+
+
+	Values &amp; Beliefs
+	Acknowledging when you’re wrong
+	Feedback
+	Working hard at something difficult and making progress
+	Brené Brown: The power of vulnerability
+
+34:55 - Affirmations
+
+
+	Evaluating strengths and weaknesses
+
+40:16 - Helping others overcome Impostor Syndrome
+
+
+	Ask them to help you with something
+	Praise
+
+43:50 - Isolation &amp; Inclusion
+45:11 - Combating Impostor Syndrome
+
+
+	Cognitive Behavioral Therapy
+	Acknowledgement and Acceptance
+	Humor &amp; Joking
+
+Picks
+
+	CrashPlan (Avdi)
+	Hyperbole and a Half: Depression Part Two (Katrina)
+	Angela Lee Duckworth: The key to success? Grit (Katrina)
+	AngularJS (David)
+	three.js (David)
+	The Feeling Good Handbook by David. D. Burns (David)
+	You Can’t Afford the Luxury of a Negative Thought by Peter McWilliams (David)
+	iOctocat (Chuck)
+	iOctocat on GitHub (Chuck)
+	OmniFocus (Chuck)
+	The UNIX-HATERS Handbook (Tim)
+	It's okay for someone else to be wrong (Tim)
+
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+Next Week
+Rogues Only Episode
+Transcript
+DAVID: Did somebody say ‘poop joke’?
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+CHUCK:  Hey everybody and welcome to Episode 107 of the Ruby Rogues podcast. This week on our panel, we have Katrina Owen.
+
+KATRINA:  Hello.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello.
+
+CHUCK:  David Brady. I’m Charles Max Wood from DevChat.tv and I’m going to be impostoring both Josh Susser and James Edward Gray today. We also have a special guest and that is Tim Chevalier.  Is it [she-va-lee-ay]?
+
+TIM:  [Sheva-lee-ay].
+
+CHUCK:  [Sheva-lee-ay]. It’s French.
+
+TIM:  It is.
+
+CHUCK:  Looks French-ish, so I said it French-ish, I guess. Anyway, do you want to introduce yourself really quick?
+
+TIM:  Sure. My name’s Tim Chevalier. And right now, I’m a Research Engineer at Mozilla. I work on the Rust programming language, but in my copious free time, I blog at  HYPERLINK "http://www.GeekFeminism.org" www.GeekFeminism.org and on Dreamwidth about the social aspects of tech, especially diversity and intrasectionality.</itunes:summary>
+		<itunes:author>Ruby Rogues</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:13:58</itunes:duration>
+	</item>
+<item>
 		<title>106 RR Discourse with Jeff Atwood</title>
 		<link>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/</link>
 		<comments>http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/#comments</comments>
