@@ -1,0 +1,138 @@
+<item>
+		<title>108 RR Ruby Trends</title>
+		<link>http://rubyrogues.com/108-rr-ruby-trends/</link>
+		<comments>http://rubyrogues.com/108-rr-ruby-trends/#comments</comments>
+		<pubDate>Wed, 05 Jun 2013 13:00:46 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1354</guid>
+		<description><![CDATA[Panel James Edward Gray (twitter github blog) Katrina Owen (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:31 &#8211; Ruby Trends Introduction 02:31 &#8211; Functional Style of Programming Boundaries &#8211; Gary Bernhardt Functional Core, Imperative Shell [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/108-rr-ruby-trends/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR108CommunityTrends.mp3" length="63807463" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  James Edward Gray (twitter github blog)   Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	James Edward Gray (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:31 - Ruby Trends Introduction
+02:31 - Functional Style of Programming
+
+
+	Boundaries - Gary Bernhardt
+	Functional Core, Imperative Shell - Destroy All Software Screencasts
+	Functional Principles for OO Development - Jessica Kerr
+	Michael Feathers: Tell Above, and Ask Below - Hybridizing OO and Functional Design
+	BERT and Ernie: Scaling your Ruby site with Erlang - Tom Preston-Werner
+
+10:22 - Polyglot-type Structure
+
+
+	Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce Tate
+	Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement by Jim R. Wilson
+
+16:07 - NoSQL
+
+
+	Redis
+	Memcached
+	MongoDB
+
+20:39 - Rich Applications in JavaScript in the Browser
+
+
+	Server Computation vs Client Computation
+	Josh Susser: Shifting to the client again
+
+27:36 - Proliferation of short developer training programs
+
+
+	JumpstartLab
+	Rails Ramp Up
+
+31:34 - Diversity
+
+
+	RailsBridge
+	Rails Girls
+	Black Girls Code
+	CODE2040
+
+33:26 - Remote Work
+
+
+	The Wide Teams Podcast
+
+39:48 - The Reversal of Outsourcing
+42:01 - Object-Orientation &amp; Better Ways to Build Software
+
+
+	Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz
+	097 RR Book Club: Patterns of Enterprise Architecture with Martin Fowler
+	Rediscovery
+
+Picks
+
+	GopherCon 2014 (Katrina)
+	A Taste of Prolog by Aja Hammerly (Avdi)
+	Tröegs Brewing Company | Tröegs HopBack Amber Ale (Avdi)
+	naught (James)
+	Visit local Rubyists while traveling (James)
+	The Civil Wars (James)
+	GoGaRuCo CFP (Josh)
+	My Little Pony: Friendship Is Magic (Josh)
+	fullcalendar (Chuck)
+	Star Trek: The Next Generation (Chuck)
+	The Physics of Star Trek by Lawrence M. Krauss (James)
+	GitLab (Chuck)
+
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+Next Week
+Extreme Programming with Will Read
+Transcript
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 108 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  I'm back from the cold, wet place.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hello, hello.
+
+CHUCK:  Josh Susser. 
+
+JOSH:  Hi, good morning. Apparently, I live in the cold, wet place.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+CHUCK:  I’m Charles Max Wood from DevChat.tv. And this week, we’re going to be talking about some of the trends that we see in the Ruby community.
+
+James suggested this. And so, I'm going to let him kind of explain what we’re going to be talking about and then, we’ll go from there.
+
+JAMES:  Yeah. So, while I was travelling, I always try to make a point of meeting the Rubyists along the way. And I did that again while I was in Great Britain, which was awesome.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>57:13</itunes:duration>
+	</item>
