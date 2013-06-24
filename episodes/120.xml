@@ -1,0 +1,139 @@
+<item>
+		<title>058 RR Book Club: Working with Unix Processes with Jesse Storimer</title>
+		<link>http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/</link>
+		<comments>http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/#comments</comments>
+		<pubDate>Thu, 14 Jun 2012 12:00:53 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Jesse Storimer]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=550</guid>
+		<description><![CDATA[Panel Jesse Storimer (twitter github jstorimer.com) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) Discussion Shopify PHP C# Confident Ruby book Chuck&#8217;s JSON API training Fork Resque Linux Programming Interface Fork &#38; exec launchd on OSX man pages session groups process groups tmux screen Unix Network Programming by W. [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/058-rr-book-club-working-with-unix-processes-with-jesse-storimer/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR058WorkingWithUnixProcesses.mp3" length="68570372" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Jesse Storimer (twitter github jstorimer.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github) - Discussion   Shopify   PHP   C# ...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Jesse Storimer (twitter github jstorimer.com)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray II (blog twitter github)
+
+Discussion
+
+
+	Shopify
+	PHP
+	C#
+	Confident Ruby book
+	Chuck's JSON API training
+	Fork
+	Resque
+	Linux Programming Interface
+	Fork &amp; exec
+	launchd on OSX
+	man pages
+	session groups
+	process groups
+	tmux
+	screen
+	Unix Network Programming by W. R. Stevens
+	Advanced Programming in the Unix Environment by W. R. Stevens
+	TCP/IP Illustrated by W. R. Stevens
+	Daemons
+	Kitaboo
+	Marc Andre Cournoyer
+	Self Publishing
+	Pragmatic Programmers
+	IPC
+	New chapter on resource limits
+	Working with TCP Sockets (Jesse's new book)
+	Jesse's blog post on passing IO objects over sockets
+	Eric Hodel's output streams blog post
+	Jesse's Unix shell in Ruby - blog pt1, blog pt2, blog pt3, github
+	libcurl
+
+Picks
+
+
+	Practicing Ruby by Greg Brown (Avdi)
+	Mantano Reader for Android (Avdi)
+	Typhoeus (James)
+	Drip (James)
+	The DRb book (James)
+	RED - Amazon, iTunes (James)
+	Podcasting A to Z (use the promo code "wood" for $100 off) (Chuck)
+	Brother Labeler (Chuck)
+	Getting Things Done by David Allen (Chuck)
+	USP Ruby mailing list (Jesse)
+	Shush (Jesse)
+
+
+
+Our next book club book will be Growing Object Oriented Software Guided by Tests.
+Transcript 
+JAMES: I have read one of the articles on your blog just recently. Like in that one article, I think I learned about three methods that I didn't even know existed.
+
+*laughter*
+
+CHUCK: James, I thought you knew everything?
+
+JAMES: I know. So did I. Then I read the blog post and found out I was wrong. Crap.
+
+CHUCK: Now my world is going to shatter. What else don’t you know?
+
+
+
+CHUCK: [This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/new relic]
+
+Hey everybody and welcome to Episode 58 of the Ruby Rogues Podcast! I'm your host, Charles Max Wood. This week, on our panel we have Jesse Storimer.
+
+JESSE: Hey everyone!
+
+CHUCK: I usually do the guest last, but I got ahead of myself. You wanna introduce yourself?
+
+JESSE: Sure. I'm Jesse. Currently, I'm employed at Shopify and I have been doing Ruby there for about 4 years. Before that, I was doing other web stuff. I was doing PHP and C#. The book we are talking about today, “Woking with Unix Processes” kind of grew out of my experience there in getting better in doing Rails web stuff. I got interested in the infrastructure behind the application and did my investigations there and building stuff there came the knowledge into a book.
+
+CHUCK: Cool. I got to mention this is a Book Club episode for Working with UNIX Processes. We also have Avdi Grimm!
+
+AVDI: Hello from Pennsylvania!
+
+CHUCK: Avdi, so you are working on a new book?
+
+AVDI: [laughs] Yeah this sort of the much awaited (by a few people anyway), “Confident Ruby” which is based on Confident Code Talk that I did at a few conferences last year. People are interested in information about that and wanna follow along as I write it. You can go to confidentRuby.com
+
+CHUCK: Awesome. We also have James Edward Gray II.
+
+JAMES: I’ll be the guest Rogue this week.
+
+*laughter*
+
+CHUCK: Are you working with anything interesting?
+
+JAMES: Yes I am working on interesting things, but I'm not ready to talk about them yet.
+
+CHUCK: Okay. If you want more of James, go to Rubies in the Rough.
+
+JAMES: That's retired now.
+
+CHUCK: Okay don’t go to Rubies in the Rough.
+
+*laughter*
+
+JAMES: It was a good idea, but no.
+
+CHUCK: “Retired in the Rough”.
+
+JAMES: Right.
+
+CHUCK: Alright I'm Charles Max Wood from teachmetocode.com and I'm actually going to be putting up a webinar in mid-July about JSON API. So if you are interested in that, stay tuned. I’ll put a link in the show notes. Let’s go ahead and jump in and talk about the book. (I'm going to find my Kindle over here).
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>57:08</itunes:duration>
+	</item>

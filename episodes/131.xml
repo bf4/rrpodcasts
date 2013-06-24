@@ -1,0 +1,151 @@
+<item>
+		<title>046 RR Objects in Rails Part 2</title>
+		<link>http://rubyrogues.com/046-rr-objects-in-rails-part-2/</link>
+		<comments>http://rubyrogues.com/046-rr-objects-in-rails-part-2/#comments</comments>
+		<pubDate>Tue, 20 Mar 2012 01:19:35 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=469</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Objects in Rails part 1 (with Jim Weirich) Avdi&#8217;s Objects on Rails book When Avdi manipulates time, he passes in the clock object Create a Clock class and pass that around Timecop Rails Your [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/046-rr-objects-in-rails-part-2/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR046ObjectsInRuby2.mp3" length="89530304" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Objects in Rails part 1 (with Jim Weirich)
+	Avdi's Objects on Rails book
+	When Avdi manipulates time, he passes in the clock object
+	Create a Clock class and pass that around
+	Timecop
+	Rails
+	Your Models and Controllers are just classes
+	Ruby blocks
+	Crafting Rails Applications
+	Functional vs. Object Oriented Programming in Rails
+	Javascript is closer to functional programming than Ruby is
+	The balance (or anti-balance) of having two design centers
+	Closures
+	Growing Object Oriented Software Guided by Tests
+	Lazy Enumerables (blog post)
+	SASL (St. Andrew's Static Language)
+	Rex
+	Builder pattern
+	Smalltalk
+	Filter Streams
+	Rails' find_each method
+	Controller filters
+	Aspect Oriented Programming
+	Continuations
+	Encapsulation
+	You can expose controller methods as helpers in a view
+	Presenters
+	Parameter Object
+	Object Oriented Programming to represent real world objects? Good idea? Bad idea? Even possible?
+	OOP is about modeling the important parts
+	Representing roles
+
+Picks
+
+	Young Wizards by Diane Duane (Josh)
+	So you want to be a wizard (Josh)
+	Cat wizards series (Josh)
+	youngwizards.com (Josh)
+	Cerealize.com (Josh)
+	Less Wrong blog (Avdi)
+	Harmy's Despecialized Edition of Star Wars (James)
+	Transmission (James)
+	Toast Titanium (James)
+	Disc covers for Star Wars (James)
+	Chrome Canary (Chuck)
+	Scrivener (Chuck)
+
+Transcript
+JOSH: Oh, you know, I finished all of my water. So if you can wait 30 seconds--
+
+CHUCK: Yeah, 20 minutes, we are going to have to wait 30 seconds again so that he can take care of all the water he drank.
+
+AVDI: [Laughs]
+
+JAMES: That’s awesome.
+
+CHUCK: We are going to hear his chair creaking because he is wiggling in it.
+
+JAMES: Yeah, I know. We should have intermission music.
+
+[Music plays]
+
+JOSH: Somebody got shot?! What?
+
+JAMES: [Laughs]
+
+JOSH: What did I miss?
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+CHUCK: Hey everybody and welcome to Episode 46 of the Ruby Rogues podcast. This week, we are going to be following up our discussion that we had with Jim Weirich about six months ago, about “Object-Oriented Programming in Rails.” And this week on our panel, we have Avdi Grimm.
+
+AVDI: Hi I’m Avdi and by the time you hear this, my new book “Object on Rails” should be available for anyone to read at objectsonrails.com.
+
+CHUCK: Alright. We also have James Edward Gray.
+
+JAMES: Good morning everyone!
+
+CHUCK: We also have Josh Susser.
+
+JOSH: And here I am.
+
+CHUCK: I’m Charles Max Wood from teachmetocode.com. And let’s go ahead and kick this off. I know that you guys have been thinking a lot about this and so I’m kind of curious to see where it goes. So, does somebody wanna just jump in and start talking about something? I suppose we should mention Avdi’s book even though he told us that he didn’t wanna promote it.
+
+AVDI: Yeah that’s why I started out the show by promoting it.
+
+[Laughter]
+
+JOSH: You got out all the “shameful” self-promotion out of the way.
+
+AVDI: [Laughs]
+
+JAMES: We are going to talk about Avdi's book against Avdi's wishes.
+
+CHUCK: Yeah I didn’t get a copy of it so I don’t even know what’s in it.
+
+AVDI: What?!
+
+CHUCK: It must be good.
+
+[Laughter]
+
+JAMES: You're not on the end list?
+
+[Laughter]
+
+CHUCK: I tried to just shame my way onto it just now.
+
+AVDI: Everyone gets hooked up by the time this goes out so. [Chuckles]
+
+CHUCK: You are releasing it for free online or something?
+
+AVDI: Yeah it’s going to be free to read online and then there’s a downloadable version for various eBook readers for $5.
+
+JAMES: So Avdi, what made you decide to write that book?
+
+AVDI: I think laziness.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:10</itunes:duration>
+	</item>

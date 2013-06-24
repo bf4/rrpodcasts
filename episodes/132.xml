@@ -1,0 +1,63 @@
+<item>
+		<title>045 RR Bundler with Andre Arko</title>
+		<link>http://rubyrogues.com/045-rr-bundler-with-andre-arko/</link>
+		<comments>http://rubyrogues.com/045-rr-bundler-with-andre-arko/#comments</comments>
+		<pubDate>Wed, 14 Mar 2012 05:34:35 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Andre Arko]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=460</guid>
+		<description><![CDATA[Panel Andre Arko (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion bundler jquery-rails plex ruby gems geminstaller Gemfile lock down the versions of the gems you need in dependencies &#8220;spermy operator&#8221; &#8220;twiddle-wakka&#8221; Red Dwarf approximate or pessimistic version operator semantic versioning bundler [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/045-rr-bundler-with-andre-arko/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR045Bundler.mp3" length="104950082" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Andre Arko (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susse...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Andre Arko (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	bundler
+	jquery-rails
+	plex
+	ruby gems
+	geminstaller
+	Gemfile
+	lock down the versions of the gems you need in dependencies
+	"spermy operator"
+	"twiddle-wakka"
+	Red Dwarf
+	approximate or pessimistic version operator
+	semantic versioning
+	bundler was slow
+	bundler is faster now
+	Ruby on Ales
+	local caching
+	--local flag on bundle install
+
+Picks
+
+	bundle viz - requires graphviz (Josh)
+	pandoc (Avdi)
+	calibre (Avdi)
+	The Developer's Code (David)
+	Game of Thrones on DVD &amp; BluRay [amazon] (James)
+	FitBit (Chuck)
+	bundle gem (Andre)
+	hypercritical (Andre)
+	JWZ's mix tapes (Andre)</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:12:53</itunes:duration>
+	</item>

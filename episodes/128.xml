@@ -1,0 +1,153 @@
+<item>
+		<title>049 RR Agile Communication with Angela Harms</title>
+		<link>http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/</link>
+		<comments>http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/#comments</comments>
+		<pubDate>Fri, 06 Apr 2012 04:48:17 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Angela Harms]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=494</guid>
+		<description><![CDATA[Panel Angela Harms Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Discussion Lean Dog Collaboration Agile Development Communication XP Explained by Kent Beck [amazon.com] Extreme Programming Scrum git blame svn praise Praise is also a judgement e-prime Non-violent communication I statements Use your language [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/049-rr-agile-communication-with-angela-harms/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR049-Agile_Communication.mp3" length="87127924" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Angela Harms   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts)   James Edward Gray II (blog twitter github) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Angela Harms
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray II (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Lean Dog
+	Collaboration
+	Agile Development
+	Communication
+	XP Explained by Kent Beck [amazon.com]
+	Extreme Programming
+	Scrum
+	git blame
+	svn praise
+	Praise is also a judgement
+	e-prime
+	Non-violent communication
+	I statements
+	Use your language as a clue to what is going on in your heart.
+	Code's first purpose is to communicate with the reader.
+	In Agile, we're supposed to be honest about where we're at.
+	Authentic Happiness [amazon.com]
+	Confident Humility
+	Get your Ego in check
+	Benevolent Pairing
+	What if you're zoning out? You're lost!
+	Mindfulness
+	Zen
+	Change the coder to change the code.
+	Collaboration is more about putting ideas out and having them change.
+	Don't worry about being right.
+	"If you're working on your own, the best you can come up with is the best you can do."
+	"People over Process"
+	Stay Vulnerable
+	Heavy Process
+	Stay Present
+	"unschooler"
+	BDUF (Waterfall) vs Agile
+	Emergence
+
+Picks
+
+	Trial, Error, and the God Complex TED talk (Angela)
+	Vulnerability TED talk (Angela)
+	XP Explained (1st edition) by Kent Beck (Angela)
+	Having an Assistant (Avdi)
+	oDesk (Avdi)
+	Steven Frye's America (Avdi)
+	Alfred Korzybski (Avdi)
+	Authentic Happiness by Seligman (David)
+	Garreth Emery (James)
+	Tiesto Club Life (James)
+	Jean Michel Jarre (Josh)
+	Rock Health Incubator in Boston (Josh)
+	Paper for iPad (Josh)
+	ECamm Call Recorder (Chuck)
+	Balsamiq Mockups (Chuck)
+
+Transcript
+[00:00] DAVE: One person on Twitter after I wrote my apology, replied to me and said, “Oh, and this time I mean it.” And I'm like, “Wow, Twitter is for *** people in the ***."
+
+[00:14] CHUCK: Hi, Angela!
+
+
+
+[00:30] CHUCK: This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com /newrelic.
+
+Hey everybody and welcome to Episode 49 of the Ruby Rogues Podcast. This week on our panel we have Avdi Grimm.
+
+[00:44] AVDI:  Hello again.
+
+[00:45] CHUCK: We also have David Brady.
+
+[00:47] DAVE: Howdy, Howdy.
+
+[00:47] CHUCK: James Edward Gray II
+
+[00:48] JAMES: I'm back.
+
+[00:50] CHUCK:  Josh Susser.
+
+[00:51] JOSH: Hello from sunny San Francisco!
+
+[00:54] CHUCK: I'm Charles Max Wood from Teach Me to Code and this week we have a special guest rogue and that is Angela Harms.
+
+[00:59] ANGELA: Hello.
+
+[01:01] CHUCK: Angela, you are pretty new to our audience. You wanna tell us a little bit about yourself, Who you are and what you are about?
+
+[01:05] ANGELA: Let’s see, I make software on a team in Lean Dog in Cleveland. Used to be on a boat but now on an airport temporarily.
+
+[01:15] CHUCK: Wait on an airport permanently? Or are you travelling?
+
+[01:17] ANGELA: No, no. So we are on a boat. People might know that and it’s been renovated.
+
+[01:21] DAVE: You said this couple of times; you have a boat, like, do you guys own like a house boat on the river or something?
+
+[01:28] ANGELA: Oh you didn't know that? Okay, so Lean Dog’s offices are on a boat, it is just true.
+
+[01:32] JOSH: So when you have to work hard to keep your business afloat, you really—
+
+*laughter*
+
+[01:41] DAVE: Is your theme song that clip from Saturday Night Live?
+
+[01:46] ANGELA: What clip?
+
+[01:48] DAVE: The “I'm on a boat, I'm on a boat, I'm on a boat.”
+
+[01:50] ANGELA: Yeah, I didn't know that. You just censored yourself right?
+
+[01:54] DAVE: I did. I did.
+
+[01:56] ANGELA: Yeah, the first week I worked at Lean Dog, I couldn’t stop saying that.
+
+*laughter*
+
+Anyway it’s a cool place. We got a lot of fun.
+
+[02:04] CHUCK: So do you ever apply a patch to your office?
+
+*laughter*
+
+[02:11] ANGELA: Well,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:00:30</itunes:duration>
+	</item>

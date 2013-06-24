@@ -1,0 +1,142 @@
+<item>
+		<title>048 RR Crafting Rails Applications with José Valim</title>
+		<link>http://rubyrogues.com/048-rr-crafting-rails-applications-with-jose-valim/</link>
+		<comments>http://rubyrogues.com/048-rr-crafting-rails-applications-with-jose-valim/#comments</comments>
+		<pubDate>Thu, 29 Mar 2012 05:13:52 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Jose Valim]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=483</guid>
+		<description><![CDATA[Panel José Valim (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Crafting Rails Applications Google Summer of Code Yehuda Katz Authorship Driven Development Book Driven Development Test Driven examples ActiveModel Engines ORMs AbstractController Generators Railties Extension points in Rails Resolvers Liquid RailsConf [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/048-rr-crafting-rails-applications-with-jose-valim/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR048-CraftingRailsApplications.mp3" length="5242880" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  José Valim (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susse...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	José Valim (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Crafting Rails Applications
+	Google Summer of Code
+	Yehuda Katz
+	Authorship Driven Development
+	Book Driven Development
+	Test Driven examples
+	ActiveModel
+	Engines
+	ORMs
+	AbstractController
+	Generators
+	Railties
+	Extension points in Rails
+	Resolvers
+	Liquid
+	RailsConf
+	Enginex
+	Piotr S.
+	Combustion
+	José's example of loading a Rails application in one file.
+	RVM
+	Bundler
+	Rack
+	Middleware
+	Sinatra
+	Resque
+	Tilt
+	ActiveRelation
+	ActiveResource
+	Open Source Vacation
+	Devise
+	Simpleform
+	Elixir
+	Erlang Virtual Machine
+	Markaby
+	RPC
+
+Picks
+
+	Erector (Avdi)
+	Steve Klabnik's Dad (blog post) (Chuck)
+	Old Versions of Skype (Chuck)
+	UserVoice (Chuck)
+	Bootstrapping Design (James)
+	Sucks Rocks from Destroy All Software (James)
+	How Emacs Changed my Life by Matz (James)
+	Downton Abbey (James)
+	DrawSomething (Dave)
+	iPad Stylus [amazon.com] (Josh)
+	ApologyPro.com (Josh)
+	the hub command line utility (Josh)
+	Startup Elements (Josh)
+	heroku.com (Josh)
+	Piotr Sarnacki (Jose)
+	Plataforma (José)
+	Elixir (José)
+	Jimson (José)
+
+Transcript
+00:00 JAMES: Hey everyone! We just wanted to say our own special Ruby Rogues happy birthday to Steve Klabnik’s dad, also, named Steve Klabnik. Steve, your son has come on our show before and taught us a whole bunch of things we didn’t know. So we know you are probably as proud of him as we are and he told us about your 54th birthday which is coming up on April 1st though it’s not a joke. So we wanted to dedicate this episode to you and happy birthday from the Ruby Rogues. Everybody?
+
+00:34 (EVERYBODY): Happy Birthday!
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+00:58 CHUCK: Hey everybody and welcome to episode 48 of the Ruby Rogues podcast. This week on our panel, we have Avdi Grimm.
+
+01:05 AVDI: Moo! Sorry, I was still piping my output through CowSay.
+
+01:09 CHUCK: We also have David Brady.
+
+01:10 DAVID: Hey! This is David Brady, Chief Metaphor Officer at SlideRule Labs.
+
+01:14 CHUCK: We also have James Edward Gray.
+
+01:16 JAMES: Hey everybody! It's James and I can't think of anything funny to say.
+
+01:20 CHUCK: We also have Josh Susser.
+
+01:22 JOSH: Okay, guess what I’m drawing here.
+
+01:24 DAVID:  A penis! Aaahh!!
+
+01:27 CHUCK: And I'm Charles Max Wood from teachmetocode.com. We also have a special guest this week and that's Jose Valim.
+
+01:34 JOSE: Hello! I’m José Valim from Plataforma.
+
+01:37 CHUCK: Do you want to do a quick introduction? Let people know who you are and what you're about.
+
+01:41 JOSÉ: Okay, so I'm José Valim from Plataforma. I am Brazilian, but I currently live in Poland. I am the author of ‘Crafting Rails Applications’, that we are going to discuss today and part of the Rails Core Team member. And lately, I'm having fun writing a programming language called Elixir. I guess that sums it up well.
+
+02:05 CHUCK: Alright. Well, thanks for coming. So, as some people know we've been reading your book, ‘Crafting Rails Applications’. And so we invited you on, so that we could do our book club and talk about what we learned from the book.
+
+02:18 DAVID: Wait! Today’s that book? Hang on. I got to read something. I'll be right back.
+
+02:22 JAMES: Nice.
+
+02:23 AVDI: Okay, I'm back.
+
+02:24 CHUCK: We just cut like 4 hours out of…
+
+02:27 DAVID: No. I just read really, really fast. There are a lot of words in there.
+
+02:33 JAMES: Actually, it is a pretty short book. I was surprised that how quick I went through it for it being real high level and stuff like that. So I appreciated that it wasn't, a long slog.
+
+02:48 JOSÉ: Yeah.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	</item>

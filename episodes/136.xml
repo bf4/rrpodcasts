@@ -1,0 +1,174 @@
+<item>
+		<title>041 RR Code Metrics with Bryan Helmkamp</title>
+		<link>http://rubyrogues.com/041-rr-code-metrics/</link>
+		<comments>http://rubyrogues.com/041-rr-code-metrics/#comments</comments>
+		<pubDate>Fri, 10 Feb 2012 02:22:16 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Bryan Helmkamp]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=426</guid>
+		<description><![CDATA[Panel Bryan Helmkamp (twitter github codeclimate.com) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Code Metrics Measuring Code Code Coverage Static Analysis Why should you be looking at metrics? Challenge the way you think about code. Start conversations within the [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/041-rr-code-metrics/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/041_RR_Code_Metrics.mp3" length="99346831" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Bryan Helmkamp (twitter github codeclimate.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Bryan Helmkamp (twitter github codeclimate.com)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Code Metrics
+	Measuring Code
+	Code Coverage
+	Static Analysis
+	Why should you be looking at metrics?
+
+	Challenge the way you think about code.
+	Start conversations within the team.
+
+
+	flay
+	parse trees
+	Code Climate
+	James' example from Code Climate
+	chafe (too DRY)
+	premature optimization
+	David Chelimsky's RubyConf talk
+	duplication in controllers
+	rails' scaffolding
+	code complexity
+	flog
+	ABC metric (Assignments, Branches, Conditions)
+	saikuro
+	cyclomatic complexity
+	roodi
+	"Metrics Driven Development"
+	composed method pattern
+	"Is all the code in the method at the same level of abstraction?" ~ Bryan
+	Too many methods? or instance variables?
+	Code Smell
+	reek
+	Most of the analysis tools in the Ruby community target Object Oriented code
+	Law of Demeter
+	Immutability Violations
+	git hooks
+	CI (Continuous Integration)
+	metric_fu
+	Play by Play with Zed Shaw on Peepcode
+	automation
+	limited red
+	testing and test suites
+	test coverage tools
+
+	simple_cov
+	cover_me
+
+
+	guard
+	rspec
+	agile processes
+	github.com
+	retrospectives
+	brown bag lunches
+	refactoring
+	git blame
+	unit testing
+	actual cost of code problems
+	Sonar
+	behavioral metrics - how much time or how many times do you encounter a problem or code smell
+	proportional investment
+	custom or idiosyncratic metrics for teams
+	goal directed metric
+
+Picks
+
+	Travis CI (Josh)
+	Love Travis CI (Josh)
+	Mac Tracker (Josh)
+	Ruby Trick Shots (James)
+	Gist on default arguments (James)
+	Stupid Ruby Tricks article (James)
+	Javascript Patterns (Avdi)
+	Summary of GUI Architectures (Avdi)
+	Elmer T. Lee (bourbon) (Avdi)
+	Startup Weekend (Dave)
+	UtahJS Conference Kickstarter Page (Chuck)
+	Mountain West Ruby Conference (Chuck)
+	metric_fu (Chuck)
+	Code Climate (Bryan)
+	Goruco (Bryan)
+
+Transcript
+DAVID: Chuck we wanted to know, did Obi-Wan call and tell you to take the trash out?
+
+JAMES: (That's awesome.)
+
+CHUCK: Yes.
+
+DAVID: That's got to be an abuse of the force.
+
+CHUCK: (Oh man.)
+
+DAVID: Imagine if Obi-Wan is a force ghost, just like, Luke feed my cat!
+
+AVDI: Luke, can you read me peanuts from this latest paper.
+
+JOSH: As a ghost I cannot turn the pages.
+
+DAVID:  I am bored what you are doing?
+
+CHUCK: Hey everybody. Welcome to episode 41 of the Ruby Rogues Podcast.  This week on our panel, we have against the rogue, its Bryan Helmkamp!
+
+BRYAN: Hi guys.
+
+CHUCK: Bryan, you want to introduce yourself?
+
+BRYAN: Sure. So, very happy to be on the show today, my name is Bryan Helmkamp. I work on a number of things in the Ruby community. I’ve done some open source stuff. Most recently, I'm working on a called Code Climate (which we will talk about in a little bit). But I also help out in the New York Ruby community, organizing the NRCrb meet-ups and GoRuCo.
+
+CHUCK: GoRuCo, not to be confused with go GoRuCo right?
+
+BRYAN: Not to be confused with go GoRuCo. We had the name first, which I think Josh will admit to.
+
+JOSH: (Sure.)
+
+BRYAN: We authorized the licensing of the Go GoRuCo name.
+
+DAVID: Is Go GoRuCo based basically the Lady Gaga of GoRuCo?
+
+BRYAN: I think that's apt, yes.
+
+CHUCK: All right, also in our panel we have Avdi Grimm.
+
+AVDI: Good morning.
+
+CHUCK: We also have David Brady.
+
+DAVID: Estás usando este software de traducción de forma incorrecta. Por favor consulta el manual!
+
+CHUCK: We also have James Edward Gray.
+
+JAMES: Wait I am confused.
+
+DAVID: I wanted to see how long it would go.
+
+JOSH: David you do a great Steven *** (2:25) impersonation.
+
+DAVID: Thank you.
+
+CHUCK: And finally we have Josh Susser.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:59</itunes:duration>
+	</item>

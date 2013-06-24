@@ -1,0 +1,120 @@
+<item>
+		<title>047 RR Coding Disciplines with Dan Kubb</title>
+		<link>http://rubyrogues.com/047-rr-coding-disciplines/</link>
+		<comments>http://rubyrogues.com/047-rr-coding-disciplines/#comments</comments>
+		<pubDate>Tue, 27 Mar 2012 06:53:06 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Dan Kubb]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=472</guid>
+		<description><![CDATA[Panel Dan Kubb (twitter github bio) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion DataMapper Staying away from magic DataMapper is a variant of ActiveRecord CodeBenders Coding Disciplines Coding is an experiment Try something new and see how it affects your code. If you [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/047-rr-coding-disciplines/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR047CodingDiscipline160.mp3" length="82275610" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Dan Kubb (twitter github bio)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion  DataM...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Dan Kubb (twitter github bio)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	DataMapper
+	Staying away from magic
+	DataMapper is a variant of ActiveRecord
+	CodeBenders
+	Coding Disciplines
+	Coding is an experiment
+	Try something new and see how it affects your code. If you like it, keep it.
+	Mutation testing
+	Heckle
+	Code Review
+	Pure command query separation
+	YARDoc
+	YardStick
+	All code is experimental
+	There's no such thing as a good design
+	Try something that people are saying isn't a good idea to understand why
+	Dan's style guide
+	inject
+	each_with_object
+	campfire
+	boring stories: No story is uninteresting
+	test coverage
+	discipline vs creativity
+
+Picks
+
+	Adam Keys' blog (James)
+	Breaking Bad (James)
+	DavidBradyPickMachine.com (David)
+	webhamster.com (David)
+	Michael Feathers: Tell Above, Ask Below (Avdi)
+	Objects on Rails Google Group (Avdi)
+	Github Ruby Style Guide (Josh)
+	Larry Niven (Josh)
+	Known Space (Larry Niven) (Josh)
+	John Carter (Josh)
+	Things (Chuck)
+	F*ck You, Pay Me (Chuck)
+	Mutant (Dan)
+
+Transcript
+CHUCK:  So, I have a question for you, James. I’m going to be ordering this horrific hat [laughs] that I’ll be wearing in a month. Can I ship it to your house and have you drive it to the Rails Conf for me? [Chuckles]
+
+JAMES:  So Chuck, you're shipping your porn to my house again?
+
+[Laughter]
+
+JAMES:  Seriously? Yeah, go ahead. It’s fine.
+
+CHUCK:  Alright. I'll need an address. You can just put it in the chat or Email it or something.
+
+JOSH:  What is this about hats?
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 47 of the Ruby Rogues podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello, hello!
+
+CHUCK:  We also have David Brady.
+
+DAVID:  Hey everybody! Dave Brady, Chief Metaphor Officer at Sliderule Labs.
+
+CHUCK:  We also have James Edward Gray.
+
+JAMES:  You guys don't realize what I go through to be in this show. I just sat through 20 minutes of emotionally scarring material.
+
+CHUCK:  [Chuckles] That's so true. We also have Josh Susser.
+
+JOSH:  Hey, good morning from San Francisco.
+
+CHUCK:  And I'm Charles Max Wood from Teach Me to Code. We also have a guest rogue, and that is Dan Kubb.
+
+DAN:  Hey everyone.
+
+CHUCK:  Do you want to introduce your self for those who don't know who you are?
+
+DAN:  Yeah, I'm Dan Kubb. I'm working mostly on the DataMapper project. And in 2009, I won the Ruby Hero Award for that. And I do a lot of other open source stuff in Rails and random small projects. And right now, I'm working on mostly DataMapper 2. So, that’s pretty much it.
+
+DAVID:  So, I got to lead with one question, Dan. DataMapper, is that thing still around?
+
+DAN:  Yes, it is. [Chuckles] I mean, we’re obviously competing with Active Records. So, that’s pretty tough. But we still have a pretty active user base. It's not quite as busy as back in the Merb days. But the DataMapper project was much stabler now than it was back in 2008, 2007 when the bulk of the Ruby community tried it. But yeah, and DataMapper 2, we have some great plans for that. We've been blogging about it here and there. And if you want to talk about it, I will.
+
+DAVID:  So, we actually have a different topic for the show today. But DataMapper -- so, I'm a big fan of magic. I love some magic. I love to get as much active support monkey patching up my business as I can handle. But DataMapper, have you guys stayed true to the philosophy of ‘No magic, everything should be explicit if you want it. It should be out where you can see it’?
+
+DAN:  Yeah. There are a few things that we do differently. For one,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:33</itunes:duration>
+	</item>

@@ -1,0 +1,162 @@
+<item>
+		<title>053 RR Square with Jack Danger Canty and Zach Brock</title>
+		<link>http://rubyrogues.com/053-rr-square-with-jack-danger-canty-and-zach-brock/</link>
+		<comments>http://rubyrogues.com/053-rr-square-with-jack-danger-canty-and-zach-brock/#comments</comments>
+		<pubDate>Fri, 04 May 2012 22:11:35 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Jack Danger Canty]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Zach Brock]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=516</guid>
+		<description><![CDATA[Panel Jack Danger Canty (twitter github jackcanty.com) Zach Brock (twitter github zbrock.com) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Discussion Square They have about 90 engineers About 1/2 of their engineers are full time Ruby Service Oriented Architecture Degrading Gracefully Decorator Pattern jRuby [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/053-rr-square-with-jack-danger-canty-and-zach-brock/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR05320-20Square.mp3" length="74669522" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Jack Danger Canty (twitter github jackcanty.com)   Zach Brock (twitter github zbrock.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Jack Danger Canty (twitter github jackcanty.com)
+	Zach Brock (twitter github zbrock.com)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray II (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Square
+	They have about 90 engineers
+	About 1/2 of their engineers are full time Ruby
+	Service Oriented Architecture
+	Degrading Gracefully
+	Decorator Pattern
+	jRuby
+	Publishing a feed of interesting events rather than providing a queue
+	PubSubHubBub
+	Lynda model/Blackboard model/Whiteboard model
+	JSON feeds
+	LMAX
+	resque
+	Sharing code between services
+	Clojure
+	Clojure's swap!
+	the "Monorail"
+	internal gems
+	Github Enterprise
+	Yammer
+	publishing API's as a gem for both the server and client
+	Keeping an idea of what's going on by posting monitors around the office
+	Nagios
+	Cube
+	Cubism
+	Mike Bostock
+	Graphite
+	Deployment
+	Monorail deployment
+	Service deployment
+	Jetpack
+	MySQL is deprecated at Square
+	PostgreSQL
+	MongoDB
+	Green/Blue deployment
+	Do migrations offline
+	Mountain West Ruby Conference
+	GoGaRuCo
+
+Picks
+
+	Solarized text editor theme (James)
+	Solarized changelog episode (James)
+	Tomorrow theme (James)
+	Avdi's blog post on Facebook dev tunnel services (Avdi)
+	Pagekite (Avdi)
+	The Quirky power wrap power thingy (Josh)
+	Mac whitenoise (Josh)
+	Steel City Ruby Conf (Josh)
+	JewelBeat (Chuck)
+	Pickin' On Series (Chuck)
+	Clojure (Jack)
+	Good Strategy Bad Strategy (Jack)
+	The Dark Knight Rises trailer (Zach)
+	Queue Classic (Zach)
+	PostgreSQL (Zach)
+	Jack Danger Quora answer (Josh)
+
+Transcript 
+0:00 DAVE: Dumm, Dum, Dumm
+
+0:03 JOSH: What just happened?
+
+[Laughter]
+
+0:05 DAVE: I’m trying to encourage the intro music to start. I don’t know.
+
+0:11 CHUCK: Alright here we go.
+
+0:12 AVDI: Are you cargo culting the intro?
+
+[Laughter]
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]
+
+[This podcast is also sponsored by RailsThemes.com. Have an app only a mother could love?  Check out RailsThemes.com. They’re also giving out some pretty cool swag at RailsConf so find them, get some, and thank them for sponsoring Ruby Rogues.]
+
+1:00 CHUCK: Hey everybody and welcome to Episode 53 of the Ruby Rogues Podcast. This week on our panel we have David Brady.
+
+1:02 DAVE: Hi I’M THE GREAT… nope can’t do. Just make face, I’m Dave.
+
+1:06 CHUCK: We also have Avdi Grimm!
+
+1:08 AVDI: Good Morning.
+
+1:09 CHUCK: Josh Susser.
+
+1:10 JOSH: Ok, proudly leading team San Francisco this morning.
+
+1:14 CHUCK: James Edward Gray
+
+1:15 JAMES: How the heck did we end up with this many Californians on one call? What happened?
+
+1:19 DAVE: yeah some got outsourced.
+
+1:22 CHUCK : I know it’s scary. And I’m Charles Max Wood from Teach me to Code.com. We also have 2 guest rogues. That is Jack Danger. What’s your last name Jack? I get stuck at Danger.
+
+1:32 JACK: Sure. Sure. It’s “Canty”. It’s Irish for happy.
+
+1:35 CHUCK: Oh Ok! And also…
+
+1:36 DAVE: Your name is “Happy Danger”?
+
+1:38 JAMES: That is amazing.
+
+[Laughter]
+
+1:39 JACK: “Jack Danger Happy” actually.
+
+1:41 DAVID: Jack Danger Happy. That’s like, that’s like the Chinese ideogram for opportunity is crisis plus opportunity.
+
+1:50 CHUCK: So I just want to know what the words in Irish are for sleepy, dopey, dark, bashful, sleazy? Who am I forgetting? Well, grumpy?
+
+2:01 JACK: Well, grumpy is Zach. Dopey is Brock. So I think we’ve actually covered the next guest.
+
+[Laughter]
+
+2:08 CHUCK: That’s right we have another guest and that’s Zach Brock.
+
+2:11 ZACH: Also from team San Francisco.
+
+2:13 CHUCK: Yeah, they both work at Square and you guys can tell people what Square does and then introduce yourselves. That would be great.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:13</itunes:duration>
+	</item>

@@ -1,0 +1,143 @@
+<item>
+		<title>037 RR Versioning and Releases</title>
+		<link>http://rubyrogues.com/037-rr-versioning-and-releases/</link>
+		<comments>http://rubyrogues.com/037-rr-versioning-and-releases/#comments</comments>
+		<pubDate>Thu, 12 Jan 2012 19:54:05 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=372</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Versioning HTML5 VERSION.YAML VERSION.RB Bundler RVM semver.org &#8211; Semantic Versioning SEMVER.GEM RAKE Version 1.0.0 Release Process Alphas, Betas and Release Candidates Versioning an API RFC 2616 Managing versioning separate components developed in concert GIT tags, version numbers, path tags 3.0 [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/037-rr-versioning-and-releases/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/versioning_and_releases.mp3" length="32662399" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion  Versioning   HTML5   VERSION.YAML   VERSION.RB   Bundler   RVM...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	David Brady (blog twitter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Versioning
+	HTML5
+	VERSION.YAML
+	VERSION.RB
+	Bundler
+	RVM
+	semver.org - Semantic Versioning
+	SEMVER.GEM
+	RAKE
+	Version 1.0.0
+	Release Process
+	Alphas, Betas and Release Candidates
+	Versioning an API
+	RFC 2616
+	Managing versioning separate components developed in concert
+	GIT tags, version numbers, path tags
+	3.0 is the new 1.0
+
+Picks
+
+	NOCOMMIT (David)
+	Book Yourself Solid by Michael Port(David)
+	faraday.gem (Avdi)
+	gem Maintainers (Avdi)
+	Lasik Surgery (James)
+	Rubies in the Rough (James)
+	codeclimate.com (Josh)
+	The Invisibles by Grant Morrison (Josh)
+	Red Dwarf (Josh)
+
+Transcript
+JAMES:  Okay.  So, whatever we say, we’ll invite Steve to come back and yell at us again for getting…
+
+DAVID:  Let’s just bait him in the show, without actually saying we’re baiting him. Let’s just bait him through the whole show.
+
+[Laughter]
+
+JAMES:  Hilarious.
+
+JOSH:  Nice.
+
+
+
+JAMES:  Hello everybody and welcome to the Ruby Rogues podcast. I’ll be your host today, I’m James Edward Gray II. Chuck can’t be with us today, he had to take his kids to school which just proves his priorities are all screwed up.
+
+DAVID:  I wonder if that’s a metaphor.
+
+JAMES:  Oh, it’s a metaphor? Wasn’t it euphemism?
+
+DAVID:  Euphemism, yeah.
+
+JAMES:  Oh, sorry. With us today, as you can tell because he’s already interrupting me, is David Brady.
+
+DAVID:  Hi, I’m David Brady and I interrupt people.
+
+JAMES:  Also, Josh Susser.
+
+DAVID:  Hi, I’m David Brady and I interrupt people.
+
+[Laughter]
+
+DAVID:  Sorry.
+
+JOSH:  Oh, it’s going to be that kind of episode. Hey guys, it’s Josh. Good morning.
+
+JAMES:  And Avdi Grimm.
+
+AVDI:  Hello again.
+
+DAVID:  He was waiting for me. That was awesome!
+
+[Laughter]
+
+JAMES:  He was afraid. David put the fear in him.
+
+JOSH:  He wasn’t waiting for the collision to back off and retry it.
+
+JAMES:  Right. This is episode 37.0.1 release candidate three today where we will be discussing versioning and release process and things like that. This topic was Josh Susser’s. So, I’m going to let him tell us where we’re going with it.
+
+JOSH:  Okay. So, versioning and release process, obviously two intimately related topics. I asked yesterday on Twitter for some particular questions people had around these topics. So, we’re going to be trying to address those things as we go. I think we can get to most of those. So, versioning is all about the numbers that you put on your package, you know, your library or your gem or your application or your API. They get used for a couple of different purposes.
+
+And then, release process is, at some level, it’s the moment at which you’re changing the numbers on your version, but the process around that and how to make the two fit together as painlessly as possible for your consumers. How does that sound, James?
+
+JAMES:  Sounded awesome to me.
+
+JOSH:  I’m all defined out today.
+
+[Laughter]
+
+JAMES:  Josh, my main question is what made you want to talk about this?
+
+JOSH:  Oh, what made me want to talk about this? My ongoing theory around the Rails project and the lack of a coherent release process, how about that?
+
+[Laughter]
+
+DAVID:  Josh, you promised us a good rant.
+
+JOSH:  We’ll get there. I’ll get there.
+
+DAVID:  Okay, we’ll do it in version two.
+
+JOSH:  Yeah, right.
+
+AVDI:  Well, Josh, just to help you along, hasn’t HTML5 proven that release processes and versioning don’t matter anymore.
+
+JOSH:  No.
+
+[Laughter]
+
+JAMES:  Wait, what?
+
+JOSH:  What are you talking about?
+
+AVDI:  HTML5 is officially now an ongoing rolling, sort of, troll? A mystery standard that, they officially stopped working towards a un-HTML5 definition and it is now defined as, whatever we put in the standard last week. Forever, for all eternity,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	</item>

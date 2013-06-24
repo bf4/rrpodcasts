@@ -1,0 +1,43 @@
+<item>
+		<title>052 – Live from RailsConf 2012</title>
+		<link>http://rubyrogues.com/052-live-from-railsconf-2012/</link>
+		<comments>http://rubyrogues.com/052-live-from-railsconf-2012/#comments</comments>
+		<pubDate>Wed, 02 May 2012 01:15:42 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=523</guid>
+		<description><![CDATA[The Ruby Rogues were invited to speak at RailsConf 2012 in Austin, Texas. Here is our keynote recorded that morning. Transcript  CHUCK: [This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic] [This podcast is also sponsored by railsthemes.com. Have an app only could love? Check out railsthemes.com. [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/052-live-from-railsconf-2012/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR052LiveFromRailsConf2012.mp3" length="82335092" type="audio/mpeg"/>
+		<itunes:subtitle>The Ruby Rogues were invited to speak at RailsConf 2012 in Austin, Texas. Here is our keynote recorded that morning. Transcript  CHUCK: [This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.</itunes:subtitle>
+		<itunes:summary>The Ruby Rogues were invited to speak at RailsConf 2012 in Austin, Texas. Here is our keynote recorded that morning.
+Transcript 
+CHUCK: [This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic]
+
+[This podcast is also sponsored by railsthemes.com. Have an app only could love? Check out railsthemes.com. They are also giving us some pretty cool swag at RailsConf so find them, get some and thank them for sponsoring Ruby Rogues.]
+
+EVAN: Hello. Good morning. Everybody take their seats and shut your piehole. Good morning. Are we all disappointed as this is the last day of amazing RailsConf? I know I am, although my feet aren’t. So we’re going to have some announcements before we can get off to the Ruby Rogues panel, which if you’ve seen those guys, I can’t find them. So if anybody could just tell them that they need to be on stage like now, that would be great. So I think David Black has an announcement and then after we do that, we’ve got a couple of things I think you’re going to like and then we’ll get started with the panel. So David…
+
+DAVID: Good morning. I’m David Black. I’m one of the directors of Ruby Central and therefore, in a sense, one of the organizers of this event. I will say that from my perspective, helping to organize this event has involved a little work and a lot of just watching in awe as other people did an incredible job of putting it together and we’ve (I hope) drawn your attention to some of those people and shown them our gratitude. There’s a couple that I believe we haven’t yet mentioned who are among the heavy hitters behind this conference. One of them is Ben Scofield, who unfortunately could not attend the conference but is your program chair and if you liked the program, you might show your appreciation to Ben for his work on that.
+
+Alright. Also, could you please everybody send a Tweet to Ben, seriously. It’s “@bscofield”. Do we have exact wording?
+
+
+
+CHUCK: I miss you.
+
+DAVID: I miss you. Wish you were here. So we’ll spam him with Tweets. The other person I wanted to acknowledge is none other than your host, Evan Phoenix, who has not only emceed everything but has also really, in a very good and benevolent sense has been kind of pulling the strings around the conference the whole time and keeping things together and has just done a great job. So thank you Evan.
+
+EVAN: Thanks David. So we’ll have printed schedules available. They are being printed right now so they’ll be outside. If you’re looking at the schedule online, there is a slight switcheroo, which is actually on the printed one just so that I’m telling everybody so that you know. The first talks that we’re in H and J have been switched so Yehuda is actually going to be in Salon H, just so that when you’re looking at your schedule, you know that if you want to see his talk. It’s actually going to be in this first half rather than in J, which is in the back quarter.
+
+I think if you need to check out of the hotel still and you have baggage, you can take it down to the bell desk and they’ll handle it. They’ll put it away for you and give you a ticket and all that kind of stuff. We’ve got Lightning Talks that are at 1:30 on your schedule, so be sure not to wander off. Be sure to stay for those. They’re going to be awesome. They’re going to be amazing. I can’t wait for them. So we have two great announcements that I want to make before I hand it over to the panel and I need Grace from Spiceworks to come up here and give me a hand with that.
+
+So in the past, we’ve sort of put together RailsConf, not at the last minute, but you know sort of six months ahead of time. We decided we should start a really good tradition and that tradition we’re starting right now is we’re going to announce next year’s RailsConf at this year’s RailsConf.
+
+So I’m going to actually… this is embarrassing. Yeah, so I don’t have the exact dates on me. Isn’t that funny?</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:37</itunes:duration>
+	</item>

@@ -1,0 +1,124 @@
+<item>
+		<title>062 RR Monitoring with Joseph Ruscio</title>
+		<link>http://rubyrogues.com/062-rr-monitoring-with-joseph-ruscio/</link>
+		<comments>http://rubyrogues.com/062-rr-monitoring-with-joseph-ruscio/#comments</comments>
+		<pubDate>Thu, 12 Jul 2012 12:00:56 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Joseph Ruscio]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=601</guid>
+		<description><![CDATA[Panel Joseph Ruscio (twitter github joseph.ruscio.org) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) David Brady (blog witter github ADDcasts) Discussion Librato SF Metrics Meetup Continuous Deployment: Continuous Integration Feature Flagging 1-Click Deploy Monitoring Alerting Information Radiator Square&#8217;s Office Intuitively visualizing trends Innovation Accounting Metrics Kiss Metrics Active Notifications Get Monitoring Data [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/062-rr-monitoring-with-joseph-ruscio/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR062Monitoring.mp3" length="79255292" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Joseph Ruscio (twitter github joseph.ruscio.org)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Joseph Ruscio (twitter github joseph.ruscio.org)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray II (blog twitter github)
+	David Brady (blog witter github ADDcasts)
+
+Discussion
+
+	Librato
+	SF Metrics Meetup
+	Continuous Deployment:
+Continuous Integration
+Feature Flagging
+1-Click Deploy
+Monitoring
+Alerting
+	Information Radiator
+	Square's Office
+	Intuitively visualizing trends
+	Innovation Accounting Metrics
+	Kiss Metrics
+	Active Notifications
+	Get Monitoring Data From Logs
+	Measurement Without Impacting Performance
+	Monitoring at the JavaScript Level
+	
+
+Picks
+
+	The Silver Surfer: The Rebirth of Thanos (Josh)
+	Free Ruler 1.7b5 (Josh)
+	Golden Gate Ruby Conference (Josh)
+	whatif.xkcd.com (David)
+	Scout (James)
+	OUYA - Kickstarter (James)
+	Clicky (Avdi)
+	Bell's Oberon Ale (Avdi)
+	RubyTapas.com (Avdi)
+	Check Your Engine Oil (Chuck)
+	Walter E. Williams (Chuck)
+	Monitor Arm (Chuck)
+	Monitor Lizard (Josh)
+	The Amazing Spiderman (Joe)
+	Customer.io (Joe)
+	Third Party JavaScript (Joe)
+
+ Transcript 
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]
+
+[Hosting provided by the Blue Box Group check them out at bluebox.net]
+
+CHUCK: Hey everybody and welcome to Episode 62 of The Ruby Rogues podcast. This week on our panel we have David Brady.
+
+DAVID: Oh! My gosh Are we still doing this?
+
+
+
+CHUCK: Yeah! We have Josh Susser.
+
+JOSH: [laughs] Wow Flashbacks!
+
+CHUCK: We also have Avdi Grimm.
+
+AVDI: Hello from Pennsylvania
+
+CHUCK: James Edward Gray.
+
+JAMES: I feel compelled to point out nobody has funded me for a hundred million dollars of anything.
+
+[Laughs]
+
+CHUCK: I’m Charles Max Wood from devchat.tv and this week we have a guest and that is Joe Ruscio, did I say that right?
+
+JOE: Ah close, yeah Ruscio.
+
+CHUCK: Ruscio, okay. It looks Italian and so my brain just kicked over to that pronunciation.
+
+JOE: Yeah it’s six letters but three syllables. That’s a lot in just a short space.
+
+CHUCK: [Laughs] Kinda like you.
+
+JOE: Yup [Laughs]
+
+CHUCK: Alright well, you want to introduce yourself for people who are new to who you are?
+
+JOE: Yeah, yeah, so I’m the CTO of a company called Librato and we do monitoring that’s our thing, measure everything. I also organize the San Francisco Metrics Meet Up and we once a month talk about metrics monitoring stuff and I have been a Rubyist for about, I guess it’s like three years now which I think makes me relatively new here, but I enjoyed it.
+
+JAMES: So, Metrics Meet up, that’s like everybody comes with a ruler or?
+
+CHUCK: No. A meter stick, that’s the standard.
+
+JOE: Yard sticks are not allowed.
+
+JAMES: Gotcha!
+
+DAVID: Take those units and get out.
+
+JAMES: There’s really like, so like tell me what you guys typically discuss there that’s cool?
+
+DAVID: Yes, we’ve done..  Well actually our third one is tonight and so basically what we do is we just get people together, to talk generally on a couple topics. Usually it’s either some tooling someone has put together, like some of outsource project like we’ve had from D3.js, Mike Bostock came to talk about Horizon Charts, I think cubism.js is a library he gave a talk on, and one of my colleagues did a talk on act a support notifications. And also people come in and talk about how they do monitoring and practice. Mark McGranaghan from Heroku came in and talked about how they do monitoring, Aaron Quint from Paperless Post AQ is going to be there tonight talking about what those guys do. It’s a really broad.  Anything from in practice to implementation details visualization, collection, storage, aggregation, analysis, anything to do with measuring. And also we had a talk actually on doing tracking business drivers from the guys at [Lacien] how they track unique visitors to their site. Really cool stuff,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:06:03</itunes:duration>
+	</item>

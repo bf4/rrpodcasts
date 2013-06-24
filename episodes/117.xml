@@ -1,0 +1,142 @@
+<item>
+		<title>RR 061 Domain Driven Design (DDD) with David Laribee</title>
+		<link>http://rubyrogues.com/rr-061-domain-driven-design-ddd-with-david-laribee/</link>
+		<comments>http://rubyrogues.com/rr-061-domain-driven-design-ddd-with-david-laribee/#comments</comments>
+		<pubDate>Sun, 01 Jul 2012 12:00:10 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Laribee]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=587</guid>
+		<description><![CDATA[Panel David Laribee (twitter github laribee.com) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) Discussion Domain Driven Design Domain Model Patterns of Enterprise Application Architecture by Martin Fowler Domain Driven Design by Eric Evans Growing Object Oriented Software Guided by Tests Eric Evans Ubiquitous Language &#8211; use the [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/rr-061-domain-driven-design-ddd-with-david-laribee/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR061DDD.mp3" length="73300316" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  David Laribee (twitter github laribee.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github) - Discussion  Domain Driven Design   Do...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	David Laribee (twitter github laribee.com)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray II (blog twitter github)
+
+Discussion
+
+	Domain Driven Design
+	Domain Model
+	Patterns of Enterprise Application Architecture by Martin Fowler
+	Domain Driven Design by Eric Evans
+	Growing Object Oriented Software Guided by Tests
+	Eric Evans
+	Ubiquitous Language - use the terms the business/users use in your code
+	Bounded Context
+	the Pattern Language
+	Repository - Allows you to retrieve things
+	Entity - Something with an identity
+	Refactoring
+	TDD (Test Driven Development)
+	SOA (Service Oriented Architecture)
+	MSDN article on DDD
+	Wikipedia page on DDD
+	Podcast interview with David on DDD Part 1, Part 2
+	Anti-corruption layer
+	Smalltalk Best Practice Patterns by Kent Beck
+	Ruby Rogues review of Smalltalk Best Practice Patterns
+	Ruby Rogues follow up episode to SBPP
+	Objectified (documentary)
+	ActiveRecord (the design pattern)
+	ActiveRecord (the Rails library)
+	Objects on Rails by Avdi Grimm
+	ActiveModel
+	Aggregates (Domain Model pattern)
+	Domain Specific Languages
+	A good DSL has a strong semantic model
+	Cucumber
+	Gherkin
+	Programmers should be good guides and can become domain knowledge experts
+	Project glossaries/dictionaries
+	Javascript Jabber episode on Agile Development
+	DDD leads to simple design
+	QCon book
+	Spiking code
+	The Pragmatic Programmer by Dave Thomas and Andy Hunt
+
+Picks
+
+	James' Math Literacy talk slides (James)
+	The Ruby Way by Hal Fulton (Avdi)
+	World War II twitter accounts (Avdi)
+
+	realtimewwii
+	RosiesWWII
+
+
+	Daily Sudoku (Chuck)
+	Handlebars.js (Chuck)
+	Hammock Driven Development (David)
+	Exped Ergo Hammock (David)
+
+Transcript 
+AVDI: So Linux received a Skype upgrade. I think this one is from 1995.
+
+JAMES: Wow.
+
+CHUCK: Yey!
+
+JAMES: Jeez. So current.
+
+
+
+CHUCK: I have the most recent version of it. I think its interface is from 1995.
+
+AVDI: Hahaha!
+
+JAMES: Agree.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.]
+
+[Hosting provided by Blue Box Group. Check them out at bluebox.net.]
+
+CHUCK: Hey everybody and welcome to Episode 61 of the Ruby Rogues podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI: Hello from sunny Pennsylvania. Just a quick reminder, my other podcast wideteams.com is going strong. I’ve had a ton of interviews with awesome programmers working remotely in a distributed team. So if you do that. Please check it out.
+
+CHUCK: Awesome.
+
+AVDI: Ok, I’m done.
+
+CHUCK: We also have James Edward Grey.
+
+JAMES: I’m mostly dead today. I’m very sick so I will try to contribute between coughing.
+
+CHUCK: Well, if you’re mostly dead that means you’re slightly alive.
+
+JAMES: True. If you’re all dead, you have to go through their pockets and look for those changes.
+
+CHUCK: That’s right. We’re gonna do another princess bride episode. I remember that one; that was fun. We also have a special guest and that’s David Laribee.
+
+DAVID: Hello! Coming at you from Hotlanta.
+
+CHUCK: “Hotlanta” huh?
+
+JAMES: How hot there?
+
+DAVID: It’s getting hot in here. Something 95F.
+
+CHUCK: Oh was that all?
+
+JAMES: We’ve been over a hundred for three days now.
+
+DAVID: Really? Okay. Well, Temperatelanta.
+
+CHUCK: [laughs] You wanna introduce yourself, David? From those who don’t know who you are.
+
+DAVID: Sure. I work for VersionOne. I work in a product development team. I am the development coach. Kinda like a tech lead, I suppose. I’ve been developing myself for 15 years, across a wide variety of industries. Mostly lately have been in the Ruby and JavaScript kinda world. So, polyglot. I do conference speaking,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:01:05</itunes:duration>
+	</item>

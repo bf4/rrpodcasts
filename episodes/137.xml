@@ -1,0 +1,144 @@
+<item>
+		<title>040 RR Text Editors and IDE’s</title>
+		<link>http://rubyrogues.com/040-rr-text-editors-and-ides/</link>
+		<comments>http://rubyrogues.com/040-rr-text-editors-and-ides/#comments</comments>
+		<pubDate>Fri, 03 Feb 2012 02:40:17 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Gary Bernhardt]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=410</guid>
+		<description><![CDATA[Panel Gary Bernhardt (twitter github destroyallsoftware.com) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Vim Emacs Textmate Rubymine TECO SmallTalk Text Editor Repl IDE Jetbrains Eclipse Pragmatic Programmer &#8220;Evil Wizards&#8221; Developer Studio Destroy All Software Sublime Text 2 The Textmate [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/040-rr-text-editors-and-ides/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR_40_Editor_War.mp3" length="97109669" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Gary Bernhardt (twitter github destroyallsoftware.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Gary Bernhardt (twitter github destroyallsoftware.com)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Vim
+	Emacs
+	Textmate
+	Rubymine
+	TECO
+	SmallTalk
+	Text Editor
+	Repl
+	IDE
+	Jetbrains
+	Eclipse
+	Pragmatic Programmer
+	"Evil Wizards"
+	Developer Studio
+	Destroy All Software
+	Sublime Text 2
+	The Textmate book by James
+	Textmate uses default Mac keybindings
+	aquamacs
+	macvim
+	Emacs' packaging system
+	tramp mode
+	Vim Golf
+	hippie expand
+	#emacs on freenode.net
+	tmux
+
+Picks
+
+	Emacs Wiki (Avdi)
+	American Gods by Neal Gaimon (Avdi)
+	Jawbone Jambox (Josh)
+	EL4R (Dave)
+	YASnippet (Dave)
+	Portal 2 Soundtrack (Dave)
+	Aloha Ruby Conf (James)
+	Tmux/iTerm integration (James)
+	From Bash to Zsh (James)
+	Emacs MetaReturn Apropos (Gary)
+	TestRocket (Gary)
+	Speedo Aquabeat (Chuck)
+	Chrome debugger (Chuck)
+
+Remember to get Land of Lisp. We'll be reading it on the 22nd. You can get it at nostarch.com with the discount code RUBYROGUES for 30% off.
+Transcript
+JAMES:  Alright, we are talking about editors today, is that the plan?
+
+CHUCK: Yes Editors and IDE’s.
+
+JOSH: My plan is to subvert the conversation every chance I get.
+
+JAMES: So today, the role of David Brady will be played by Josh Susser.
+
+CHUCK: Hello everybody and welcome to the Episode 40 of the Ruby Rogues Podcast. This week on our panel we have guest a rogue, its Gary Bernhardt from Destroy All Software.
+
+GARY: Woo!
+
+CHUCK: Gary, you want to introduce yourself since you haven’t been on the show before?
+
+GARY: I suppose I could do that. I run Destroy All Software like you said. I think I'm mostly known for using UNIX and Vim, and to some extent TDD very quickly and so I guess I'm appropriate for the topic at hand.
+
+CHUCK: Alright. Okay. Also in our panel we have Josh Susser.
+
+JOSH: Hello, good morning! Today I’ll be playing the part of David Brady.
+
+CHUCK: (That’s kind of scary.)
+
+JOSH: (Just you wait.)
+
+CHUCK: Also on our panel, we have David Brady.
+
+DAVID: Hey! Ctrl-u for Alt-x, involve, David Brady.
+
+CHUCK: I feel better already!
+
+DAVID: It is an Emacs joke. And that's why I can’t play the part of David Brady.  I’VE GOT A DOG IN THIS FIGHT! LET’S GO!
+
+CHUCK: So, David will be playing the part of Josh Susser.  Also on our panel we have Avdi Grimm.
+
+AVDI: Good morning, I am Avdi and today I will be representing the WordStar Editor.
+
+DAVID: Too early in 2004.
+
+CHUCK: We also have James Edward Gray on the podcast.
+
+JAMES: Hey everybody! I am participating in this call via Emacs’ “Skype Mode”.
+
+CHUCK: How do you do that? Ctrl- (I don’t even know), “Ctrl-chat”?
+
+Anyway, I am Charles Max Wood from TEACHMETOCODE.COM and as you can tell, we are going to talk about text editors and IDE’s today. So, we have kind of had some discussions, some friendly banter back and forth about the Emacs and Vim and some of the other IDE’s out there. So, we thought we would get in and talk about it. Gary’s done some--
+
+DAVID: Wait, Ctrl-chat? You hold down Ctrl and then push the “Chat” key?
+
+CHUCK: Yeah, don’t you have one?
+
+AVDI: Only Indian keyboards have that.
+
+DAVID: I want this! Do I have to learn Sanskrit because I will?
+
+JAMES: Please don't encourage him.
+
+DAVID: You can take the David Brady out of David. You can put David Brady into Josh Susser (oh, that's kind of awkward) but you can’t get David Brady out of David Brady, that is the important thing.
+
+JOSH: Get out of my head David.
+
+DAVID: Yeah, I'm in your head. I’M IN YOUR HEAD, MESSING WITH YOUR THOUGHTS!
+
+CHUCK: Alright so really quickly, I'm a little curious as to who uses what, primarily. So let’s go around the panel real quick and just see what you used for most of your programming. James, what do you use?
+
+JAMES: So,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:26</itunes:duration>
+	</item>

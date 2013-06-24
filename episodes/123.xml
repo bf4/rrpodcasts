@@ -1,0 +1,145 @@
+<item>
+		<title>054 RR Coding Exercises, Quizzes, and Katas</title>
+		<link>http://rubyrogues.com/054-rr-coding-exercises-quizzes-and-katas/</link>
+		<comments>http://rubyrogues.com/054-rr-coding-exercises-quizzes-and-katas/#comments</comments>
+		<pubDate>Fri, 11 May 2012 12:54:29 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=531</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Discussion RubyQuiz Learn by Play Code Kata Learn something new by convincing your boss to have it deployed Ship something critical RubyMotion Dig into or try refactoring an existing project Modify the Rails repository &#8220;If [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/054-rr-coding-exercises-quizzes-and-katas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR054CodeExercisesKatasQuizzes.mp3" length="88504610" type="audio/mpeg"/>
+		<itunes:subtitle>Panel   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts)   James Edward Gray II (blog twitter github)   Josh Susser (twitter github blog) D...</itunes:subtitle>
+		<itunes:summary>Panel
+
+
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray II (blog twitter github)
+	Josh Susser (twitter github blog)
+
+
+Discussion
+
+	RubyQuiz
+	Learn by Play
+	Code Kata
+	Learn something new by convincing your boss to have it deployed
+	Ship something critical
+	RubyMotion
+	Dig into or try refactoring an existing project
+	Modify the Rails repository
+	"If you're not having fun, you're doing it wrong!"
+	Teach other people
+	Experimentation while writing books
+	"All Code is Experimental" ~ Dan Kubb
+	Code Retreats
+	International Conference on Functional Programming Contest
+	Play =? Timeboxed Spike Iteration
+	Pair Programming Playtime
+	Project Euler
+	RubyKoans
+	Puzzle Node
+	NPR's Sunday Puzzle
+	Rubeque
+	Webster's Dictionary word list on the Mac/Linux at /usr/share/dict/words
+	Bookworm (Online Game)
+	What do you think about the pointlessly stupid problems like writing a Ruby quine?
+	Code Golf
+	Reading Code
+	Learning to solve problems
+	Confidence in your coding skills
+	David's blog post on Mandelbrot sets
+	Top Coder
+	Code Brawl
+	remotepairprogramming.com
+	SFMTA clipper card
+
+Picks
+
+	InfoWorld Hello World quiz (Josh)
+	Enumerable by Inject (Josh)
+	wideteams.com (Avdi)
+	@codewisdom on Twitter (James)
+	Owning Rails course (James)
+	Mike Clark's online Ruby course (James)
+	Monkey patched rubykoans (Chuck)
+	TextExpander (Chuck)
+	Qlobe (David)
+
+Programming Challenge
+Write some cool and executable Ruby code that fits in a single tweet! Tweet a link to the code tweet to @rubyrogues. Use the hashtag #roguesgolf.
+The winner gets their choice of a book from pragprog.com (both electronic and dead tree).
+
+Book Club
+We're reading Working with Unix Processes by Jesse Storimer. You can get the book at http://workingwithunixprocesses.com and get $5 off by using the code BOOKCLUB.
+
+Transcript
+CHUCK: Dave, from the way you are describing your regular day, I'm just glad that Skype doesn’t transmit smell.
+
+*laughter*
+
+JOSH: I'm always glad of that.
+
+
+
+CHUCK: This episode is sponsored by Railsthemes.com. Have a website that only your mother could love? Then you need a theme! Go to Railsthemes.com and sign up for an early access and when they release, you will be able to check out and use their themes on your Rails app.
+
+This podcast is sponsored by New Relic. To track and optimize your application performance, go to Rubyrogues.com/newrelic.
+
+Hey everybody and welcome to Episode 54 of the Ruby Rogues Podcast. This week on our panel we have Avdi Grimm.
+
+AVDI: Hello from Pennsylvania!
+
+CHUCK: We have David Brady.
+
+DAVE: Good morning! Anybody who did not bring their programming gear will program in their pants or skirts.
+
+CHUCK: Oh geez. We also have James Edward Gray II.
+
+JAMES: I'm still puzzling over what David Brady just said.
+
+DAVE: I completely screwed that up, yeah.
+
+JAMES: I'm glad.
+
+I'm allowed to be on the show today by Josh because I do not live in North Carolina and I use spaces instead of tabs.
+
+CHUCK: Okay. And we also have Josh Susser.
+
+JOSH: Yeah. Hi from Pennsylvania by way of San Francisco.
+
+CHUCK: Okay.
+
+*laughter*
+
+JOSH: Did that work? I don’t know. But I figured after David’s fumble, I can get away with it.
+
+DAVE: This is going to be like the “blooper episode”.
+
+JAMES: He derailed the show at the introduction.
+
+CHUCK: Yeah, the last ten minutes is going to be bleep and then Josh talking and then bleep and then it’s going to be Dave talking.
+
+Well I'm Charles Max Wood from teachmetocode.com and this week we are talking about coding exercises, quizzes, katas, what have you.
+
+JAMES: I wish I knew something about that.
+
+CHUCK: I know, me too. Of course all it really you is somebody like David coming and yelling at you
+
+DAVE: Repeatedly.
+
+JAMES: Can I tell my favorite David story if it’s related?
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:13:45</itunes:duration>
+	</item>

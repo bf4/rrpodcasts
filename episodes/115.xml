@@ -1,0 +1,126 @@
+<item>
+		<title>063 RR Hiring Programmers</title>
+		<link>http://rubyrogues.com/063-rr-hiring-programmers/</link>
+		<comments>http://rubyrogues.com/063-rr-hiring-programmers/#comments</comments>
+		<pubDate>Mon, 30 Jul 2012 12:00:04 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=605</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) David Brady (blog witter github ADDcasts) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) Discussion Traits to look for Is the résumé dead? LinkedIn Github whoispaulyting.com Use good HTML and CSS Know the job? Good fit for the team? Must have some baseline ability. Good personality traits. Brainwashing Network within the community Managing recruiters [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/063-rr-hiring-programmers/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR063_HiringProgrammers.mp3" length="80826512" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) - Discussion  Traits to look for </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	David Brady (blog witter github ADDcasts)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+
+Discussion
+
+	Traits to look for
+	Is the résumé dead?
+	LinkedIn
+	Github
+	whoispaulyting.com
+	Use good HTML and CSS
+	Know the job?
+	Good fit for the team?
+	Must have some baseline ability.
+	Good personality traits.
+	Brainwashing
+	Network within the community
+	Managing recruiters
+	Look for expertise in multiple languages
+	Troll questions
+	Pair programming interview
+	Talk up your team in the job description
+	Describe the culture and environment
+	Attract employees that are the perfect fit
+	Job description
+	The trust network
+	Pair Roulette
+	Participate in and host community events
+	Talk to us!
+
+Picks
+
+	tmux: Productive Mouse-Free Development (David)
+	Video - Scaling Your Rubyists (Josh)
+	Easel (Josh)
+	InfoQ - Virtual Panel: Code-To-Test Ratios, TDD and BDD (Avdi)
+	This Developer's Life (Avdi)
+	DIY Running Sandals from invisibleshoe.com (Avdi)
+	Prismatic (Chuck)
+	Screaming Monkey, Chicken and Cow (Chuck)
+
+Transcript
+DAVID: So, the cleaning staff comes in here every night and they clean the desks in the training room with Armor All; so the desks are slimy in the morning. So, that's why it took me so long to move to the back of the room. I moved to the back of the room, and then I have to de-slime my desk.
+
+CHUCK: [laughs]
+
+DAVID: I mean, because all programmers are 12-year old boys who have discovered that the cool thing you can do with this is you can sit on a desk that’s been cleaned and then scoop off and it leaves a perfect butt print.
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your performance, go to rubyrogues.com/newrelic]
+
+[Hosting and bandwidth is provided by The Blue Box Group. Check them out at bluebox.net]
+
+CHUCK: Hey everybody and welcome to Episode 63 of the Ruby Rogues Podcast! This week on our panel, we have Avdi Grimm.
+
+AVDI: Hello! Hello!
+
+CHUCK: We also have David Brady.
+
+DAVID: Hello and welcome from muggy, cloudy, rainy, flash floody Chattanooga, Tennessee.
+
+CHUCK: And Josh Susser -- who just dropped off.
+
+JOSH: [laughs] Oops.
+
+DAVID: He just dropped back in.
+
+CHUCK: He just dropped back on-- in. Yeah.
+
+JOSH: That's what happens when you reach for the mute button but accidentally hit the big red button that scream “Hit me! Hit me!”
+
+CHUCK: [laughs]
+
+JOSH: It’s all red and shiny.
+
+CHUCK: And I'm Charles Max Wood from devchat.tv and this week we are going to be talking about “Hiring Ruby and Ruby on Rails Programmers.”
+
+DAVID: And please if anybody has a job, he is talking about me.
+
+[laughter]
+
+CHUCK: So I think it’s kind of interesting of a couple of reasons that we are talking about this. I think we’ve all have been a part of hiring process as we talked about before the show, but it’s kind of funny to me that I think Avdi, Dave and I are all self-employed and Josh is still in the early stages of a start-up.
+
+JOSH: So I'm essentially self-employed.
+
+CHUCK: [laughs] Yeah exactly. So, you know, kind of funny. I do have some sub-contractors and like I said we've all been part of the hiring process in one way or another. So it should be kind of interesting to see what we come up with hiring programmers. Now, somebody’s question as Josh that is pointing out before the show, are little bit silly.
+
+JOSH: [laughs] Okay, from the user voice.
+
+CHUCK: [laughs] Yeah can I just read it?
+
+JOSH: [laughs] Okay.
+
+DAVID: In fact, let’s just read that one and almost treat it like it’s serious.
+
+JOSH: [laughs]
+
+CHUCK: How to interview people for Ruby and—Okay. So, the title is “Hire People for Ruby and RoR Jobs”. How to interview people for Ruby and RoR jobs, what questions to ask, how should the ideal candidate look like, what must they know, what if the applicant is a girl?
+
+DAVID: Okay,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:21</itunes:duration>
+	</item>

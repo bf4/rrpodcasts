@@ -1,0 +1,78 @@
+<item>
+		<title>039 RR Programming Language Fundamentals</title>
+		<link>http://rubyrogues.com/039-rr-programming-language-fundamentals/</link>
+		<comments>http://rubyrogues.com/039-rr-programming-language-fundamentals/#comments</comments>
+		<pubDate>Sun, 29 Jan 2012 07:38:12 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Learning]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=400</guid>
+		<description><![CDATA[Panel Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion &#8220;The fundamentals are hidden by the incidentals&#8221; C/Lisp to learn programming Scheme SmallTalk Dynabook BASIC Haskell JavaScript AppleScript Erlang Ruby BASH Actor Models Any language can be a good language depending on the concepts [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/039-rr-programming-language-fundamentals/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/Programming_Language_Fundamentals.mp3" length="90356377" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	"The fundamentals are hidden by the incidentals"
+	C/Lisp to learn programming
+	Scheme
+	SmallTalk
+	Dynabook
+	BASIC
+	Haskell
+	JavaScript
+	AppleScript
+	Erlang
+	Ruby
+	BASH
+	Actor Models
+	Any language can be a good language depending on the concepts you're conveying
+	You can't teach experience
+	Object Oriented Programming
+	Functional Programming
+	Don't teach the edge cases first
+	"Why would you start with an Object Oriented language and not teach Objects in the first lesson?"
+	Object = Identity + State + Behavior
+	[Ruby]'s as easy to teach as Visual Basic
+	The first language people learn is Excel
+	Avoid ceremony
+	Static Analysis
+	Synthetic Programming on a TI-85
+	Logo (Turtle)
+	Pascal
+	8085 bytecodes
+	opcodes
+	Assembly Language
+	Ruby Garbage Collector
+	Memory Management
+	C
+	malloc/free
+	Forth
+	RPN language
+
+Picks
+
+	RubyMine (Josh)
+	PuzzleNode (James)
+	Zoe Keating (James)
+	Radio Lab episode on Zoe Keating (James)
+	in C remixed (James)
+	Star Wars uncut  (David)
+	Apple Magic Mouse (Chuck)
+	Dora The Explorer (Chuck)</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:44</itunes:duration>
+	</item>

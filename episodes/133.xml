@@ -1,0 +1,131 @@
+<item>
+		<title>044 RR Choosing the Right Career Path with Marty Haught</title>
+		<link>http://rubyrogues.com/044-rr-choosing-the-right-career-path-with-marty-haught/</link>
+		<comments>http://rubyrogues.com/044-rr-choosing-the-right-career-path-with-marty-haught/#comments</comments>
+		<pubDate>Mon, 05 Mar 2012 08:11:52 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Marty Haught]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=452</guid>
+		<description><![CDATA[Panel Marty Haught (twitter github site) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion Peter Cooper episode Going freelance Going into content Consulting companies Product companies Company culture Developers think in projects Swapping clients at a consulting firm Managerial effect on happiness [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/044-rr-choosing-the-right-career-path-with-marty-haught/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/044RRCareer_Choices.mp3" length="108755012" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Marty Haught (twitter github site)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts)   James Edward Gray (blog twitter github)   Josh Sus...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Marty Haught (twitter github site)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Peter Cooper episode
+	Going freelance
+	Going into content
+	Consulting companies
+	Product companies
+	Company culture
+	Developers think in projects
+	Swapping clients at a consulting firm
+	Managerial effect on happiness
+	Dilbert
+	"Bungee Bosses"
+	"Permatemps"
+	When you're trying to decide on a job, do something that you love doing
+	Training
+	Job satisfaction tied to relevance to the company's central mission
+	Job satisfaction tied to how much good you're doing
+	As a beginner it's good to eat, sleep, and drink programming
+	Make sure you find balance
+	Risk
+	Is corporate programming really low risk?
+	Take side jobs
+	Subcontracting
+	Don't quit your day job for your side jobs
+	Risk your time, not your money
+	Use breaks to build products/side projects
+	XKCD
+	Leveling up through your job
+	Consulting shops are flat. Advancement is hard there.
+
+Picks
+
+	Adam Keys' blog post about writing more man pages (James)
+	Readme Driven Development (James)
+	Peepcode Play by Play with Aaron Patterson (James)
+	GNU Make (Avdi)
+	Pinboard (Avdi)
+	Rock Health startup accelerator (Josh)
+	Rock Health youtube channel (Josh)
+	Machete order for watching the Star Wars Saga (Josh)
+	Shlock Mercenary (Dave)
+	Feel the Fear and Do it Anyway (Dave)
+	Do What You Love and the Money Will Follow (Dave)
+	Knights of the Old Republic  (Dave)
+	Knights of the Old Republic 2  (Dave)
+	48 Days to the Work You Love  (Chuck)
+	No More Dreaded Mondays  (Chuck)
+	48 Days podcast (Chuck)
+	Passionate Programmer (Marty)
+	Pragmatic Programmer (Marty)
+	How to Do What You Love and Earn What You're Worth by Reg Braithwaite (Marty)
+
+Transcript
+CHUCK: As James pointed out, the man is actually a command line utility for pulling up documentation.
+
+JOSH: Yeah but it sucks working for it.
+
+
+
+CHUCK: This podcast is sponsored by New Relic to track and optimize your application performance go to rubyrogues.com/newrelic.
+
+Hey everybody and welcome to episode 44 of the Ruby Rogues Podcast. This week on our panel, we have a guest rogue, that's Marty Haught!
+
+MARTY: Hello!
+
+CHUCK: Marty haven’t been on for a while. How about you introduce yourself for our audience?
+
+MARTY: Sure. My name is Marty Haught and I live in Longmont, Colorado in the Boulder area and I run a small consulting company called Haught Codeworks. I also run the Boulder Ruby Group and organize Rocky Mountain Ruby in the area and sort of that makes me a fielder of all questions. A lot of people come to me and ask me to about getting into the community or getting into programming or Java device and sort of hint to why the topic is of interest to me.
+
+DAVE: But Marty, you have been on the show before right?
+
+MARTY: I have. Yes.
+
+DAVE: Oh thank goodness! I’ve been having some serious déjà vu man.
+
+CHUCK: And that folks is David Brady.
+
+DAVE: Hi I'm David Brady I'm the Chief Metaphor Officer at Slide Rule Labs.
+
+CHUCK: Alright and we have Avdi Grimm.
+
+AVDI: Hello again.
+
+CHUCK: We also have James Edward Gray.
+
+JAMES: We are currently recording this show on the Dave-does-not-normally-exist. How cool is that?
+
+CHUCK: That is cool. We also have Josh Susser.
+
+JOSH: Good morning everyone. Hey Dave I wanna know what being “chief metaphor officer” is like.
+
+DAVE: I actually sat down and prepared for you guys. First I’ll tell you exactly what it’s like. It’s like being the chief SIMILE officer only ---. I tell people I'm the Hannibal Lecter of delicious, delicious written metaphors. It’s my job to make disturbing visuals for people.
+
+CHUCK: Oh you are good at that.
+
+JAMES: I told you didn’t wanna know. You regret asking now don’t you?
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:15:31</itunes:duration>
+	</item>

@@ -1,0 +1,134 @@
+<item>
+		<title>051 RR Getting Started with Open Source</title>
+		<link>http://rubyrogues.com/051-rr-getting-started-with-open-source/</link>
+		<comments>http://rubyrogues.com/051-rr-getting-started-with-open-source/#comments</comments>
+		<pubDate>Thu, 26 Apr 2012 06:16:24 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=507</guid>
+		<description><![CDATA[Panel Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog twitter github ADDcasts) James Edward Gray II (blog twitter github) Josh Susser (twitter github blog) Discussion Informal Refraction FasterCSV Highline Elif Gatling_Gun TourBus Migratrix Geocode CoffeeScript Cookbook Sandra Ship code every day Calendar about nothing envymud MUD&#8217;s HyperCard TeachMeToCode.com Ruby on Rails Blogging to get into Open Source Get a Mentor Rick [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/051-rr-getting-started-with-open-source/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR051GettingStartedWithOpenSource.mp3" length="79664358" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog twitter github ADDcasts)   James Edward Gray II (blog twitter github)   Josh Susser (twitter github blog) - Discussion  Informal   Refraction   Faste...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog twitter github ADDcasts)
+	James Edward Gray II (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	Informal
+	Refraction
+	FasterCSV
+	Highline
+	Elif
+	Gatling_Gun
+	TourBus
+	Migratrix
+	Geocode
+	CoffeeScript Cookbook
+	Sandra
+	Ship code every day
+	Calendar about nothing
+	envymud
+	MUD's
+	HyperCard
+	TeachMeToCode.com
+	Ruby on Rails
+	Blogging to get into Open Source
+	Get a Mentor
+	Rick Olsen (technoweenie)
+	rake routes
+	Find a problem to fix
+	Engender trust
+	"Can I sweep your Dojo"
+	Offer to write documentation
+	Find problems to fix
+	Pick a feature in their list and add it. Then send a pull request.
+	Github.com
+	Github Issues
+	Rubyforge
+	Partly about technology. Mostly about community and politics.
+	Set up a website for your project
+	Set up an email list for your project
+	Pivotal Tracker
+	TravisCI
+	Will it be around in a year?
+	Is it well maintained?
+	Dr. Nic's Code Conf talk
+	Roles in Open Source
+	Andre Arko
+	Bundler
+	Corporate Sponsorship of Open Source
+	Employee Time Contributions to Projects
+	Paying employees to work on OSS full time
+	Rubinius
+	Evan Phoenix and Brian Ford
+	JRuby
+	Heroku hired Matz
+	Asking your boss if you can open source your work.
+	Go programming language
+	Google's 20% time
+	Innovators Patent Agreement
+	Yehuda Katz' Tokaido.app Kickstarter
+	Gregory Brown's Ruby Mendicant project for Prawn
+	Objects on Rails
+	Community Ownership
+	Pledgie
+
+Picks
+
+	Evan Phoenix - GoGaRuCo 2010 (Josh)
+	15 Pro Tips for Conference Speakers (Josh)
+	Primer (Josh)
+	Good Morning Interwebs by Jeremy McAnally (James)
+	Leadership and Self Deception (David)
+	The Information Diet (David)
+	Getting Things Done (Chuck)
+	TED Talk on Plants(Chuck)
+	Scott Sweeney Episode on RubyFreelancers.com (Chuck)
+
+You can get the Book Club book at http://workingwithunixprocesses.com . For $5 off, use the discount code BOOKCLUB.
+Transcript 
+JAMES: All right so, I’m reworking my slides.
+
+JOSH: I’m still *working* my slides.
+
+DAVID: I’m still trying to figure out what my slide should be. I thought I want it to be --- but now I’m thinking about doing slides on Rails career anti-patterns.
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance go to Rubyrogues.com/newrelic.]
+
+[This podcast is also sponsored by RailsThemes.com. Have an app only could love? Then check out RailsThemes.com. They’re also giving out some pretty cool swag at RailsConf. So find them, get some, and thank them for sponsoring Ruby Rogues.]
+
+CHUCK: Hey everybody and welcome to Episode 51 of Ruby Rogues Podcast. This week on our panel we have David Brady.
+
+DAVID: Hey everybody! David Brady.
+
+CHUCK: We also have James Edward Gray II.
+
+JAMES: I am not Open Source.
+
+CHUCK: We also have Josh Susser.
+
+JOSH: I’m completely proprietary.
+
+CHUCK: And I’m Charles Max Wood and I’m wondering what color your bike shed is? So let’s go ahead and get started. We’re gonna be talking about ‘Getting Started with Open Source’ and I know there are a lot of opinions about this. So I’m a little curious what Open Source projects do you guys have? I can probably name 1 or 2 from some of you guys.
+
+JOSH: I actually don’t have a bunch of Open Source stuff. I’m not one of those people who are prolific at creating my own projects. Although I do like contributing to other people’s when I can. I have a couple of little things. I have something called “Informal” which is an extension to Rails that lets you use pretty much any plain, old Ruby objects as something that you can show in a forum or in a view and that has gone pretty well. I also have something called “Refraction” which lets you do -- stuff using rack. These are probably the only two worth mentioning.
+
+CHUCK: Ok. Cool. James, what projects do you have?
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:06:23</itunes:duration>
+	</item>

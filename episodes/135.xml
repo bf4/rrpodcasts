@@ -1,0 +1,118 @@
+<item>
+		<title>042 RR Producing Content with Peter Cooper</title>
+		<link>http://rubyrogues.com/042-rr-producing-content-with-peter-cooper/</link>
+		<comments>http://rubyrogues.com/042-rr-producing-content-with-peter-cooper/#comments</comments>
+		<pubDate>Thu, 16 Feb 2012 03:14:25 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Peter Cooper]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=437</guid>
+		<description><![CDATA[Panel Peter Cooper (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray (blog twitter github) Discussion RubyFlow Ruby Inside Ruby Weekly RailsCasts Pro Ruby Reloaded The Ruby Show Marc-André Cournoyer JavaScript Weekly HTML5 Weekly Ruby 1.9 video getdpd DSL Threading Concurrency Metaprogramming Rubies in the Rough Exceptional Ruby Getting Ready for [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/042-rr-producing-content-with-peter-cooper/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/042RRPeterCooper.mp3" length="84974329" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Peter Cooper (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github) - Discussion  RubyFlow   Ruby Inside   Ruby Weekly...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Peter Cooper (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray (blog twitter github)
+
+Discussion
+
+	RubyFlow
+	Ruby Inside
+	Ruby Weekly
+	RailsCasts Pro
+	Ruby Reloaded
+	The Ruby Show
+	Marc-André Cournoyer
+	JavaScript Weekly
+	HTML5 Weekly
+	Ruby 1.9 video
+	getdpd
+	DSL
+	Threading
+	Concurrency
+	Metaprogramming
+	Rubies in the Rough
+	Exceptional Ruby
+	Getting Ready for Ruby 1.9
+	Ruby 1.9's Three Default Encodings
+	Ruby 1.9's String
+	Peter's review of the Book of Ruby
+	Beginning Ruby (by Peter Cooper)
+	Ruby Trick Shots
+	Ruby Trick Shots e-book list
+	Self Promotion for Geeks
+	Peepcode
+	Destroy All Software
+	Ruby Quiz
+	O'Reilly Fluent Conference
+
+Picks
+
+	Coffee (Avdi)
+	Land of Lisp (Avdi)
+	Successful Lisp (Avdi)
+	Peepcode Advanced Git (James)
+	Big Bang Theory (James)
+	Why Geeks don't like Big Bang Theory (James)
+	Why Geeks love Big Bang Theory (James)
+	Aweber (Chuck)
+	Forem (Chuck)
+	Rails 3 in Action (Peter)
+	Monocle Magazine (Peter)
+	Stack Overflow discussion on JavaScript being an untyped system (Peter)
+
+Transcript
+PETER: But I think perhaps the older you get, when you start having kids and stuff like that, the things are sort of happening to me, over the last couple of years, you start thinking, is it really important that I go online and really finish off this argument on the Internet? Really, it's not going to have any effect of what I’m doing in like, a week. Let alone a year.
+AVDI: But Peter but someone is wrong on the Internet!
+
+PETER: Exactly.
+
+CHUCK: Where? Where?
+
+
+
+This podcast is sponsored by New Relic. To track and optimize your application performance go to rubyrogues.com/new relic.
+
+CHUCK: Hey everybody and welcome to episode 42 of the Ruby Rogues podcast. This week, we have a special returning guess rogue, that's Peter Cooper!
+
+PETER:  Hello!
+
+CHUCK: So if you’re not familiar with Peter, we’ll have him introduce himself.
+
+PETER: Yeah I was on, I think 10 or so episodes and I have fall off because of my training that I was doing. But if you are in the Ruby community, you may know me. I'm the guy that ran Ruby Inside for a long period of time and now I seem to have semi-abandoned it unfortunately.  But I now run Ruby Weekly, Weekly Newsletter and I’m on the Ruby show podcast with Jason Seifer and few other things like RubyFlow which is sort of community news  that anyone post to. So, all over the place.
+
+CHUCK: Yup we also have Avdi Grimm.
+
+AVDI: Hello, Hello!
+
+CHUCK: We also have James Edward Gray.
+
+JAMES: I think I may be the high energy panellist today. Everybody else is asleep.
+
+CHUCK: (I am.)
+
+I'm Charles Max Wood from teachmetocode.com and really quickly, I just wanna mention (because I have people coming to me and going, you do other podcast? I didn’t know that!) So real quickly I’m going to let you know what's out there. There is JavaScript Jabber, where talk about JavaScript, there is Ruby Freelancers, where we talk about freelancing and Ruby. I also do teachmetocode.com. I have a podcast there and a series of screencast. I haven’t done those in a while but I'm going to put them back up so they are on the docket. So keep an eye out for new stuff there
+
+Anyway so we're talking about Peter stuff today.
+
+PETER:  That sounds so big headed.
+
+James came to me and he said because I’d be back in the show, I thought it was for some more kind of like general, like the concept of media and selling screencast and all that type of thing in the Ruby space. And then asked you yesterday that you were like, oh yeah, the show is about you.
+
+I'm like, what?
+
+JAMES: So it’s like, it’s all about you; we just wanna know what makes you tick.
+
+PETER: Because we have so many cool people in the space like Ryan Bates is now doing the RailsCasts Pro and Geoffrey Grosenbach been an inspiration to all of us in some respect, I’m sure.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>59:00</itunes:duration>
+	</item>

@@ -1,0 +1,143 @@
+<item>
+		<title>059 RR – Security with Rein Henrichs</title>
+		<link>http://rubyrogues.com/059-rr-security-with-rein-henrichs/</link>
+		<comments>http://rubyrogues.com/059-rr-security-with-rein-henrichs/#comments</comments>
+		<pubDate>Sat, 16 Jun 2012 12:00:39 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Rein Henrichs]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=560</guid>
+		<description><![CDATA[Panel Rein Henrichs (twitter github reinh.com) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) James Edward Gray II (blog twitter github) Discussion Ruby on Ales As a site is on the internet longer, it&#8217;s probability of being hacked approaches 1. Don&#8217;t underestimate the risks of being hacked. Loss of revenue, legal liability, and loss of reputation are [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/059-rr-security-with-rein-henrichs/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR059Security.mp3" length="71690990" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Rein Henrichs (twitter github reinh.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray II (blog twitter github) - Discussion  Ruby on Ales </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Rein Henrichs (twitter github reinh.com)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	James Edward Gray II (blog twitter github)
+
+Discussion
+
+	Ruby on Ales
+	As a site is on the internet longer, it's probability of being hacked approaches 1.
+	Don't underestimate the risks of being hacked.
+	Loss of revenue, legal liability, and loss of reputation are some risks.
+	SSL
+	Think like a "hacker."
+	Security is a practice, not a product.
+	RailsCasts on Session Hijacking
+	FireSheep
+	VPN
+	How am I storing passwords?
+	Bastion hosts
+	BCrypt
+	Upgrade to 3.2.5 to avoid the SQL injection vulnerability
+	Rails vs Sinatra
+	Wordpress
+	CSRF tokens
+	Make a list of the inputs into your system.
+
+	URL bar
+	Forms
+	API's
+
+
+	Then look into ways that people can find a way past.
+	What do you do when you get hacked?
+	Don't keep your compromised system running.
+	DDOS attacks
+	Always assume the worst case scenario.
+	Last.fm compromise
+	League of Legends compromise
+	You can't count on your users to do the right thing.
+	SCrypt
+	Password Strength Meters
+	What to do when you're hacked:
+
+	Take the affected systems offline
+	Keep the affected systems around for forensic analysis
+	Once you have a fix that solves the problem, deploy it and then "nuke the effected systems from space."
+
+
+	Disclose as soon as you know you are hacked.
+	Don't try to hide things.
+	Get a second opinion on your statement.
+	You are not the victim, your users are the victim
+	Amazon network outage write-up
+	Brute forcing is a numbers game.
+	Exponential decay
+	Maximum failure lockout
+	SQL Injection
+	Metasploit
+	Professional Penetration Testing
+	You can't control how people use your site or disclose vulnerabilities.
+	Github public key vulnerability commit
+	Don't sell something when you disclose that you were hacked
+	Don't be telling your users you're security experts after being hacked
+	Security problems are a priority issue that likely originates with management.
+	Your job when you get hacked is to protect your users and tell them how to protect yourself.
+	The Columbia shuttle disaster was not an engineering failure, it was a culture failure.
+	Password generators
+	Rails Security Group
+	Rails Vulnerability List
+
+Picks
+
+	John Scalzi's recipe for Schadenfreude Pie (Avdi)
+	Pronunciation Manual on Youtube (Rein)
+	1Password - Mac, iOS (James)
+	LastPass
+	Emacs (James)
+	Paper tray spacers (Chuck)
+	MyBook Hard Drive (Chuck)
+	ZipKin (Rein)
+	Playing Shakespeare (Rein)
+
+Book Club
+We're reading Growing Object Oriented Software Guided by Tests for the book club. We'll be reviewing it sometime in August.
+Transcript
+JAMES: Alright guys, I think I got to go be productive today. You have this job thing, I can’t figure out how to get rid of.
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to rubyrogues.com/newrelic.]
+
+CHUCK: Hey everybody! And welcome to Episode 59 of the Ruby Rogues Podcast. This week on our panel we have Avdi Grimm.
+
+
+
+AVDI: Hello from Pennsylvania!
+
+CHUCK: James Edward Grey.
+
+JAMES: Hello from outside of Pennsylvania!
+
+CHUCK: I’m Charles Max Wood from teachmetocode.com. And we also have a special guest, and that’s Rein Henrichs.
+
+REIN: Hello from Portland!
+
+CHUCK: Portland? Awesome.
+
+AVDI: Not bad.
+
+CHUCK: So what do you do in Portland?
+
+REIN: I work for Living Social.
+
+CHUCK: Oh! Like everybody else?
+
+REIN: Like everybody else.
+
+CHUCK: Except us. Alright, well do you want to introduce yourself really quick? And then we’ll get into our topic.
+
+REIN: Sure! My name is Rein Henrichs. I am a Ruby developer and web developer. I’m a distributed systems builder. I’m somewhat of a security nuts, mostly because I got hacked a couple of years ago and that really sucks. And so I’ve been doing my best to make sure that doesn’t happen to me or other people ever since.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>59:45</itunes:duration>
+	</item>

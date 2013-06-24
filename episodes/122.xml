@@ -1,0 +1,175 @@
+<item>
+		<title>055 RR RubyMotion with Laurent Sansonetti</title>
+		<link>http://rubyrogues.com/055-rr-rubymotion-with-laurent-sansonetti/</link>
+		<comments>http://rubyrogues.com/055-rr-rubymotion-with-laurent-sansonetti/#comments</comments>
+		<pubDate>Sat, 19 May 2012 20:33:26 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Laurent Sansonetti]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=535</guid>
+		<description><![CDATA[Panel Laurent Sansonetti (twitter github web) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog witter github ADDcasts) James Edward Gray II (blog twitter github) Discussion RubyMotion &#8211; Commercial version of MacRuby for iOS &#8211; itunes app store MacRuby Apple Inc. Static Compiler Just in Time Compilation iOS Runtime Removed features from the Ruby language eval require define_method redefining [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/055-rr-rubymotion-with-laurent-sansonetti/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR055RubyMotion.mp3" length="94736246" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Laurent Sansonetti (twitter github web)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts)   James Edward Gray II (blog twitter github) - Discussion - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Laurent Sansonetti (twitter github web)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog witter github ADDcasts)
+	James Edward Gray II (blog twitter github)
+
+Discussion
+
+	RubyMotion - Commercial version of MacRuby for iOS - itunes app store
+	MacRuby
+	Apple Inc.
+	Static Compiler
+	Just in Time Compilation
+	iOS Runtime
+	Removed features from the Ruby language
+
+	eval
+	require
+	define_method
+	redefining core methods
+	no binding method on the Proc
+
+
+	Charles Nutter
+	jRuby
+	How much can you change Ruby and still call it Ruby?
+	mRuby
+	Matz (Yukihiro Matzumoto)
+	RubySpec
+	Ruby Standard
+	100% compliant with Apple's app store guidelines
+	Memory Management
+	Automatic Release Count
+	You don't need to release CF types
+	Cyclic references will be handled soon in RubyMotion
+	Github repo with examples
+	You need to have some notion of Objective-C and understand the iOS development API's
+	To understand Objective-C you need to know C
+	Named parameters (as in MacRuby)
+	RubyGems for RubyMotion
+	You can use Interface Builder to create xib files
+	Rake
+	Rich Kilmer
+	Console on a Running Application
+	Cmd-click to change self in the console
+	Development mode type update the simulator at runtime
+	Future features
+
+	Generators
+	Community Development
+	DSL's
+	Frameworks
+
+
+	Why not open source?
+	CocoaPods
+	Mustachio - itunes app store
+	Pragmatic Studio Video
+	Mike Clark
+	iOS SDK Development
+	Apple iOS Library Documentation
+
+Picks
+
+	Code Year (James)
+	"Please Don't Learn to Code" blog post (James)
+	Mad Men - itunes (James)
+	CarrierWave (Dave)
+	Kaminari (Dave)
+	RailsCast on Kaminari (Dave)
+	Software Engineering Radio podcast - itunes (Avdi)
+	Sony Vegas (Avdi)
+	Ultraviolet TV Series (Avdi)
+	Doctor Who  (Chuck)
+	Transmit (Chuck)
+	TotalFinder (Chuck)
+	Boardwalk Empire - itunes store (Laurent)
+	Skyrim (Laurent)
+
+Transcript
+DAVE: Do we have to have like a pick every week?
+
+[Laughter]
+
+JAMES: Yeah, that's kind of the rhythm.
+
+DAVE: Is there going to be a thing?
+
+JAMES: It seems like it might be a recurring thing.
+
+DAVE: Oh man.
+
+JAMES: You didn't get the memo?
+
+[Laughter]
+
+DAVE: There’s a memo?
+
+CHUCK: Yeah, it was something we were trying out for 54 Episodes.
+
+[Laughter]
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/newrelic.]
+
+[This episode is sponsored by RailsThemes.com. Have a website only a mother could love? Then you need a theme. Go to Railsthemes.com and sign up for early access and when they release, you'll be able to check out and use their themes on your Rails App.]
+
+CHUCK: Hey everybody and welcome to Episode 55 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI: That's “Avdi-Grimm” not “Avdi_Grimm”.
+
+CHUCK: Got it.
+
+JAMES: What about Avdi &lt;space&gt; Grimm?
+
+CHUCK: Or we can just camel case it AvdiGrimm.
+
+AVDI: Avdi non-breaking space character Grimm.
+
+[Laughter]
+
+JAMES: There you go.
+
+CHUCK: dash. Is that a dash or an dash or an en dash?
+
+[Laughter]
+
+AVDI: I don't know. I have to figure out which one has the most flair.
+
+CHUCK: All right. We also have David Brady.
+
+DAVE: So when I was at BYU, the username naming scheme was first name, last name and it was clipped to 8 characters. So my user name was “DavidBra”. I don't like this game.
+
+[Laughter]
+
+CHUCK: Well, we also have James Edward Gray II.
+
+JAMES: I upgraded to Lion for this episode.
+
+[Laughter]
+
+CHUCK: Really?
+
+(Inaudible)
+
+CHUCK: Does it not run on Snow Leopard?
+
+JAMES: You know what? Maybe we need to ask our other panelists that. The documentation said it did, but I had a lot of trouble.
+
+CHUCK: All right. We'll get to him in a minute. I'm Charles Matz Wood from teachmetocode.com and we also have a special guest this week and that is (and let me see if I can get this right), Laurent Sansonetti?
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:18:57</itunes:duration>
+	</item>

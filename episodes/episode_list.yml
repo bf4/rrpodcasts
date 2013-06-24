@@ -53,6 +53,9 @@
 - :feed_number: 18
   :title: 018 RR What Not to Test
   :enclosure: RubyRogues20110825_01.mp3
+- :feed_number: 144
+  :title: ! 'Book Club: Exceptional Ruby by Avdi Grimm'
+  :enclosure:
 - :feed_number: 19
   :title: ! '019 RR Book Club: Exceptional Ruby'
   :enclosure: RubyRogues20110907.mp3
@@ -65,6 +68,9 @@
 - :feed_number: 22
   :title: 022 RR When to Use Modules
   :enclosure: RubyRogues20110927.mp3
+- :feed_number: 143
+  :title: ! 'Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck'
+  :enclosure:
 - :feed_number: 23
   :title: ! '023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck'
   :enclosure: smalltalk_best_practice_patterns.mp3
@@ -86,8 +92,8 @@
 - :feed_number: 29
   :title: 029 RR Keeping Up with Gowalla
   :enclosure: RubyRogues20111117.mp3
-- :feed_number: 30
-  :title: 030 RR Software Craftsmanship
+- :feed_number: 141
+  :title: 030 RR Software Craftsmanship with Noel Rappin
   :enclosure: software_craftsmanship.mp3
 - :feed_number: 31
   :title: 031 RR Code Reading
@@ -95,6 +101,9 @@
 - :feed_number: 32
   :title: 032 RR Ruby Antipatterns
   :enclosure: ruby_antipatterns.mp3
+- :feed_number: 142
+  :title: ! 'Book Club Announcement: Eloquent Ruby by Russ Olsen'
+  :enclosure:
 - :feed_number: 33
   :title: 033 RR Book Club – Eloquent Ruby
   :enclosure: eloquent_ruby.mp3
@@ -110,89 +119,89 @@
 - :feed_number: 37
   :title: 036A RubyGems Bonus Content
   :enclosure: rubygems_org_bonus_content.mp3
-- :feed_number: 38
-  :title: Versioning and Releases
+- :feed_number: 140
+  :title: 037 RR Versioning and Releases
   :enclosure: versioning_and_releases.mp3
-- :feed_number: 39
-  :title: Web Programming and Updating Frameworks
+- :feed_number: 139
+  :title: 038 RR Web Programming and Updating Frameworks with Yehuda Katz
   :enclosure: web_programming_and_updating_frameworks.mp3
-- :feed_number: 40
-  :title: Programming Language Fundamentals
+- :feed_number: 138
+  :title: 039 RR Programming Language Fundamentals
   :enclosure: Programming_Language_Fundamentals.mp3
-- :feed_number: 41
-  :title: ''
+- :feed_number: 137
+  :title: 040 RR Text Editors and IDE’s
   :enclosure: RR_40_Editor_War.mp3
-- :feed_number: 42
-  :title: ''
+- :feed_number: 136
+  :title: 041 RR Code Metrics with Bryan Helmkamp
   :enclosure: 041_RR_Code_Metrics.mp3
-- :feed_number: 43
-  :title: Ruby Rogues - 042 - Peter Cooper
+- :feed_number: 135
+  :title: 042 RR Producing Content with Peter Cooper
   :enclosure: 042RRPeterCooper.mp3
-- :feed_number: 44
-  :title: ! 'Ruby Rogues 043 - Book Club: Land of Lisp'
+- :feed_number: 134
+  :title: ! '043 RR Book Club: Land of Lisp with Conrad Barski'
   :enclosure: RR043LandOfLisp.mp3
-- :feed_number: 45
-  :title: ''
+- :feed_number: 133
+  :title: 044 RR Choosing the Right Career Path with Marty Haught
   :enclosure: 044RRCareer_Choices.mp3
-- :feed_number: 46
-  :title: Ruby Rogues 045 - Bundler
+- :feed_number: 132
+  :title: 045 RR Bundler with Andre Arko
   :enclosure: RR045Bundler.mp3
-- :feed_number: 47
-  :title: Ruby Rogues 046 - Objects in Ruby 2
+- :feed_number: 131
+  :title: 046 RR Objects in Rails Part 2
   :enclosure: RR046ObjectsInRuby2.mp3
-- :feed_number: 48
-  :title: ''
+- :feed_number: 130
+  :title: 047 RR Coding Disciplines with Dan Kubb
   :enclosure: RR047CodingDiscipline160.mp3
-- :feed_number: 49
-  :title: Ruby Rogues 048 - Crafting Rails Applications
+- :feed_number: 129
+  :title: 048 RR Crafting Rails Applications with José Valim
   :enclosure: RR048-CraftingRailsApplications.mp3
-- :feed_number: 50
-  :title: Ruby Rogues 049 - Agile Communication
+- :feed_number: 128
+  :title: 049 RR Agile Communication with Angela Harms
   :enclosure: RR049-Agile_Communication.mp3
-- :feed_number: 51
-  :title: ''
+- :feed_number: 127
+  :title: 050 RR Hungry Academy with Jeff Casimir
   :enclosure: RR50HungryAcademy.mp3
-- :feed_number: 52
-  :title: Ruby Rogues
+- :feed_number: 126
+  :title: 051 RR Getting Started with Open Source
   :enclosure: RR051GettingStartedWithOpenSource.mp3
-- :feed_number: 53
-  :title: ''
+- :feed_number: 125
+  :title: 052 – Live from RailsConf 2012
   :enclosure: RR052LiveFromRailsConf2012.mp3
-- :feed_number: 54
-  :title: ''
+- :feed_number: 124
+  :title: 053 RR Square with Jack Danger Canty and Zach Brock
   :enclosure: RR05320-20Square.mp3
-- :feed_number: 55
-  :title: ''
+- :feed_number: 123
+  :title: 054 RR Coding Exercises, Quizzes, and Katas
   :enclosure: RR054CodeExercisesKatasQuizzes.mp3
-- :feed_number: 56
-  :title: ''
+- :feed_number: 122
+  :title: 055 RR RubyMotion with Laurent Sansonetti
   :enclosure: RR055RubyMotion.mp3
-- :feed_number: 57
-  :title: ''
+- :feed_number: 121
+  :title: 056 RR David Heinemeier Hansson
   :enclosure: RR056DHH.mp3
 - :feed_number: 58
   :title: 057 RR – Ruby Central
   :enclosure: RR057RubyCentral.mp3
-- :feed_number: 59
-  :title: Ruby Rogues - 058 - Working With Unix Processes
+- :feed_number: 120
+  :title: ! '058 RR Book Club: Working with Unix Processes with Jesse Storimer'
   :enclosure: RR058WorkingWithUnixProcesses.mp3
-- :feed_number: 60
-  :title: ''
+- :feed_number: 119
+  :title: 059 RR – Security with Rein Henrichs
   :enclosure: RR059Security.mp3
-- :feed_number: 61
-  :title: ''
+- :feed_number: 118
+  :title: RR 60 SOLID with Jim Weirich
   :enclosure: RR060Solid.mp3
-- :feed_number: 62
-  :title: ''
+- :feed_number: 117
+  :title: RR 061 Domain Driven Design (DDD) with David Laribee
   :enclosure: RR061DDD.mp3
-- :feed_number: 63
-  :title: ''
+- :feed_number: 116
+  :title: 062 RR Monitoring with Joseph Ruscio
   :enclosure: RR062Monitoring.mp3
-- :feed_number: 64
-  :title: ''
+- :feed_number: 115
+  :title: 063 RR Hiring Programmers
   :enclosure: RR063_HiringProgrammers.mp3
-- :feed_number: 65
-  :title: ''
+- :feed_number: 114
+  :title: 064 RR Presenting at Conferences
   :enclosure: RR064_PresentingAtConferences.mp3
 - :feed_number: 66
   :title: 065 RR Functional vs Object Oriented Programming with Michael Feathers
@@ -232,7 +241,7 @@
   :enclosure: RR076ServiceOrientedDesign.mp3
 - :feed_number: 107
   :title: Ruby Nuby Project
-  :enclosure: 
+  :enclosure:
 - :feed_number: 78
   :title: 077 RR Complexity with Glenn Vanderburg
   :enclosure: RR077Complexity.mp3

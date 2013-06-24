@@ -1,0 +1,88 @@
+<item>
+		<title>038 RR Web Programming and Updating Frameworks with Yehuda Katz</title>
+		<link>http://rubyrogues.com/038-rr-web-programming-and-updating-frameworks-with-yehuda-katz/</link>
+		<comments>http://rubyrogues.com/038-rr-web-programming-and-updating-frameworks-with-yehuda-katz/#comments</comments>
+		<pubDate>Fri, 20 Jan 2012 01:46:18 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Best Practices]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Processes]]></category>
+		<category><![CDATA[Yehuda Katz]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=392</guid>
+		<description><![CDATA[Panel Yehuda Katz (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp) David Brady (blog twitter github ADDcasts) James Edward Gray (blog twitter github) Josh Susser (twitter github blog) Discussion jQuery Prototype.js Thomas Fuchs Scriptaculous Rails Merb Charles Jolley SproutCore Ember.js Backbone.js Amber (SmallTalk Dialect) Ruby Strobe ActionController Zen of Python Node.js Sinatra Rails as an [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/038-rr-web-programming-and-updating-frameworks-with-yehuda-katz/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/web_programming_and_updating_frameworks.mp3" length="27976601" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Yehuda Katz (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog twitter github ADDcasts)   James Edward Gray (blog twitter github) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Yehuda Katz (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)
+	David Brady (blog twitter github ADDcasts)
+	James Edward Gray (blog twitter github)
+	Josh Susser (twitter github blog)
+
+Discussion
+
+	jQuery
+	Prototype.js
+	Thomas Fuchs
+	Scriptaculous
+	Rails
+	Merb
+	Charles Jolley
+	SproutCore
+	Ember.js
+	Backbone.js
+	Amber (SmallTalk Dialect)
+	Ruby
+	Strobe
+	ActionController
+	Zen of Python
+	Node.js
+	Sinatra
+	Rails as an API server
+	Rack
+	Middleware
+	JSON as a View Layer
+	Jbuilder
+	Convention over Configuration
+	JSON
+	to_json is a problem
+	serializer gem
+	to_json is not a method, it's a class
+	Presenter
+	Erector
+	Open Source Software
+	Your job is to provide a level of abstraction that hides what you actually do
+	A negative of using Github. People assume that large projects work like their small project.
+	Project Politics
+	Rails' Asset Pipeline
+
+Picks
+
+	jQuery Cookbook (Avdi)
+	JavaScript Cookbook(Avdi)
+	Comixology (Avdi)
+	msie2vbox (David)
+	RailsConf CFP (James)
+	RubyHeroes (James)
+	Voxer (Josh)
+	Sticky Footer (Josh)
+	AudioName.com (Josh)
+	Chrome Debugger (Yehuda)
+	The Lean Startup (Yehuda)
+	The 22 Immutable Laws of Branding (Yehuda)
+	Windows phone 7 (Yehuda)
+	Gary Bernhardt Lightning Talk (Dave)
+	Scan.me QR code generator (Chuck)
+	JavaScript: The Good Parts (Chuck)</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
