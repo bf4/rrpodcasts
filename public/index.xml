@@ -26,6 +26,204 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>110 RR ActiveRecord with Ernie Miller</title>
+		<link>http://rubyrogues.com/110rr-activerecord-with-ernie-miller/</link>
+		<comments>http://rubyrogues.com/110rr-activerecord-with-ernie-miller/#comments</comments>
+		<pubDate>Wed, 19 Jun 2013 13:00:55 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Ernie Miller]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1368</guid>
+		<description><![CDATA[Panel Ernie Miller (twitter github blog) Josh Susser (twitter github blog) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) Discussion 01:44 &#8211; Ernie Miller Introduction The Most Important Optimization: Happiness &#8211; Ernie Miller 02:58 &#8211; An Intervention for ActiveRecord &#8211; Ernie Miller Speaker Deck: An Intervention for ActiveRecord 04:43 &#8211; Changing ActiveRecord [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/110rr-activerecord-with-ernie-miller/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR110ActiveRecord.mp3" length="73836812" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Ernie Miller (twitter github blog)   Josh Susser (twitter github blog)   Katrina Owen (twitter github blog)   James Edward Gray (twitter github blog) - Discussion 01:44 - Ernie Miller Introduction </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Ernie Miller (twitter github blog)
+	Josh Susser (twitter github blog)
+	Katrina Owen (twitter github blog)
+	James Edward Gray (twitter github blog)
+
+Discussion
+01:44 - Ernie Miller Introduction
+
+
+	The Most Important Optimization: Happ...</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:39</itunes:duration>
+	</item>
+<item>
+		<title>109 RR Extreme Programming with Will Read</title>
+		<link>http://rubyrogues.com/109-rr-extreme-programming-with-will-read/</link>
+		<comments>http://rubyrogues.com/109-rr-extreme-programming-with-will-read/#comments</comments>
+		<pubDate>Wed, 12 Jun 2013 13:00:31 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Will Read]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1361</guid>
+		<description><![CDATA[Panel Will Read (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:26 &#8211; Will Read Introduction Pivotal Labs 03:11 &#8211; Extreme Programming (XP) &#38; Development Practices Pair Programming Test-Driven Development [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/109-rr-extreme-programming-with-will-read/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR109ExtremeProgramming.mp3" length="73410493" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Will Read (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Will Read (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:26 - Will Read Introduction
+
+
+	Pivotal Labs
+
+03:11 - Extreme Programming (XP) &amp; Development Practices
+
+
+	Pair Programming
+	Test-Driven Development (TDD)
+	Continuous Integration
+	Frequent Deploys
+	Extreme Programming Explained: Embrace Change, Second Edition by Kent Beck
+
+05:00 - Manifesto for Agile Software Development
+
+
+	Scrum
+	Kanban
+
+07:22 - Project Management Practices
+
+
+	Iteration Planning
+	Retrospectives
+	Stand-ups
+	SalesForce
+
+09:07 - Purpose and Attractiveness of XP
+
+
+	Reinforcement
+	Feedback Loops
+	“How do we get better?”
+
+17:56 - Pair Programming (Particular Practices)
+21:09 - Team Structure
+
+
+	Conway’s Law
+	Ruby Conf 2012 - The Insufficiency of Good Design by Sarah Mei
+	Customer Product Manager (PM)
+	Collocation
+
+23:54 - Remote Pair Programming
+
+
+	#pairwithme
+	MadEye
+	Tmux
+	Screenhero
+	Wide Teams
+
+29:22 - Hiring People for XP
+30:56 - Sustainable Pace
+
+
+	Extreme Programming Rules
+	Pivotal Tracker
+	Discipline
+
+37:27 - Design
+
+
+	Designer/Developer Disconnect
+
+43:11 - QA (Quality Assurance) Teams
+
+
+	Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson
+
+45:55 - When XP is a bad thing
+47:46 - Team Size
+51:21 - Tools
+
+
+	Introducing the Style Guide Gem - Doc Ritezel
+	git-duet
+	Jenkins CI
+	ciborg
+
+52:50 - Physical Workstations
+
+
+	Desk Setup
+	Pairing tete-a-tete - Pivotal Labs
+	Team-owned Machines
+
+56:44 - Resources
+
+
+	Extreme Programming Explained: Embrace Change, Second Edition by Kent Beck
+	Pivotal Labs Blog
+	Dev Bootcamp
+
+Picks
+
+	EP398: Subversion - Escape Pod (Avdi)
+	The Room (Avdi)
+	Rails Girls Summer of Code (James)
+	LoneStar Ruby (James)
+	Tiassa (Vlad Taltos) by Steven Brust (Josh)
+	Commit (Chuck)
+	The Crucible (Will)
+	Pivotal Labs Blog (Will)
+	Dev Bootcamp (Will)
+
+Book Club
+Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson! We will be recording with Elisabeth on June 19th, 2013 and the episode will air on June 26th.
+Next Week
+ActiveRecord with Ernie Miller
+Transcript
+AVDI: We’re talking about Windows XP today, right?
+
+CHUCK:  Yeah.
+
+JAMES:  That’s it. Windows XP. [Chuckles]
+
+WILL:  Yeah. That’s why we’re using Skype.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to jetBrains.com/Ruby.] 
+
+CHUCK:  Hey everybody and welcome to Ruby Rogues Episode 109. Before we get started, I just want to make sure that you know, many of you have complained that we don’t have all of our episodes in the backlog. I am fixing that. About half of you have moved over to the original feed, but half of you are still stuck on Feed Burner. I’m going to turn off the Feed Burner feed after this episode is released. It should redirect you to the new feed. But if you don’t get any episodes after that, keep that in mind and please re-subscribe in iTunes. That’s my big announcement.
+
+JAMES:  We’re going away?
+
+CHUCK:  Well.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+	</item>
+<item>
 		<title>108 RR Ruby Trends</title>
 		<link>http://rubyrogues.com/108-rr-ruby-trends/</link>
 		<comments>http://rubyrogues.com/108-rr-ruby-trends/#comments</comments>

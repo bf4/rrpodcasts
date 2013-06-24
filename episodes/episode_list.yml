@@ -334,3 +334,9 @@
 - :feed_number: 111
   :title: 108 RR Ruby Trends
   :enclosure: RR108CommunityTrends.mp3
+- :feed_number: 113
+  :title: 109 RR Extreme Programming with Will Read
+  :enclosure: RR109ExtremeProgramming.mp3
+- :feed_number: 112
+  :title: 110 RR ActiveRecord with Ernie Miller
+  :enclosure: RR110ActiveRecord.mp3
