@@ -1,0 +1,159 @@
+<item>
+		<title>111 RR Book Club: Explore It! with Elisabeth Hendrickson</title>
+		<link>http://rubyrogues.com/111-rr-book-club-explore-it-with-elisabeth-hendrickson/</link>
+		<comments>http://rubyrogues.com/111-rr-book-club-explore-it-with-elisabeth-hendrickson/#comments</comments>
+		<pubDate>Wed, 26 Jun 2013 13:00:00 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Elisabeth Hendrickson]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1376</guid>
+		<description><![CDATA[Panel Elisabeth Hendrickson (twitter github blog) Josh Susser (twitter github blog) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:29 &#8211; Elisabeth Hendrickson Introduction Pivotal Labs Caltech Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/111-rr-book-club-explore-it-with-elisabeth-hendrickson/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR111ExploreIt.mp3" length="65758559" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Elisabeth Hendrickson (twitter github blog)   Josh Susser (twitter github blog)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Elisabeth Hendrickson (twitter github blog)
+	Josh Susser (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:29 - Elisabeth Hendrickson Introduction
+
+
+	Pivotal Labs
+	Caltech
+	Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing by Elisabeth Hendrickson
+
+05:00 - The Role of a Software Tester
+
+
+	The Art of Software Testing by Glenford J. Myers
+
+08:39 - Exploratory Testing
+11:17 - Combatting Disdain for Testing
+
+
+	Boringness/Tediousness
+	Quality Problem
+	Blood-thirstiness
+	Skillsets
+
+18:25 - Finding Pleasure in Exploratory Testing
+22:19 - Implementing Exploratory Testing
+
+
+	Dude’s Law: The Dude Abides (An Interview with David Hussman)
+
+32:20 - Personas
+
+
+	Exploratory Tester/Programmer Pairings
+	Empathy
+
+34:58 - Bug Hunting (Anecdotes)
+
+
+	Mental Pack Rat Syndrome
+
+37:00 - Surely You're Joking, Mr. Feynman! (Adventures of a Curious Character) by Richard P. Feynman
+39:08 - Fuzz Testing
+40:29 - Tools
+
+
+	irb
+	Firebug
+	Chrome’s Developer Mode
+	JavaScript Console
+	Fiddler
+
+42:31 - Mocking
+44:38 - Setting Triggers on a Database Table
+45:57 - Web Applications and Noise
+47:20 - “ET”
+48:04 - Exploration Testing the Easy Button
+48:32 - Exploratory Testing in a Project
+
+
+	Cues
+
+53:11 - State Tables
+54:51 - Timing Sensitive Testing
+
+
+	Phase of the Moon Error
+
+58:11 - Resources
+
+
+	Association for Software Testing
+	CAST 2013
+	Pacific Northwest Software Quality Conference (PNSQC)
+
+Picks
+
+	Apple: 13" MacBook Air (Josh)
+	Sony MDR-EX100IP/B Earbuds (Josh)
+	lineman (Katrina)
+	Grid-It (Katrina)
+	Wool Omnibus Edition by Hugh Howey (Katrina)
+	Shift Omnibus Edition by Hugh Howey (Katrina)
+	Robert Jackson (Avdi)
+	Jesse House (Avdi)
+	Jonathan Cairns (Avdi)
+	Benjamin Fleischer (Avdi)
+	Michael Moen (Avdi)
+	ember-tools (Chuck)
+	Ember 101 (Chuck)
+	FlowCon Conference (Elisabeth)
+	reveal.js - The HTML Presentation Framework (Elisabeth)
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O'Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+Community Hacks
+Transcript
+JOSH:  Okay. I'm going to pour myself a mug of coffee and I’ll be back in two minutes.
+
+KATRINA:  Cool.
+
+CHUCK:  Geez, he’s just like family, always making me late.
+
+ELISABETH:  [Laughs]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+[This show is sponsored by Heroku Postgres. They’re the largest provider of Postgres databases in the world and provide the ability for you to fork and follow your database, just like your code. There's easy sharing through data clips or just for your data. And to date, they have never lost a byte of data. So, go and sign up at Postgres.Heroku.com.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 111 of the Ruby Rogues podcast. This week on our panel, we have Josh Susser.
+
+JOSH:  Good morning everyone from sunny San Francisco.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Good morning.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Good morning from Pennsylvania.
+
+CHUCK:  I'm Charles Max Wood from DevChat.TV. And this week, we have a special guest and that’s Elisabeth Hendrickson.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:13</itunes:duration>
+	</item>

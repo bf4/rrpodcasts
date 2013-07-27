@@ -1,0 +1,165 @@
+<item>
+		<title>112 RR Community Hacks</title>
+		<link>http://rubyrogues.com/112-rr-community-hacks/</link>
+		<comments>http://rubyrogues.com/112-rr-community-hacks/#comments</comments>
+		<pubDate>Wed, 03 Jul 2013 13:00:16 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1388</guid>
+		<description><![CDATA[Panel James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:26 &#8211; Community Hacks 03:51 &#8211; Not Complaining on Twitter Aaron “Tenderlove” Patterson [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/112-rr-community-hacks/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR112CommunityHacks.mp3" length="61480679" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Katrina Owen (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Katrina Owen (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:26 - Community Hacks
+03:51 - Not Complaining on Twitter
+
+
+	Aaron “Tenderlove” Patterson
+	#FridayHug/@FridayHug
+
+08:21 - Being a Role Model
+
+
+	Whimsy
+
+10:57 - Welcoming Newbies
+
+
+	RailsBridge
+	TryRuby
+	Rails for Zombies
+	Conferences &amp; Local Events
+
+14:02 - Be Aware of Inside Culture &amp; Jokes
+
+
+	Firefly
+	Lewis Page: Ladies put off tech careers by sci-fi posters, Coke cans
+
+19:29 - Sharing War Stories
+
+
+	One Ups &amp; One Downs
+	Openers
+
+25:35 - Sharing Information
+
+
+	058 RR Book Club: Working with Unix Processes with Jesse Storimer
+	@jstorimer: I want my next conference talk to feel more like a cooking demonstration than a lecture.
+
+28:24 - Liking vs Respecting
+
+
+	Steel Magnolias
+
+30:44 - Empathy &amp; Attitude
+
+
+	MINASWAN
+
+33:34 - Constructive Reactions to Drama aka What Would Angela Harms do?
+
+
+	Role Models
+	049 RR Agile Communication with Angela Harms
+	Humility
+
+40:12 - Working Together
+
+
+	#RubyFriends/@RubyFriends
+
+41:22 - More Blogs; Fewer Tweets
+
+
+	The Real Adam
+	xkcd: Ten Thousand
+
+47:20 - MINEWWMASWAN - Matz Is Nice (Even When We're Mad) And So We Are Nice
+
+Picks
+
+	The Unix fu Workshop (James)
+	The Physics of Star Trek by Lawrence M. Krauss (James)
+	Organ Trail: Director's Cut (David)
+	Steel Magnolias (Josh)
+	Active Listening (Josh)
+	The Supreme Court of the United States (Josh)
+	The Wirecutter (Avdi)
+	Ryan Davis: Occupy Ruby: Why We Need to Moderate the 1% (Katrina)
+	Lisa Bloom: How to Talk to Little Girls (Katrina)
+	How to Write a Nonfiction eBook in 21 Days by Steve Scott (Chuck)
+	David Siteman Garland: Create Awesome Online Courses (Chuck)
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+DevOps with Nathen Harvey
+Transcript
+JAMES:  The Ruby Community has drama?
+
+AVDI:  [Laughs]
+
+DAVID:  Wait, I've been gone for a month. You guys still program in Ruby?
+
+[Laughter]
+
+JAMES:  No, we all use the Elixir now. Didn’t you get the memo?
+
+JOSH:  I just read Ruby books. I don’t actually program in it.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 112 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Hello from under the rainbow.
+
+CHUCK:  David Brady.
+
+DAVID:  [Expression] You found me.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hey, good morning. Who wants to get married?
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello, hello.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hi.
+
+CHUCK:  I'm Charles Max Wood from DevChat.TV. And this week, we’re going to be talking about community hacks or ways that we can make the community better. I think there's a better explanation than that of what we really want to talk about. So, if somebody wants to jump in, that’s great. Or if you want to just kick it off with one of your ideas, that would also be awesome.
+
+JOSH:  Let’s just set some context.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:04:03</itunes:duration>
+	</item>

@@ -1,0 +1,176 @@
+<item>
+		<title>113 RR DevOps with Nathen Harvey</title>
+		<link>http://rubyrogues.com/113-rr-devops-with-nathen-harvey/</link>
+		<comments>http://rubyrogues.com/113-rr-devops-with-nathen-harvey/#comments</comments>
+		<pubDate>Wed, 10 Jul 2013 13:00:54 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Nathen Harvey]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1396</guid>
+		<description><![CDATA[Panel Nathen Harvey (twitter github blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:03 &#8211; Nathen Harvey Introduction Food Fight Show Community Manager at Opscode DevOpsDC 02:49 &#8211; What is DevOps? Nathen [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/113-rr-devops-with-nathen-harvey/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR113Devops.mp3" length="68685469" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Nathen Harvey (twitter github blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Nathen Harvey (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:03 - Nathen Harvey Introduction
+
+	Food Fight Show
+	Community Manager at Opscode
+	DevOpsDC
+
+02:49 - What is DevOps?
+
+
+	Nathen Harvey: DevOp with Me!
+	Rails Devops Cheatsheet
+
+10:14 - DevOps and Developers
+
+
+	Working Together
+
+12:01 - System Architecture vs Application Architecture
+
+
+	Netflix Open Source
+
+15:26 - Ruby and DevOps
+
+
+	Chef
+	Puppet
+	capistrano
+	CFEngine
+	moonshine
+
+23:04 - Immutable Infrastructure
+
+
+	Chad Fowler: Trash Your Servers and Burn Your Code: Immutable Infrastructure and Disposable Components
+	Bryan Thompson: SOA Safari in the Amazon
+
+28:11 - The Chef Server
+30:37 - System Administrators
+34:25 - Shell Commands
+
+
+	chefspec
+	Cucumber-chef
+	Jenkins
+	Travis CI
+
+37:04 - Package Management
+
+
+	FPM
+	RVM
+	rbenv
+	chruby
+	JRuby
+
+44:17 - Communication and Working Together
+
+
+	Post Mortems
+
+50:05 - Process and Team Composition
+
+
+	Vagrant
+	Growing Object-Oriented Software Guided by Tests (GOOS)
+	068 RR Book Club: Growing Object Oriented Software Guided by Tests
+
+54:21 - The DevOps Movement &amp; Direction
+
+
+	John Willis: What Devops Means to Me 
+	Culture, Automation, Measurement, and Sharing (CAMS)
+
+Picks
+
+	Jesse Storimer: [Screencast] Faster Rails test runs...with Unix! (James)
+	Flash Point (James)
+	Lindsay Holmwood: Escalating complexity: DevOps learnings from Air France 447 (David)
+	What I Do At My Job (David)
+	21 Jokes Only Nerds Will Understand (David)
+	Ridiculous Fishing (David)
+	Ryan Bates (Josh)
+	YAML for Ruby (Josh)
+	Advanced YAML in Middleman example: 1 and 2 (Josh)
+	Hosted Chef (Chuck)
+	PeepCode's Chef Videos (Chuck)
+	Ruby and Rails Courses Roundtable (Chuck)
+	Opscode Learn Chef (Nathen)
+	Elixir (Bryan)
+	The Chef Community (Nathen)
+	The Phoenix Project: The Book About IT, DevOps, and Helping Your Business Win (Nathen)
+	The Ship Show (Nathen)
+	Spaceteam (Nathen)
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+Elixir with José Valim
+Transcript
+JOSH:  It sounds like it might be a tricky DevOps kind of problem.
+
+[Laughter]
+
+NATHEN:  Uh-oh!
+
+JAMES:  That’s awesome.
+
+JOSH:  If only we had someone to advise us on how we could do that...!
+
+DAVID:  Step one: acquire a tricky DevOp.
+
+[Laughter]
+
+NATHEN:  Yes. Step two: stop using that word wrong.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 113 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning, everyone.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hi. I'm in solidarity with San Franciscans by working from home today.
+
+CHUCK:  David Brady.
+
+DAVID:  I'm apparently in solidarity with San Franciscans today. I didn’t know that.
+
+CHUCK:  [Chuckles] Me too! I'm Charles Max Wood from DevChat.TV and I have a PhD in horribleness.
+
+JAMES:  [Laughs]
+
+CHUCK:  But guess what I watched last night?
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:11:33</itunes:duration>
+	</item>

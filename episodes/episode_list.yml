@@ -349,3 +349,18 @@
 - :feed_number: 112
   :title: 110 RR ActiveRecord with Ernie Miller
   :enclosure: RR110ActiveRecord.mp3
+- :feed_number: 145
+  :title: ! '111 RR Book Club: Explore It! with Elisabeth Hendrickson'
+  :enclosure: RR111ExploreIt.mp3
+- :feed_number: 146
+  :title: 112 RR Community Hacks
+  :enclosure: RR112CommunityHacks.mp3
+- :feed_number: 147
+  :title: 113 RR DevOps with Nathen Harvey
+  :enclosure: RR113Devops.mp3
+- :feed_number: 148
+  :title: 114 RR Elixir with José Valim
+  :enclosure: RR114Elixir.mp3
+- :feed_number: 149
+  :title: 115 RR Functional and Object Oriented Programming with Jessica Kerr
+  :enclosure: RR115FunctionalandOOProgramming.mp3

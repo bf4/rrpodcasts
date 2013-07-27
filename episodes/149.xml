@@ -1,0 +1,137 @@
+<item>
+		<title>115 RR Functional and Object Oriented Programming with Jessica Kerr</title>
+		<link>http://rubyrogues.com/115-rr-functional-and-object-oriented-programming-with-jessica-kerr/</link>
+		<comments>http://rubyrogues.com/115-rr-functional-and-object-oriented-programming-with-jessica-kerr/#comments</comments>
+		<pubDate>Wed, 24 Jul 2013 11:00:30 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Jessica Kerr]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1417</guid>
+		<description><![CDATA[Panel Jessica Kerr (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:45 &#8211; Jessica Kerr Introduction JavaScript Developer for 12 years Scala 02:55 &#8211; Jessica Kerr: Functional Principles for OO Development 05:59 &#8211; Data In/Data Out [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/115-rr-functional-and-object-oriented-programming-with-jessica-kerr/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR115FunctionalandOOProgramming.mp3" length="61456064" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Jessica Kerr (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 01:45 - Jessica Kerr Introduction - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Jessica Kerr (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:45 - Jessica Kerr Introduction
+
+	JavaScript Developer for 12 years
+	Scala
+
+02:55 - Jessica Kerr: Functional Principles for OO Development
+05:59 - Data In/Data Out
+09:42 - Format Phone Number
+13:24 - Command vs Query Methods
+
+
+	087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz
+
+15:03 - Referential Transparency
+17:00 - Idempotency
+19:13 - Memoization
+21:21 - Nil &amp; Conditionals
+23:47 - Errors are Data
+
+
+	Failure Handling
+	Exceptions
+
+31:34 - Good Ways to Use Functional Programming in Ruby
+32:42 - Lambdas vs Procs/Blocks
+
+
+	Jessica Kerr: Passing functions in Ruby: harder than it looks
+
+35:53 - Side Effects with Callbacks
+38:21 - State Transformations
+
+
+	067 RR Gary Bernhardt’s Testing Style
+	Persistence
+
+45:42 - Be Lazy
+
+
+	Lazy Enumerators
+	Enumerators/Iterators
+	Enumerables/Iterables
+
+52:28 - Adding to Jessica’s Talk
+
+
+	aqueductron
+	
+Aqueductron - toying with dataflow in Ruby
+
+	Combining laziness and immutability to process data and information
+
+55:44 - Jessica’s Upcoming Speaker Conferences
+
+
+	WindyCityRails
+	PyCon Canada
+	Øredev 2013
+
+Picks
+
+	Sleep (Avdi)
+	Regex Crossword (Josh)
+	JRuby (Josh)
+	Alan Kay's new OOP+FP work at Viewpoints Research Institute/COLA (Josh)
+	Mostly Erlang Podcast (Chuck)
+	Kris Gale: The one cost engineers and product managers don't consider (Jessica)
+	Functional Programming in Scala by Paul Chiusano and Rúnar Bjarnason (Jessica)
+	@flowchainsensei (Jessica)
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+Non-Rails Projects
+Transcript
+JOSH:  I was reviewing your video in chipmunk mode.
+
+JESSICA:  [Laughs]
+
+JOSH:  Watching you gesture with your arms was particularly funny.
+
+JESSICA:  [Laughs]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+[This episode is sponsored by the Ultimate DevOps Academy. They will be taking your complete Rails app through the entire automation step, complete configuration management, CI, autodeploy, autoscale, and at the end, you’ll have a top to bottom setup with all the tools for running a fully integrated production environment. The course has a live interactive webcast for instruction, but everything is recorded so you can work through it all at your own pace and save materials for later use. Plus, there will be lots of Q&amp;A, help sessions, labs, et cetera to ensure success for everyone. Go sign up at UltimateDevOps.com]
+
+CHUCK:  Hey everybody and welcome to Episode 115 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello from insomnia.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hello from San Francisco, that suburb of insomnia.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest and that is Jessica Kerr.
+
+JESSICA:  Hello from Saint Louis.
+
+CHUCK:  You want to introduce your self really quickly since you haven’t been on the show before?
+
+JESSICA:  Sure. I’m a Java Developer for 12 years and more recently,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:04:01</itunes:duration>
+	</item>

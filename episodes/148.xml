@@ -1,0 +1,167 @@
+<item>
+		<title>114 RR Elixir with José Valim</title>
+		<link>http://rubyrogues.com/114-rr-elixir-with-jose-valim/</link>
+		<comments>http://rubyrogues.com/114-rr-elixir-with-jose-valim/#comments</comments>
+		<pubDate>Wed, 17 Jul 2013 12:33:19 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Jose Valim]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1407</guid>
+		<description><![CDATA[Panel José Valim (twitter github blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:08 &#8211; José Valim Introduction 048 RR Crafting [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/114-rr-elixir-with-jose-valim/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR114Elixir.mp3" length="65498565" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  José Valim (twitter github blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Katrina Owen (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	José Valim (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Katrina Owen (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:08 - José Valim Introduction
+
+	048 RR Crafting Rails Applications with José Valim
+
+02:37 - Elixir
+
+
+	Functional Programming Language
+	Erlang
+	Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages by Bruce A. Tate
+
+07:00 - Elixir and Happiness
+08:50 - Naming Elixir
+
+
+	WORDOID
+
+09:55- The Erlang Virtual Machine
+
+
+	Introduction to Elixir: a New Language on the VM - José Valim
+	Routing
+	Aaron Patterson: Pattern Matching and Rails Routes at MagRails
+	Aaron's Routing Code
+
+17:20 - Functional Programming with a Ruby Style Syntax
+
+
+	Additional Parenthesis
+	Metaprogramming &amp; Macros
+	LISP
+	Lambdas
+
+25:25 - Language Design
+
+
+	Riak
+	Bang
+
+39:30 - Elixir Moving to Web?
+
+
+	AMNESIA
+
+41:20 - “Everything in Elixir is an Expression”
+
+
+	The Return Method of Modules
+
+48:25 - The Actor Model &amp; Elixir
+54:23 - Resources
+
+
+	Erlang
+	ferd.ca -&gt; An Open Letter to the Erlang Beginner (or Onlooker)
+	Programming Elixir by Dave Thomas
+	Programming Erlang: Software for Concurrent World by Joe Armstrong
+	Meet Elixir | PeepCode Screencasts
+	The Erlangelist
+
+Picks
+
+	Meet Elixir | PeepCode Screencasts (Avdi)
+	Wilfred (Avdi)
+	Erlang: The Movie (Katrina)
+	Bryan Helmkamp’s Security Email Course (Katrina)
+	David Brady (David)
+	My Emacs Setup, pt 1 | polishing ruby by ryan davis (James)
+	Star Trek: Enterprise (James)
+	pessimize (Josh)
+	Using the pessimistic version constraint operator with ruby gem versions | Jon Cairns (Josh)
+	@YiddishProverbs (Josh)
+	Alias (Chuck)
+	Under the Dome (Chuck)
+	benjamin.tan: Elixir for the Lazy Impatient and Busy: Part 3 I&gt; Processes 102 (José)
+	Unerdwear: Underwear for Nerds (José)
+	Todd and the Book of Pure Evil (José)
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+Functional and Object-Oriented Programming with Jessica Kerr
+Transcript
+CHUCK:  I’m so tired I could use a wake-up Elixir.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at Bluebox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+ [This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+CHUCK:  Hey everybody, and welcome to Episode 114 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning, everyone.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Witty greeting.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello.
+
+CHUCK:  David Brady.
+
+DAVID:  Currently not seeking asylum in Russia. This is David Brady.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hello.
+
+CHUCK:  And I'm Charles Max Wood from DevChat.TV. This week, we have a special guest and that’s Jose Valim.
+
+JOSE:  Hello.
+
+CHUCK:  We haven’t had you on the show for a while, Jose.
+
+JOSE:  Yes, what was the last time? A year ago, two years ago?
+
+JAMES:  Yes, it was a while ago.
+
+CHUCK:  It was about a year or so ago, we read your book.
+
+DAVID:  We heard you hate Ruby now.
+
+[Laughter]
+
+JOSE:  That’s not true.
+
+JAMES:  That’s why we didn’t bring him back, he switched sides.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:14</itunes:duration>
+	</item>
