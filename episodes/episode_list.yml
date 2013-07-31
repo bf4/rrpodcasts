@@ -55,7 +55,7 @@
   :enclosure: RubyRogues20110825_01.mp3
 - :feed_number: 144
   :title: ! 'Book Club: Exceptional Ruby by Avdi Grimm'
-  :enclosure:
+  :enclosure: 
 - :feed_number: 19
   :title: ! '019 RR Book Club: Exceptional Ruby'
   :enclosure: RubyRogues20110907.mp3
@@ -70,7 +70,7 @@
   :enclosure: RubyRogues20110927.mp3
 - :feed_number: 143
   :title: ! 'Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck'
-  :enclosure:
+  :enclosure: 
 - :feed_number: 23
   :title: ! '023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck'
   :enclosure: smalltalk_best_practice_patterns.mp3
@@ -103,7 +103,7 @@
   :enclosure: ruby_antipatterns.mp3
 - :feed_number: 142
   :title: ! 'Book Club Announcement: Eloquent Ruby by Russ Olsen'
-  :enclosure:
+  :enclosure: 
 - :feed_number: 33
   :title: 033 RR Book Club – Eloquent Ruby
   :enclosure: eloquent_ruby.mp3
@@ -241,7 +241,7 @@
   :enclosure: RR076ServiceOrientedDesign.mp3
 - :feed_number: 107
   :title: Ruby Nuby Project
-  :enclosure:
+  :enclosure: 
 - :feed_number: 78
   :title: 077 RR Complexity with Glenn Vanderburg
   :enclosure: RR077Complexity.mp3
@@ -329,7 +329,7 @@
   :title: 103 RR Ruby Gems
   :enclosure: RR103Gems.mp3
 - :feed_number: 106
-  :title: 104 RR The Rails View with John Athayde and Bruce Williams
+  :title: ! '104 RR Book Club: The Rails View with John Athayde and Bruce Williams'
   :enclosure: RR104TheRailsView.mp3
 - :feed_number: 108
   :title: 105 RR Regular Expressions with Nell Shamrell
@@ -364,3 +364,6 @@
 - :feed_number: 149
   :title: 115 RR Functional and Object Oriented Programming with Jessica Kerr
   :enclosure: RR115FunctionalandOOProgramming.mp3
+- :feed_number: 150
+  :title: 116 RR Non-Rails Projects
+  :enclosure: RR116NonRailsProjects.mp3

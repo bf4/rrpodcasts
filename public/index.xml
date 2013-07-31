@@ -26,6 +26,116 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>116 RR Non-Rails Projects</title>
+		<link>http://rubyrogues.com/116-rr-non-rails-projects/</link>
+		<comments>http://rubyrogues.com/116-rr-non-rails-projects/#comments</comments>
+		<pubDate>Wed, 31 Jul 2013 13:00:33 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1447</guid>
+		<description><![CDATA[Panel James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Katrina Owen (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:55 &#8211; Non-Rails Applications Daemon Processes Raspberry Pi sinatra Smalltalk Best Practice Patterns [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/116-rr-non-rails-projects/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR116NonRailsProjects.mp3" length="77105250" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Katrina Owen (twitter github blog)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Katrina Owen (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:55 - Non-Rails Applications
+
+	Daemon Processes
+	Raspberry Pi
+	sinatra
+	Smalltalk Best Practice Patterns by Kent Beck
+
+07:32 - Requiring
+
+
+	Logical Paths
+	Load Paths
+	require_relative
+
+18:04 - Autoloading
+
+
+	Code Reloading
+	shotgun
+
+22:15 - Application Logic
+25:48 - Full Restructure
+
+
+	Bundler
+	103 RR Ruby Gems
+
+36:23 - Testing
+
+
+	rspec-rails
+	minitest-spec-rails
+
+47:08 - Daemonized Applications
+
+
+	servolux
+
+54:30 - Self-contained Executables
+
+
+	Skinny daemons
+
+56:50 - Logging
+
+
+	025 RR Logging – I Do Not Think It Means What You Think It Means
+
+01:02:06 - Threading
+
+
+	Working With Unix Processes by Jesse Storimer
+	Jesse Storimer's Blog
+
+Picks
+
+	jsonpath (James)
+	RoboRally (James)
+	Bulleit 10 Year Bourbon (Avdi)
+	Redshirts by John Scalzi (Josh)
+	How Much for Just the Planet? by John M. Ford (Josh)
+	The Open Source Report Card (Katrina)
+	MTA.ME (Katrina)
+	serve (David)
+	Effective JavaScript by David Herman (David)
+	gs-apns (Chuck)
+	Blue Microphones Yeti USB Microphone - Silver Edition (Chuck)
+	Adobe Audition CS6 (Chuck)
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+Discourse Part 2 with Sam Saffron and Robin Ward
+Transcript
+Coming Soon
+
+ </itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:20:19</itunes:duration>
+	</item>
+<item>
 		<title>115 RR Functional and Object Oriented Programming with Jessica Kerr</title>
 		<link>http://rubyrogues.com/115-rr-functional-and-object-oriented-programming-with-jessica-kerr/</link>
 		<comments>http://rubyrogues.com/115-rr-functional-and-object-oriented-programming-with-jessica-kerr/#comments</comments>
