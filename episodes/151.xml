@@ -1,0 +1,170 @@
+<item>
+		<title>117 RR Discourse Part 2 with Sam Saffron and Robin Ward</title>
+		<link>http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/</link>
+		<comments>http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/#comments</comments>
+		<pubDate>Wed, 07 Aug 2013 15:00:18 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Robin Ward]]></category>
+		<category><![CDATA[Sam Saffron]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1455</guid>
+		<description><![CDATA[Panel Sam Saffron (twitter blog) Robin Ward (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion Check out 106 RR Discourse with Jeff Atwood for Discourse Part 1 01:08 &#8211; Sam Saffron &#38; Robin Ward Introduction [...]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR117Discourse2.mp3" length="82411691" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Sam Saffron (twitter blog)   Robin Ward (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Sam Saffron (twitter blog)
+	Robin Ward (twitter github blog)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+Check out 106 RR Discourse with Jeff Atwood for Discourse Part 1
+
+01:08 - Sam Saffron &amp; Robin Ward Introduction
+
+	Co-founders of Discourse
+	Discourse Meta
+	Try Discourse
+
+02:10 - Turbolinks
+06:43 - Ember.js &amp; Discourse
+15:10 - Why Ruby?
+18:18 - discourse Contribution
+
+
+	guard
+	PhantomJS
+
+31:06 - Making Discourse Work
+
+
+	redis
+	Ruby 2.0
+	MiniProfiler/Ruby
+
+44:05 - Multisite Stuff
+
+
+	Multisite setup instructions
+	apartment
+
+46:42 - Multithreading
+49:50 - message_bus
+
+
+	faye
+
+52:46 - Code Climate
+
+
+	Code Climate - discourse
+	Code Climate - SiteSetting from discourse
+
+01:04:00 - Lessons Learned
+01:10:13 - Hard Parts
+01:15:46 - Dropping IE
+
+Picks
+
+	Dana Gray (David)
+	Mandy Moore (David)
+	Flint (James)
+	JBL Flip Wireless Bluetooth Speaker (James)
+	Brian Stevens / Data Porters (Chuck)
+	marked (Sam)
+	Adobe Photoshop Lightroom (Sam)
+	Feminist Frequency (Robin)
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 21st. O’Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+Live at LoneStar Ruby Conference
+Transcript
+DAVID:  “Your startup disk is full. This also means you are finished.”
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.] 
+
+CHUCK:  Hey everybody and welcome to Episode 117 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Hello everybody.
+
+CHUCK:  David Brady.
+
+DAVID:  For topical use only.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we have two special guests. We have Robin Ward.
+
+ROBIN:  Hello.
+
+CHUCK:  And Sam, is it Saffron?
+
+SAM:  Saffron, yeah.
+
+CHUCK:  Saffron. Okay.
+
+SAM:  Howdy.
+
+CHUCK:  Since you guys are new to the show, do you want to introduce yourselves really quickly?
+
+ROBIN:  Sure. You want to go first, Sam?
+
+SAM:  Sure.
+
+ROBIN:  I love to volunteer other people.
+
+SAM:  [Chuckles] Excellent. I’m Sam Saffron. I work for Discourse. I’m a co-founder. Love the show. Excited to be here.
+
+DAVID:  Cool.
+
+CHUCK:  And Robin?
+
+ROBIN:  I guess I’ll go ahead. I’m another co-founder of Discourse. Ruby developer, I guess a lot of JavaScript these days. I’m delighted to be here and geek out.
+
+CHUCK:  Wait, did you say JavaScript?
+
+ROBIN:  I do a fair amount of JavaScript, yeah.
+
+CHUCK:  Are you on the right show?
+
+[Laughter]
+
+ROBIN:  I like Ruby too. Look.
+
+CHUCK:  Can I bribe you to come on the right show?
+
+[Laughter]
+
+JAMES:  Hey, these people actually listen to the show. That’s cool.
+
+ROBIN:  I wonder how many developers you have come on who don’t know any JavaScript, because if you’re doing any kind of web app, you probably are at least using a little.
+
+DAVID:  Actually, that would be hilarious if JavaScript Jabber actually had just a run of developers who knew no JavaScript.
+
+[Chuckles]
+
+CHUCK:  Oh, geez.
+
+SAM:  Talking JavaScript, are you guys fans of Turbolinks?
+
+JAMES:  [Chuckles]
+
+SAM:  Let’s bring it into some controversial territory to start off.
+
+JAMES:  Yeah.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:25:51</itunes:duration>
+	</item>
