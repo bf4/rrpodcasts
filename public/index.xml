@@ -26,6 +26,100 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>118 RR Live Recording at LoneStar Ruby Conference 2013</title>
+		<link>http://rubyrogues.com/118-rr-live-recording-at-lonestar-ruby-conference-2013/</link>
+		<comments>http://rubyrogues.com/118-rr-live-recording-at-lonestar-ruby-conference-2013/#comments</comments>
+		<pubDate>Wed, 14 Aug 2013 13:00:57 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1463</guid>
+		<description><![CDATA[Panel Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) Discussion 02:29 &#8211; Best Practice Patterns 03:24 &#8211; James Edward Gray: Why Best Practices? [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/118-rr-live-recording-at-lonestar-ruby-conference-2013/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR118LSRC.mp3" length="45095434" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)   Katrina Owen (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+	Katrina Owen (twitter github blog)
+	James Edward Gray (twitter github blog)
+
+Discussion
+02:29 - Best Practice Patterns
+03:24 - James Edward Gray: Why Best Practices?
+06:58 - Katrina Owen: Naming Things
+10:03 - Charles Max Wood: Best Practices and Style Guides
+14:13 - David Brady: Code Readability
+18:41 - Josh Susser: Aesthetics
+23:00 - Avdi Grimm: Don’t Get Clever
+28:26 - Questions From the Audience
+
+Book Club
+Understanding Computation: From Simple Machines to Impossible Programs by Tom Stuart!  He will join us for an episode to discuss the book on August 14th. The episode will air on August 28th. O’Reilly has generously offered our listeners a discount code. Use the code RUBYROGUES to receive 50% off the eBook and 40% off the print version. *Discount does not apply to the ebook + print bundle.
+Next Week
+Accessibility with Brian Hogan
+Transcript
+JAMES:  I’m talking like I normally do.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This episode is sponsored by Code Climate. Code Climate automated code reviews ensure that your projects stay on track. Fix and find quality and security issues in your Ruby code sooner. Try it free at RubyRogues.com/CodeClimate.]
+
+JOSH:  Hi. So we may not need an introduction, but I’m giving you one anyway. We’re the Ruby Rogues. I’m Josh. This is Avdi.
+
+AVDI:  Hello.
+
+JOSH:  David, Chuck, Katrina, and James.
+
+JAMES:  Hello everyone.
+
+JOSH:  We’re almost ready to get started here for slides, but I’m not going to wait for them because the intro here doesn’t really need them.
+
+AVDI:  Somebody might not know what the Ruby Rogues are?
+
+JOSH:  Hey, who listens to us?
+
+[Cheers]
+
+DAVID:  Welcome to our show.
+
+[Laughter]
+
+JAMES:  They are on our show right now.
+
+JOSH:  How many people here are on the Parley Email list? That’s really cool. I’m going to make the announcement now, rather than later. One of the things that we’ve been working on for a little bit is, we had Jeff Atwood on the show a couple of weeks ago, a month or two ago, something like that. And we talked about Discourse which is this really cool open source project they’re doing to reinvent forum groups.
+
+AVDI:  Built on Rails.
+
+JOSH:  Built on Rails with Ember is the frontend and we’re going to be moving the Rogues Parley list from a Google group Email list to a Discourse forum. We’ll have much more flexibility in how to manage conversations. We can plenty of off-topic stuff. There’ll be a place for recruiters to send their spam. It’ll all be wonderful.
+
+Okay. So, we have slides up now. Now, I’ll talk about what we’re talking about today. I’m just going to do a quick intro then we’re all going to each take three minutes and tell you our position and then we’ll have a little fun debate and you can ask us questions too.
+
+The topic today is best practices. Many of you may have heard of this book, ‘Smalltalk Best Practice Patterns’. We had Kent on the show quite a while ago now and talked about this book. Everybody says we really need a Ruby version of this book. So, we’re writing one.
+
+[Applause]
+
+JOSH:  We’re going to be working with Pearson. They do the Professional Ruby Series, the books with the red covers. I’m sure you’ve seen a lot of them. Tomorrow,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>46:58</itunes:duration>
+	</item>
+<item>
 		<title>117 RR Discourse Part 2 with Sam Saffron and Robin Ward</title>
 		<link>http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/</link>
 		<comments>http://rubyrogues.com/117-rr-discourse-part-2-with-sam-saffron-and-robin-ward/#comments</comments>
