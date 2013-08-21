@@ -26,6 +26,164 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>119 RR Accessibility with Brian Hogan</title>
+		<link>http://rubyrogues.com/119-rr-accessibility-with-brian-hogan/</link>
+		<comments>http://rubyrogues.com/119-rr-accessibility-with-brian-hogan/#comments</comments>
+		<pubDate>Wed, 21 Aug 2013 13:00:16 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Brian Hogan]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1466</guid>
+		<description><![CDATA[Panel Brian Hogan (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:39 &#8211; Brian Hogan Introduction tmux: Productive Mouse-Free Development by Brian Hogan HTML5 [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/119-rr-accessibility-with-brian-hogan/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR119Accessibility.mp3" length="74299920" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Brian Hogan (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Josh Susser (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Brian Hogan (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:39 - Brian Hogan Introduction
+
+	tmux: Productive Mouse-Free Development by Brian Hogan
+	HTML5 and CSS3: Develop with Tomorrow’s Standards Today by Brian Hogan
+	Web Development Recipes by Brian P. Hogan, Chris Warren, Mike Weber, Chris Johnson, Aaron Godin
+	Development Editor with Pragmatic Bookshelf
+	Professor at Chippewa Valley Technical College
+
+02:09 - What Accessibility Means
+06:50 - Making Things Accessible
+
+
+	Transcripts
+	Video Scripts &amp; Captions
+
+08:35 - Is There a Downside to Making Things Accessible?
+
+
+	Disabling JavaScript
+
+11:28 - ARIA Roles
+
+
+	ARIA – HTML5
+	WAI-ARIA Live Regions and HTML5
+
+15:19 - Keyboard Shortcuts
+17:50 - Assistive Technologies
+24:25 - Accessibility Awareness
+
+
+	058 JSJ Building Accessible Website with Brian Hogan
+	Sympathy vs Empathy
+	Pixels vs Relative
+
+29:16 - Tools
+
+
+	W3C Markup Validation Service
+	WebAIM - Web Accessibility In Mind
+	WebAIM's WCAG 2.0 Checklist for HTML documents
+	Color Oracle
+	JAWS
+
+35:04 - Web Innovation and Accessibility
+
+
+	Infinite Scroll
+	URL Changing
+
+39:26 - Backend Technologies
+41:42 - Internationalization &amp; ESL
+45:29 - Accessibility for People with Cognitive Impairment
+47:38 - Hearing Impairment
+48:30 - Documentation
+50:07 - Accessibility in Apps
+53:45 - Accessibility Audits
+54:57 - Framework Improvements
+59:35 - Accessible Websites
+
+
+	Google Maps
+	Twitter
+
+01:01:16 - Resources
+
+
+	WebAIM - Web Accessibility In Mind
+	webaxe Podcast
+	HTML5 accessibility
+
+Picks
+
+	Strategic IT Accessibility: Enabling the Organization by Jeff Kline (David)
+	egghead.io (David)
+	A Wizard of Earthsea by Ursula Le Guin (Josh)
+	True Names by Vernor Vinge (Josh)
+	Kathy Sierra's Blog -- Serious Pony (James)
+	@seriouspony (James)
+	Ruby Warrior (Avdi)
+	Object Playground: The Definitive Guide to Object-Oriented JavaScript (Avdi)
+	APL Demonstration from 1975 (Avdi)
+	ng-conf (Chuck)
+	Ember 101 Screencasts (Chuck)
+	Wistia (Chuck)
+	HTML5 and CSS3 (2nd edition): Level Up with Today's Web Technologies by Brian P. Hogan (Brian)
+	Pro HTML5 Accessibility by Joshue O Connor (Brian)
+	Beat Hazard (Brian)
+
+Next Week
+Book Club: Understanding Computation with Tom Stuart
+Transcript
+CHUCK:  I had a weird dream last night, Avdi, that you were marketing hair care products along with your Ruby Tapas.
+
+[Chuckles]
+
+AVDI:  Interesting.
+
+JAMES:  That’s a brilliant idea, actually. “Take in some confident code and while you’re at it, this nice shampoo and conditioner package.”
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Over one thousand organizations trust Code Climate to help improve quality and security in their Ruby apps. Get 50% off your first three months for being a Rogues listener by starting a free trial this week. Go to RubyRogues.com/CodeClimate.]
+
+CHUCK:  Hey everybody and welcome to episode 119 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  I’ve stopped listening to the new civil wars album long enough to record this episode.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello.
+
+CHUCK:  David Brady. [Silence]
+
+Josh Susser.
+
+JOSH:  I think David’s off solving The Halting Problem. He’ll be right back.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:24</itunes:duration>
+	</item>
+<item>
 		<title>118 RR Live Recording at LoneStar Ruby Conference 2013</title>
 		<link>http://rubyrogues.com/118-rr-live-recording-at-lonestar-ruby-conference-2013/</link>
 		<comments>http://rubyrogues.com/118-rr-live-recording-at-lonestar-ruby-conference-2013/#comments</comments>
