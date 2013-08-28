@@ -1,0 +1,166 @@
+<item>
+		<title>120 RR Book Club: Understanding Computation with Tom Stuart</title>
+		<link>http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/</link>
+		<comments>http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/#comments</comments>
+		<pubDate>Wed, 28 Aug 2013 13:00:43 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Tom Stuart]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1479</guid>
+		<description><![CDATA[Panel Tom Stuart (twitter github blog) David Brady (twitter github blog ADDcasts) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:52 &#8211; Tom Stuart Introduction 02:24 &#8211; Understanding Computation by Tom Stuart 02:53 &#8211; Why Tom Wrote the Book [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR120UnderstandingComputation.mp3" length="105854607" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Tom Stuart (twitter github blog)   David Brady (twitter github blog ADDcasts)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Tom Stuart (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:52 - Tom Stuart Introduction
+02:24 - Understanding Computation by Tom Stuart
+02:53 - Why Tom Wrote the Book
+12:46 - Finite Automata
+14:27 - Turing Machines
+18:37 - Pages 187-192
+
+
+	Types and Programming Languages by Benjamin C. Pierce
+
+22:22 - Lambda Calculus
+
+
+	The Halting Problem
+
+35:36 - Decidability and Undecidability
+46:12 - The Cyclic Tag System &amp; Iota
+52:40 - Understanding Computation
+
+
+	DNA Computing
+
+57:37 - The Goldbach Conjecture
+01:02:52 - Finite State Machine
+01:05:14 - The Impact of Quantum Computing
+
+
+	Scott Aaronson
+	Quantum Computing since Democritus by Scott Aaronson
+
+01:07:25 - The Book and Rails
+
+
+	html - RegEx match open tags except XHTML self-contained tags - Stack Overflow
+
+01:16:41 - Using Ruby for the Book
+01:23:59 - Struct
+01:26:18 - Teaching Programming Habits
+01:31:16 - What Makes a Good Language?
+
+Picks
+
+	Just2bits - YouTube (Josh)
+	Seashells (Josh)
+	Google Maps Has An Incredible Doctor Who Easter Egg (Josh)
+	Detangling Business Logic in Rails Apps with PORO Events and Observers (James)
+	A Cost-effective Approach to Scaling Event-based Data Collection and Analysis (James)
+	The Case for Vertical Sharding (James)
+	CM Punk's Grammar Slam - Literally vs. Figuratively (David)
+	LessAccounting (Chuck)
+	iOS Programing: The Big Nerd Ranch Guide (3rd Edition) (Chuck)
+	Learn to Program by Chris Pine (2nd Edition) (Tom)
+	showterm (Tom)
+	How to Write a Web Application in Ruby (Tom)
+
+Next Week
+Consulting vs Product Work with Adam Keys
+Transcript
+JAMES:  Alright. So, what are we talking about today?
+
+JOSH:  It’s hard to say.
+
+JAMES:  It’s hard to say.
+
+JOSH:  It’s undecidable.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Raise the visibility of quality within your team with Code Climate and start shipping better code faster. Try it free at RubyRogues.com/CodeClimate.]
+
+CHUCK:  Hey everybody and welcome to episode 120 of the Ruby Rogues Podcast. This week on our panel, we have David Brady.
+
+DAVID:  All programs halt. Computer science is a fraud.
+
+CHUCK:  Josh Susser.
+
+JOSH:  My introduction is NP-complete.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  I am made of lambda calculus.
+
+CHUCK:  And I’m Charles Max Wood from DevChat.TV. We have a special guest this week and that is Tom Stuart.
+
+TOM:  Hello from sunny London.
+
+JAMES:  That’s not true. I’ve been to London.
+
+DAVID:  What?
+
+[Laughter]
+
+CHUCK:  I was going to say.
+
+JAMES:  I don’t buy that.
+
+TOM:  It is a beautiful day in London today.
+
+JAMES:  What? There were no beautiful days. I was there for half a month. [Chuckles]
+
+TOM:  Got to plan ahead.
+
+CHUCK:  Yeah.
+
+[Laughter]
+
+CHUCK:  You have to be there.
+
+DAVID:  [inaudible] doing a podcall.
+
+JOSH:  Okay, let’s not do a podcast about weather.
+
+[Laughter]
+
+JOSH:  How are you doing, Tom?
+
+TOM:  I’m good, thanks. How are you?
+
+JOSH:  Could use more sleep, but I’m feeling great.
+
+CHUCK:  Since you’re new to the show, Tom, do you want to introduce yourself really quickly?
+
+TOM:  Yeah. My name is Tom Stuart. I’m a Ruby on Rails developer and freelancer and I just wrote a book. I think that’s probably what we’re going to talk about today.
+
+CHUCK:  Probably.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:50:16</itunes:duration>
+	</item>
