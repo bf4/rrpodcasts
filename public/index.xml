@@ -26,6 +26,154 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>121 RR Consulting vs Product Work with Adam Keys</title>
+		<link>http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/</link>
+		<comments>http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/#comments</comments>
+		<pubDate>Wed, 04 Sep 2013 13:00:16 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Adam Keys]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1490</guid>
+		<description><![CDATA[Panel Adam Keys (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:17 &#8211; Adam Keys Introduction Keeping Up with Gowalla with Adam Keys LivingSocial Sifter [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/121-rr-consulting-vs-product-work-with-adam-keys/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR121ProductVsConsulting.mp3" length="73893674" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Adam Keys (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Katrina Owen (twitter github blog)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rai...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Adam Keys (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Katrina Owen (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:17 - Adam Keys Introduction
+
+	Keeping Up with Gowalla with Adam Keys
+	LivingSocial
+	Sifter
+
+02:11 - What is a Consultant?
+03:58 - Consultants vs Contractors
+04:46 - Consulting Work vs Product Work
+
+
+	Perspective &amp; Goals
+	Cash Flow
+
+08:39 - Making the Product Better vs Getting Paid
+13:15 - Good Consultants vs Bad Consultants
+15:11 - Freedom of Experimentation
+
+
+	Communication
+
+18:16 - Responsibility for writing good code
+20:38 - Are consultants more likely to speak at conferences or work on things like podcasts?
+
+
+	Permission to take time off
+	Billable Hours
+
+26:26 - Development Process: Freelance vs Full Time
+31:02 - Attitude Towards Writing Code
+
+
+	Cutthroat vs Quality Code
+
+37:56 - Job Security
+
+
+	The Prisoner’s Dilemma
+
+41:42 - Technology Choices
+
+
+	Risk
+
+45:07 - Iteration vs Long-Term Thinking, Architecture &amp; Design
+55:16 - Grinders, Cowboy Coders, and Cut Rate Consultants
+
+Picks
+
+	pbrisbin - chruby (James)
+	chruby (James)
+	ruby-install (James)
+	ASUS RT-N66u (Avdi)
+	WhatTheFont (Avdi)
+	Ruby Ramen (Avdi)
+	The Game of Life in 140 Characters (Josh)
+	Socrates Jones: Pro Philosopher (Josh)
+	The Best Map Ever Made of America’s Racial Segregation (Josh)
+	David Brady: Loyalty and Layoffs (Chuck)
+	Sports and Pop Culture (Adam)
+
+Book Club
+Confident Ruby by Avdi Grimm! Use the discount code ROGUESCLUB for 20% off of any of the editions! Avdi will talk about the book on the show on October 16th, 2013.
+Next Week
+Daemons with Kenneth Kalmer
+Transcript
+JOSH:  How is your tattoo feeling there, James?
+
+JAMES:  It kind of hurts. Thanks!
+
+[Laughter]
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climates’ new security monitor alerts you immediately when vulnerabilities are introduced into your Rails app. Sleep better knowing that your data is protected. Try it free at RubyRogues.com/CodeClimate.]
+
+CHUCK:  Hey everybody and welcome to episode 121 of the Ruby Rogues podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello!
+
+CHUCK:  Josh Susser.
+
+JOSH:  Good morning.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hello.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  Good morning.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest, Adam Keys.
+
+ADAM:  Hello there.
+
+CHUCK:  You’ve been on the show before, Adam. Do you want to introduce your self anyway?
+
+ADAM:  Sure. I'm Adam, I'm from Texas. I currently work at LivingSocial and work on Sifter app on the side. I've only been a consultant for like four months of my life. So, there.
+
+CHUCK:  [Laughs] Is that a good thing or a bad thing?
+
+ADAM:  It was a discovery process. I learned that I liked just working on a product more than doing all the other things that consulting work entails.
+
+JAMES:  That’s kind of funny actually. I was wondering if you were going to say it was the worst four months of your life. But for me, I think it’s almost backwards, like I love the constantly seeing new things and stuff like that. So, I never feel like I'm bored and stuff.
+
+JOSH:  Hey, maybe we can start with a definition. Like, what is a consultant?
+
+JAMES:  What is a consultant? Yes.
+
+JOSH:  What do you mean by ‘consultant’?</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:58</itunes:duration>
+	</item>
+<item>
 		<title>120 RR Book Club: Understanding Computation with Tom Stuart</title>
 		<link>http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/</link>
 		<comments>http://rubyrogues.com/120-rr-book-club-understanding-computation-with-tom-stuart/#comments</comments>
