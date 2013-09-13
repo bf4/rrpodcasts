@@ -1,0 +1,187 @@
+<item>
+		<title>122 RR Daemons with Kenneth Kalmer</title>
+		<link>http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/</link>
+		<comments>http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/#comments</comments>
+		<pubDate>Wed, 11 Sep 2013 12:00:17 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Kenneth Kalmer]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1496</guid>
+		<description><![CDATA[Panel Kenneth Kalmer (twitter github blog ValuationUP) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:49 &#8211; Kenneth Kalmer Introduction 02:33 &#8211; How to say “daemon” 03:47 &#8211; [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR122Daemons.mp3" length="69639254" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Kenneth Kalmer (twitter github blog ValuationUP)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Kenneth Kalmer (twitter github blog ValuationUP)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:49 - Kenneth Kalmer Introduction
+02:33 - How to say “daemon”
+03:47 - Definition
+
+
+	Tammer Saleh: Angels and Daemons
+
+04:48 - Sending signals to daemons
+06:02 - What daemons are used for
+
+
+	daemon-kit
+
+08:26 - The process of starting up a daemon
+
+
+	ruby/ruby/blob/trunk/lib/webrick/server.rb#L45
+
+11:10 - .pid file management
+13:40 - Cron Job
+
+
+	058 RR Book Club: Working with Unix Processes with Jesse Storimer
+
+17:37 - Why the JVM isn’t good for running daemons
+
+
+	god
+	bluepill
+
+20:18 - Daemonizing on a Windows system
+
+
+	Win32Utils - Ruby Libraries for MS Windows
+	win32-service
+
+21:53 - Getting daemons to start up when the server starts
+
+
+	god
+	foreman
+	monit
+
+25:02 - Writing a daemon
+
+
+	rufus-scheduler
+
+29:22 - When would you want to create your own daemon?
+
+
+	Metrics Gathering
+
+32:54 - Communicating with daemons
+
+
+	blather
+	AMQP
+	mkfifo
+
+36:29 - Deployment cycle for daemons
+
+
+	capistrano
+
+40:11 - Sharing Code
+
+
+	SIGTERM VS. SIGKILL
+
+48:51 - What do you put in the payload of the jobs?
+
+
+	Unicorn!
+
+53:23 - Knowing when something goes wrong
+
+
+	Exceptional Ruby by Avdi Grimm
+	zero-zero
+	safely
+
+Picks
+
+	servolux (Katrina)
+	Aral Balkan: Superheroes &amp; Villains in Design (Katrina)
+	A Unix Utility You Should Know About: Pipe Viewer (Josh)
+	Pipe Viewer: Online Man Page (Josh)
+	The Mote in God's Eye by Larry Niven (Josh)
+	James' Google+ Hangout: Emacs Part 1 (James)
+	James' Google+ Hangout: Emacs Part 2 (James)
+	James Edward Gray: Ruby 2 Jeopardy (James)
+	Dungeons of Dredmor (James)
+	Prince (Avdi)
+	DocRaptor (Avdi)
+	XMLStarlet Command Line XML Toolkit (Avdi)
+	Evernote (Chuck)
+	The MacSparky Paperless Field Guide by David Sparks  (Chuck)
+	Fujisu ScanSnap S1300i (Chuck)
+	SaneBox (Chuck)
+	Gmail (Chuck)
+	Tammer Saleh: Angels and Daemons (Kenneth)
+	Rubyfuza (Kenneth)
+	Oppikoppi (Kenneth)
+	Manna: the beer drone at Oppikoppi (Kenneth)
+	99% Invisible (Kenneth)
+	Radiolab (Kenneth)
+
+Book Club
+Confident Ruby by Avdi Grimm! Use the discount code ROGUESCLUB for 20% off of any of the editions! Avdi will talk about the book on the show on October 16th, 2013.
+Next Week
+ROM with Piotr Solnica
+Transcript
+KATRINA:  Can you say, “I believe I broke his jaw”?
+
+KENNETH:  Who, me?
+
+KATRINA:  Yes, you. Of course, you.
+
+KENNETH:  I believe I broke his jaw.
+
+KATRINA:  Ah! It’s so brilliant.
+
+JAMES:  Okay, now you have to explain that.
+
+[Laughter]
+
+KATRINA:  I think at the first Mission Impossible movie, there are some really bad guys from South Africa and one of them says, “I believe I broke his jaw,” and it’s so funny.
+
+[Laughter]
+
+CHUCK:  Okay.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climate automated code reviews ensure that your projects stay on track. Fix and find quality and security issues in your Ruby code sooner. Try it free at RubyRogues.com/CodeClimate.]
+
+CHUCK:  Hey everybody and welcome to episode 122 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning everyone.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Everything done for the first time unleashes a daemon.
+
+CHUCK:  Katrina Owen.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:12:32</itunes:duration>
+	</item>
