@@ -26,6 +26,147 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>123 RR ROM with Piotr Solnica</title>
+		<link>http://rubyrogues.com/123-rr-rom-with-piotr-solnica/</link>
+		<comments>http://rubyrogues.com/123-rr-rom-with-piotr-solnica/#comments</comments>
+		<pubDate>Wed, 18 Sep 2013 12:00:22 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Piotr Solnica]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1503</guid>
+		<description><![CDATA[Panel Piotr Solnica (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:24 &#8211; Piotr Solnica Introduction Ruby Object Mapper 06:08 &#8211; Adapters axiom 09:50 &#8211; Mapping 17:22 &#8211; Early Releasing 20:47 &#8211; Pieces and Patterns [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/123-rr-rom-with-piotr-solnica/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR123ROM.mp3" length="65587135" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Piotr Solnica (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 01:24 - Piotr Solnica Introduction - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Piotr Solnica (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:24 - Piotr Solnica Introduction
+
+	Ruby Object Mapper
+
+06:08 - Adapters
+
+
+	axiom
+
+09:50 - Mapping
+17:22 - Early Releasing
+20:47 - Pieces and Patterns
+
+
+	rom-session
+	rom-relation
+
+26:06 - Axiom and Sequel-based Servers
+
+
+	rom-mapper
+	rom-rb
+
+29:48 - Libraries
+
+
+	concord
+	equalizer
+	adamantium
+	virtus
+	coercible
+	axiom-types
+
+36:21 - Creating Ecosystems
+38:11 - The Memory Adapter
+42:47 - Storing Attributes
+45:28 - Validations
+51:02 - Supporting Data Features for Various Databases
+54:27 - Upcoming Features
+
+
+	SQL Library
+	Missing features in Axiom
+	Support for Relationships
+	Nesting and Unnesting
+
+57:02 - Mutation Testing
+
+
+	mutant
+
+Picks
+
+	Nathan Kontny: Rails Performance Help: Tracer Bullets (James)
+	Ryan Bigg: Bundler local paths (James)
+	Using ltree for hierarchical structures in PostgreSQL (James)
+	Ernie Miller: On Funemployment (and My Next Job) (James)
+	the church of interruption (Avdi)
+	Asphalt 8: Airborne (Avdi)
+	Holy Grail of eCommerce Conversion Optimization - 91 Point Checklist and Infographic (Chuck)
+	resque (Chuck)
+	resque-scheduler (Chuck)
+	Calca (Piotr)
+
+Book Club
+Confident Ruby by Avdi Grimm! Use the discount code ROGUESCLUB for 20% off of any of the editions! Avdi will talk about the book on the show on October 16th, 2013.
+Next Week
+JRuby with Charles Nutter
+Transcript
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This episode is sponsored by JetBrains, makers of RubyMine. If you like having an IDE that provides great inline debugging tools, built-in version control, and intelligent code insight and refactorings, check out RubyMine by going to JetBrains.com/Ruby.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Over 1000 organizations trust Code Climate to help improve quality and security in their Ruby apps. Get 50% off your first three months for being a Rogues Listener by starting a free trial this week. Go to RubyRogues.com/CodeClimate.]
+
+CHUCK:  Hey everybody and welcome to episode 123 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  You all make me want to program wet and naked.
+
+CHUCK:  Nice. Avdi Grimm.
+
+AVDI:  Hello.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And we’ve got a special guest and that is Piotr Solnica.
+
+PIOTR:  That was very good. Hey everyone. I’m Piotr.
+
+CHUCK:  I was just thinking it rhymed with pizza.
+
+PIOTR:  [Laughter]
+
+CHUCK:  Alright, well do you want to just explain who you are and what you’ve done?
+
+PIOTR:  Okay, sure. I’m a software developer from Poland. I live in Kraków. I’m mostly a Ruby developer. I’m also doing some frontend work from time to time. People probably know me from a project called DataMapper and now it’s called Ruby Object Mapper. So this is my biggest priority in open source right now. And yeah, that would be it, probably.
+
+JAMES:  So DataMapper is dead? Just kidding. Just floating [inaudible] rumors there.
+
+[Laughter]
+
+PIOTR:  That’s a hard question.
+
+[Chuckles]
+
+CHUCK:  So are you not following the DataMapper pattern anymore? Or did you just feel like it was time to refresh?
+
+JAMES:  Actually, it’s the other way around, isn’t it?
+
+PIOTR:  Yeah, it’s the other way around. We basically started with DataMapper as the project name. However, it implements active record pattern, which is funny. Eventually, we decided to rename the project Ruby Object Mapper because we didn’t actually like having the project called by the pattern itself. So the first project called DataMapper, as I’ve said, is an implementation of active record.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:19</itunes:duration>
+	</item>
+<item>
 		<title>122 RR Daemons with Kenneth Kalmer</title>
 		<link>http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/</link>
 		<comments>http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/#comments</comments>
