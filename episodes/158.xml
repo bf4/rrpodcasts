@@ -1,0 +1,162 @@
+<item>
+		<title>124 RR JRuby with Charlie Nutter</title>
+		<link>http://rubyrogues.com/124-rr-jruby-with-charlie-nutter/</link>
+		<comments>http://rubyrogues.com/124-rr-jruby-with-charlie-nutter/#comments</comments>
+		<pubDate>Wed, 25 Sep 2013 11:00:09 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Charlie Nutter]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1509</guid>
+		<description><![CDATA[Panel Charlie Nutter (twitter github blog) Katrina Owen (twitter github blog) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:13 &#8211; Going Rogue Video 01:54 &#8211; Charlie Nutter Introduction 03:03 &#8211; Unofficial Rogue: Christian Schlensker 03:47 &#8211; The History [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/124-rr-jruby-with-charlie-nutter/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR124JRuby.mp3" length="64323229" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Charlie Nutter (twitter github blog)   Katrina Owen (twitter github blog)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Charlie Nutter (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:13 - Going Rogue Video
+01:54 - Charlie Nutter Introduction
+03:03 - Unofficial Rogue: Christian Schlensker
+03:47 - The History of JRuby
+
+
+	Red Hat
+	TorqueBox
+
+09:25 - Who’s Using JRuby in Production?
+10:42 - JRuby Conferences
+12:22 - The JRuby Elevator Pitch(es)
+
+
+	Selling Ruby to the Java Community
+	For Rubyists: MRI &amp; a need for specific Java libraries
+	Concurrency
+
+15:14 - Drawbacks of using JRuby
+
+
+	Startup Time
+	Lack of Support Directly for MRI’s C Extentions
+	POSIX Compliance
+	SIGINT
+
+19:42 - The Popularity of JRuby among the JVM Community
+
+
+	Jython
+
+21:01 - Interpretation
+25:10 - Updating JRuby
+
+
+	Implementing New Features
+	Encoding
+
+27:08 - Collaboration
+
+
+	Rubinius
+	RubySpec
+
+29:57 - Process for Adding New Features
+31:17 - Support for JRuby
+35:35 - Making sure gems work for all implementations
+
+
+	TravisCI
+
+37:10 - Getting JRuby Support
+
+
+	Mailing List
+	JRuby on Freenode IRC
+
+40:46 - Java-Side Integration
+47:06 - What’s next for JRuby?
+
+
+	1.7.5 Release
+
+ Picks
+
+	zonebie (David)
+	rails_best_practices (David)
+	Dash Documentation Viewer (Josh)
+	Night's Dawn Trilogy by Peter F. Hamilton (Josh)
+	Planscope.io (Chuck)
+	Going to the Gym (Chuck)
+	Meditation (Chuck)
+	Practical Object-Oriented Design in Ruby: An Agile Primer by Sandi Metz (Charlie)
+	Ctags (Charlie)
+	thread_safe (Charlie)
+	ruby-atomic (Charlie)
+	Java Concurrency in Practice by Brian Goetz (Charlie)
+	Contributing to JRuby (David)
+
+Book Club
+Confident Ruby by Avdi Grimm! Use the discount code ROGUESCLUB for 20% off of any of the editions! Avdi will talk about the book on the show on October 16th, 2013.
+Next Week
+Rogues Only: On Loyalty and Career
+Transcript
+JOSH:  Anyone else? Anyone else ever had chicken in waffles? Come on!
+
+CHUCK:  I can't say that I have actually.
+
+JOSH:  It’s a really…Anyway, are we going to do a show today?
+
+[Laughter]
+
+CHUCK:  Yeah, let’s do the show.
+
+DAVID:  Yeah.
+
+KATRINA:  We’re talking Yay Ruby today.
+
+JOSH:  Yay Ruby, I like it.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Raise the visibility of quality within your team with Code Climate and start shipping better code faster. Try it free at RubyRogues.com/CodeClimate.]
+
+CHUCK:  Hey everybody and welcome to episode 124 of the JRuby JRogues podcast. This week on our panel, we have Katrina Owen.
+
+KATRINA:  Hello.
+
+CHUCK:  Josh Susser.
+
+JOSH:  I'm null for something completely different.
+
+CHUCK:  David Brady.
+
+DAVID:  I was hoping you were going to try to say JDavid JBrady.
+
+CHUCK:  [Laughs] I’m Charles Max Wood from DevChat.TV. Before I introduce our special guest, I want to just briefly make a quick announcement and that is this Friday is my Freedom Day. It’s the day that I got laid off three years ago and I am celebrating that. I'm celebrating my freedom by putting out a free video that kind of talks about the first year or so that I was freelance, how I found clients, how I got started, how I put my business together, all that kind of stuff. So, if you're interested in that, you can get it at GoingRogueVideo.com. Anyway, like I said, it’s free. So, just go and hopefully it helps some folks out who are interested in going freelance.
+
+Anyway, our special guest this week is Charlie Nutter.
+
+CHARLIE:  Hello there, everybody.
+
+JOSH:  Hi Charlie.
+
+CHUCK:  Charlie, you haven’t been on the show before. Do you want to introduce yourself really quickly?
+
+CHARLIE:  In this community,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:00</itunes:duration>
+	</item>
