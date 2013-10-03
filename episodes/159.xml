@@ -1,0 +1,141 @@
+<item>
+		<title>125 RR Loyalty and Layoffs</title>
+		<link>http://rubyrogues.com/125-rr-loyalty-and-layoffs/</link>
+		<comments>http://rubyrogues.com/125-rr-loyalty-and-layoffs/#comments</comments>
+		<pubDate>Wed, 02 Oct 2013 13:00:21 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1520</guid>
+		<description><![CDATA[Panel David Brady (twitter github blog ADDcasts) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:43 &#8211; Going Rogue Video 02:12 &#8211; Unofficial Rogue: Mark Turner 02:31 &#8211; [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/125-rr-loyalty-and-layoffs/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR125LoyaltyAndLayoffs.mp3" length="83017283" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  David Brady (twitter github blog ADDcasts)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	David Brady (twitter github blog ADDcasts)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:43 - Going Rogue Video
+02:12 - Unofficial Rogue: Mark Turner
+02:31 - David Brady: Loyalty and Layoffs
+
+
+	David Brady: Loyalty and Trust
+	David Brady: Loyalty and Your Professional Network
+
+05:21 - The company is not on your side
+
+
+	Power Dynamic
+
+10:24 - Loyalty and Obligation
+
+
+	Profit and Value
+	“Job for Life”
+	Burning Bridges
+	Job Hopper Phobia
+	Freakonomics: A Rogue Economist Explores the Hidden Side of Everything by Steven D. Levitt and Stephen J. Dubner
+	Strauss–Howe generational theory
+	Why Generation Y Yuppies Are Unhappy
+
+36:18 - Freelance Work
+38:43 - The Company’s Perspective of Loyalty
+41:49 - Loyalty to Your Coworkers and Peers
+
+
+	Brené Brown: The power of vulnerability
+	The Ones Who Walk Away from Omelas
+
+54:51 - Money and Making Connections
+
+
+	Introversion Hacks
+	How to Be Interesting: (In 10 Simple Steps) by Jessica Hagy
+	Toastmasters International
+
+1:11:02 - Employer Takeaways
+
+
+	Undercover Boss
+
+Picks
+
+	dotenv (James)
+	Ruby 2.1 (James)
+	Artoo (James)
+	Continuum (David)
+	Why Generation Y Yuppies Are Unhappy (David)
+	David Brady: Loyalty and Trust (David)
+	David Brady: Loyalty and Your Professional Network (David)
+	David Brady: Loyalty and Layoffs (David)
+	Quiet: The Power of Introverts in a World That Can't Stop Talking by Susan Cain (Katrina)
+	The Long Winter (Avdi)
+	Eagle Creek Cat Nap Blanket (Avdi)
+	The Steelcase Leap (Avdi)
+	James' GoGaRuCo Talk (Josh)
+	A Capella Science - Bohemian Gravity! (Josh)
+	Book Yourself Solid: The Fastest, Easiest, and Most Reliable System for Getting More Clients Than You Can Handle Even if You Hate Marketing and Selling by Michael Port (Chuck)
+	The Freelancers’ Show 081: Book Club - Book Yourself Solid with Michael Port (Chuck)
+	Michael Vey (Chuck)
+	ShareMouse (Chuck)
+	Tweetbot (Chuck)
+	Going Rogue Video (Chuck)
+
+Book Club
+Confident Ruby by Avdi Grimm! Use the discount code ROGUESCLUB for 20% off of any of the editions! Avdi will talk about the book on the show on October 16th, 2013.
+Next Week
+Transcript
+JAMES:  I don’t know if you all can hear, but there's all these helicopters circling over my house. I think they're looking for me.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climate’s new security monitor alerts you immediately when vulnerabilities are introduced into your Rails app. Sleep better knowing that your data is protected. Try it free at RubyRogues.com/CodeClimate.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+CHUCK:  Hey everybody and welcome to episode 125 of the Ruby Rogues podcast. This week on our panel, we have David Brady.
+
+Katrina Owen.
+
+KATRINA:  [Chuckles] Yo! Hi.
+
+DAVID:  I was muted.
+
+CHUCK:  [Laughs] Avdi Grimm.
+
+DAVID:  I didn’t have a funny joke, so…
+
+CHUCK:  We also have Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Timing! Oh, wait. No. [Inaudible].
+
+CHUCK:  [Chuckles] James Edward Gray.
+
+JAMES:  I can't compete with that.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:26:29</itunes:duration>
+	</item>
