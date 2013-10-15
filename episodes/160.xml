@@ -1,0 +1,151 @@
+<item>
+		<title>126 RR Remote Pair Programming with Sam Livingston-Gray</title>
+		<link>http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/</link>
+		<comments>http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/#comments</comments>
+		<pubDate>Wed, 09 Oct 2013 13:00:27 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Sam Livingston-Gray]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1527</guid>
+		<description><![CDATA[Panel Sam Livingston-Gray (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Katrina Owen (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:50 &#8211; Sam Livingston-Gray Introduction LivingSocial 02:52 &#8211; Remote Pairing 04:41 &#8211; Tools GNU [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR126RemotePairing.mp3" length="66563931" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Sam Livingston-Gray (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Katrina Owen (twitter github blog)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Sam Livingston-Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Katrina Owen (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:50 - Sam Livingston-Gray Introduction
+
+	LivingSocial
+
+02:52 - Remote Pairing
+04:41 - Tools
+
+
+	GNU Screen
+	tmux
+	Cloud9 IDE
+	Floobits
+	Google Drive
+	OmniGraffle
+	Screenhero
+	Skype
+
+13:35 - Terminal Configuration/Setup
+
+
+	Vim vs Emacs
+	ls-pair
+	Pair Program with Me
+	dbrady/emacs_libs
+	PeepCode: Commanding Your Text Editor
+
+27:24 - Face-to-Face Interaction &amp; Telepresence
+
+
+	Pivotal Labs: Pairing tete-a-tete
+	Teleport
+
+42:51 - Pairing, Remote Work and LivingSocial
+44:51 - Conquering Pairing Intimidation
+
+
+	exercism.io
+
+51:43 - Recording Pair Programming Sessions
+
+
+	Josh and Avdi Pairing on Discourse
+	Play by Play | PeepCode Screencasts
+
+53:47 - Tom Howlett: The Shame of Pair Programming
+54:31 - Advice for Pair Programmers
+
+
+	Get your ego in check
+	Good hygiene
+	Good Connection
+	Use a Headset
+	Keyboard Noise
+	ls-pair/README
+
+Picks
+
+	Editor Wars: Revenge of the... oh, whatever. (David)
+	PSY vs LMFAO - Sexy Style (Mash-up) (David)
+	Katy Perry vs. Green Day vs Coldplay - Wide Awake on Paradise Boulevard (Mash-up) (David)
+	JavaScript: The Definitive Guide: Activate Your Web Pages by David Flanagan (James)
+	Every Day: A Five-Year Memory Book by Mr. Boddington's Studio (James)
+	Joe Moore: Remote Pair Programming (Josh)
+	AllTheBadges.io (Katrina)
+	Terrafab (Katrina)
+	Every Time Zone (Chuck)
+	Parallels (Chuck)
+	GoToMeeting (Chuck)
+	Evernote (Chuck)
+	Bacon Biz (Chuck)
+	Ada Developers Academy (Sam)
+	IndieGoGo campaign for Ada Developers Academy (Sam)
+	Find or make a community you can learn with and learn from (Sam)
+	Calagator (and source is at calagator) (Sam)
+	Ruby Hangman 2013-02-05 (Sam)
+
+Book Club
+Confident Ruby by Avdi Grimm! Use the discount code ROGUESCLUB for 20% off of any of the editions! Avdi will talk about the book on the show on October 16th, 2013.
+Next Week
+Erik Michaels-Ober
+Transcript
+DAVID:  Probably the biggest perk of working for the NSA is that you get the Ruby Rogues episodes a week before they air.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climate’s new security monitor alerts you immediately when vulnerabilities are introduced into your Rails app. Sleep better knowing that your data is protected. Try it free at RubyRogues.com/CodeClimate.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+CHUCK:  Hey everybody and welcome to episode 126 of the Ruby Rogues podcast. This week on our panel, we have Josh Susser.
+
+JOSH:  I will not be making any jokes today.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  We do the government shutdown, we’re all doing this podcast without a paycheck.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  I don’t make jokes anywhere or anytime.
+
+CHUCK:  David Brady.
+
+DAVID:  [keyboard typing] I've just got to get this last piece of code to compile and…go!
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. I just want to remind you to go check out my freelancing video at GoingRogueVideo.com. We also have a special guest and that is Sam Livingston-Gray.
+
+SAM:  Hello from the sunny Portland, Oregon.
+
+JAMES:  Woohoo!
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:09:20</itunes:duration>
+	</item>
