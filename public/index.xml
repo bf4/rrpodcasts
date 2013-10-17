@@ -26,6 +26,197 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>127 RR Erik Michaels-Ober</title>
+		<link>http://rubyrogues.com/127-rr-erik-michaels-ober/</link>
+		<comments>http://rubyrogues.com/127-rr-erik-michaels-ober/#comments</comments>
+		<pubDate>Wed, 16 Oct 2013 13:00:42 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Erik Michaels-Ober]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1534</guid>
+		<description><![CDATA[Panel Erik Michaels-Ober (twitter github) James Edward Gray (twitter github blog) Katrina Owen (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:53 &#8211; Erik Michaels-Ober SoundCloud 02:45 &#8211; Unofficial Rogue: Emily Stolfo 03:32 &#8211; Rogues Golf [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/127-rr-erik-michaels-ober/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR127ErikMichaelsOber.mp3" length="94064377" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Erik Michaels-Ober (twitter github)   James Edward Gray (twitter github blog)   Katrina Owen (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Erik Michaels-Ober (twitter github)
+	James Edward Gray (twitter github blog)
+	Katrina Owen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:53 - Erik Michaels-Ober
+
+	SoundCloud
+
+02:45 - Unofficial Rogue: Emily Stolfo
+03:32 - Rogues Golf Contest
+
+
+	Erik's Ruby Golf Submission
+	github.com/sferik/twitter
+	Josh's Follow-Up Tweet
+
+09:31 - Twitter Gems
+
+
+	jnunemaker/twitter
+	140 Proof
+	faraday
+	T
+	twitter / etc / erd.rb
+	Travis CI
+	Rubinius
+	JRuby
+
+17:21 - Other Open-Source Projects
+
+
+	rails_admin
+	thor
+	Erik's Github Repositories
+	tweetstream
+	OptionParser
+	Steve Agalloco
+	Tony Arcieri
+	celluloid
+	http
+
+23:42 - Dependency Management
+
+
+	Yehuda Katz: Using &gt;= Considered Harmful (or, What’s Wrong With &gt;=)
+
+25:17 - Semantic Versioning
+
+
+	~&gt; Twiddle waka
+	Going 1.0
+
+32:10- Advice for maintaining a new gem (project)
+
+
+	Cargo Culting
+
+33:49 - Changelogs
+37:15 - Diagnostic Signals
+
+
+	1.0
+	Tests
+	Coveralls
+	Code Climate
+	083 RR Decomposing Fat Models with Bryan Helmkamp
+	041 RR Code Metrics with Bryan Helmkamp
+	Sarah Mei - "Why Hasn't Ruby Won?"
+
+43:51 - Maintaining Twitter Gems vs Standard Rails Gems
+
+
+	Erik Michaels-Ober: Writing a Rails Engine
+	Testing an engine
+
+47:12 - adamantium
+
+
+	Memoization
+	thread_safe
+
+54:32 - hashie
+01:05:77 - The Null Object Pattern
+01:08:27 - Gem Wrappers
+
+
+	congress
+	gems
+
+Picks
+
+	Food Fight Show: Immutable Infrastructure (James)
+	B T (James)
+	Serious Pony: Presentation Skills Considered Harmful (James)
+	Cabeau Memory Foam Evolution Neck and Travel Pillow with Portable Bag (Avdi)
+	Parrot Zik Headphones (Avdi)
+	The West Wing (Avdi)
+	Rubinius 2 (Josh)
+	Ruby stdlib gem (Josh)
+	Codex Seraphinianus (Josh)
+	Nathen Harvey: Learning Chef (Chuck)
+	Redmine Backlogs (Chuck)
+	spree_digital (Chuck)
+	Benchmarking Ruby 2.1 and Rubinius 2.0 (Erik)
+	The DOT Language (Erik)
+	DuoLingo (Erik)
+	Charlie Kaufman: Screenwriting Lecture (Erik)
+	Louis CK (Erik)
+	
+@Brilliant_Ads (Erik)
+
+	@SeinfeldToday (Erik)
+
+Next Week
+Book Club: Confident Ruby with Avdi Grimm
+Transcript
+ERIK:  So, what are we going to talk about?
+
+JOSH:  European breakfast pastries, right? [Chuckles]
+
+JAMES:  Okay.
+
+JOSH:  What else do we talk about with a Berliner?
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climate automated code reviews ensure that your projects stay on track. Fix and find quality and security issues in your Ruby code sooner. Try it free at RubyRogues.com/CodeClimate.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+CHUCK:  Hey everybody and welcome to episode 127 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning everyone.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Good morning.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Good morning.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Generic greeting.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV with a quick reminder to go check out my free freelancing video at GoingRogueVideo.com. And we have a special guest this week and that is Erik Michaels-Ober.
+
+ERIK:  Guten tag.
+
+JOSH:  [Chuckles] Guten tag. Hey, Erik.
+
+ERIK:  Hey, how’s it going?
+
+JOSH:  Good. Welcome aboard the show.
+
+ERIK:  Thanks, great to be here.
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:37:59</itunes:duration>
+	</item>
+<item>
 		<title>126 RR Remote Pair Programming with Sam Livingston-Gray</title>
 		<link>http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/</link>
 		<comments>http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/#comments</comments>
