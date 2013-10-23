@@ -400,3 +400,6 @@
 - :feed_number: 161
   :title: 127 RR Erik Michaels-Ober
   :enclosure: RR127ErikMichaelsOber.mp3
+- :feed_number: 162
+  :title: ! '128 RR Book Club: Confident Ruby with Avdi Grimm'
+  :enclosure: RR128ConfidentRuby.mp3

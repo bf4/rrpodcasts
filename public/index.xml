@@ -26,6 +26,168 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>128 RR Book Club: Confident Ruby with Avdi Grimm</title>
+		<link>http://rubyrogues.com/128-rr-book-club-confident-ruby-with-avdi-grimm/</link>
+		<comments>http://rubyrogues.com/128-rr-book-club-confident-ruby-with-avdi-grimm/#comments</comments>
+		<pubDate>Wed, 23 Oct 2013 13:00:31 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1548</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:28 &#8211; The Point of Confident Ruby Confident Ruby by Avdi Grimm 05:57 [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/128-rr-book-club-confident-ruby-with-avdi-grimm/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR128ConfidentRuby.mp3" length="73479058" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Katrina Owen (twitter github blog)   James Edward Gray (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Katrina Owen (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:28 - The Point of Confident Ruby
+
+
+	Confident Ruby by Avdi Grimm
+
+05:57 - Defensive Programming
+09:56 - Conversion Methods
+12:58 - Pattern Matching
+15:37 - Highlighting Code
+16:44 - Book Synopsis
+
+
+	Collecting Input
+	Performing Work
+	Delivering Results
+	Handling Failure
+
+24:24 - Language Level Support
+27:48 - Confident Ruby Companion Video
+
+
+	Josh and Avdi’s Pairing Session
+
+34:05 - TDD
+38:00 - Lengthy Code Samples
+41:42 - “Code Should Tell a Story”
+
+
+	Shape
+	Cadence
+	gem sing
+
+45:27 - The Most Important Point in the Book
+48:22 - Conversions
+55:02 - Callbacks
+01:05:07 - Much Ado About Naught
+
+
+	naught
+
+Picks
+
+	Rich Hickey’s Greatest Hits (James)
+	Baruco 2012: Micro-Service Architecture, by Fred George (James)
+	Using Python to Code by Voice (James)
+	Eye - Optical Illusion (Josh)
+	i-Qi clock &amp; meditation timer (Katrina)
+	Google Now (Avdi)
+
+Book Club
+Functional Programming for the Object-Oriented Programmer
+
+Next Week
+Sharpening Tools with Ben Orenstein
+Transcript
+JAMES:  Mandy, please schedule more episodes where I can throw hard programming questions at Avdi for one hour.
+
+[Chuckle]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Over 1,000 organizations trust Code Climate to help improve quality and security in their Ruby apps. Get 50% off your first three months for being a Rogues listener by starting a free trial this week. Go to RubyRogues.com/CodeClimate.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+CHUCK:  Hey everybody and welcome to episode 128 of the Ruby Rogues podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello. And since Josh has helped me achieve enlightenment, I will now be known as Baba Ram Dig Vim.
+
+[Laughter]
+
+JAMES:  I’m not saying that throughout this entire episode.
+
+CHUCK:  Josh Susser.
+
+JOSH:  [Chuckles] Hi from San Francisco. And Avdi, it’s about time I was getting tired of calling you ‘Your Worship’.
+
+AVDI:  [Laughs]
+
+CHUCK:  David Brady.
+
+DAVID:  My code has an inferior Ruby complex. Can we do something about that?
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Hello from Denver.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  I got nothing.
+
+[Laughter]
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. A quick reminder: go check out GoingRogueVideo.com for my video on how I went freelance. And we also have a special guest this week and that’s Avdi Grimm.
+
+AVDI:  Baba Ram Dig Vim.
+
+[Laughter]
+
+DAVID:  Can I just call you Baba? There’s [inaudible] Mr. Vim.
+
+JAMES:  I am for him correcting us for the entire episode.
+
+[Laughter]
+
+JOSH:  I’m going to call him Baba Dig Vim.
+
+[Laughter]
+
+AVDI:  Just to let everybody on the joke. Josh pointed out that Ram Dig Vim is an anagram of my name. And so apparently, according to my name, I have secret Vim tendencies.
+
+CHUCK:  [Laughs]
+
+JOSH:  What’s in a name?
+
+JAMES:  Yeah. We always knew that. We knew before you knew, Avdi. Relax.
+
+[Laughter]
+
+JOSH:  That’s always the case.
+
+CHUCK:  Oh, no! This is going to be one of those episodes, isn’t it?
+
+JOSH:  Yeah. So,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:32</itunes:duration>
+	</item>
+<item>
 		<title>127 RR Erik Michaels-Ober</title>
 		<link>http://rubyrogues.com/127-rr-erik-michaels-ober/</link>
 		<comments>http://rubyrogues.com/127-rr-erik-michaels-ober/#comments</comments>
