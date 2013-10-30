@@ -26,6 +26,169 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>129 RR Sharpening Tools with Ben Orenstein</title>
+		<link>http://rubyrogues.com/129-rr-sharpening-tools-with-ben-orenstein/</link>
+		<comments>http://rubyrogues.com/129-rr-sharpening-tools-with-ben-orenstein/#comments</comments>
+		<pubDate>Wed, 30 Oct 2013 13:00:59 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Ben Orenstein]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1553</guid>
+		<description><![CDATA[Panel Ben Orenstein (twitter github blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Katrina Owen (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:29 &#8211; Ben Orenstein Introduction Giant Robots Smashing into other Giant Robots thoughtbot thoughtbot [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/129-rr-sharpening-tools-with-ben-orenstein/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR129SharpeningTools.mp3" length="60416992" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Ben Orenstein (twitter github blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Katrina Owen (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Ben Orenstein (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Katrina Owen (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:29 - Ben Orenstein Introduction
+
+
+	Giant Robots Smashing into other Giant Robots
+	thoughtbot
+	thoughtbot Learn
+
+04:23 - Tool Sharpening
+
+
+	Play by Play: Refactoring with Ben Orenstein
+	Ben's GoGaRuCo Talk
+
+07:16 - Coding Environment
+
+
+	Remaps and Shortcuts
+	Learning New Commands
+	Disabling Commands
+
+20:06 - Prioritizing Things
+21:08 - Tool Sharpening Activities
+22:55 - Sharpening Skills
+26:26 - Tool Sharpening with Teams and Organizations
+
+
+	Changing Policies and Procedures
+	Big vs Small Company Resistance
+	Making Improvements
+
+35:52 - Operating System Sharpening
+
+
+	Alfred App
+	SizeUp
+	Vimium
+	LaunchBar
+
+39:32 - Hardware &amp; Other Physical Tools
+
+
+	Kinesis Advantage Ergonomic Keyboard
+	GeekDesk
+	A standing desk for $22
+	VIVOBAREFOOT
+	Ruby Rogues Episode 074: Developer Environments
+
+48:37 - Favorite Remap
+
+
+	Dash
+
+53:33 - Upcoming Appearances
+
+
+	RubyConf
+	Garden City Ruby
+
+Picks
+
+	oj (James)
+	I introduced my 5-year-old and 2-year-old to startx and xmonad. They’re DELIGHTED! (James)
+	Cloudy with a Chance of Meatballs (James)
+	thoughtbot Learn (Avdi)
+	Hybrid Kangaroo (Avdi)
+	There's Plenty of Room at the Bottom by Richard P. Feynman (Josh)
+	MS Fnd in a Lbry (Josh)
+	The Secret Weapon (Chuck)
+	Narcissistic Design - Stuart Halloway (Ben)
+
+Book Club
+Functional Programming for the Object-Oriented Programmer by Brian Marick! We will be interviewing Brian on December 18th, and the show will air on Christmas Day. Oh! And here's a $5.00 off code to get the book: please_remember_the_starving_artist
+
+So, well, Merry Christmas!
+Next Week
+Data Visualization with Aja Hammerly
+Transcript
+BEN:  I’ll take heckling over like lack of audience attention any day.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Raise the visibility of quality within your team with Code Climate and start shipping better code faster. Try it free at RubyRogues.com/CodeClimate.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+CHUCK:  Hey everybody and welcome to episode 129 of the Ruby Rogues podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning, everyone.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Good morning from San Francisco where the visibility is about 50 feet.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Good morning from Pennsylvania.
+
+CHUCK:  Katrina Owen.
+
+KATRINA:  Good morning from Denver.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest and that is Ben Orenstein.
+
+BEN:  Hello from thoughtbot in Boston.
+
+CHUCK:  So Ben, you’re the host of a fairly popular podcast.
+
+JAMES:  Wait! Don’t say that on our show.
+
+[Laughter]
+
+JOSH:  Competition, man.
+
+BEN:  From a tiny little, barely relevant podcast.
+
+JAMES:  [Laughs]
+
+CHUCK:  Yeah, it’s the same name as the blog, right? Giant Robots Smashing into other Giant Robots?
+
+BEN:  It is. That’s right. We only have the ability to come up with one good name after a few years.
+
+JOSH:  Chuck, you have to say it with the voice.
+
+AVDI:  Yeah, you have to say, ‘Giant Robots’.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:56</itunes:duration>
+	</item>
+<item>
 		<title>128 RR Book Club: Confident Ruby with Avdi Grimm</title>
 		<link>http://rubyrogues.com/128-rr-book-club-confident-ruby-with-avdi-grimm/</link>
 		<comments>http://rubyrogues.com/128-rr-book-club-confident-ruby-with-avdi-grimm/#comments</comments>
