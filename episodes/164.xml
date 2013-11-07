@@ -1,0 +1,168 @@
+<item>
+		<title>130 RR Data Visualization with Aja Hammerly</title>
+		<link>http://rubyrogues.com/130-rr-data-visualization-with-aja-hammerly/</link>
+		<comments>http://rubyrogues.com/130-rr-data-visualization-with-aja-hammerly/#comments</comments>
+		<pubDate>Wed, 06 Nov 2013 14:00:13 +0000</pubDate>
+		<dc:creator>Charles Max Wood</dc:creator>
+				<category><![CDATA[Aja Hammerly]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1575</guid>
+		<description><![CDATA[Panel Aja Hammerly (twitter github blog) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:08 &#8211; Aja Hammerly Introduction 03:28 &#8211; Aja Hammerly, Seeing the Big Picture: Quick and Easy Data Visualization with [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/130-rr-data-visualization-with-aja-hammerly/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR130DataViz.mp3" length="59514202" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Aja Hammerly (twitter github blog)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Aja Hammerly (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:08 - Aja Hammerly Introduction
+03:28 - Aja Hammerly, Seeing the Big Picture: Quick and Easy Data Visualization with Ruby
+05:57 - Seeing Data
+
+
+	OS X 10.9 Mavericks: The Ars Technica Review
+	Feynman Diagram
+
+14:16 - Data Collection
+
+
+	Mechanize
+	Nokogiri
+
+15:31 - Tools
+
+
+	Highcharts JS
+	Graphviz
+	graph
+	Aja Hammerly: Powerful (but Easy) Data Visualization with the Graph Gem
+
+20:22 - The graph Gem
+21:31 - Interpreting Data
+22:51 - Colors
+
+
+	Colorbrewer
+
+24:36 - Error Bars
+26:41 - Non-Technical Decision Points
+28:32 - API Level Stuff
+31:37 - Printing
+33:01 - Quick and Dirty Techniques
+
+
+	work-over-time-2
+
+36:57 - Analytics Tools
+
+
+	New Relic
+
+38:59 - Animation
+
+
+	GraphicConverter
+
+41:44 - D3.js
+44:10 - Behavior Visualization
+
+
+	Designing Hypermedia APIs
+	OmniGraffle
+
+50:36 - Whimsical Graphing
+
+
+	Balsamiq Mockups
+
+Picks
+
+	Internet Traffic Report (David)
+	Girls Don't Poop - PooPourri.com (David)
+	Too Cute (David)
+	The Petrie Multiplier: Why an Attack on Sexism in Tech is NOT an Attack on Men (James)
+	Jackson Katz: Violence against women—it's a men's issue (James)
+	DragonVale (Chuck)
+	Dragon City (Chuck)
+	Office Autopilot (Chuck)
+	Office Autopilot Affiliate Link (Chuck)
+	
+Realm of Racket (Aja)
+
+	Ze Frank's How To Public Speaking (Aja)
+	Toastmasters (Aja)
+
+Book Club
+Functional Programming for the Object-Oriented Programmer by Brian Marick! We will be interviewing Brian on December 18th, and the show will air on Christmas Day. Oh! And here’s a $5.00 off code to get the book: please_remember_the_starving_artist
+
+So, well, Merry Christmas!
+Next Week
+Rogues Only: How to Learn
+Transcript
+CHUCK:  We have everyone here?
+
+JAMES:  This is everyone we’re going to have, yes.
+
+JOSH:  Avdi is two-timing us.
+
+[Laughter]
+
+JAMES:  That’s accurate.
+
+[Laughter]
+
+JOSH:  He’s cheating on us with another podcast.
+
+DAVID:  I’m not taking him back.
+
+JAMES:  [Chuckles] You say that every time, David.
+
+DAVID:  I know. I know. I know. [Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+[This episode is sponsored by Code Climate. Code Climate’s new security monitor alerts you immediately when vulnerabilities are introduced into your Rails app. Sleep better knowing that your data is protected. Try it free at RubyRogues.com/CodeClimate.]
+
+CHUCK:  Hey everybody and welcome to episode 130 of the Ruby Rogues podcast. This week on our panel, we have David Brady.
+
+DAVID:  Three Ruby Rogues and Aja Hammerly walk into a bar.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  In this episode, I will be visualized as the invisible [study].
+
+CHUCK:  Josh Susser.
+
+JOSH:  Apparently this morning, it’s Josh versus the Kombucha.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And all I have to say is I’ve got stickers with all of the album art from the different shows that we do. So if you want one, find me at RubyConf. And we also have a special guest and that is Aja Hammerly.
+
+AJA:  Good morning from cloudy Seattle.
+
+JOSH:  Hey, good morning.
+
+CHUCK:  Is there any other kind?
+
+JAMES:  It’s cloudy here, too.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:00</itunes:duration>
+	</item>
