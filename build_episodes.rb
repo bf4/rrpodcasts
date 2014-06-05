@@ -11,6 +11,14 @@ episodes = YAML::load(File.read(episode_list)).reverse
 
 File.write(feed, [
   feed_header,
-  episodes.map {|episode| File.read(File.join(output_path, "#{episode[:feed_number]}.xml"))},
-  feed_footer].flatten.join("\n")
+  episodes.map {|episode|
+    path = File.join(output_path, "#{episode[:feed_number]}.xml")
+    if File.exists?(path)
+      File.read(path)
+    else
+      nil
+    end
+  }.compact,
+  feed_footer].
+    flatten.join("\n")
   )
