@@ -54,10 +54,10 @@
   :title: 018 RR What Not to Test
   :enclosure: RubyRogues20110825_01.mp3
 - :feed_number: 144
-  :title: 'Book Club: Exceptional Ruby by Avdi Grimm'
+  :title: ! 'Book Club: Exceptional Ruby by Avdi Grimm'
   :enclosure: 
 - :feed_number: 19
-  :title: '019 RR Book Club: Exceptional Ruby'
+  :title: ! '019 RR Book Club: Exceptional Ruby'
   :enclosure: RubyRogues20110907.mp3
 - :feed_number: 20
   :title: 020 RR Object Oriented Programming in Rails with Jim Weirich
@@ -69,10 +69,10 @@
   :title: 022 RR When to Use Modules
   :enclosure: RubyRogues20110927.mp3
 - :feed_number: 143
-  :title: 'Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck'
+  :title: ! 'Book Club Announcement: Smalltalk Best Practice Patterns with Kent Beck'
   :enclosure: 
 - :feed_number: 23
-  :title: '023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck'
+  :title: ! '023 RR Book Club: Smalltalk Best Practice Patterns with Kent Beck'
   :enclosure: smalltalk_best_practice_patterns.mp3
 - :feed_number: 24
   :title: 024 RR Best Practice Patterns Follow Up
@@ -102,7 +102,7 @@
   :title: 032 RR Ruby Antipatterns
   :enclosure: ruby_antipatterns.mp3
 - :feed_number: 142
-  :title: 'Book Club Announcement: Eloquent Ruby by Russ Olsen'
+  :title: ! 'Book Club Announcement: Eloquent Ruby by Russ Olsen'
   :enclosure: 
 - :feed_number: 33
   :title: 033 RR Book Club – Eloquent Ruby
@@ -138,7 +138,7 @@
   :title: 042 RR Producing Content with Peter Cooper
   :enclosure: 042RRPeterCooper.mp3
 - :feed_number: 134
-  :title: '043 RR Book Club: Land of Lisp with Conrad Barski'
+  :title: ! '043 RR Book Club: Land of Lisp with Conrad Barski'
   :enclosure: RR043LandOfLisp.mp3
 - :feed_number: 133
   :title: 044 RR Choosing the Right Career Path with Marty Haught
@@ -183,7 +183,7 @@
   :title: 057 RR – Ruby Central
   :enclosure: RR057RubyCentral.mp3
 - :feed_number: 120
-  :title: '058 RR Book Club: Working with Unix Processes with Jesse Storimer'
+  :title: ! '058 RR Book Club: Working with Unix Processes with Jesse Storimer'
   :enclosure: RR058WorkingWithUnixProcesses.mp3
 - :feed_number: 119
   :title: 059 RR – Security with Rein Henrichs
@@ -213,7 +213,7 @@
   :title: 067 RR Gary Bernhardt’s Testing Style
   :enclosure: RR067GaryBernhardt.mp3
 - :feed_number: 69
-  :title: '068 RR Book Club: Growing Object Oriented Software Guided by Tests'
+  :title: ! '068 RR Book Club: Growing Object Oriented Software Guided by Tests'
   :enclosure: RR068_GOOS.mp3
 - :feed_number: 70
   :title: 069 RR Therapeutic Refactoring with Katrina Owen
@@ -276,7 +276,8 @@
   :title: 086 RR Learning From The Past with Arlen Walker
   :enclosure: RR086LearningFromThePast.mp3
 - :feed_number: 89
-  :title: '087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi Metz'
+  :title: ! '087 RR Book Club: Practical Object-Oriented Design in Ruby with Sandi
+    Metz'
   :enclosure: RR087PracticalObjectOrientedDesignInRuby.mp3
 - :feed_number: 90
   :title: 088 RR Concurrency and Celluloid with Tony Arcieri
@@ -306,7 +307,7 @@
   :title: 096 RR Topaz with Alex Gaynor
   :enclosure: RR096Topaz.mp3
 - :feed_number: 99
-  :title: '097 RR Book Club: Patterns of Enterprise Application Architecture with
+  :title: ! '097 RR Book Club: Patterns of Enterprise Application Architecture with
     Martin Fowler'
   :enclosure: RR097POEAA.mp3
 - :feed_number: 100
@@ -328,7 +329,7 @@
   :title: 103 RR Ruby Gems
   :enclosure: RR103Gems.mp3
 - :feed_number: 106
-  :title: '104 RR Book Club: The Rails View with John Athayde and Bruce Williams'
+  :title: ! '104 RR Book Club: The Rails View with John Athayde and Bruce Williams'
   :enclosure: RR104TheRailsView.mp3
 - :feed_number: 108
   :title: 105 RR Regular Expressions with Nell Shamrell
@@ -349,7 +350,7 @@
   :title: 110 RR ActiveRecord with Ernie Miller
   :enclosure: RR110ActiveRecord.mp3
 - :feed_number: 145
-  :title: '111 RR Book Club: Explore It! with Elisabeth Hendrickson'
+  :title: ! '111 RR Book Club: Explore It! with Elisabeth Hendrickson'
   :enclosure: RR111ExploreIt.mp3
 - :feed_number: 146
   :title: 112 RR Community Hacks
@@ -376,7 +377,7 @@
   :title: 119 RR Accessibility with Brian Hogan
   :enclosure: RR119Accessibility.mp3
 - :feed_number: 154
-  :title: '120 RR Book Club: Understanding Computation with Tom Stuart'
+  :title: ! '120 RR Book Club: Understanding Computation with Tom Stuart'
   :enclosure: RR120UnderstandingComputation.mp3
 - :feed_number: 155
   :title: 121 RR Consulting vs Product Work with Adam Keys
@@ -400,7 +401,7 @@
   :title: 127 RR Erik Michaels-Ober
   :enclosure: RR127ErikMichaelsOber.mp3
 - :feed_number: 162
-  :title: '128 RR Book Club: Confident Ruby with Avdi Grimm'
+  :title: ! '128 RR Book Club: Confident Ruby with Avdi Grimm'
   :enclosure: RR128ConfidentRuby.mp3
 - :feed_number: 163
   :title: 129 RR Sharpening Tools with Ben Orenstein
@@ -408,3 +409,30 @@
 - :feed_number: 164
   :title: 130 RR Data Visualization with Aja Hammerly
   :enclosure: RR130DataViz.mp3
+- :feed_number: 166
+  :title: 131 RR
+  :enclosure: 
+- :feed_number: 167
+  :title: 132 RR
+  :enclosure: 
+- :feed_number: 168
+  :title: 133 RR
+  :enclosure: 
+- :feed_number: 169
+  :title: 134 RR
+  :enclosure: 
+- :feed_number: 170
+  :title: 135 RR
+  :enclosure: 
+- :feed_number: 171
+  :title: 136 RR
+  :enclosure: 
+- :feed_number: 172
+  :title: 137 RR
+  :enclosure: 
+- :feed_number: 173
+  :title: 138 RR
+  :enclosure: 
+- :feed_number: 174
+  :title: 139 RR
+  :enclosure: 
