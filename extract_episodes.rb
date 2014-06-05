@@ -18,7 +18,7 @@ episodes = YAML::load(File.read(episode_list))
 
 highest_feed_number = episodes.max {|episode| episode[:feed_number].to_i }[:feed_number]
 
-items.each  do |item|
+items.reverse.each  do |item|
   title = item.at('title').text
   next if episodes.find {|episode| episode[:title] == title }
   enclosure = item.at('enclosure')
