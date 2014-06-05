@@ -1,0 +1,156 @@
+<item>
+		<title>155 RR Why Ruby Sucks</title>
+		<link>http://rubyrogues.com/155-rr-why-ruby-sucks/</link>
+		<comments>http://rubyrogues.com/155-rr-why-ruby-sucks/#comments</comments>
+		<pubDate>Wed, 07 May 2014 13:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1846</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:32 &#8211; Version Mismatches Ripper guard Python = Stable Keyword Arguments releasy tourbus (Miah Johnson: @miah_) ECMAScript 6 14:52 &#8211; Parsing Ruby Light [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/155-rr-why-ruby-sucks/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR155RubySucks.mp3" length="73509543" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 02:32 - Version Mismatches </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:32 - Version Mismatches
+
+
+	Ripper
+	guard
+	Python = Stable
+	Keyword Arguments
+	releasy
+	tourbus (Miah Johnson: @miah_)
+	ECMAScript 6
+
+14:52 - Parsing Ruby
+
+
+	Light Table
+
+21:08 - The Ruby Standard Library
+
+
+	Java Nails It
+
+26:35 - Windows Support
+
+
+	RubyInstaller
+	RailsInstaller
+
+35:13 - GUI Support
+44:40 - Concurrency
+
+
+	JRuby
+	Deploying with JRuby: Deliver Scalable Web Apps using the JVM by Joe Kutner
+	Speed
+	Forking
+	Module: Process (Ruby 2.1.1)
+	Erlang
+
+01:02:34 - Resources
+
+See Also
+Ruby Rogues Episode #17: What's Wrong With Ruby?
+
+Picks
+
+	Jones On Fire (David)
+	Inflation RPG (David)
+	Kevin Berridge: OOP: You're Doing It Completely Wrong (Avdi)
+	Noel Rappin: MountainWest RubyConf 2014 - But Really, You Should Learn Smalltalk (Avdi)
+	Programming Sucks (Avdi)
+	Less is better, than tail (James)
+	33 Amazingly Useful Websites You Never Knew Existed (James)
+	Smart Money Smart Kids: Raising the Next Generation to Win with Money by Dave Ramsey and Rachel Cruze (Chuck)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+Hardware Hacking with Julia Grace
+Transcript
+JAMES:  Where’s David? Did he fall into the water trough?
+
+CHUCK:  How did you know he has a water trough?
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[DevMynd is a software design and development studio in Chicago with expertise in Ruby, JavaScript, and Clojure. We believe that well-crafted software makes life better. And our team of designers and engineers is dedicated to that pursuit. We love our customers, we love our team, and we spend a lot of time and effort making sure that we fit the right projects with the right people. Get in touch at DevMynd.com.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+CHUCK:  Hey everybody and welcome to episode 155 of the J- [Chuckles] JavaScript J-.
+
+JAMES:  Ouch. Ouch.
+
+[Laughter]
+
+DAVID:  Keep going. Keep going.
+
+[Laughter]
+
+DAVID:  You’ve made this mistake so many times, Chuck, Mandy, that the episode is on. Just pick it up.
+
+JAMES:  We’re going with it.
+
+[Chuckles]
+
+DAVID:  Keep going. Keep going.
+
+CHUCK:  Hey everybody and welcome to episode 155 of the Ruby Rogues Podcast. [Chuckles] This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hey, I thought this a C++ show?
+
+CHUCK:  James Edward Gray.
+
+JAMES:  I’m only staying if we’re talking about Lua.
+
+CHUCK:  David Brady.
+
+DAVID:  I’m David Brady and this episode really grinds my gears.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week we’re going to talk about why Ruby is not the Promised Land, or maybe why there are other Promised Lands.
+
+JAMES:  That does it. I’m hanging up.
+
+[Laughter]
+
+DAVID:  Yeah.
+
+CHUCK:  Whose idea was this?
+
+DAVID:  We’re going to take some sacred cows and make some delicious, delicious hamburger.
+
+JAMES:  It was Avdi’s idea. He’s the resident curmudgeon.
+
+[Laughter]
+
+CHUCK:  Yeah, we got him complaining about Erlang in the Rogues channel.
+
+AVDI:  Come on. You all know this language sucks.
+
+JAMES:  [Chuckles] That’s right. Ruby sucks.
+
+DAVID:  It’s true. It’s true.
+
+JAMES:  So, we’re going to talk about specific problem points and where they might be better, kind of a grass is greener sort of approach. So, what’s a problem point? Throw one out there.
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:34</itunes:duration>
+	</item>

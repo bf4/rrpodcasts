@@ -1,0 +1,171 @@
+<item>
+		<title>156 RR Hardware Hacking with Julia Grace</title>
+		<link>http://rubyrogues.com/156-rr-hardware-hacking-with-julia-grace/</link>
+		<comments>http://rubyrogues.com/156-rr-hardware-hacking-with-julia-grace/#comments</comments>
+		<pubDate>Wed, 14 May 2014 13:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Julia Grace]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1857</guid>
+		<description><![CDATA[Panel Julia Grace (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:44 &#8211; Julia Grace Introduction Tindie OpenWest 02:30 &#8211; The Current State of Hardware Arduino 04:07 &#8211; “Indie” [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/156-rr-hardware-hacking-with-julia-grace/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR156HardwareHacking.mp3" length="70848416" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Julia Grace (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Julia Grace (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:44 - Julia Grace Introduction
+
+
+	Tindie
+	OpenWest
+
+02:30 - The Current State of Hardware
+
+
+	Arduino
+
+04:07 - “Indie” Hardware
+07:45 - The Hardware Movement
+
+
+	The Almost Completely Open Source Laptop Goes on Sale
+	Raspberry Pi
+
+11:15 - The “Maker” Culture
+
+
+	Maker Faire
+
+13:07 - Getting Started
+
+
+	BeagleBone
+	Program your Arduino in Python!
+	NodeBots
+	[Github] NodeBots
+
+17:13 - 3D Printing &amp; Laser Cutters
+
+
+	Cricut
+	Silhouette America
+
+25:23 - Accessibility &amp; Knowledge
+
+
+	3-D Printer Makes Life-Saving Splint For Baby Boy's Airway
+	Thingiverse
+	Shapeways
+	Teensy USB
+	raspberry pi lego case
+
+36:12 - Lower-level Programming
+
+
+	Atwood’s Law
+	The Web Developers are Coming?
+	Gary Bernhardt: The Birth &amp; Death of JavaScript
+
+42:03 - Rubybots
+
+
+	tinyrb
+	mruby
+	chef
+	Discourse
+
+43:49 - Evolution &amp; The Future of Hardware
+
+
+	Julia’s Future Stack Talk
+	blink(1)
+
+56:35 - Ruby Resources
+
+
+	argus
+	Artoo
+	Ron Evans: Ruby On Robots Using Artoo
+
+Picks
+
+	Ancillary Justice by Ann Leckie (Avdi)
+	Go outside and smell the lilacs (Avdi)
+	Teensy USB (David)
+	DigiKey (David)
+	Mouser Electronics (David)
+	All Electronics (David)
+	Adafruit Industries (David)
+	Adafruit Wearables Category (David)
+	Professionalism-tdd.md (James)
+	Thoughts on small projects (James)
+	Micromessaging: Connecting Heroku Microservices w/Redis and RabbitMQ (James)
+	JavaScript Jabber Episode #103: Robots with Raquel Vélez (Chuck)
+	Jamison Dance: Hardware Hacking for JS Developers (Chuck)
+	NodeBots (Julia)
+	History of different boards (Julia)
+	Program your Arduino in Python! (Julia)
+	SparkFun Electronics (Julia)
+
+Next Week
+Book Club! Object Design: Roles, Responsibilities, and Collaborations with Rebecca Wirfs-Brock
+Transcript
+CHUCK:  When my kids get old enough, I think I’m going to pay them bounties on the books that I think they ought to read.
+
+JAMES:  Pay them bounties?
+
+CHUCK:  Yeah. So, you read the book, you give me a reasonable book report, and I’ll give you ten bucks or whatever.
+
+JAMES:  Okay, then one of those books…
+
+AVDI:  Nice.
+
+JAMES:  Has to be ‘Punished by Rewards’, which is about how…
+
+AVDI:  [Laughs]
+
+JAMES:  Extrinsic motivators are problematic.
+
+[Laughter]
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[DevMynd is a software design and development studio in Chicago with expertise in Ruby, JavaScript, and Clojure. We believe that well-crafted software makes life better. And our team of designers and engineers is dedicated to that pursuit. We love our customers, we love our team, and we spend a lot of time and effort making sure that we fit the right projects with the right people. Get in touch at DevMynd.com.]
+
+CHUCK:  Hey everybody and welcome to episode 156 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello from Yorklandia.
+
+CHUCK:  David Brady.
+
+DAVID:  I think Lisp programmers should be called “Lisperers”… (because they’re always using parentheses).
+
+CHUCK:  [Chuckles] James Edward Gray.
+
+JAMES:  I have no response to that. Good morning.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week we have a special guest, and that is Julia Grace.
+
+JULIA:  Hello from sunny Palo Alto, California.
+
+CHUCK:  Do you want to introduce yourself really quickly, for folks who don’t know who you are?
+
+JULIA:  Sure. So,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:13:48</itunes:duration>
+	</item>

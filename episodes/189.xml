@@ -1,0 +1,165 @@
+<item>
+		<title>154 RR Indie Game Development with Megan Fox</title>
+		<link>http://rubyrogues.com/154-rr-indie-game-development-with-megan-fox/</link>
+		<comments>http://rubyrogues.com/154-rr-indie-game-development-with-megan-fox/#comments</comments>
+		<pubDate>Wed, 30 Apr 2014 12:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Megan Fox]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1835</guid>
+		<description><![CDATA[Panel Megan Fox (twitter blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:35 &#8211; Megan Fox Introduction Glass Bottom Games Jones On Fire [Kickstarter] Hot Tin Roof 02:16 &#8211; Making Games [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/154-rr-indie-game-development-with-megan-fox/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR154GameDev.mp3" length="65032936" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Megan Fox (twitter blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Megan Fox (twitter blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:35 - Megan Fox Introduction
+
+
+	Glass Bottom Games
+	Jones On Fire
+	[Kickstarter] Hot Tin Roof
+
+02:16 - Making Games
+
+
+	Unity
+	Unreal Engine
+	Roguelike
+	Photoshop
+
+06:43 - Finding an Artist
+
+
+	The Something Awful Forums
+	Ludem Dare
+	Polycount Forum
+	Twitter
+	OpenGameArt
+	3ds Max
+	Maya
+	FRACT OSC
+
+11:31 - The Indie Game Space &amp; the Indie Game Movement
+
+
+	Unreal Engine
+	Sean Hollister: Epic drastically drops the price of Unreal Engine game development
+	ShaderLab
+	CryENGINE
+	The golden age of indie gaming has arrived
+	The DIY Wave of Indie Gaming
+	Alec Holowka (@infinite_ammo)
+	Aquaria
+	World of Goo
+	Steam
+	TowerFall
+	Shahid Kamal Ahmad (@shahidkamal)
+	Chris Charla (@iocat)
+	Pub Fund
+
+29:40 - Steam Machines
+31:59 - Mobile Games vs Console/PC Games
+35:03 - The Gaming Community
+
+
+	Ludum Dare
+	Amnesia Fortnight
+	7DRL
+	7DFPS
+
+40:32 - The Gamers and The Writers
+
+
+	Juice It or Lose It Video
+	Beat Hazard
+
+47:46 - Getting Started in Gaming
+
+
+	MMO
+	Disco Zoo
+	Vungle
+
+Picks
+
+	Michael Fairley: Rapid Game Prototyping with Ruby (James)
+	Mike Moore: Writing Games with Ruby (James)
+	[Amazon] HTML5 Games (James)
+	[Amazon] JavaScript Game Programming (James)
+	[Amazon] Kid Game Programming (James)
+	DartGameDevs (James)
+	ThinkPad Compact USB Keyboard With TrackPoint (Avdi)
+	The Great Smoky Mountains (Avdi)
+	Gatlinburg (Avdi)
+	Your Local Science Center (Avdi)
+	The Whitaker Center (Avdi)
+	[The Ruby Toolbox] Game Libraries (David)
+	Gosu (David)
+	Chipmunk (David)
+	releasy (David)
+	Half-Life (David)
+	Half-Life 2 (David)
+	Diablo III (Chuck)
+	Multiwinia (Chuck)
+	The iPhreaks Show #47 – Game Development with Giant Spacekat of Revolution 60 with Brianna Wu, Amanda Stenquist Warner, and Maria Enderton (Chuck)
+	Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal by Nick Bilton (Chuck)
+	The Total Money Makeover: A Proven Plan for Financial Fitness by Dave Ramsey (Chuck)
+	Platform: Get Noticed in a Noisy World by Michael Hyatt (Chuck)
+	HabitRPG (Chuck)
+	Unreal Engine 4 (Megan)
+	Unity (Megan)
+	Scratch (Megan)
+	National Center for Atmospheric Research (NCAR) (Megan)
+	FRACT OSC (Megan)
+	SkyRim (Megan)
+	#onegameamonth by @McFunkypants (Megan)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+Why Ruby Sucks
+Transcript
+CHUCK:  Isn’t there a celebrity named Megan Fox?
+
+MEGAN:  There is. But I’m the cool one.
+
+DAVID:  I loved you in Transformers, by the way.
+
+MEGAN:  Oh, thank you.
+
+[Laughter]
+
+MEGAN:  It was some of my best work.
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[DevMynd is a software design and development studio in Chicago with expertise in Ruby, JavaScript, and Clojure. We believe that well-crafted software makes life better. And our team of designers and engineers is dedicated to that pursuit. We love our customers, we love our team, and we spend a lot of time and effort making sure that we fit the right projects with the right people. Get in touch at DevMynd.com.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+CHUCK:  Hey everybody and welcome to episode 154 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Hello from JavaScript Jabber.
+
+CHUCK:  Avdi Grimm.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:45</itunes:duration>
+	</item>

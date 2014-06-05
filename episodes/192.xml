@@ -1,0 +1,154 @@
+<item>
+		<title>157 RR Book Club – Object Design Book Club with Rebecca Wirfs-Brock</title>
+		<link>http://rubyrogues.com/157-rr-book-club-object-design-book-club-with-rebecca-wirfs-brock/</link>
+		<comments>http://rubyrogues.com/157-rr-book-club-object-design-book-club-with-rebecca-wirfs-brock/#comments</comments>
+		<pubDate>Wed, 21 May 2014 13:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Rebecca Wirfs-Brock]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1865</guid>
+		<description><![CDATA[Panel Rebecca Wirfs-Brock (twitter blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:38 &#8211; Rebecca Wirfs-Brock Introduction Object Design: Roles, Responsibilities, and Collaborations Designing Object-Oriented Software 02:57 &#8211; Unofficial Rogues! Logdown [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/157-rr-book-club-object-design-book-club-with-rebecca-wirfs-brock/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR157ObjectDesign.mp3" length="79715482" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Rebecca Wirfs-Brock (twitter blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Rebecca Wirfs-Brock (twitter blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:38 - Rebecca Wirfs-Brock Introduction
+
+
+	Object Design: Roles, Responsibilities, and Collaborations
+	Designing Object-Oriented Software
+
+02:57 - Unofficial Rogues!
+
+
+	Logdown
+	Russell Jennings
+
+03:32 - Object Design
+
+
+	Tactics &amp; Strategies
+
+04:52 - Responsibilities
+
+
+	Responsibility-Driven Design
+
+08:03 - Thinking Through Design
+
+
+	CRC Cards
+	XP Design Spikes
+	TDD (Test-Driven Development)
+	Balsamiq
+
+18:43 - Naming (Vocabulary)
+
+
+	Role Stereotypes
+
+21:53 - Patterns
+
+
+	Singleton
+	Iterators
+	State Machine
+
+31:13 - Design Thinking and Making Software
+33:36 - Consistency
+
+
+	Removing Roadblocks
+	“Fed-Ex Day(s)” (Debt Reduction)
+
+44:21 - Object Neighborhoods
+49:54 - Modeling
+
+
+	Inventing Objects
+
+56:36 - Balancing Trade-Offs and Design Decisions
+
+
+	git-reset
+	git-stash
+
+01:03:28 - Getting Better at Design
+
+
+	Pair Programming
+
+Picks
+
+	Anthony Bourdain: Parts Unknown (Avdi)
+	Indoors (David)
+	The Failure Bow: Matt Smith at TEDxBellevue (David)
+	Architecture, Performance, and Games (James)
+	Avatar (James)
+	Balsamiq (Chuck)
+	Realizing Empathy (Rebecca)
+	Edge.org (Rebecca)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Rogues Only
+Transcript
+JAMES:  Alright, we’re talking about Object Design today?
+
+DAVID:  Let’s design some objects.
+
+JAMES:  Let’s do it. Let’s design objects.
+
+REBECCA:  Okay.
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days. Sign up at SnapCI.com/RubyRogues.]
+
+CHUCK:  Hey everybody and welcome to episode 157 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+CHUCK:  David Brady.
+
+DAVID:  I’m against the objectification of code.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  Woke up to a new Ruby today. It’s like Christmas.
+
+CHUCK:  [Chuckles] I’m Charles Max Wood from DevChat.TV. And this week we have a special guest, and that is Rebecca Wirfs-Brock.
+
+REBECCA:  Hi guys.
+
+CHUCK:  Do you want to introduce yourself really quickly?
+
+REBECCA:  I write a book about once every decade. The last two have been on object design, not that I’m stuck in a rut or anything. I gave up Smalltalk in 2000 and have moved onto other things. My last client was in Smalltalk. But a lot of what I learned about object design was inspired by my experience discovering Smalltalk.
+
+DAVID:  You gave up on Smalltalk in 2000. There are 12 people that are still calling you a quitter. But everyone else knows you’re a die-hard right?
+
+CHUCK:  [Laughs]
+
+REBECCA:  Actually [chuckles] actually it was a financial concern.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:23:02</itunes:duration>
+	</item>

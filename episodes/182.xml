@@ -1,0 +1,160 @@
+<item>
+		<title>147 RR APIs That Don’t Suck with Michele Titolo</title>
+		<link>http://rubyrogues.com/147-rr-apis-that-dont-suck-with-michele-titolo/</link>
+		<comments>http://rubyrogues.com/147-rr-apis-that-dont-suck-with-michele-titolo/#comments</comments>
+		<pubDate>Wed, 12 Mar 2014 13:00:41 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Michele Titolo]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1759</guid>
+		<description><![CDATA[Panel Michele Titolo (twitter blog) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:20 &#8211; Michele Titolo CocoaPods CTO of Women Who Code 01:48 &#8211; CocoaPods NSBrief &#8211; #107: Michele Titolo 02:50 &#8211; Working With APIs Michele Titolo: [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/147-rr-apis-that-dont-suck-with-michele-titolo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR147APIs.mp3" length="73676753" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Michele Titolo (twitter blog)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 01:20 - Michele Titolo  CocoaPods </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Michele Titolo (twitter blog)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:20 - Michele Titolo
+
+	CocoaPods
+	CTO of Women Who Code
+
+01:48 - CocoaPods
+
+
+	NSBrief - #107: Michele Titolo
+
+02:50 - Working With APIs
+
+
+	Michele Titolo: How To Make APIs That Don't Suck
+
+08:20 - Conventions
+
+
+	LinkHeader
+	Pagination
+	HTTP Status Codes
+	AFNetworking
+
+19:35 - Simplicity &amp; Optimization
+26:16 - Search
+26:56 - Update Functionality
+38:32 - Sharing
+
+
+	JSON-P
+
+42:06 - Being Clever
+
+
+	picky
+	CocoaPods Blog - Florian Hanke: Search API Version 1
+
+51:41 - Documentation
+
+
+	Postman
+	The 'profile' Link Relation Type draft-wilde-profile-link-01
+	58:31 - Hypermedia APIs
+	Designing Hypermedia APIs by Steve Klabnik
+
+Picks
+
+	Flowdock (James)
+	Don't Starve (James)
+	typing.io (David)
+	ErgoDox.org (David)
+	Massdrop (David)
+	Stand and Deliver: How to Become a Masterful Communicator and Public Speaker by Dale Carnegie Training (Chuck)
+	Stand and Deliver: The Dale Carnegie Method to Public Speaking by The Dale Carnegie Organization (Chuck)
+	Divergent by Veronica Roth (Chuck)
+	Allrecipes (Chuck)
+	Postman (Michele)
+	RAML (Michele)
+	iOS Auto Layout Demystified (2nd Edition) (Mobile Programming) by Erica Sadun (Michele)
+	iPhreaks Show #045 – The Masonry Pod with Jonas Budelmann (Chuck)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+Cloud Confusions with Amy Palamountain
+Transcript
+DAVID:  You don’t actually have to accept call requests. We just use them later for when we’re unemployed and we just start going through the past guests going, “Do you guys know anybody that’s hiring?”
+
+JAMES:  [Laughs]
+
+DAVID:  Or wait, is that just me?
+
+JAMES:  Is that how you do it?
+
+MICHELE:  [Laughs]
+
+DAVID:  Because if it’s just me, I have some business to take care of before we start. Michele?
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+CHUCK:  Hey everybody and welcome to episode 147 of the Ruby Rogues Podcast. This week on our panel, we have David Brady.
+
+DAVID:  Surprise! Thought you got rid of me, didn’t you?
+
+CHUCK:  James Edward Gray.
+
+JAMES:  No, we hoped we had.
+
+DAVID:  [Chuckles]
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest and that’s Michele Titolo.
+
+MICHELE:  Hello. Thanks for having me.
+
+CHUCK:  Do you want to introduce yourself since you’re new to the show?
+
+MICHELE:  Sure. So, I’m Michele Titolo. I am an iOS developer living out in San Francisco, doing it for a bunch of years now, shipped a lot of apps. I also do a bunch of other stuff. I contribute to CocoaPods, which is the Objective-C library dependency manager. I’m also CTO of Women Who Code.
+
+JAMES:  Wow.
+
+MICHELE:  So, you can ask me anything. [Laughs]
+
+JAMES:  That’s awesome. I want to talk to you about all of those things.
+
+[Laughter]
+
+JAMES:  That’s awesome.
+
+CHUCK:  Alright, let’s talk about CocoaPods.
+
+MICHELE:  Okay, cool.
+
+[Laughter]
+
+MICHELE:  No, no seriously. That’s what’s usually happens. I’ll introduce myself like, “These are the things that I do,” and everyone’s like, “Oh, CocoaPods.” I’m like, “Awesome. But there’s this other stuff too.”
+
+[Laughter]
+
+CHUCK:  Yeah. Didn’t you do an episode on NSBrief?
+
+MICHELE:  I did do an episode on NSBrief. I think that was also on APIs. [Laughs]
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:45</itunes:duration>
+	</item>

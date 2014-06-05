@@ -1,0 +1,141 @@
+<item>
+		<title>152 RR The New York Times and Ruby with Jacqui Maher</title>
+		<link>http://rubyrogues.com/152-rr-the-new-york-times-and-ruby-with-jacqui-maher/</link>
+		<comments>http://rubyrogues.com/152-rr-the-new-york-times-and-ruby-with-jacqui-maher/#comments</comments>
+		<pubDate>Wed, 16 Apr 2014 13:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Jacqui Maher]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1812</guid>
+		<description><![CDATA[Panel Jacqui Maher (twitter github) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:40 &#8211; Jacqui Maher Introduction The New York Times 02:05 &#8211; Working at the New York Times 04:38 &#8211; Innovation: [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/152-rr-the-new-york-times-and-ruby-with-jacqui-maher/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR152NYT.mp3" length="65884326" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Jacqui Maher (twitter github)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Jacqui Maher (twitter github)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:40 - Jacqui Maher Introduction
+
+
+	The New York Times
+
+02:05 - Working at the New York Times
+04:38 - Innovation: Ruby
+
+
+	The Interactive News Desk
+
+06:03 - Covering the Olympics
+
+
+	London Calling: Winning the Data Olympics
+	Getting Info: Speed &amp; Accuracy
+	Data and Journalism/Reporting
+	Collaboration &amp; Fact Checking
+
+22:00 - Data
+
+
+	R&amp;D (Research &amp; Development)
+	The OpenNews Project
+	The Go Programming Language
+	Source
+	Introducing Streamtools: A Graphical Tool for Working with Streams of Data
+	streamtools
+	Lowering the Barrier of Entry
+	Architecture
+
+40:01 - Merging Journalism &amp; Technology
+
+
+	Hiring for CAR (Computer Assisted Reporting)
+	ProgrammableWeb
+	A Bot to Find the Source of Serendipity
+
+	@NYTMinusContext
+	@NYTPlusContext
+
+
+	Opportunity
+
+See Also
+JavaScript Jabber Episode #93: The New York Times and JavaScript with Eitan Konigsburg, Alastair Coote and Reed Emmons
+
+Picks
+
+	Buffy to Batgirl (Josh)
+	expand command: `$ man expand` (Josh)
+	Help Fund Rails Girls Summer of Code 2014 (James)
+	Better Off Ted (James)
+	PDFtk: The PDF Toolkit (Avdi)
+	Brandon Hays: Letter to an aspiring developer (Avdi)
+	Tom Bihn Synapse 19 iPad Backpack (Avdi)
+	Vagrant (Chuck)
+	Graylog2 (Chuck)
+	Kibana (Chuck)
+	New York Times Blog (Jacqui)
+	Storylines as Data in BBC News (Jacqui)
+	The Entire Internet in Five Minutes by Jeremy Bowers (Jacqui)
+	Jodorowsky's Dune: the most important science fiction movie never made (Jacqui)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+From the Forum (Parley)
+Transcript
+CHUCK:  If someone tells you to get with the Times, does that mean that they’re hiring?
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, lots of options, and easy setup? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[DevMynd is a software design and development studio in Chicago with expertise in Ruby, JavaScript, and Clojure. We believe that well-crafted software makes life better. And our team of designers and engineers is dedicated to that pursuit. We love our customers, we love our team, and we spend a lot of time and effort making sure that we fit the right projects with the right people. Get in touch at DevMynd.com.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+CHUCK:  Hey everybody and welcome to episode 152 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning, everyone.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hey, good morning from San Francisco.
+
+CHUCK:  I’m Charles Max Wood and I’m half-asleep. And we have a special guest this week, and that is Jacqui Maher. Did I say that right?
+
+JACQUI:  You did, yes.
+
+CHUCK:  Do you want to introduce yourself?
+
+JACQUI:  Sure, yeah. I’m Jacqui and I work at The New York Times in the R&amp;D Labs. So, hello from New York.
+
+JAMES:  Very cool.
+
+JOSH:  Well, hello New York.
+
+[Chuckles]
+
+JAMES:  Hello New York [chuckles]. So Jacqui, you have been telling us about all the cool things The New York Times uses Ruby for. So, why don’t you just tell us how that got started?
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:38</itunes:duration>
+	</item>

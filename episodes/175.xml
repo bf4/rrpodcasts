@@ -1,0 +1,144 @@
+<item>
+		<title>140 RR Heroku with Richard Schneeman</title>
+		<link>http://rubyrogues.com/140-rr-heroku-with-richard-schneeman/</link>
+		<comments>http://rubyrogues.com/140-rr-heroku-with-richard-schneeman/#comments</comments>
+		<pubDate>Wed, 22 Jan 2014 14:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Richard Schneeman]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1690</guid>
+		<description><![CDATA[Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well! Panel Richard Schneeman (twitter github blog) Josh Susser (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:51 &#8211; The Job Replacement Guide by [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/140-rr-heroku-with-richard-schneeman/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR140Heroku.mp3" length="69569457" type="audio/mpeg"/>
+		<itunes:subtitle>Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well! Panel  Richard Schneeman (twitter github blog)   Josh Susser (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<itunes:summary>Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!
+Panel
+
+	Richard Schneeman (twitter github blog)
+	Josh Susser (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:51 - The Job Replacement Guide by David Brady
+04:42 - Richard Schneeman Introduction
+
+
+	Free University Rails Course (UT on Rails)
+	Richard’s YouTube Screencasts
+	Starcraft
+
+05:55 - Heroku
+
+
+	Heroku (github)
+
+06:42 - Buildpack
+
+
+	Richard's Heroku Gist
+
+12:53 - Parallel Installation
+15:03 - Security
+
+
+	Secrets.YAML
+	dotenv gem
+
+22:26 - The Twelve Factor App
+
+
+	Logging
+	Millions of Apps: What We’ve Learned - Richard Schneeman
+	Sprockets
+	mongres
+	sprockets_better_errors
+	Ruby Rogues Episode #135: HTTP 2.0 with Ilya Grigorik
+	HTTP 2.0
+
+32:28 - Heroku Pricing
+
+
+	Sleeping
+	Dynos
+
+37:48 - Faux Pas Using Heroku
+43:08 - New Relic
+
+
+	@ryandotsmith
+
+45:53 - log-runtime-metrics
+46:31 - The Router/Routing Performance
+55:45 - Limitations
+
+
+	HireFire
+
+Picks
+
+	So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport (David)
+	Sequel (Avdi)
+	pony (Avdi)
+	email-spec (Avdi)
+	SELF Majestic Mallard 4.5.0 Release (Josh)
+	Spigen iPhone 5 Bumper Case (Josh)
+	Looking (Josh)
+	Tablet (Chuck)
+	5-in-1 RAVPower® Wireless SD Card Reader (Chuck)
+	Sony 64GB SDXC Class 10 UHS-1 R40 Memory Card (Chuck)
+	K &amp; R The C Programming Language (Richard)
+	Code Triage (Richard)
+	Ruby 2.1.0 (Richard)
+	Heroku: Up and Running (Richard)
+
+Book Club
+Ruby Under a Microscope by Pat Shaughnessy! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014. No Starch was kind enough to provide this coupon code your listeners can use to get a discount for Ruby Under a Microscope. Use the coupon code ROGUE for 40% off! (Coupon expires April 1, 2014.)
+Next Week
+Teaching Kids with Ron Evans
+Transcript
+CHUCK:  I contracted for a company and one of their security measures was to occasionally send you deliberate spam. And if you clicked on it, you fail.
+
+[Laughter]
+
+CHUCK:  I’m not kidding.
+
+JOSH:  That is hilarious.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Over 1,000 organizations trust code climate to help improve quality and security in their Ruby apps. Get 50% off your first three months for being a Rogues listener by starting a free trial this week. Go to RubyRogues.com/CodeClimate.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+CHUCK:  Hey everybody and welcome to episode 140 of the Ruby Rogues podcast. This week on our panel, we have Josh Susser.
+
+JOSH:  Good morning.
+
+CHUCK:  David Brady.
+
+DAVID:  Hi. My name is Warner Brandis. My voice is my passport. Verify me.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we have a special guest, and that’s Richard Schneeman.
+
+RICHARD:  Howdy from Austin, Texas.
+
+CHUCK:  So, before we get started, we do have a couple of announcements. The first one is that we had several people let us know that they couldn’t buy T-shirts on the Booster campaign that we did, either because of international shipping or because it only went up to 2XL or it didn’t go small enough.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:12:28</itunes:duration>
+	</item>

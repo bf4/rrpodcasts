@@ -1,0 +1,141 @@
+<item>
+		<title>142 RR Depression and Mental Illness with Greg Baugues</title>
+		<link>http://rubyrogues.com/142-rr-depression-and-mental-illness-with-greg-baugues/</link>
+		<comments>http://rubyrogues.com/142-rr-depression-and-mental-illness-with-greg-baugues/#comments</comments>
+		<pubDate>Wed, 05 Feb 2014 14:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Greg Baugues]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1713</guid>
+		<description><![CDATA[Panel Greg Baugues (twitter github blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:32 &#8211; Greg Baugues Introduction Twilio 03:33 &#8211; Greg Baugues: Devs and Depression 07:20 &#8211; Stigma James Edward Gray [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/142-rr-depression-and-mental-illness-with-greg-baugues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR142DepressionMentalIllness.mp3" length="78259264" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Greg Baugues (twitter github blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Greg Baugues (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:32 - Greg Baugues Introduction
+
+	Twilio
+
+03:33 - Greg Baugues: Devs and Depression
+07:20 - Stigma
+
+
+	James Edward Gray II: Built to Program
+
+15:50 - Getting Help
+
+
+	Cognitive Behavioral Therapy (CBT)
+
+34:25 - Finding Support
+38:31 - Preventative Care
+
+
+	Fitbit
+	Moodscope
+
+44:50 - Self-Discovery
+
+
+	Ruby Rogues Episode #49: Agile Communication with Angela Harms
+	Nonviolent Communication: A Language of Life by Marshall B. Rosenberg
+
+52:34 - Developers and Depression
+57:27 - Preventative Care (cont’d)
+
+
+	Physical Exercise
+	Meditation
+	Sleep
+	Diet
+
+01:09:19 - Resources
+
+
+	DevPress
+	greg@baugues.com
+	The National Institute of Mental Health
+
+Picks
+
+	Greg Baugues: Code Like a Chef: Work Clean (James)
+	code_notes (James)
+	Build with Chrome (James)
+	Zeal (Avdi)
+	Node.js the Right Way: Practical, Server-Side JavaScript That Scales by Jim R. Wilson (Avdi)
+	An Idiot Abroad (Avdi)
+	Brené Brown: On Vulnerability (Josh)
+	Newspeak (Josh)
+	Square Code Camp (Josh)
+	Jekyll (Chuck)
+	Digital Ocean: How To Deploy Jekyll Blogs with Git (Chuck)
+	Developers and Depression (Greg)
+	Noel Rappin Writes Here (Greg)
+	speech IRL (Greg)
+	Twilio (Greg)
+
+Book Club
+Ruby Under a Microscope by Pat Shaughnessy! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014. No Starch was kind enough to provide this coupon code your listeners can use to get a discount for Ruby Under a Microscope. Use the coupon code ROGUE for 40% off! (Coupon expires April 1, 2014.)
+Next Week
+Passenger Enterprise with Tinco Andringa and Hongli Lai
+Transcript
+AVDI:  Josh is such a hippie.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climate’s new security monitor alerts you immediately when vulnerabilities are introduced into your Rails app. Sleep better knowing that your data is protected. Try it free at RubyRogues.com/CodeClimate.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+CHUCK:  Hey everybody and welcome to episode 142 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Thunder Cats. Ooh!
+
+CHUCK:  Josh Susser.
+
+JOSH:  Space Ghost.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello from Hawk.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And we have a special guest this week and that is Greg…I didn’t even ask how to say the last name. How do you say your name, Greg?
+
+GREG:  It’s Greg Baugues and it’s actually a point of contention amongst even my family members. So, I don’t feel bad about that.
+
+[Laughter]
+
+GREG:  But I’m calling from Chicago.
+
+CHUCK:  Alright. Well, that’s not the only controversy we’re going to have on this show. Before we get going too far, I just want to point out we are going to be talking about mental illness and depression on this episode. So, if that bothers you or if that’s something that you need to deal with in a certain way, we just wanted to make you aware, so that we don’t upset anybody too much. But we are going to be discussing it and we know that it is a sensitive issue. So, I just want to point that out.
+
+On a little bit lighter note, we actually reached our goal on our Teespring campaign. Thank you to everybody who bought a t-shirt or a hoodie.
+
+JAMES:  Yay!
+
+JOSH:  Yay, thank you!
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:21:31</itunes:duration>
+	</item>

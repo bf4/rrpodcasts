@@ -1,0 +1,148 @@
+<item>
+		<title>144 RR Passion</title>
+		<link>http://rubyrogues.com/144-rr-passion/</link>
+		<comments>http://rubyrogues.com/144-rr-passion/#comments</comments>
+		<pubDate>Wed, 19 Feb 2014 14:00:37 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1733</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:39 &#8211; Passion Avdi Grimm: The Moderately Enthusiastic Programmer Avdi Grimm: The Passion Gospel David Brady: Loyalty and Layoffs Ruby Rogues Episode #125: Loyalty [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/144-rr-passion/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR144Passion.mp3" length="63250728" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 01:39 - Passion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:39 - Passion
+
+
+	Avdi Grimm: The Moderately Enthusiastic Programmer
+	Avdi Grimm: The Passion Gospel
+	David Brady: Loyalty and Layoffs
+	Ruby Rogues Episode #125: Loyalty and Layoffs
+
+04:20 - Using the Word “Passionate” in Work and Advertising
+
+
+	Passion | David Mitchell's SoapBox
+	The Definition(s) of Passion
+	Enthusiasm vs Passion
+	Orthogonally
+
+16:24 - Lacking Passion and/or Enthusiasm?
+32:15 - Startups and Passion
+34:56 - The Exploitive Nature of Passion
+
+
+	So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport
+
+39:44 - “Follow Your Passion”
+45:51 - Job Ads
+49:59 - The Exploitive Nature of Passion (Cont’d)
+
+Picks
+
+	Donate to the St. Baldrick's Foundation (James)
+	Joseph Campbell and the Power of Myth (Josh)
+	PBS shows on Apple TV (Josh)
+	PostgreSQL 9.3 (Avdi)
+	jq (Avdi)
+	Antibiotics (Chuck)
+	The do Podcast (Chuck)
+
+Book Club
+Ruby Under a Microscope by Pat Shaughnessy! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014. No Starch was kind enough to provide this coupon code your listeners can use to get a discount for Ruby Under a Microscope. Use the coupon code ROGUE for 40% off! (Coupon expires April 1, 2014.)
+Next Week
+Crowdsourcing Localization with Heather Rivers
+Transcript
+JOSH:  So, do we know what’s up with David?
+
+CHUCK:  So, here’s the text that I got a couple of minutes ago. “Also sick.” Okay, he said ‘sock’ and then he said, “Also sick, but you can be a sock too. I’ve had enough Nyquil, why not?”
+
+[Laughter]
+
+CHUCK:  But he’s not here yet, so I don’t know.
+
+JAMES:  And with that, we hope he’s not coming.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Raise the visibility of quality within your team with Code Climate and start shipping better code faster. Try it free at RubyRogues.com/CodeClimate.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+CHUCK:  Hey everybody and welcome to episode 144 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello from deep in the warm depths of a Tauntaun.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  I’m going to need your TPS reports at the end of this call.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hi from dreary California. I mean sunny. I mean-- well, it’s California out there.
+
+CHUCK:  You said sunny. I bet Avdi’s jealous. I’m Charles Max Wood from DevChat.TV. And this week, we’re going to be talking about passion.
+
+JAMES:  For example, if you are passionate enough to crawl inside of a Tauntaun to stay warm.
+
+AVDI:  [Laughs]
+
+CHUCK:  Did you guys see the MythBusters where they made a Tauntaun?
+
+JAMES:  No. What? I need to see this.
+
+CHUCK:  It was two or three episodes ago. It was, they did Star Wars myths.
+
+AVDI:  Oh, man. I’m on Netflix so I just have old ones.
+
+[Chuckles]
+
+CHUCK:  Get with the times.
+
+JAMES:  [Laughs]
+
+JOSH:  Folks, I’m really passionate about doing this podcast.
+
+JAMES:  That’s true.
+
+[Laughter]
+
+JAMES:  No, you’re not, Josh.
+
+JOSH:  I’m overcome by emotion.
+
+JAMES:  No, you’re not.
+
+JOSH:  I can’t contain myself.
+
+JAMES:  Alright. So, what started this off, Avdi?
+
+AVDI:  [Laughs] Okay, so I guess I kicked this thing off. I wrote a couple of blog articles. I wrote one…
+
+JAMES:  Novella.
+
+AVDI:  Hmm?
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:53</itunes:duration>
+	</item>

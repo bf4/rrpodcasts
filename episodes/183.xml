@@ -1,0 +1,146 @@
+<item>
+		<title>148 RR Cloud Confusions with Amy Palamountain</title>
+		<link>http://rubyrogues.com/148-rr-cloud-confusions-with-amy-palamountain/</link>
+		<comments>http://rubyrogues.com/148-rr-cloud-confusions-with-amy-palamountain/#comments</comments>
+		<pubDate>Wed, 19 Mar 2014 13:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Amy Palamountain]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1770</guid>
+		<description><![CDATA[Panel Amy Palamountain (twitter github blog) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:02 &#8211; Amy Palamountain Introduction GreenButton GitHub 03:13 &#8211; Amy Palamountain: Ten Traumas in Ten Minutes 04:46 &#8211; [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/148-rr-cloud-confusions-with-amy-palamountain/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR148CloudConfusion.mp3" length="60772679" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Amy Palamountain (twitter github blog)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Amy Palamountain (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:02 - Amy Palamountain Introduction
+
+
+	GreenButton
+	GitHub
+
+03:13 - Amy Palamountain: Ten Traumas in Ten Minutes
+04:46 - Deployments are painful – Deployment automation in the cloud is easy
+
+
+	Amazon Web Services (AWS)
+	Windows Azure
+	DigitalOcean
+
+08:08 - I’m married to my cloud – How to avoid being tied to one cloud
+13:39 - The definition of insanity – Transient fault handling
+
+
+	SimianArmy
+
+23:14 - Limitations of storage – How to work around them
+27:59 - We’ve got to ‘web scale’ – What does that even mean? You can still use what you already know
+32:58 - Go Daddy goes down  – Simple DNS failover
+37:56 - Our app is slow – Why performance shouldn’t be slapped on at the end
+41:51 - You have lupus – Better diagnostics
+47:14 - The cloud chaos monkey – Be prepared for failures in the cloud
+
+Picks
+
+	T-Mobile (Avdi)
+	Happy Tree Friends (David)
+	Evolution vs Natural Selection (James)
+	chef-solo (Chuck)
+	librarian (Chuck)
+	raygun.io (Amy)
+	Mike Hadlow: Cocoanut Headphones: Why Agile Has Failed (Amy)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+Ruby in Government with Sarah Allen
+Transcript
+JAMES:  Alright, are we about ready?
+
+CHUCK:  Yeah, but I’m kind of nebulous and confused about what we’re talking about today.
+
+JAMES:  [Chuckles]
+
+DAVID:  Nebulous. I get it.
+
+JAMES:  Nebulous. Nice.
+
+DAVID:  I’m sort of cirrostratus about it all.
+
+CHUCK:  Yeah, there you go.
+
+AMY:  [Laughs] You guys.
+
+JAMES:  Alright, hopefully all those jokes are gone.
+
+[Laughter]
+
+AMY:  Funny.
+
+CHUCK:  Oh. Yeah, the whole thing’s a little bit foggy.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+[A special thanks to HoneyBadger.io for sponsoring Ruby Rogues. They do exception monitoring, uptime, and performance metrics that are an active part of the Ruby community.]
+
+[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]
+
+CHUCK:  Hey everybody and welcome to episode 148 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  Hello from springtime.
+
+CHUCK:  David Brady.
+
+DAVID:  Uh, hi.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And we have a special guest and that’s Amy Palamountain.
+
+AMY:  Palamountain. You were close. [Laughs] Hi, everyone. I’m from New Zealand.
+
+DAVID:  So, you’re calling from tomorrow.
+
+AMY:  I am. I’m calling from the future.
+
+JAMES:  [Laughs]
+
+DAVID:  That’s awesome.
+
+AMY:  We have flying cars here. It’s pretty amazing.
+
+DAVID:  [Laughs]
+
+CHUCK:  Yeah, the podcast of tomorrow, today!
+
+AMY:  Oh, yeah. [Chuckles]
+
+JAMES:  [Chuckles]
+
+CHUCK:  You want to introduce yourself real quick?
+
+AMY:  Yeah, sure. So, I’m Amy, obviously. I’m a programmer down here in New Zealand. I have programming for not too long, maybe five years I think. I was thinking about that last night. It seems to have gone quite quickly. I have spent a bit of time doing contracting and things like that. And then I started working for a company called Green Button. We’re doing high-performance compute in the cloud.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:03:18</itunes:duration>
+	</item>

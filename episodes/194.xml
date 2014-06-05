@@ -1,0 +1,170 @@
+<item>
+		<title>159 RR Hacking Education with Saron Yitbarek</title>
+		<link>http://rubyrogues.com/159-rr-hacking-education-with-saron-yitbarek/</link>
+		<comments>http://rubyrogues.com/159-rr-hacking-education-with-saron-yitbarek/#comments</comments>
+		<pubDate>Wed, 04 Jun 2014 13:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1876</guid>
+		<description><![CDATA[Panel Saron Yitbarek (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:53 &#8211; Saron Yitbarek The Flatiron School @FlatironSchool 02:05 &#8211; The New York Tech Meetup (NYTM) Saron’s RailsConf [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/159-rr-hacking-education-with-saron-yitbarek/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR159HackingEducation.mp3" length="82753987" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Saron Yitbarek (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Saron Yitbarek (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:53 - Saron Yitbarek
+
+
+	The Flatiron School
+
+	@FlatironSchool
+
+
+
+02:05 - The New York Tech Meetup (NYTM)
+
+
+	Saron’s RailsConf Talk
+	The Hackers in Residence
+
+04:57 - Getting into Programming / Math &amp; Programming
+
+
+	Steve Jobs by Walter Isaacson
+	James Edward Gray: Are We Teaching the Best Things?
+
+09:21 - Hacking Education
+
+
+	Reading Code
+
+	Saron’s RailsConf Talk
+
+
+	Code Club
+
+	@ReadingCodeGood
+
+
+	#CodeNewbie
+
+	@CodeNewbies
+
+
+	David Brady: How To Ship Code Every Single Day - MWRC 2010 Lightning Talks
+	James Edward Gray: A Library in One Day
+
+19:43 - Intimidation and the Tech Industry
+
+
+	“Permission”
+	Demons and CFPs
+
+31:26 - Concepts and Cartoons
+
+
+	Bloggy-Toons
+	Draw Real People! (Discover Drawing) by Lee Hammond
+	The Oatmeal
+	How Web Apps Work
+
+40:18 - “Being” a Programmer
+
+
+	Spencer's Smile
+	Ara T. Howard: Static Is The New Black
+
+47:45 - Intersectionality
+
+
+	Imposter Syndrome
+
+56:44 - Tips for Reading Code
+
+
+	Ruby Rogues Episode #31: Code Reading
+	Code Club
+
+	@ReadingCodeGood
+
+
+	David Brady: Running SimpleCov when COVERAGE=true
+	Evernote
+
+01:07:07 - Breaking Down Concepts
+
+
+	Tell a Story
+
+	Write an Opener First
+	Think in Headlines
+	What is the Mystery?
+
+
+
+Picks
+
+	@CompSciFact (David)
+	Mat Sadler: Ruby 2.1 In Detail (James)
+	Orphan Black (James)
+	domino (Avdi)
+	DS214+ Robust and Full-Fledged NAS Server for SMB (Avdi)
+	Revolution Pro Duallie Jogging Stroller (Avdi)
+	Warehouse 13 (Chuck)
+	The Path Redefined: Getting to the Top on Your Own Terms by Lauren Maillian Bias (Saron)
+	The Millionaire Next Door: The Surprising Secrets of America's Wealthy by Thomas J. Stanley (Saron)
+	Penrose Triangle (Saron)
+	Optical Illusions (Saron)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Conceptualizing Code with Sam Livingston-Gray and Glenn Vanderburg
+Transcript
+DAVID:  Avdi, you have actually made it impossible for me to write my own freaking name.
+
+[Laughter]
+
+DAVID:  I probably, 20% of the time when I’m typing, I will sign my emails as ‘Davdi’ instead of ‘David’.
+
+[Laughter]
+
+CHUCK:  It’s okay, we love you, Davdi.
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days. Sign up at SnapCI.com/RubyRogues.]
+
+CHUCK:  Hey everybody and welcome to episode 159 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  [Chuckles] Are you sure?
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Good morning.
+
+CHUCK:  David Brady.
+
+DAVID:  My Impostor Syndrome is so confident that it is now subject to the Dunning-Kruger Effect.
+
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:26:12</itunes:duration>
+	</item>

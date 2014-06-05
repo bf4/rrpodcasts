@@ -1,0 +1,150 @@
+<item>
+		<title>141 RR Teaching Kids with Ron Evans</title>
+		<link>http://rubyrogues.com/141-rr-teaching-kids-with-ron-evans/</link>
+		<comments>http://rubyrogues.com/141-rr-teaching-kids-with-ron-evans/#comments</comments>
+		<pubDate>Wed, 29 Jan 2014 14:00:09 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Ron Evans]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1696</guid>
+		<description><![CDATA[Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well! Panel Ron Evans (twitter github blog) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:24 &#8211; Ron Evans Introduction The Hybrid [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/141-rr-teaching-kids-with-ron-evans/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR141TeachingKids.mp3" length="96791137" type="audio/mpeg"/>
+		<itunes:subtitle>Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well! Panel  Ron Evans (twitter github blog)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Get your Ruby Rogues T-Shirt or hoodie!! Ladies’ sizes available as well!
+Panel
+
+	Ron Evans (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:24 - Ron Evans Introduction
+
+	The Hybrid Group
+
+03:21 - Programmers Podcast Carnival
+
+
+	Mostly Erlang
+	Giant Robots Smashing Into Other Giant Robots
+	The Changelog
+	Herding Code
+	NodeUp
+
+04:48 - Teaching Kids to Program
+
+
+	KidsRuby
+	Hackity Hack!
+
+14:51 - Introducing Kids to Programming
+
+
+	Robot Turtles
+	GoldieBlox
+	Hello Ruby
+
+19:31 - The Value of Programming
+28:30 - Organizing Programs to Teach Kids and Getting Involved
+
+
+	KidsCodeCamp
+	CoderDojo
+	Code.org
+	The Pasadena Foundation
+	Stop Stealing Dreams: (What is School Good For?) by Seth Godin
+
+42:27 - STEM vs STEAM
+46:28 - Family Life: Household Programming Activities
+
+
+	Hackers vs Crackers/Black Hats
+
+52:56 - Age, Curriculum, and Competition
+
+
+	FIRST LEGO League
+	LEGO Mindstorms
+	Scratch
+	Sign Language
+	Logo
+	I introduced my 5-year-old and 2-year-old to startx and xmonad. They’re DELIGHTED!
+
+01:10:25 - Females and Programming
+
+
+	Paul Graham: Female Founders
+
+01:17:45 - Resources
+
+
+	Paul Lockhart: A Mathematician’s Lament
+	CoderDojo
+	Code.org
+	3D Game Programming for Kids: Create Interactive Worlds with JavaScript by Chris Strom
+	Learn to Program with Minecraft Plugins: Create Flying Creepers and Flaming Cows in Java by Andy Hunt
+	Minecraft
+
+01:26:37 - Robotics
+
+
+	Ron Evans: Ruby On Robots Using Artoo
+
+Picks
+
+	Ruby Conferences (Josh)
+	Infantapaulting (Josh)
+	Play: How it Shapes the Brain, Opens the Imagination, and Invigorates the Soul by Stewart Brown and Christopher Vaughan (David)
+	Matt Lesko (David)
+	The Job Replacement Guide by David Brady (David)
+	Chad Fowler: Killing the Crunch Mode Antipattern (James)
+	Once Upon a Time (James)
+	OpenBCI (Ron)
+	Light Table (Ron)
+
+Book Club
+Ruby Under a Microscope by Pat Shaughnessy! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014. No Starch was kind enough to provide this coupon code your listeners can use to get a discount for Ruby Under a Microscope. Use the coupon code ROGUE for 40% off! (Coupon expires April 1, 2014.)
+Next Week
+Depression with Greg Baugues
+Transcript
+RON:  I’ve changed hotels due to a lack of Wi-Fi while my wife glared at me the entire time.
+
+[Laughter]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Raise the visibility of quality within your team with Code Climate and start shipping better code faster. Try it free at RubyRogues.com/CodeClimate.]
+
+[This episode is sponsored by SendGrid, the leader in transactional email and email deliverability. SendGrid helps eliminate the cost and complexity of owning and maintaining your own email infrastructure by handling ISP monitoring, DKIM, SPF, feedback loops, whitelabeling, link customization and more. If you’d rather focus on your business than on scaling your email infrastructure, then visit www.SendGrid.com.]
+
+CHUCK:  Hey everybody and welcome to episode 141 of the Ruby Rogues Podcast. This week on our panel, we have David Brady.
+
+DAVID:  I am emotionally 12 years old.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  I can’t beat that. Good morning. [Chuckles]
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hey, I made it! Good morning.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. I just want to let you know that I updated the details on Rails Ramp Up. So, if you’re looking to learn Ruby on Rails, go check it out, RailsRampUp.com. We also have a special guest and that is Ron Evans.
+
+RON:  Hi everybody.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:40:49</itunes:duration>
+	</item>

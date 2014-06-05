@@ -1,0 +1,148 @@
+<item>
+		<title>153 RR From the Forum</title>
+		<link>http://rubyrogues.com/153-rr-from-the-forum/</link>
+		<comments>http://rubyrogues.com/153-rr-from-the-forum/#comments</comments>
+		<pubDate>Wed, 23 Apr 2014 13:00:03 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1824</guid>
+		<description><![CDATA[Panel David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:49 &#8211; Join Parley!! Discourse 04:37 &#8211; [Parley Thread] Rails 4/1 is out Setup Rails 4.1, Spring, Rspec, and Guard Rails 4.1.0: Spring, Variants, [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/153-rr-from-the-forum/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR153ParleyTopics.mp3" length="67992065" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 01:49 - Join Parley!!   Discourse - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:49 - Join Parley!!
+
+
+	Discourse
+
+04:37 - [Parley Thread] Rails 4/1 is out
+
+
+	Setup Rails 4.1, Spring, Rspec, and Guard
+	Rails 4.1.0: Spring, Variants, Enums, Mailer previews, secrets.yml
+	Ruby on Rails 4.1 Release Notes
+	[Parley Thread] Twelve (12)-Factor apps. Do you? How?
+	12 Factor Applications
+
+21:45 - [Parley Thread] Where are all the Junior Developer roles?
+
+
+	Ruby Rogues Episode #107: Impostor Syndrome with Tim Chevalier
+
+43:23 - [Parley Thread] Sinatra instead of Rails
+
+
+	Sinatra
+	Rack
+	The Sinatra Book
+	Class: Rack::Builder
+	Metal
+	rails-api
+	Routing to Rack Applications
+
+Picks
+
+	The Job Replacement Guide by David Brady (David)
+	Prison Architect (David)
+	mock5 (James)
+	Frank Turner (James)
+	React (Josh)
+	NYC Basic Tips and Etiquette by Nathan W. Pyle (Josh)
+	JavaScript Jabber Episode #73: React with Pete Hunt and Jordan Walke (Chuck)
+	JavaScript Jabber (Chuck)
+	The Freelancers’ Show (Chuck)
+	The iPhreaks Show (Chuck)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+Indie Game Programming with Megan Fox
+Transcript
+DAVID:  It’s going to be an interesting show today.
+
+[Laughter]
+
+JAMES:  Random thoughts from the Ruby Rogues. Maybe we could call this episode ‘Deep Thoughts’.
+
+[Laughter]
+
+CHUCK:  We should call it ‘The Elephant’.
+
+JOSH:  ‘Deep Copy Thoughts’.
+
+JAMES:  I’ll introduce myself as Jack Handey.
+
+[Laughter]
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, lots of options, and easy setup? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[DevMynd is a software design and development studio in Chicago with expertise in Ruby, JavaScript, and Clojure. We believe that well-crafted software makes life better. And our team of designers and engineers is dedicated to that pursuit. We love our customers, we love our team, and we spend a lot of time and effort making sure that we fit the right projects with the right people. Get in touch at DevMynd.com.]
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+CHUCK:  Hey everybody and welcome to episode 153 of the Ruby Rogues Podcast. This week on our panel, we have David Brady.
+
+DAVID:  Whether or not we discover intelligent life there, I think we should consider Jupiter an enemy planet.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  I have no response to that.
+
+DAVID:  That was a Jack Handey quote!
+
+JAMES:  [Laughs].
+
+CHUCK:  Josh Susser.
+
+JOSH:  [Chuckles] Good morning, I think.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we’re going to talk about some of the threads that we’ve had on Parley. There have been some pretty good ones over the last few months.
+
+JOSH:  Hey, Chuck.
+
+CHUCK:  Yes.
+
+JOSH:  What’s Parley?
+
+DAVID:  Parley.
+
+JAMES:  It’s the thing that the pirates have to agree to if they trap you in the closet and you ask for it.
+
+CHUCK:  Yeah.
+
+JOSH:  Alright, okay. Or…
+
+[Chuckles]
+
+JAMES:  Also known as, it’s our Discourse thingy. I couldn’t think of a word. I blanked.
+
+JOSH:  It’s our private discussion community for fans and supporters of the podcast.
+
+JAMES:  Yes, that.
+
+CHUCK:  Yeah
+
+JAMES:  Thank you. Yeah, that.
+
+CHUCK:  The thing that I really love about using Discourse really quickly is not just that it’s so easy to use, but you can actually tell it to, in your profile, to do email list mode. So, people who want to consume it that way can, too.
+
+JAMES:  Yeah. P.S.,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:10:49</itunes:duration>
+	</item>

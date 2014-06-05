@@ -1,0 +1,122 @@
+<item>
+		<title>145 RR Data Analytics with Heather Rivers</title>
+		<link>http://rubyrogues.com/145-rr-data-analytics-with-heather-rivers/</link>
+		<comments>http://rubyrogues.com/145-rr-data-analytics-with-heather-rivers/#comments</comments>
+		<pubDate>Wed, 26 Feb 2014 14:00:29 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Heather Rivers]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1742</guid>
+		<description><![CDATA[Panel Heather Rivers (twitter github blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 00:00 &#8211; RIP Jim Weirich 03:30 &#8211; Heather Rivers Introduction MODE Analytics 05:40 &#8211; Data Analytics The Lean Startup: [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/145-rr-data-analytics-with-heather-rivers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR145DataAnalytics.mp3" length="56404165" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Heather Rivers (twitter github blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Heather Rivers (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+00:00 - RIP Jim Weirich
+03:30 - Heather Rivers Introduction
+
+
+	MODE Analytics
+
+05:40 - Data Analytics
+
+
+	The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+	Real-Time Analytics
+	How Netflix Uses Analytics To Select Movies, Create Content, and Make Multimillion Dollar Decisions
+
+09:23 - Analytics vs Business Intelligence
+10:02 - Metrics vs Analytics
+10:51 - Real-Time Analytics and Business Decisions
+
+
+	Vanity Metrics
+
+12:28 - Using Information and Choosing the Right Metrics
+
+
+	Lean Analytics
+	Lean Analytics: Use Data to Build a Better Startup Faster by Alistair Croll
+
+18:34 - Collecting Information
+
+
+	Extract, Transform, Load
+	Column-Based Data Store
+	Statistical Regression
+	PostgreSQL
+
+30:02 - Split Testing (A/B Testing)
+33:53 - Changing Bucket Proportion
+34:16 - Picking Up Analytics Tricks
+35:42 - Tools &amp; Resources
+
+
+	Ruby and Data Analytics
+	Python
+	NumPy
+	Natural Language Toolkit
+	The R Project for Statistical Computing
+
+41:05 - Addressing Analytics
+
+
+	Qualitative and Quantitative Data
+
+43:46 - Statistical Thinking
+
+Picks
+
+	Bash Reference Manual: Coprocesses (Avdi)
+	Men's HeatGear® Boot Sock (Avdi)
+	MCB Combat Boot Socks (Avdi)
+	DirtWolf Double IPA (Avdi)
+	Coda Hale's Metrics Talk (Josh)
+	Ruby Hero Tenderlove! (Josh)
+	Practicing Ruby (James)
+	Jay Kreps: The Log: What every software engineer should know about real-time data's unifying abstraction (James)
+	Gifpop! (James)
+	The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries (Chuck)
+	rake (Chuck)
+	builder (Chuck)
+	Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich (Chuck)
+	logstash (Heather)
+	@_floridaman (Heather)
+
+Next Week
+Ruby Under a Microscope with Pat Shaughnessy
+Transcript
+JAMES:  Hey everyone. We just got the news moments before we’re recording that Jim Weirich has passed away. We’re all deeply sad today. And we’ll definitely talk more about this in the future. But for now, I would just like to give you my very favorite Jim Weirich story before we get started.
+
+Jim and I had quite a rivalry over the years because I wrote the TextMate book and he was such a big Emacs fan, a die-hard Emacs fan. And the rivalry kind of came to a head at one year at LoneStar Ruby Conf when my wife was learning to Ruby and she took a class that Jim taught. And so, he gave her flack through the entire class, harassing her for using TextMate because she had learned from me. And so then, later in the conference, we were all gathered together in one room to hear some odd programmers. And Jim Freeze was handing out books and making jokes. And he’s like, “Oh, I got this TextMate book here. I don’t know who wrote that.” And I shouted out from the side of the room, “Jim Weirich.” And everybody cracked out.
+
+But if you know Jim at all, you know that the loudest booming laugh came from the back from Jim himself. So, that is the sound I will miss most of all. And Jim wins in the end because I'm now a die-hard Emacs user.
+
+So, farewell, my friend. We will miss you very much.
+
+JOSH:  Absolutely.
+
+CHUCK:  Yeah. We’re all, I think, really sad to see him go. You know, the conferences won't be the same without him.
+
+AVDI:  No.
+
+CHUCK:  Yeah. It seems like every time I’d go to a conference, I’d wind up having lunch with him at least once. And we would talk about anything, usually anything I wanted to talk about. And he was always just gracious and helpful and was happy to look at my code and happy to show me what he was working on. I'm really going to miss him too.
+
+JAMES:  For sure.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>58:45</itunes:duration>
+	</item>

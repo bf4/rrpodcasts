@@ -1,0 +1,134 @@
+<item>
+		<title>143 RR Passenger Enterprise with Tinco Andringa and Hongli Lai</title>
+		<link>http://rubyrogues.com/143-rr-passenger-enterprise-with-tinco-andringa-and-hongli-lai/</link>
+		<comments>http://rubyrogues.com/143-rr-passenger-enterprise-with-tinco-andringa-and-hongli-lai/#comments</comments>
+		<pubDate>Wed, 12 Feb 2014 14:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Hongli Lai]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Tinco Andringa]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1724</guid>
+		<description><![CDATA[Panel Hongli Lai (twitter github blog) Tinco Andringa (github) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:35 &#8211; Hongli Lai and Tinco Andringa Introductions Phusion 02:29 &#8211; Phusion Passenger 04:29 &#8211; Rack 05:04 &#8211; Node.js, MeteorJS, Python [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/143-rr-passenger-enterprise-with-tinco-andringa-and-hongli-lai/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR143Passenger.mp3" length="42777463" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Hongli Lai (twitter github blog)   Tinco Andringa (github)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Hongli Lai (twitter github blog)
+	Tinco Andringa (github)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:35 - Hongli Lai and Tinco Andringa Introductions
+
+	Phusion
+
+02:29 - Phusion Passenger
+04:29 - Rack
+05:04 - Node.js, MeteorJS, Python Support
+06:51 - Processes and Threads
+
+
+	Ruby Rogues Episode #58 - Book Club: Working with Unix Processes with Jesse Storimer
+	Ruby Enterprise Edition
+	Smart Spawning
+
+18:38 - Advantages of Phusion Passenger Enterprise
+
+
+	Rolling Restarts
+
+21:16 - Mass Deployment
+22:48 - Passenger vs Unicorn
+25:07 - Error Resistant Deploys
+26:47 - Hosting
+
+
+	DreamHost
+
+28:48 - Apache, Nginx Support
+31:22 - Stability Issues
+33:46 - Documentation and Support
+
+
+	Phusion Passenger Discussions (Google Group)
+	Recent Technical Advances in Phusion Passenger
+
+Picks
+
+	Ernie Miller: 7 Lines Every Gem's Rakefile Should Have (James)
+	Alex MacCaw: Structuring Sinatra Applications (James)
+	Lost Cities (James)
+	Relic Runners (Chuck)
+	Hover (Chuck)
+	focus@will (Chuck)
+	Rails Composer (Hongli)
+	UX Crash Course: 31 Fundamentals (Hongli)
+	Robert Martin: Architecture the Lost Years (Tinco)
+
+Book Club
+Ruby Under a Microscope by Pat Shaughnessy! We will be interviewing Pat on February 27, 2014. The episode will air on March 6th, 2014. No Starch was kind enough to provide this coupon code your listeners can use to get a discount for Ruby Under a Microscope. Use the coupon code ROGUE for 40% off! (Coupon expires April 1, 2014.)
+Next Week
+Passion
+Transcript
+JAMES:  I don’t know. What do you do, Avdi? Do you just hang out on the beach all day?
+
+[Laughter]
+
+JAMES:  I’ve seen your ice pictures recently, which is why I said that.
+
+AVDI:  Yeah, I just hang out on Hoth and just have some sun. Hunt down the occasional wampa.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climate automated code reviews ensure that your projects stay on track. Fix and find quality and security issues in your Ruby code sooner. Try it free at RubyRogues.com/CodeClimate.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+CHUCK:  Hey everybody and welcome to episode 143 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  Hello everyone.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we have two special guests. We have Hongli Lai.
+
+HONGLI:  Yes, thank you.
+
+CHUCK:  And Tinco Andringa.
+
+TINCO:  [Chuckles] Hi.
+
+CHUCK:  I tried very hard not to mess those names up.
+
+HONGLI:  Sounds very good. Thank you for hosting us today.
+
+CHUCK:  Yeah. So, do you guys want to introduce yourselves really quickly?
+
+HONGLI:  So, I’m Hongli Lai. I’m one of the co-founders of Phusion. And at Phusion, we make Phusion Passenger, the application server for Ruby. Tinco is our first employee.
+
+TINCO:  I’ve been at Phusion since the beginning, sort of, quite a short while after the beginning. And at the moment, I’m leading the Union Station product, which is a metrics or a web application metrics app that you can use to keep your Ruby on Rails applications in check.
+
+JAMES:  Wow, cool.
+
+CHUCK:  Cool.
+
+HONGLI:  And I have a lot of experience with the open source world even before I started Phusion. And we met together at the university, so we’ve actually known each other for a long time now.
+
+CHUCK:  Oh, cool. Now, you guys are based down in the Netherlands,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>44:34</itunes:duration>
+	</item>

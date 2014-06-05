@@ -1,0 +1,141 @@
+<item>
+		<title>151 RR The Jim Weirich Tribute Episode</title>
+		<link>http://rubyrogues.com/151-rr-the-jim-weirich-tribute-episode/</link>
+		<comments>http://rubyrogues.com/151-rr-the-jim-weirich-tribute-episode/#comments</comments>
+		<pubDate>Wed, 09 Apr 2014 13:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Jim Weirich]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1803</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 00:11 &#8211; Intro Music: Jim&#8217;s WhyDay Tribute &#8211; Has Anybody Seen My Code? 02:16 &#8211; Jim Weirich’s Intro Bio Neo The Weirich Fund American [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/151-rr-the-jim-weirich-tribute-episode/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR151JimWeirich.mp3" length="60035384" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+00:11 - Intro Music: Jim's WhyDay Tribute - Has Anybody Seen My Code?
+02:16 - Jim Weirich’s Intro Bio
+
+
+	Neo
+	The Weirich Fund
+	American Heart Association Donations in Memory
+
+04:57 - Memories of Jim
+
+
+	The Rake Story
+
+11:15 - Libraries and Code Examples
+
+
+	rspec-given
+	Ruby Koans
+	Builder
+	RubyGems
+	flexmock
+	class BlankSlate
+	blankslate.rb
+	# Handle missing methods by attempting to look up a handler.
+	# Verify that each method that had an explicit expected count was
+	def flexmock_received?(method_name, args, options={})
+	if ::String.method_defined?(:encode)
+	Rake Special Case Example
+	Make failure objects respond to to_bool
+	# Normal When clause actions except that exceptions are captured
+	Move rspec/given/* to given/rspec/*
+	Jim Weirich: Growing A Language (Scottish Ruby Conference)
+
+25:56 - Style
+
+
+	The Weirich Style:  do … end vs { … }
+	Malleability
+	fail vs raise
+	Cascade of "or"
+
+33:20 - Talks and Videos
+
+
+	The Polite Programmer's Guide to Ruby Etiquette
+	Jim Weirich on Confreaks
+	Phusion: Farewell, Jim.
+	The Grand Unified Theory of Software Design
+	SOLID Ruby
+	Ruby Rogues Episode #20: Object Oriented Programming in Rails with Jim Weirich
+	Ruby Rogues Episode #60: SOLID with Jim Weirich
+	Mastering the Ruby Debugger
+
+42:00 - Hobbies and Games
+
+
+	Quadcopters
+	Ruby Koans
+	Friendly Flying Robots with Ruby
+
+48:05 - Naming Config Files
+51:51 - Jim’s Overall Personality
+58:14 - Outtro Music: Ruby Coding High
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+
+Next Week
+Ruby at the Times with Jacqui Maher
+Transcript
+JAMES:  I tell you what, I’ve spent the last couple of days reading Jim Weirich code and oh my gosh. What a great way to spend time.
+
+JOSH:  Jealous?
+
+JAMES:  It’s awesome, really.
+
+[Jim Weirich’s WhyDay Tribute: Has Anybody Seen My Code:
+
+Nice and small, works for all. Ruby is my all in all. Has anybody seen my code?
+
+Clean syntax, runs on Macs. Ruby has what others lack. Has anybody seen my code?
+
+Now when I worked in Java, I worked hard every day. EJBs, Entities, Spring DI got in my way.
+
+But now I know that for sure, Ruby is my Java cure. Has anybody seen my code?
+
+Now I know that for sure, Ruby is my Java cure. Has anybody seen my, anybody seen my, anybody seen my code?]
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+[DevMynd is a software design and development studio in Chicago with expertise in Ruby, JavaScript, and Clojure. We believe that well-crafted software makes life better. And our team of designers and engineers is dedicated to that pursuit. We love our customers, we love our team, and we spend a lot of time and effort making sure that we fit the right projects with the right people. Get in touch at DevMynd.com.]
+
+CHUCK:  Hey everybody and welcome to episode 151 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello, hello.
+
+CHUCK:  James Edward Gray.
+
+JAMES:  Good morning, everyone.
+
+CHUCK:  Josh Susser.
+
+JOSH:  Hey, good morning from San Francisco.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week, we’re going to be talking about our friend and hero, Jim Weirich. And just to start it off, I want to do a quick introduction. Actually, we all wanted to do this, just give you a thumbnail look into who he was.
+
+Jim was born November 18th,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:02:32</itunes:duration>
+	</item>

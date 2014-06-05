@@ -436,3 +436,63 @@
 - :feed_number: 174
   :title: 139 RR
   :enclosure: 
+- :feed_number: 175
+  :title: 140 RR Heroku with Richard Schneeman
+  :enclosure: RR140Heroku.mp3
+- :feed_number: 176
+  :title: 141 RR Teaching Kids with Ron Evans
+  :enclosure: RR141TeachingKids.mp3
+- :feed_number: 177
+  :title: 142 RR Depression and Mental Illness with Greg Baugues
+  :enclosure: RR142DepressionMentalIllness.mp3
+- :feed_number: 178
+  :title: 143 RR Passenger Enterprise with Tinco Andringa and Hongli Lai
+  :enclosure: RR143Passenger.mp3
+- :feed_number: 179
+  :title: 144 RR Passion
+  :enclosure: RR144Passion.mp3
+- :feed_number: 180
+  :title: 145 RR Data Analytics with Heather Rivers
+  :enclosure: RR145DataAnalytics.mp3
+- :feed_number: 181
+  :title: 146 RR Book Club – Ruby Under a Microscope with Pat Shaughnessy
+  :enclosure: RR146RUM.mp3
+- :feed_number: 182
+  :title: 147 RR APIs That Don’t Suck with Michele Titolo
+  :enclosure: RR147APIs.mp3
+- :feed_number: 183
+  :title: 148 RR Cloud Confusions with Amy Palamountain
+  :enclosure: RR148CloudConfusion.mp3
+- :feed_number: 184
+  :title: 149 RR Ruby in Government with Sarah Allen
+  :enclosure: RR149RubyInGovernment.mp3
+- :feed_number: 185
+  :title: 150 RR The Debugging Mindset with Danielle Sucher
+  :enclosure: RR150DebuggingMindset.mp3
+- :feed_number: 186
+  :title: 151 RR The Jim Weirich Tribute Episode
+  :enclosure: RR151JimWeirich.mp3
+- :feed_number: 187
+  :title: 152 RR The New York Times and Ruby with Jacqui Maher
+  :enclosure: RR152NYT.mp3
+- :feed_number: 188
+  :title: 153 RR From the Forum
+  :enclosure: RR153ParleyTopics.mp3
+- :feed_number: 189
+  :title: 154 RR Indie Game Development with Megan Fox
+  :enclosure: RR154GameDev.mp3
+- :feed_number: 190
+  :title: 155 RR Why Ruby Sucks
+  :enclosure: RR155RubySucks.mp3
+- :feed_number: 191
+  :title: 156 RR Hardware Hacking with Julia Grace
+  :enclosure: RR156HardwareHacking.mp3
+- :feed_number: 192
+  :title: 157 RR Book Club – Object Design Book Club with Rebecca Wirfs-Brock
+  :enclosure: RR157ObjectDesign.mp3
+- :feed_number: 193
+  :title: 158 RR Confessions
+  :enclosure: RR158Confessions.mp3
+- :feed_number: 194
+  :title: 159 RR Hacking Education with Saron Yitbarek
+  :enclosure: RR159HackingEducation.mp3

@@ -1,0 +1,109 @@
+<item>
+		<title>158 RR Confessions</title>
+		<link>http://rubyrogues.com/158-rr-confessions/</link>
+		<comments>http://rubyrogues.com/158-rr-confessions/#comments</comments>
+		<pubDate>Wed, 28 May 2014 13:50:12 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1871</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:13 &#8211; Midwest.io Conference Contest #RRMidwest / @midwestio 03:43 &#8211; Testing 15:49 &#8211; One Test File Per Class 21:19 &#8211; Long Methods 25:28 &#8211; Logging 29:30 &#8211; Long-Running Tests/Classes [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/158-rr-confessions/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR158Confessions.mp3" length="54719767" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 02:13 - Midwest.io Conference Contest   #RRMidwest / @midwestio - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:13 - Midwest.io Conference Contest
+
+
+	#RRMidwest / @midwestio
+
+03:43 - Testing
+15:49 - One Test File Per Class
+21:19 - Long Methods
+25:28 - Logging
+29:30 - Long-Running Tests/Classes
+
+
+	Avdi Grimm: Active Record Soup
+
+36:53 - Testing (Cont’d)
+
+
+	Integration Tests Are a Scam
+
+Picks
+
+	CircleCI (Avdi)
+	The Just-World Hypothesis (David)
+	Computer Graphics: Principles and Practice by John F. Hughes, Andries van Dam, Morgan McGruire and David F. Sklar (David)
+	Dave Brady Explains His "Raytracer In A Tweet" with James Edward Gray II (David)
+	Hearthstone (Chuck)
+	Winning: The Ultimate Business How-To Book by Jack Welch (Chuck)
+	EntreLeadership: 20 Years of Practical Business Wisdom from the Trenches by Dave Ramsey (Chuck)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Hacking Education with Saron Yitbarek
+Transcript
+DAVID:  Got me a breakfast sandwich, stuffing it in my face. It’s made of sourdough and cheese and eggs. So good. My wife is awesome.
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days. Sign up at SnapCI.com/RubyRogues.]
+
+CHUCK:  Hey everybody and welcome to episode 158 of the Ruby Rogues Podcast. This week on our panel, we have Avdi Grimm.
+
+AVDI:  Hello, hello.
+
+CHUCK:  David Brady.
+
+DAVID:  Even a broken clock is right twice a day, or on the international space station, 32 times.
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week we have no guest and no topic. I’m just kidding. So, we had a half-hour discussion about what we were going to talk about. And I guess we’re going to air some of our dirty laundry and talk about some of the things that at least are generally accepted to be not the best things to do, or that we’re not doing that are the best things to do, and talk about why we do that. In my case, it’s all laziness. I don’t know about you guys.
+
+[Laughter]
+
+DAVID:  I like it when a confession becomes heresy. And then you find out that everyone around you is also committing that particular heresy. And you realize that, “Oh, you know what? Maybe the emperor really does have no clothes.”
+
+CHUCK:  Yeah. So, before we get going too far, I want to just briefly announce that Midwest.io is a conference in St. Louis, I believe.
+
+AVDI:  Kansas City.
+
+CHUCK:  Kansas City.
+
+AVDI:  Kansas City, Missouri.
+
+CHUCK:  That’s what I meant.
+
+[Laughter]
+
+AVDI:  Going to get some angry emails.
+
+[Chuckles]
+
+CHUCK:  So anyway, they’re putting on this conference…
+
+DAVID:  Those people all look the same to me.
+
+CHUCK:  [Chuckles] Yeah.
+
+AVDI:  [Laughs]
+
+CHUCK:  They’re putting on this conference and they are offering a ticket to one of our listeners. So, in order to get the ticket,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>57:00</itunes:duration>
+	</item>

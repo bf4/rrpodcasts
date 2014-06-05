@@ -1,0 +1,158 @@
+<item>
+		<title>150 RR The Debugging Mindset with Danielle Sucher</title>
+		<link>http://rubyrogues.com/150-rr-the-debugging-mindset-with-danielle-sucher/</link>
+		<comments>http://rubyrogues.com/150-rr-the-debugging-mindset-with-danielle-sucher/#comments</comments>
+		<pubDate>Wed, 02 Apr 2014 13:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Danielle Sucher]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1792</guid>
+		<description><![CDATA[Panel Danielle Sucher (twitter github blog) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:13 &#8211; Danielle Sucher Introduction case commons 02:35 &#8211; Debugging: The Science of [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/150-rr-the-debugging-mindset-with-danielle-sucher/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR150DebuggingMindset.mp3" length="84898541" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Danielle Sucher (twitter github blog)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Danielle Sucher (twitter github blog)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:13 - Danielle Sucher Introduction
+
+	case commons
+
+02:35 - Debugging: The Science of Deduction by Danielle Sucher
+03:36 - Error Messages
+06:27 - “The Debugging Mindset”
+12:39 - Searching in the Light vs Dark
+14:37 - Experimentation
+
+
+	Ruby Rogues Episode #111 - Book Club: Explore It! with Elisabeth Hendrickson
+	Dan Mayer's Production Code Coverage Tool
+
+23:01 - Googling
+26:00 - Reset/Stash
+
+
+	git-blame
+
+32:11 - Development vs Production Problems
+37:33 - Tooling (Logging)
+
+
+	Escalating complexity: DevOps learnings from Air France 447 by Lindsay Holmwood
+
+42:15 - Rubber Duck Debugging
+43:36 - Being Right by Accident
+45:59 - “Going to the Mind Palace”
+47:43 - Debugging Numerology
+
+
+	The Practice of Programming (Addison-Wesley Professional Computing Series) by Brian W. Kernighan 
+	The case of the 500-mile email
+
+51:05 - Heisenbug
+51:52 - Using Debuggers
+
+
+	git-churn
+
+59:13 - Narrowing Down &amp; Miller’s Law
+
+
+	Assertions
+
+01:03:53 - Bundle Open
+01:09:07 - Fixing Bugs
+
+
+	Kenneth Koch: One Train May Hide Another
+	Julia Evans: Using strace to avoid reading Ruby code
+	method-i-set_trace_func
+	TracePoint
+
+Picks
+
+	Nick Kallen: Magic Scaling Sprinkles (Josh)
+	Mislav Marohnić: Every line of code is always documented (Josh)
+	Kevin Faustino: Russian Doll Caching &amp; Cache Digests [Rails 4 Countdown to 2013] (James)
+	Community (Avdi)
+	The Steven F. Udvar Hazy Center (Avdi)
+	The Weirich Fund (Avdi)
+	My First Lab Duo-Scope Microscope (David)
+	MAKE Magazine (David)
+	Mho's Resistance iOS Game (David)
+	Raspberry Pi 8GB Preloaded (NOOBS) SD Card (Chuck)
+	IOGEAR Bluetooth 4.0 USB Micro Adapter (GBU521) (Chuck)
+	RASPBERRY PI MODEL B 756-8308 Raspberry Pi B (Chuck)
+	Kootek Raspberry Pi Power Supply Micro USB Charger Adapter (Chuck)
+	James Nebeker and David G. Young: How to Make an iBeacon Out of a Raspberry Pi (Chuck)
+	FeedWrench (Chuck)
+	!!Con (Danielle)
+	Clojure from the ground up (Danielle)
+	Reimann (Danielle)
+	Thinking, Fast and Slow by Daniel Kahneman (Danielle)
+	How to Solve It by George Pólya (Danielle)
+	How Doctors Think by Jerome Groopman (Danielle)
+	Working Effectively With Legacy Code by Michael Feathers (Danielle)
+	Coders at Work by Peter Seibel (Danielle)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+Rogues Only:  The Jim Weirich Tribute
+Transcript
+DAVID:  I bought a microscope yesterday. And there was a splotch on it and I couldn’t figure out what it is and I did the scientific method trying to figure out where in the microscope the splotch was coming from. Turns out, I was seeing a reflection of my optic nerve.
+
+JAMES:  Nice.
+
+[Chuckles]
+
+JOSH:  Yeah, you can look in the microscope a really long time and you won’t find that.
+
+DAVID:  Yeah.
+
+DANIELLE:  So, when you gaze into the microscope, the microscope gazes back into you.
+
+[Laughter]
+
+DAVID:  Also gazes back to me, yeah.
+
+JOSH:  [inaudible] Are you saying that what you see inside Dave’s eyes is the abyss?
+
+DAVID:  Yes.
+
+DANIELLE:  Yeah, yeah.
+
+JAMES:  I just want to know how he proved that hypothesis false. Did he gouge one of his eyes out?
+
+[Laughter]
+
+DAVID:  Actually, and this is the part that I was very, very proud of, I finally switched eyes. And the splotch moved and changed shape.
+
+DANIELLE:  Oh, that’s brilliant.
+
+JAMES:  Wow.
+
+CHUCK:  Does this microscope make my optic nerve look fat?
+
+
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[Does your application need to send emails?</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:28:26</itunes:duration>
+	</item>

@@ -1,0 +1,144 @@
+<item>
+		<title>146 RR Book Club – Ruby Under a Microscope with Pat Shaughnessy</title>
+		<link>http://rubyrogues.com/146-rr-book-club-ruby-under-a-microscope-with-pat-shaughnessy/</link>
+		<comments>http://rubyrogues.com/146-rr-book-club-ruby-under-a-microscope-with-pat-shaughnessy/#comments</comments>
+		<pubDate>Wed, 05 Mar 2014 14:00:12 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Aaron Patterson]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Pat Shaughnessy]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1750</guid>
+		<description><![CDATA[Panel Pat Shaughnessy (twitter github blog) James Edward Gray (twitter github blog) Josh Susser (twitter github blog) Avdi Grimm (twitter github blog book) Aaron Patterson (twitter github blog) Discussion 01:53 &#8211; Pat Shaughnessy Introduction 02:19 &#8211; Ruby Under a Microscope by Pat Shaughnessy 05:03 &#8211; How to Learn Code Experiments 11:14 &#8211; How Ruby is [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/146-rr-book-club-ruby-under-a-microscope-with-pat-shaughnessy/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR146RUM.mp3" length="64358195" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Pat Shaughnessy (twitter github blog)   James Edward Gray (twitter github blog)   Josh Susser (twitter github blog)   Avdi Grimm (twitter github blog book)   Aaron Patterson (twitter github blog) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Pat Shaughnessy (twitter github blog)
+	James Edward Gray (twitter github blog)
+	Josh Susser (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Aaron Patterson (twitter github blog)
+
+Discussion
+01:53 - Pat Shaughnessy Introduction
+02:19 - Ruby Under a Microscope by Pat Shaughnessy
+05:03 - How to Learn Code
+
+
+	Experiments
+
+11:14 - How Ruby is Intended to be Used
+15:28 - Refinements
+
+
+	Konstantin Haase: Ruby 2.1
+
+22:54 - Method Caching
+
+
+	James Golick: MRI's Method Caches
+
+26:59 - Pat Shaughnessy: Never create Ruby strings longer than 23 characters
+29:14 - Computer Science
+33:07 - Hashes
+35:05 - Tools
+
+
+	disasm() in RubyVM::InstructionSequence
+	ruby/insns.def at trunk
+	Rubinius
+	JRuby
+
+42:16 - Modules
+45:18 - Blocks and Closures
+49:43 - Garbage Collection
+
+Picks
+
+	xkcd: Now (Josh)
+	Atom (Josh)
+	Google Plus Auto Awesome (Avdi)
+	tenderlove on Instagram (Aaron)
+	SparkFun Electronics (Aaron)
+	docjdon (James)
+	Not every Model is an ActiveRecord (James)
+	33 Amazing Ideas That Will Make Your House Awesome (James)
+	Pat Shaughnessy: An Interview With Jim Weirich (Pat)
+	Michael Feathers: 10 Technical Papers Every Programmer Should Read (At Least Twice) (Pat)
+	@mrb_bk (Pat)
+	Michael Bernstein: Distributed Systems Archaeology (Pat)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+APIs that Don't Suck Episode with Michele Titolo
+Transcript
+JOSH:  I’m not sure, but I may have accidentally just taken a sleeping pill.
+
+JAMES:  Maybe I’m not sure, but I may have just accidentally eaten a whale. I don’t know. It’s possible.
+
+[Laughter]
+
+JOSH:  What?
+
+PAT:  So, is this the part of the show where you go over the rules of etiquette and good behavior with guests?
+
+JOSH:  No, this is the part of the show where we get it all out of our systems so that we can behave like adults.
+
+PAT:  Wait, it’s taken you 145 episodes to behave like adults?
+
+[Laughter]
+
+JAMES:  It’s going to take a lot more than that, a lot more. [Chuckles]
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[This episode is sponsored by Code Climate. Code Climate automated code reviews ensure that your projects stay on track. Fix and find quality and security issues in your Ruby code sooner. Try it free at RubyRogues.com/CodeClimate.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+JAMES:  Hello ladies and gentlemen and welcome to episode 146 of the Ruby Rogues Podcast. Chuck is out today, so I’ll be your host. And with me today is Josh Susser.
+
+JOSH:  Hello from San Francisco.
+
+JAMES:  Avdi Grimm.
+
+AVDI:  Hello from Pennsylvania.
+
+JAMES:  Ruby Rogues alum Aaron Patterson.
+
+AARON:  Hello from the internet.
+
+JAMES:  [Chuckles] And with us today is special guest Pat Shaughnessy.
+
+PAT:  Hi, it’s Pat. Thanks so much for having me.
+
+JOSH:  Welcome to the show, Pat.
+
+JAMES:  Yeah. Since this is your first time on, you want to go ahead and introduce yourself?
+
+PAT:  Sure, yeah. I’m Pat Shaughnessy. I’m a Ruby developer. I worked for a long time at McKinsey, which is a management consulting firm. And now I’m doing some freelancing. And I live outside of Boston and Massachusetts.
+
+JAMES:  And we asked Pat on this show today to talk about typos. No, no, no, not typos.
+
+[Chuckles]
+
+PAT:  I don’t know anything about typos.
+
+JAMES:  [Laughs] We asked Pat on to talk about his book, ‘Ruby Under a Microscope’ which we’ve all been reading. It’s very good.
+
+PAT:  Thanks a lot. I really appreciate again, having me on. Thanks a lot.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:02</itunes:duration>
+	</item>

@@ -1,0 +1,132 @@
+<item>
+		<title>149 RR Ruby in Government with Sarah Allen</title>
+		<link>http://rubyrogues.com/149-rr-ruby-in-government-with-sarah-allen/</link>
+		<comments>http://rubyrogues.com/149-rr-ruby-in-government-with-sarah-allen/#comments</comments>
+		<pubDate>Wed, 26 Mar 2014 13:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Josh Susser]]></category>
+		<category><![CDATA[Sarah Allen]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1780</guid>
+		<description><![CDATA[Panel Sarah Allen (twitter github blog) Avdi Grimm (twitter github blog book) Josh Susser (twitter github blog) James Edward Gray (twitter github blog) Discussion 01:44 &#8211; Ruby Best Practice Patterns Project is Cancelled 02:47 &#8211; Sarah Allen Introduction Bridge Foundry RailsBridge Presidential Innovation Fellows 04:16 &#8211; Sarah Allen: Why no ruby in gov? (Slideshare) 08:25 [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/149-rr-ruby-in-government-with-sarah-allen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR149RubyInGovernment.mp3" length="70907678" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Sarah Allen (twitter github blog)   Avdi Grimm (twitter github blog book)   Josh Susser (twitter github blog)   James Edward Gray (twitter github blog) - Discussion 01:44 - Ruby Best Practice Patterns Project is Cancelled </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Sarah Allen (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Josh Susser (twitter github blog)
+	James Edward Gray (twitter github blog)
+
+Discussion
+01:44 - Ruby Best Practice Patterns Project is Cancelled
+02:47 - Sarah Allen Introduction
+
+
+	Bridge Foundry
+	RailsBridge
+	Presidential Innovation Fellows
+
+04:16 - Sarah Allen: Why no ruby in gov? (Slideshare)
+08:25 - Government, Ruby, and Agile Development
+14:04 - The Smithsonian Environment, Coding Processes, &amp; CMS
+
+
+	Drupal
+	PHP
+	transcription.si.edu
+	WordPress
+	Joomla!
+	Radiant CMS
+	The Ruby Toolbox
+
+41:43 - Working with Government
+
+
+	18F Digital Services Delivery
+	Open Data within Government
+
+56:34 - Day to Day Experience Working at the Smithsonian &amp; Smithsonian History
+01:03:17 - Getting Involved
+
+
+	Presidential Innovation Fellows
+	Sarah Allen: Why no ruby in gov? (Slideshare)
+
+Picks
+
+	moto x (Avdi)
+	Ruby Hero Awards (Josh)
+	Martin Fowler: Microservices (James)
+	The Tectonic Podcast (Sarah)
+	Luce Foundation Center for American Art - Hackathon (Sarah)
+	Screenhero (Sarah)
+
+Book Club
+Object Design: Roles, Responsibilities, and Collaborations by Rebecca Wirfs-Brock and Alan McKean
+Next Week
+The Debugging Mindset with Danielle Sucher
+Transcript
+JAMES:  Alright, are we ready? Are we buckled up?
+
+JOSH:  Oh, wait. Yes.
+
+[Chuckles]
+
+JOSH:  I will not fall out of my chair this morning.
+
+JAMES:  Good. I would hate to have that happen on the air.
+
+JOSH:  Again.
+
+JAMES:  Again, right.
+
+JOSH:  [Laughs]
+
+JAMES:  It had happened before. I’m just saying. It was Josh, just to be clear.
+
+
+
+[Hosting and bandwidth provided by the Blue Box Group. Check them out at BlueBox.net.] 
+
+[This podcast is sponsored by New Relic. To track and optimize your application performance, go to RubyRogues.com/NewRelic.]
+
+[Does your application need to send emails? Did you know that 20% of all email doesn’t even get delivered to the inbox? SendGrid can help you get your message delivered every time. Go to RubyRogues.com/SendGrid, sign up for free and tell them thanks.]
+
+[Bandwidth for this segment is provided by CacheFly, the world’s fastest CDN. Deliver your content fast with CacheFly. Visit CacheFly.com to learn more.]
+
+JAMES:  Hello everyone and welcome to episode 149 of the Ruby Rogues Podcast. I’m James Gray and I’ll be your host since Chuck is out today. With me as always is Avdi Grimm.
+
+AVDI:  Good morning, afternoon, something.
+
+JAMES:  Josh Susser.
+
+JOSH:  Good day from sunny San Francisco.
+
+JAMES:  And today, we also have a special guest, Sarah Allen.
+
+SARAH:  Hello, also from sunny San Francisco.
+
+JOSH:  Hey, neighbor!
+
+SARAH:  Hi.
+
+JAMES:  Usually, we have multiple people from Utah. Today, it’s multiple people from California, I guess.
+
+JOSH:  Yeah, yeah. So hey, thanks for joining us on the show, Sarah.
+
+JAMES:  Yes.
+
+SARAH:  It’s really great to be here.
+
+JAMES:  Absolutely. I’m going to have you introduce yourself in just a second Sarah, because we’ll get into what you do and stuff as we start to talk. Before we do that though, we do have an announcement.
+
+We’ve covered this on Parley, but we haven’t mentioned it on the air before. We talked in the past about doing a Ruby Best Practice Patterns Project. And we’ve actually been working on that for a while and trying to get a contract settled with the publisher and things like that. Unfortunately that project has not worked out. And we’ve decided to abandon it, because it was chewing time and resources trying to set it up and we were not finding something that everyone was comfortable with. But that’s okay. We’re doing other projects and interesting things. I just did the first Ruby quiz study group on a Google Hangout. And we recorded that and did all that. We have more experiments coming. So, it’s a little sad that the project’s ending. But we’re redirecting that energy to other places.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:13:52</itunes:duration>
+	</item>
