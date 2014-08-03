@@ -496,3 +496,27 @@
 - :feed_number: 194
   :title: 159 RR Hacking Education with Saron Yitbarek
   :enclosure: RR159HackingEducation.mp3
+- :feed_number: 195
+  :title: 160 RR Conceptualizing Code with Sam Livingston-Gray and Glenn Vanderburg
+  :enclosure: RR160Cognitive.mp3
+- :feed_number: 196
+  :title: 161 RR Docker Deploys with Sam Saffron
+  :enclosure: RR161DockerDeploys.mp3
+- :feed_number: 197
+  :title: 162 RR Scaling Rails with Steve Corona
+  :enclosure: RR162ScalingRails.mp3
+- :feed_number: 198
+  :title: 163 RR Education with Coraline Ada Ehmke and Katrina Owen
+  :enclosure: RR163Education.mp3
+- :feed_number: 199
+  :title: 164 RR Staying Sharp with Dave Thomas
+  :enclosure: 164StayingSharp.mp3
+- :feed_number: 200
+  :title: 165 RR Systems Programming Tricks with Julia Evans
+  :enclosure: RR165SystemsProgramming.mp3
+- :feed_number: 201
+  :title: 166 RR Polyglot Programming
+  :enclosure: RR166PolyglotProgramming.mp3
+- :feed_number: 202
+  :title: 167 RR Speaking at Conferences
+  :enclosure: RR167SpeakingConferences.mp3

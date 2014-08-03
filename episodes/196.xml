@@ -1,0 +1,171 @@
+<item>
+		<title>161 RR Docker Deploys with Sam Saffron</title>
+		<link>http://rubyrogues.com/161-rr-docker-deploys-with-sam-saffron/</link>
+		<comments>http://rubyrogues.com/161-rr-docker-deploys-with-sam-saffron/#comments</comments>
+		<pubDate>Wed, 18 Jun 2014 14:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Sam Saffron]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1890</guid>
+		<description><![CDATA[Panel Sam Saffron (twitter blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:04 &#8211; Sam Saffron Discourse Ruby Rogues Episode #117:Discourse Part 2 with Sam Saffron and Robin Ward Stack Overflow [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/161-rr-docker-deploys-with-sam-saffron/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR161DockerDeploys.mp3" length="69521393" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Sam Saffron (twitter blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Sam Saffron (twitter blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:04 - Sam Saffron
+
+	Discourse
+	Ruby Rogues Episode #117:Discourse Part 2 with Sam Saffron and Robin Ward
+	Stack Overflow
+
+03:55 - Deploying Discourse
+
+
+	discourse_docker
+	nginx
+	paravirtualization
+
+13:19 - Layering File System
+15:19 - The Docker Setup for Discourse
+
+
+	docker_container
+	pups
+	runit
+
+	Process Supervision: Solved Problem
+
+
+	bluepill
+	God
+	Monit
+
+25:04 - Instructions
+31:50 - Managing Containers
+32:47 - Updates
+
+
+	unicorn
+	passenger-docker
+
+36:34 - logster
+
+
+	logster
+
+37:36 - Docker and Vagrant
+
+
+	vagrant-lxc
+	Docker Provisioner
+	Chef
+
+41:33 - Getting Started
+45:32 - Storing Images
+47:25 - Containers (Cont’d)
+
+
+	CoreOS
+	OpenStack
+	logstash
+	Elasticsearch
+	dawn
+	HAProxy
+
+58:46 - Deploying Containers
+
+
+	Jenkins CI
+	DigitalOcean
+	boot2docker
+	Idris
+
+01:01:23 - Memory
+Picks
+
+	Xiki: The Command Revolution (James)
+	Xero (Avdi)
+	Class: CSV (Ruby 2.1.0) (Avdi)
+	Runtastic (Avdi)
+	Try Docker (Chuck)
+	The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM) by Hal Elrod (Chuck)
+	Steve Jobs by Walter Isaacson (Chuck)
+	Sherlock (David)
+	i3 (Sam)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Scaling Rails with Steve Corona
+Transcript
+AVDI:  I’m just imagining some horrible Australian creature is chewing on the wires right now.
+
+JAMES:  [Chuckles]
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days. Sign up at SnapCI.com/RubyRogues.]
+
+CHUCK:  Hey everybody and welcome to episode 161 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning, or afternoon. I’m so confused.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello, hello.
+
+CHUCK:  David Brady.
+
+DAVID:  You can build all of the logical gates out of NANDs, which means that all of computer science is based on the theory that two wrongs do make a right.
+
+JAMES:  [Chuckles]
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week we have a special guest and that’s Sam Saffron.
+
+SAM:  Good morning from Australia.
+
+CHUCK:  So, we’ve had you on the show twice already?
+
+SAM:  Once.
+
+CHUCK:  Just once?
+
+SAM:  Yeah.
+
+JAMES:  Yeah. We were talking about Discourse.
+
+SAM:  We were talking about Discourse. It’s a very [inaudible]…
+
+CHUCK:  Well, having Jeff is like having you twice, right?
+
+SAM:  [Chuckles]
+
+DAVID:  Nobody’s going to touch the ‘it felt like twice’ joke? We’re all just going to leave that?
+
+[Laughter]
+
+JAMES:  Yeah, we’re just going to leave that.
+
+DAVID:  This is actually my first time meeting you, Sam. So, welcome.
+
+SAM:  Ah,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:12:25</itunes:duration>
+	</item>

@@ -1,0 +1,176 @@
+<item>
+		<title>165 RR Systems Programming Tricks with Julia Evans</title>
+		<link>http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/</link>
+		<comments>http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/#comments</comments>
+		<pubDate>Wed, 16 Jul 2014 11:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Julia Evans]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1927</guid>
+		<description><![CDATA[Panel Julia Evans (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:11 &#8211; Julia Evans Introduction 03:12 - Data Science statistics sample size 04:07 &#8211; Julia’s Blog Julia Evans: Writing an OS in Rust in tiny steps (Steps 1-5) 05:28 [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR165SystemsProgramming.mp3" length="62633020" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Julia Evans (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   Saron Yitbarek (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Julia Evans (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:11 - Julia Evans Introduction
+
+03:12 - Data Science
+
+	statistics
+	sample size
+
+04:07 - Julia’s Blog
+
+	Julia Evans: Writing an OS in Rust in tiny steps (Steps 1-5)
+
+05:28 - The Rust Programming Language
+
+	Memory Access
+	Type System
+	NIL
+	Malloc
+	Julia Evans: Day 39: Writing malloc wrong, for fun
+
+07:46 - Hacker School
+
+	Julia Evans: How I did Hacker School: ignoring things I understand and doing the impossible
+
+08:22 - Users of Julia’s OS
+
+	IRC
+	Strings
+	Kernels
+	Julia Evans: Day 3: What does the Linux kernel even do?
+
+11:00 - Linkers
+
+	Julia Evans: Day 40: Linkers are amazing.
+	Julia Evans: Day 23: Started writing a TCP stack in Python
+	Stack
+	Julia Evans: Debug your programs like they're closed source!
+	Emulators
+
+12:29 - Hacker School vs. Self-Teaching
+
+	Linux Kernel
+	Fork() Function
+
+15:52 - Strace
+
+	Julia Evans: Understanding how killall works using strace
+	Strace Wikipedia
+	System Call
+	Prolog
+	Julia Evans: Using strace to avoid reading Ruby code
+	SSH Call (Shell)
+
+20:23 - Approach to Take with Programs
+
+	Wireshark
+	Hadoop
+	Julia Evans: Diving into HDFS
+	Impala
+	Log Files
+
+24:13 - Utilities
+
+	/proc
+	perf (Linux)
+	EBSD
+	dtrace
+	Brendan Gregg: Top 10 DTrace scripts for Mac OS X
+	Julia Evans: Recovering files using /proc (and spying, too!)
+	Julia Evans: I can spy on my CPU cycles with perf!
+	strace(1) - Linux man page (lsof)
+	Daniel Miessler: An lsof Primer
+	tcpdump
+	Open Scrum
+	Robert Lord’s Blog
+	Boulder Ruby Group Meetup
+
+28:59 - Hacker School Life Skills
+
+	Open Source Keyboard
+	Diodes
+	Strange Loop Conference
+	Inform
+	Lea Albaugh: Inform Workshop at Strange Loop
+
+32:32 - Julia’s Non-Programming Creative Hobbies
+
+34:35 - Fixing/Testing Bugs
+
+37:31 - Future Plans &amp; More on Statistics
+
+	Regression Analysis
+	P-Values
+	Probability
+	Null Hypothesis
+
+40:31 - Asking Questions
+
+	Julia Evans: Asking questions is a superpower
+	iOS Kernel
+
+45:41 - Career Investments
+
+	So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport
+	GNOME Outreach Program for Women
+	Gentoo Linux
+	CSB
+
+See Also
+
+	Julia Evans: 4 paths to being a kernel hacker
+	Day 21: Unlocking Hacker School With a Text by Robert Lord
+
+Picks
+
+	If Then Else (Candice Pacheco) (David)
+	rubygems-sing
+	Blog: Gourmet Service Objects (James)
+	[Quora] What are some lifestyle changes that save money? (James)
+	Honeybadger (Avdi)
+	Papertrail (Avdi)
+	tilt (Avdi)
+	Deadlines (Avdi)
+	mitmproxy (Avdi)
+	Redbooth (Chuck)
+	Redbooth Chrome Plugin (Chuck)
+	Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health by William Davis, MD (Chuck)
+	John Allspaw: On Being A Senior Engineer (Julia)
+	Brendan Gregg (Julia)
+	Apply at Hacker School! (Julia)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Polyglot Programming
+Transcript
+AVDI:  I’m drinking breakfast this morning.
+DAVID:  Smoothie or, “Hi Avdi, welcome to meeting”?
+[Laughter]
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass?</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:15</itunes:duration>
+	</item>

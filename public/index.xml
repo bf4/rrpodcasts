@@ -26,6 +26,1041 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>167 RR Speaking at Conferences</title>
+		<link>http://rubyrogues.com/167-rr-speaking-at-conferences/</link>
+		<comments>http://rubyrogues.com/167-rr-speaking-at-conferences/#comments</comments>
+		<pubDate>Wed, 30 Jul 2014 13:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1947</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:12 &#8211; Speaking at Conferences Ruby Rogues Episode #64: Presenting at Conferences 04:09 &#8211; Saron’s Experiences Saron at RailsConf 05:07 &#8211; What to Speak About 06:44 &#8211; Styles of Talk Mountain West Conference Wall of [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/167-rr-speaking-at-conferences/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR167SpeakingConferences.mp3" length="65365617" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 03:12 - Speaking at Conferences  Ru...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:12 - Speaking at Conferences
+
+	Ruby Rogues Episode #64: Presenting at Conferences
+
+04:09 - Saron’s Experiences
+
+	Saron at RailsConf
+
+05:07 - What to Speak About
+
+06:44 - Styles of Talk
+
+	Mountain West Conference
+	Wall of Text
+
+09:09 - Guidelines for Certain Conferences
+
+	Submitting Proposals
+
+10:13 - Criteria for Speakers
+
+	Selection Bias
+	Brit Ruby
+
+	Why Brit Ruby Was Canceled on Github
+
+
+	Noel Rappin: What I learned from reading 429 conference proposals
+
+11:37 - Saron on Feedback
+
+	Typecasting
+	Ruby Rogues Episode #69 - Therapeutic Refactoring with Katrina Owen
+	Katrina Owen: Therapeutic Refactoring Talk
+
+15:26 - Noticing Diversity/Minorities
+
+	Privledge
+	Impostor Syndrome
+	Anil Dash
+
+	A checklist of stupid things men will say when they find out I only retweet women
+
+
+	The Flatiron School
+	Adam Enbar
+
+	@aenbar
+
+
+
+22:41 - Feeling Responsibility and Pressure
+
+24:24 - Technical Talks vs. Other Types
+
+	Brain Hacking
+
+31:43 - Getting Past “Impostor Syndrome”
+
+37:28 - Ideas for Talks
+
+44:11 - Favorite Talks
+
+	Coraline Ada Ehmke: Artisans and Apprentices
+	DHH’s RailsConf Keynote
+	Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL
+
+	Eileen Uchitelle
+
+
+	Ryan Florence: Bringing the Web Back to the Blind
+
+	Ryan Florence
+
+
+	Ruby Rogues Episode #119 - Accessibility with Brian Hogan
+
+	Brian Hogan
+
+
+	Jamison Dance: Hardware Hacking for JS Developers
+
+	Jamison Dance
+
+
+	Midwest.io
+	Jessica Kerr: Property-Based Testing for Better Code
+
+	Jessica Kerr
+
+
+	Luigi Montanez &amp; Ryan Resella: You'll Never Believe Which Web Framework Powers Upworthy
+	Midwest.io YouTube Channel
+
+51:06 - Pre-Speaker Checklists
+Picks
+
+	Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain by Steven D. Levitt (Saron)
+	The Website Is Down - Sales Guy vs. Web Dude (Saron)
+	Doc Marten Boots (Avdi)
+	Dogfish Head Brewery: Burton Baton (Avdi)
+	Keep Ruby Weird | @keeprubyweird (David)
+	Simon Tatham's Portable Puzzle Collection (David)
+	[iTunes] Simon Tatham's Portable Puzzle Collection (David)
+	Norse IPViking (David)
+	105-inch Samsung UHD TV (Chuck)
+	[YouTube] Weird Al: “Frank’s 2000” TV
+	ModHeader (Chuck)
+	Pretty JSON (Chuck)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Xiki with Craig Muth
+Transcript
+CHUCK:  Okay, that’s just creepy, Dave.
+DAVID:  Is it the eyeball picture?
+CHUCK:  Yeah.
+SARON:  Yeah, it’s really scary.
+[Chuckles]
+DAVID:  Completely by accident, the eyeball is perfectly centered so that when people are calling me or I’m ringing back to them, the Ajax spinner goes right around the pupil.
+[Laughter]
+CHUCK:  Completely by accident, huh?
+SARON:  That’s [awful]. That makes it okay. Now I’m okay with it.
+DAVID:  Yeah.
+AVDI:  [Laughs]
+CHUCK:  Because that’s not more creepy, right?
+DAVID:  Exactly.
+SARON:  It’s gone past the creepy level into awesome level. 
+DAVID:  [Laughs] I can die happy.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:05</itunes:duration>
+	</item>
+<item>
+		<title>166 RR Polyglot Programming</title>
+		<link>http://rubyrogues.com/166-rr-polyglot-programming/</link>
+		<comments>http://rubyrogues.com/166-rr-polyglot-programming/#comments</comments>
+		<pubDate>Wed, 23 Jul 2014 13:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1938</guid>
+		<description><![CDATA[Panel James Edward Gray (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:50 &#8211; Polyglot Programming and Learning Other Languages The Go Programming Language Elixir The Rust Programming Language Clojure 03:44 &#8211; Chuck and James’ Favorite Languages Erlang Programming Language Lisp Scheme The Little Schemer by Daniel P. Friedman, Matthias Felleisen, Duane [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/166-rr-polyglot-programming/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR166PolyglotProgramming.mp3" length="64965627" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  James Edward Gray (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 02:50 - Polyglot Programming and Learning Other Languages  The Go Programming Language   Elixir </itunes:subtitle>
+		<itunes:summary>Panel
+
+	James Edward Gray (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:50 - Polyglot Programming and Learning Other Languages
+
+	The Go Programming Language
+	Elixir
+	The Rust Programmin...</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:07:40</itunes:duration>
+	</item>
+<item>
+		<title>165 RR Systems Programming Tricks with Julia Evans</title>
+		<link>http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/</link>
+		<comments>http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/#comments</comments>
+		<pubDate>Wed, 16 Jul 2014 11:00:27 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Julia Evans]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1927</guid>
+		<description><![CDATA[Panel Julia Evans (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:11 &#8211; Julia Evans Introduction 03:12 - Data Science statistics sample size 04:07 &#8211; Julia’s Blog Julia Evans: Writing an OS in Rust in tiny steps (Steps 1-5) 05:28 [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/165-rr-systems-programming-tricks-with-julia-evans/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR165SystemsProgramming.mp3" length="62633020" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Julia Evans (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   Saron Yitbarek (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Julia Evans (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:11 - Julia Evans Introduction
+
+03:12 - Data Science
+
+	statistics
+	sample size
+
+04:07 - Julia’s Blog
+
+	Julia Evans: Writing an OS in Rust in tiny steps (Steps 1-5)
+
+05:28 - The Rust Programming Language
+
+	Memory Access
+	Type System
+	NIL
+	Malloc
+	Julia Evans: Day 39: Writing malloc wrong, for fun
+
+07:46 - Hacker School
+
+	Julia Evans: How I did Hacker School: ignoring things I understand and doing the impossible
+
+08:22 - Users of Julia’s OS
+
+	IRC
+	Strings
+	Kernels
+	Julia Evans: Day 3: What does the Linux kernel even do?
+
+11:00 - Linkers
+
+	Julia Evans: Day 40: Linkers are amazing.
+	Julia Evans: Day 23: Started writing a TCP stack in Python
+	Stack
+	Julia Evans: Debug your programs like they're closed source!
+	Emulators
+
+12:29 - Hacker School vs. Self-Teaching
+
+	Linux Kernel
+	Fork() Function
+
+15:52 - Strace
+
+	Julia Evans: Understanding how killall works using strace
+	Strace Wikipedia
+	System Call
+	Prolog
+	Julia Evans: Using strace to avoid reading Ruby code
+	SSH Call (Shell)
+
+20:23 - Approach to Take with Programs
+
+	Wireshark
+	Hadoop
+	Julia Evans: Diving into HDFS
+	Impala
+	Log Files
+
+24:13 - Utilities
+
+	/proc
+	perf (Linux)
+	EBSD
+	dtrace
+	Brendan Gregg: Top 10 DTrace scripts for Mac OS X
+	Julia Evans: Recovering files using /proc (and spying, too!)
+	Julia Evans: I can spy on my CPU cycles with perf!
+	strace(1) - Linux man page (lsof)
+	Daniel Miessler: An lsof Primer
+	tcpdump
+	Open Scrum
+	Robert Lord’s Blog
+	Boulder Ruby Group Meetup
+
+28:59 - Hacker School Life Skills
+
+	Open Source Keyboard
+	Diodes
+	Strange Loop Conference
+	Inform
+	Lea Albaugh: Inform Workshop at Strange Loop
+
+32:32 - Julia’s Non-Programming Creative Hobbies
+
+34:35 - Fixing/Testing Bugs
+
+37:31 - Future Plans &amp; More on Statistics
+
+	Regression Analysis
+	P-Values
+	Probability
+	Null Hypothesis
+
+40:31 - Asking Questions
+
+	Julia Evans: Asking questions is a superpower
+	iOS Kernel
+
+45:41 - Career Investments
+
+	So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love by Cal Newport
+	GNOME Outreach Program for Women
+	Gentoo Linux
+	CSB
+
+See Also
+
+	Julia Evans: 4 paths to being a kernel hacker
+	Day 21: Unlocking Hacker School With a Text by Robert Lord
+
+Picks
+
+	If Then Else (Candice Pacheco) (David)
+	rubygems-sing
+	Blog: Gourmet Service Objects (James)
+	[Quora] What are some lifestyle changes that save money? (James)
+	Honeybadger (Avdi)
+	Papertrail (Avdi)
+	tilt (Avdi)
+	Deadlines (Avdi)
+	mitmproxy (Avdi)
+	Redbooth (Chuck)
+	Redbooth Chrome Plugin (Chuck)
+	Wheat Belly: Lose the Wheat, Lose the Weight, and Find Your Path Back to Health by William Davis, MD (Chuck)
+	John Allspaw: On Being A Senior Engineer (Julia)
+	Brendan Gregg (Julia)
+	Apply at Hacker School! (Julia)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Polyglot Programming
+Transcript
+AVDI:  I’m drinking breakfast this morning.
+DAVID:  Smoothie or, “Hi Avdi, welcome to meeting”?
+[Laughter]
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass?</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:05:15</itunes:duration>
+	</item>
+<item>
+		<title>164 RR Staying Sharp with Dave Thomas</title>
+		<link>http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/</link>
+		<comments>http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/#comments</comments>
+		<pubDate>Wed, 09 Jul 2014 13:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Dave Thomas]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1918</guid>
+		<description><![CDATA[Panel Dave Thomas (twitter blog) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:57 &#8211; Dave Thomas Introduction The Pragmatic Programmer: From Journeyman to Master by Dave [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/164StayingSharp.mp3" length="74061683" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Dave Thomas (twitter blog)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   Charles Max Wood (twitter github Teach Me To Co...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Dave Thomas (twitter blog)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:57 - Dave Thomas Introduction
+
+	The Pragmatic Programmer: From Journeyman to Master by Dave Thomas
+	The Agile Manifesto
+	The Pickaxe Book
+
+03:14 - Changing the Writing of Codes
+
+
+	Clojure
+	Elixir
+	Programming Elixir: Functional |&gt; Concurrent |&gt; Pragmatic |&gt; Fun by Dave Thomas
+
+06:37 - New Languages vs. Current Languages
+07:42 - Erlang vs Elixir
+
+
+	Mostly Erlang
+	Erlang
+	Prolog
+	Haskell
+	OGP
+	Erlang gen-servers
+
+09:07 - C and C++
+
+
+	Class Construction in C and C++: Object-Oriented Programming Fundamentals by Roger Sessions
+	Encapsulation
+	Inheritance
+	Struct
+	Python
+	C Macro
+	Uni-code
+	Method Definition
+
+13:16 - Picking New Projects
+17:14 - Dave Thomas in Texas, September 2014- Upcoming Events
+
+
+	Markdown
+
+17:56 - Pattern Matching
+
+
+	Lazy Streams
+	Class-based Programming (OO)
+	Camel
+	JavaScript Jabber Episode 061- Functional Reactive Programming
+
+19:41 - Agile and Agility Principles
+
+
+	Dave Thomas: Agile Is Dead (Long Live Agility)
+	Scrum
+
+22:19 - Abandoning Agile for Agility
+25:41 - Measuring Success
+28:49 - Writing Tests vs. Not Writing Tests
+
+
+	Ruby Rails Conf 2014 - DHH Keynote David Heinemeier Hansson
+	TDD
+	API’s (expressive API’s)
+	Regression
+	Deploying
+	Erlang OTP
+	Ruby Rogues Episode 162- Scaling Rails
+	Wicked Problem
+	PCI Compliance
+
+44:46 - Breaking Usual Programming Models
+46:27 - Using Ruby Unconventionally
+
+
+	Pacemaker
+
+47:55 - Jumping Into New Languages
+
+
+	Pseudoscience (see David’s picks)
+	Go
+	Dart
+	OpenGL
+
+54:31 - When To Change
+
+Picks
+
+	Dart for Hipsters by Chris Strom (James)
+	The Prose Garden (James)
+	A Gorgeous Woman Shakes Her Body On Stage ... And The Crowd Goes Wild (James)
+	Something Ventured (Saron)
+	fake_braintree (Saron)
+	Bit-Shadow Machine (Saron)
+	Bruce F. Webster: The Wetware Crisis: the Thermocline of Truth (Avdi)
+	XML (Avdi)
+	TorGuard (Avdi)
+	unitwise (Avdi)
+	Chrome Developer Tools (Chuck)
+	Tab Wrangler (Chuck)
+	Google Forum: comp.lang.misc
+	Dad Is Fat by Jim Gaffigan (Chuck)
+	Redbooth (Chuck)
+	SDL MultiTerm Desktop (Dave)
+	Camel-Markdown on Github (Dave)
+	Artful Making: What Managers Need to Know About How Artists Work by Robert Austin, Lee Devin and Eric Schmidt (Dave)
+	The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and Dave Thomas (David)
+	Teach Yourself a New Programming Language in 21 Minutes (Or 2-3 Years, It Depends) from David's own blog, "Heart, Mind, and Code" (David)
+	The Pseudoscience Wars: Immanuel Velikovsky and the Birth of the Modern Fringe by Michael D. Gordin (David)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Systems Programming Tricks with Julia Evans
+Transcript
+DAVE:  Yeah. I’m jolly good, y’all. 
+[Laughter]
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:09</itunes:duration>
+	</item>
+<item>
+		<title>163 RR Education with Coraline Ada Ehmke and Katrina Owen</title>
+		<link>http://rubyrogues.com/163-rr-education-with-coraline-ada-ehmke-and-katrina-owen/</link>
+		<comments>http://rubyrogues.com/163-rr-education-with-coraline-ada-ehmke-and-katrina-owen/#comments</comments>
+		<pubDate>Wed, 02 Jul 2014 13:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Coraline Ada Ehmke]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1901</guid>
+		<description><![CDATA[Panel Coraline Ada Ehmke (twitter github blog) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:44 &#8211; Coraline Ada Ehmke Introduction Instructure 02:30 &#8211; Katrina Owen [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/163-rr-education-with-coraline-ada-ehmke-and-katrina-owen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR163Education.mp3" length="73292240" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Coraline Ada Ehmke (twitter github blog)   Katrina Owen (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Coraline Ada Ehmke (twitter github blog)
+	Katrina Owen (twitter github blog)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:44 - Coraline Ada Ehmke Introduction
+
+
+	Instructure
+
+02:30 - Katrina Owen Introduction
+
+
+	Splice
+	Katrina at Rails 2013
+
+05:00 - Katrina’s Teaching Tactics
+
+
+	Blaise Pascal quote
+	People Who Want To Learn
+	The Flatiron School
+
+12:14 - Dealing With People
+
+
+	RailsConf 2014 - Artisans and Apprentices by Coraline Ada Ehmke
+
+14:47 - Mentorship/Mastery
+
+
+	Dev Bootcamp / @DevBootcamp
+	@feministy
+	Mastery by Robert Greene
+	Socratic Method
+	Autocratic
+
+23:07 - Responsibilities to Community
+24:47 - Organizations/Meetups
+
+
+	ChicagoRuby
+	Women Who Code
+	Girl Develop It
+	Chicago Women Developers
+	LGBT Community Chicago
+	“Don’t Be An Asshole” - The Flatiron School
+	This American Life Episode #370: Ruining It for the Rest of Us
+
+29:26 - “Bad Apples”
+34:26 - Mentor/Teacher Relationships
+
+
+	Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave Hoover
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+	Dreyfus Scale
+
+38:20 - Paid Coaching
+
+
+	AirPair
+
+42:50 - Direct vs. Indirect Mentorship
+
+
+	Professor Mark Andre
+	“Weaponizing Goodwill”
+	The "Clever Hans" Effect
+	Carol Dweck
+
+53:30 - Bringing Up Junior Developers
+
+
+	Saron Code Club Talk at RailsConf
+	Code Club
+	Dan Kubb
+	Erik Michaels-Ober
+	Myron Marston
+	Markus Shirp
+	Exercism
+
+01:01:59 - Putting Code Online
+
+See Also
+James' and David's Code Reading Session: Ruby Code Reading: Equalizer and Concord
+
+Picks
+
+	Inch Pages: Documentation badges for Ruby projects (James)
+	Shields.io (James)
+	Hush (Remastered) Yo-Yo Ma (James)
+	Prelude For Emacs (David)
+	Charles Web Debugging Proxy  (David)
+	Design for Hackers: Reverse Engineering Beauty by David Kadavy (Saron)
+	Brain Rules for Baby (Updated and Expanded): How to Raise a Smart and Happy Child from Zero to Five by John Medina
+	Drive: The Surprising Truth About What Motivates by Daniel H. Pink
+	Slim (Avdi)
+	Tab Coral for Chrome
+	Apprenticeship Patterns By Dave Hoover and Adewale Oshineye (Coraline)
+	ATUnit (Coraline)
+	15 Sorting Algorithms in 6 Minutes (Katrina)
+	Visualizing Git Concepts with D3 (Katrina)
+	[Linux.conf.au 2013] - Git For Ages 4 And Up (Katrina)
+	Janet Lansbury: Don't Stand Me Up (Katrina)
+	[Picture] Katrina's Niece (Katrina)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Staying Sharp with Dave Thomas
+Transcript
+KATRINA:  I just have to go tweet an overheard. I’ll be right back.
+
+[Laughter]
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:21</itunes:duration>
+	</item>
+<item>
+		<title>162 RR Scaling Rails with Steve Corona</title>
+		<link>http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/</link>
+		<comments>http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/#comments</comments>
+		<pubDate>Wed, 25 Jun 2014 13:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1896</guid>
+		<description><![CDATA[Panel Steve Corona (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) James Edward Gray (twitter github blog) Discussion 01:38 &#8211; Steve Corona Introduction BigCommerce 01:57 &#8211; Twitpic Start Growth Scaling 03:51 &#8211; Learning on the Job vs. Skills and Experience 04:31 &#8211; Scaling 05:16 &#8211; TwitPic as Rails Application [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR162ScalingRails.mp3" length="61931674" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Steve Corona (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   James Edward Gray (twitter github blog) - Discussion 01:38 - Steve Corona Introduction   BigCommerce - 01:57 - Twitpic </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Steve Corona (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	James Edward Gray (twitter github blog)
+
+Discussion
+01:38 - Steve Corona Introduction
+
+
+	BigCommerce
+
+01:57 - Twitpic
+
+
+	Start
+	Growth
+	Scaling
+
+03:51 - Learning on the Job vs. Skills and Experience
+04:31 - Scaling
+05:16 - TwitPic as Rails Application
+
+
+	PHP to Rails
+	Coding
+	Records/Database Issues
+
+10:19 - Thumbnail API’s
+10:58 - Restoring and Migrating Data
+
+
+	Read-Only Functionality
+
+12:02 - MySQL
+
+
+	Building Apps
+	Converting Tables
+
+13:40 - Data Migration Timeline
+
+
+	Rewriting PHP
+	Creating Framework
+	Converting to Rails
+
+16:45 - Programmer vs. API Builder Mindset
+17:30 - Go
+17:31 - Node 
+18:24 - JRuby
+
+
+	JVM
+	Tomcat
+	GlassFish
+
+21:34 - TorqueBox
+23:12 - Background Functionality
+26:27 - async
+28:40 - Bajillion Different Queueing Servers
+29:48 - Resque
+29:57 - Github: Introducing Resque
+32:41 - Turning Things Around
+
+
+	JRuby
+
+32:57 - Is Ruby Fast Yet?
+
+
+	Number of Threads
+	JVM Garbage Collection
+	Testing
+	Unicorn
+	Puma
+	Passenger
+
+40:49 - Algorithms
+43:09 - N+1 in Rails
+45:35 - Micro-Optimizations
+51:26 - Profiler Tools
+51:45 - statsd
+
+
+	Data Aggregation
+
+53:01 - New Relic
+
+Picks
+
+	Zurb: Foundation (Avdi)
+	bigfootjs (Avdi)
+	Bower (Avdi)
+	#GIRLBOSS by Sophia Amoruso (Saron)
+	808 Cube (Saron)
+	Dan McClain: Avoid Rails When Generating JSON responses with PostgreSQL (James)
+	ScottBradleeLovesYa (James)
+	Consul (Steve)
+	NSQ Docs (Steve)
+	The War of Art by Steven Pressfield (Steve)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Education with Coraline Ada Ehmke and Katrina Owen
+Transcript
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days. Sign up at SnapCI.com/RubyRogues.]
+
+JAMES:  Hello everyone and welcome to episode 162 of the Ruby Rogues Podcast. Chuck is out today, so I’m James Gray and I’ll be your host. With me today are Avdi Grimm…
+
+AVDI:  Hello from Pennsylvania.
+
+JAMES:  Saron Yitbarek.
+
+SARON:  You said my name correctly. I’m very proud of you.
+
+JAMES:  [Chuckles] I practiced.
+
+[Chuckles]
+
+JAMES:  And with us today, a special guest, Steve Corona.
+
+STEVE:  Hey, thanks for having me on. I’m really excited to [help] you guys.
+
+JAMES:  Thanks for taking the time. We appreciate it. Steve, since this is the first time you’ve been on, do you want to introduce yourself?
+
+STEVE:  Sure, yeah. So, I’m Steve Corona. I was CTO of Twitpic, the big photo sharing app for twitter that everyone has used or heard about. Did that for a couple of years, and now I’m at a startup in San Francisco called BigCommerce. And I’m the principal architect there.
+
+JAMES:  Wow, cool. So, Twitpic, that’s why we asked you to come on today. It turned out to be kind of a big deal, didn’t it?
+
+STEVE:  Yeah,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:04:31</itunes:duration>
+	</item>
+<item>
+		<title>161 RR Docker Deploys with Sam Saffron</title>
+		<link>http://rubyrogues.com/161-rr-docker-deploys-with-sam-saffron/</link>
+		<comments>http://rubyrogues.com/161-rr-docker-deploys-with-sam-saffron/#comments</comments>
+		<pubDate>Wed, 18 Jun 2014 14:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Sam Saffron]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1890</guid>
+		<description><![CDATA[Panel Sam Saffron (twitter blog) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:04 &#8211; Sam Saffron Discourse Ruby Rogues Episode #117:Discourse Part 2 with Sam Saffron and Robin Ward Stack Overflow [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/161-rr-docker-deploys-with-sam-saffron/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR161DockerDeploys.mp3" length="69521393" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Sam Saffron (twitter blog)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Sam Saffron (twitter blog)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:04 - Sam Saffron
+
+	Discourse
+	Ruby Rogues Episode #117:Discourse Part 2 with Sam Saffron and Robin Ward
+	Stack Overflow
+
+03:55 - Deploying Discourse
+
+
+	discourse_docker
+	nginx
+	paravirtualization
+
+13:19 - Layering File System
+15:19 - The Docker Setup for Discourse
+
+
+	docker_container
+	pups
+	runit
+
+	Process Supervision: Solved Problem
+
+
+	bluepill
+	God
+	Monit
+
+25:04 - Instructions
+31:50 - Managing Containers
+32:47 - Updates
+
+
+	unicorn
+	passenger-docker
+
+36:34 - logster
+
+
+	logster
+
+37:36 - Docker and Vagrant
+
+
+	vagrant-lxc
+	Docker Provisioner
+	Chef
+
+41:33 - Getting Started
+45:32 - Storing Images
+47:25 - Containers (Cont’d)
+
+
+	CoreOS
+	OpenStack
+	logstash
+	Elasticsearch
+	dawn
+	HAProxy
+
+58:46 - Deploying Containers
+
+
+	Jenkins CI
+	DigitalOcean
+	boot2docker
+	Idris
+
+01:01:23 - Memory
+Picks
+
+	Xiki: The Command Revolution (James)
+	Xero (Avdi)
+	Class: CSV (Ruby 2.1.0) (Avdi)
+	Runtastic (Avdi)
+	Try Docker (Chuck)
+	The Miracle Morning: The Not-So-Obvious Secret Guaranteed to Transform Your Life (Before 8AM) by Hal Elrod (Chuck)
+	Steve Jobs by Walter Isaacson (Chuck)
+	Sherlock (David)
+	i3 (Sam)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Scaling Rails with Steve Corona
+Transcript
+AVDI:  I’m just imagining some horrible Australian creature is chewing on the wires right now.
+
+JAMES:  [Chuckles]
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days. Sign up at SnapCI.com/RubyRogues.]
+
+CHUCK:  Hey everybody and welcome to episode 161 of the Ruby Rogues Podcast. This week on our panel, we have James Edward Gray.
+
+JAMES:  Good morning, or afternoon. I’m so confused.
+
+CHUCK:  Avdi Grimm.
+
+AVDI:  Hello, hello.
+
+CHUCK:  David Brady.
+
+DAVID:  You can build all of the logical gates out of NANDs, which means that all of computer science is based on the theory that two wrongs do make a right.
+
+JAMES:  [Chuckles]
+
+CHUCK:  I’m Charles Max Wood from DevChat.TV. And this week we have a special guest and that’s Sam Saffron.
+
+SAM:  Good morning from Australia.
+
+CHUCK:  So, we’ve had you on the show twice already?
+
+SAM:  Once.
+
+CHUCK:  Just once?
+
+SAM:  Yeah.
+
+JAMES:  Yeah. We were talking about Discourse.
+
+SAM:  We were talking about Discourse. It’s a very [inaudible]…
+
+CHUCK:  Well, having Jeff is like having you twice, right?
+
+SAM:  [Chuckles]
+
+DAVID:  Nobody’s going to touch the ‘it felt like twice’ joke? We’re all just going to leave that?
+
+[Laughter]
+
+JAMES:  Yeah, we’re just going to leave that.
+
+DAVID:  This is actually my first time meeting you, Sam. So, welcome.
+
+SAM:  Ah,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:12:25</itunes:duration>
+	</item>
+<item>
+		<title>160 RR Conceptualizing Code with Sam Livingston-Gray and Glenn Vanderburg</title>
+		<link>http://rubyrogues.com/160-rr-conceptualizing-code-with-sam-livingston-gray-and-glenn-vanderburg/</link>
+		<comments>http://rubyrogues.com/160-rr-conceptualizing-code-with-sam-livingston-gray-and-glenn-vanderburg/#comments</comments>
+		<pubDate>Wed, 11 Jun 2014 13:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Glenn Vanderburg]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Sam Livingston-Gray]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1881</guid>
+		<description><![CDATA[Panel Sam Livingston-Gray (twitter github blog) Glenn Vanderburg (blog twitter Grasping Complexity with Both Hands) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:36 &#8211; Introduction Sam [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/160-rr-conceptualizing-code-with-sam-livingston-gray-and-glenn-vanderburg/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR160Cognitive.mp3" length="86727554" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Sam Livingston-Gray (twitter github blog)   Glenn Vanderburg (blog twitter Grasping Complexity with Both Hands)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Sam Livingston-Gray (twitter github blog)
+	Glenn Vanderburg (blog twitter Grasping Complexity with Both Hands)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	S...</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:30:20</itunes:duration>
+	</item>
+<item>
 		<title>159 RR Hacking Education with Saron Yitbarek</title>
 		<link>http://rubyrogues.com/159-rr-hacking-education-with-saron-yitbarek/</link>
 		<comments>http://rubyrogues.com/159-rr-hacking-education-with-saron-yitbarek/#comments</comments>

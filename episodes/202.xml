@@ -1,0 +1,164 @@
+<item>
+		<title>167 RR Speaking at Conferences</title>
+		<link>http://rubyrogues.com/167-rr-speaking-at-conferences/</link>
+		<comments>http://rubyrogues.com/167-rr-speaking-at-conferences/#comments</comments>
+		<pubDate>Wed, 30 Jul 2014 13:00:05 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1947</guid>
+		<description><![CDATA[Panel Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:12 &#8211; Speaking at Conferences Ruby Rogues Episode #64: Presenting at Conferences 04:09 &#8211; Saron’s Experiences Saron at RailsConf 05:07 &#8211; What to Speak About 06:44 &#8211; Styles of Talk Mountain West Conference Wall of [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/167-rr-speaking-at-conferences/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR167SpeakingConferences.mp3" length="65365617" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 03:12 - Speaking at Conferences  Ru...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:12 - Speaking at Conferences
+
+	Ruby Rogues Episode #64: Presenting at Conferences
+
+04:09 - Saron’s Experiences
+
+	Saron at RailsConf
+
+05:07 - What to Speak About
+
+06:44 - Styles of Talk
+
+	Mountain West Conference
+	Wall of Text
+
+09:09 - Guidelines for Certain Conferences
+
+	Submitting Proposals
+
+10:13 - Criteria for Speakers
+
+	Selection Bias
+	Brit Ruby
+
+	Why Brit Ruby Was Canceled on Github
+
+
+	Noel Rappin: What I learned from reading 429 conference proposals
+
+11:37 - Saron on Feedback
+
+	Typecasting
+	Ruby Rogues Episode #69 - Therapeutic Refactoring with Katrina Owen
+	Katrina Owen: Therapeutic Refactoring Talk
+
+15:26 - Noticing Diversity/Minorities
+
+	Privledge
+	Impostor Syndrome
+	Anil Dash
+
+	A checklist of stupid things men will say when they find out I only retweet women
+
+
+	The Flatiron School
+	Adam Enbar
+
+	@aenbar
+
+
+
+22:41 - Feeling Responsibility and Pressure
+
+24:24 - Technical Talks vs. Other Types
+
+	Brain Hacking
+
+31:43 - Getting Past “Impostor Syndrome”
+
+37:28 - Ideas for Talks
+
+44:11 - Favorite Talks
+
+	Coraline Ada Ehmke: Artisans and Apprentices
+	DHH’s RailsConf Keynote
+	Eileen Uchitelle: CRUD! The Consequences of Not Understanding How ActiveRecord Translates into MySQL
+
+	Eileen Uchitelle
+
+
+	Ryan Florence: Bringing the Web Back to the Blind
+
+	Ryan Florence
+
+
+	Ruby Rogues Episode #119 - Accessibility with Brian Hogan
+
+	Brian Hogan
+
+
+	Jamison Dance: Hardware Hacking for JS Developers
+
+	Jamison Dance
+
+
+	Midwest.io
+	Jessica Kerr: Property-Based Testing for Better Code
+
+	Jessica Kerr
+
+
+	Luigi Montanez &amp; Ryan Resella: You'll Never Believe Which Web Framework Powers Upworthy
+	Midwest.io YouTube Channel
+
+51:06 - Pre-Speaker Checklists
+Picks
+
+	Think Like a Freak: The Authors of Freakonomics Offer to Retrain Your Brain by Steven D. Levitt (Saron)
+	The Website Is Down - Sales Guy vs. Web Dude (Saron)
+	Doc Marten Boots (Avdi)
+	Dogfish Head Brewery: Burton Baton (Avdi)
+	Keep Ruby Weird | @keeprubyweird (David)
+	Simon Tatham's Portable Puzzle Collection (David)
+	[iTunes] Simon Tatham's Portable Puzzle Collection (David)
+	Norse IPViking (David)
+	105-inch Samsung UHD TV (Chuck)
+	[YouTube] Weird Al: “Frank’s 2000” TV
+	ModHeader (Chuck)
+	Pretty JSON (Chuck)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Xiki with Craig Muth
+Transcript
+CHUCK:  Okay, that’s just creepy, Dave.
+DAVID:  Is it the eyeball picture?
+CHUCK:  Yeah.
+SARON:  Yeah, it’s really scary.
+[Chuckles]
+DAVID:  Completely by accident, the eyeball is perfectly centered so that when people are calling me or I’m ringing back to them, the Ajax spinner goes right around the pupil.
+[Laughter]
+CHUCK:  Completely by accident, huh?
+SARON:  That’s [awful]. That makes it okay. Now I’m okay with it.
+DAVID:  Yeah.
+AVDI:  [Laughs]
+CHUCK:  Because that’s not more creepy, right?
+DAVID:  Exactly.
+SARON:  It’s gone past the creepy level into awesome level. 
+DAVID:  [Laughs] I can die happy.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:08:05</itunes:duration>
+	</item>

@@ -1,0 +1,151 @@
+<item>
+		<title>163 RR Education with Coraline Ada Ehmke and Katrina Owen</title>
+		<link>http://rubyrogues.com/163-rr-education-with-coraline-ada-ehmke-and-katrina-owen/</link>
+		<comments>http://rubyrogues.com/163-rr-education-with-coraline-ada-ehmke-and-katrina-owen/#comments</comments>
+		<pubDate>Wed, 02 Jul 2014 13:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Coraline Ada Ehmke]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Katrina Owen]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1901</guid>
+		<description><![CDATA[Panel Coraline Ada Ehmke (twitter github blog) Katrina Owen (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:44 &#8211; Coraline Ada Ehmke Introduction Instructure 02:30 &#8211; Katrina Owen [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/163-rr-education-with-coraline-ada-ehmke-and-katrina-owen/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR163Education.mp3" length="73292240" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Coraline Ada Ehmke (twitter github blog)   Katrina Owen (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Coraline Ada Ehmke (twitter github blog)
+	Katrina Owen (twitter github blog)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:44 - Coraline Ada Ehmke Introduction
+
+
+	Instructure
+
+02:30 - Katrina Owen Introduction
+
+
+	Splice
+	Katrina at Rails 2013
+
+05:00 - Katrina’s Teaching Tactics
+
+
+	Blaise Pascal quote
+	People Who Want To Learn
+	The Flatiron School
+
+12:14 - Dealing With People
+
+
+	RailsConf 2014 - Artisans and Apprentices by Coraline Ada Ehmke
+
+14:47 - Mentorship/Mastery
+
+
+	Dev Bootcamp / @DevBootcamp
+	@feministy
+	Mastery by Robert Greene
+	Socratic Method
+	Autocratic
+
+23:07 - Responsibilities to Community
+24:47 - Organizations/Meetups
+
+
+	ChicagoRuby
+	Women Who Code
+	Girl Develop It
+	Chicago Women Developers
+	LGBT Community Chicago
+	“Don’t Be An Asshole” - The Flatiron School
+	This American Life Episode #370: Ruining It for the Rest of Us
+
+29:26 - “Bad Apples”
+34:26 - Mentor/Teacher Relationships
+
+
+	Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman by Dave Hoover
+	Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt
+	Dreyfus Scale
+
+38:20 - Paid Coaching
+
+
+	AirPair
+
+42:50 - Direct vs. Indirect Mentorship
+
+
+	Professor Mark Andre
+	“Weaponizing Goodwill”
+	The "Clever Hans" Effect
+	Carol Dweck
+
+53:30 - Bringing Up Junior Developers
+
+
+	Saron Code Club Talk at RailsConf
+	Code Club
+	Dan Kubb
+	Erik Michaels-Ober
+	Myron Marston
+	Markus Shirp
+	Exercism
+
+01:01:59 - Putting Code Online
+
+See Also
+James' and David's Code Reading Session: Ruby Code Reading: Equalizer and Concord
+
+Picks
+
+	Inch Pages: Documentation badges for Ruby projects (James)
+	Shields.io (James)
+	Hush (Remastered) Yo-Yo Ma (James)
+	Prelude For Emacs (David)
+	Charles Web Debugging Proxy  (David)
+	Design for Hackers: Reverse Engineering Beauty by David Kadavy (Saron)
+	Brain Rules for Baby (Updated and Expanded): How to Raise a Smart and Happy Child from Zero to Five by John Medina
+	Drive: The Surprising Truth About What Motivates by Daniel H. Pink
+	Slim (Avdi)
+	Tab Coral for Chrome
+	Apprenticeship Patterns By Dave Hoover and Adewale Oshineye (Coraline)
+	ATUnit (Coraline)
+	15 Sorting Algorithms in 6 Minutes (Katrina)
+	Visualizing Git Concepts with D3 (Katrina)
+	[Linux.conf.au 2013] - Git For Ages 4 And Up (Katrina)
+	Janet Lansbury: Don't Stand Me Up (Katrina)
+	[Picture] Katrina's Niece (Katrina)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Staying Sharp with Dave Thomas
+Transcript
+KATRINA:  I just have to go tweet an overheard. I’ll be right back.
+
+[Laughter]
+
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:21</itunes:duration>
+	</item>

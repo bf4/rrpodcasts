@@ -1,0 +1,156 @@
+<item>
+		<title>162 RR Scaling Rails with Steve Corona</title>
+		<link>http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/</link>
+		<comments>http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/#comments</comments>
+		<pubDate>Wed, 25 Jun 2014 13:00:57 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1896</guid>
+		<description><![CDATA[Panel Steve Corona (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) James Edward Gray (twitter github blog) Discussion 01:38 &#8211; Steve Corona Introduction BigCommerce 01:57 &#8211; Twitpic Start Growth Scaling 03:51 &#8211; Learning on the Job vs. Skills and Experience 04:31 &#8211; Scaling 05:16 &#8211; TwitPic as Rails Application [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/162-rr-scaling-rails-with-steve-corona/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR162ScalingRails.mp3" length="61931674" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Steve Corona (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   James Edward Gray (twitter github blog) - Discussion 01:38 - Steve Corona Introduction   BigCommerce - 01:57 - Twitpic </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Steve Corona (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	James Edward Gray (twitter github blog)
+
+Discussion
+01:38 - Steve Corona Introduction
+
+
+	BigCommerce
+
+01:57 - Twitpic
+
+
+	Start
+	Growth
+	Scaling
+
+03:51 - Learning on the Job vs. Skills and Experience
+04:31 - Scaling
+05:16 - TwitPic as Rails Application
+
+
+	PHP to Rails
+	Coding
+	Records/Database Issues
+
+10:19 - Thumbnail API’s
+10:58 - Restoring and Migrating Data
+
+
+	Read-Only Functionality
+
+12:02 - MySQL
+
+
+	Building Apps
+	Converting Tables
+
+13:40 - Data Migration Timeline
+
+
+	Rewriting PHP
+	Creating Framework
+	Converting to Rails
+
+16:45 - Programmer vs. API Builder Mindset
+17:30 - Go
+17:31 - Node 
+18:24 - JRuby
+
+
+	JVM
+	Tomcat
+	GlassFish
+
+21:34 - TorqueBox
+23:12 - Background Functionality
+26:27 - async
+28:40 - Bajillion Different Queueing Servers
+29:48 - Resque
+29:57 - Github: Introducing Resque
+32:41 - Turning Things Around
+
+
+	JRuby
+
+32:57 - Is Ruby Fast Yet?
+
+
+	Number of Threads
+	JVM Garbage Collection
+	Testing
+	Unicorn
+	Puma
+	Passenger
+
+40:49 - Algorithms
+43:09 - N+1 in Rails
+45:35 - Micro-Optimizations
+51:26 - Profiler Tools
+51:45 - statsd
+
+
+	Data Aggregation
+
+53:01 - New Relic
+
+Picks
+
+	Zurb: Foundation (Avdi)
+	bigfootjs (Avdi)
+	Bower (Avdi)
+	#GIRLBOSS by Sophia Amoruso (Saron)
+	808 Cube (Saron)
+	Dan McClain: Avoid Rails When Generating JSON responses with PostgreSQL (James)
+	ScottBradleeLovesYa (James)
+	Consul (Steve)
+	NSQ Docs (Steve)
+	The War of Art by Steven Pressfield (Steve)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Education with Coraline Ada Ehmke and Katrina Owen
+Transcript
+
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production. Snap deploys your application to cloud services like Heroku, Digital Ocean, AWS, and many, many more. You can also use Snap to push your gems to RubyGems. Best of all, setting up your build is simple and intuitive. Try Snap free for 30 days. Sign up at SnapCI.com/RubyRogues.]
+
+JAMES:  Hello everyone and welcome to episode 162 of the Ruby Rogues Podcast. Chuck is out today, so I’m James Gray and I’ll be your host. With me today are Avdi Grimm…
+
+AVDI:  Hello from Pennsylvania.
+
+JAMES:  Saron Yitbarek.
+
+SARON:  You said my name correctly. I’m very proud of you.
+
+JAMES:  [Chuckles] I practiced.
+
+[Chuckles]
+
+JAMES:  And with us today, a special guest, Steve Corona.
+
+STEVE:  Hey, thanks for having me on. I’m really excited to [help] you guys.
+
+JAMES:  Thanks for taking the time. We appreciate it. Steve, since this is the first time you’ve been on, do you want to introduce yourself?
+
+STEVE:  Sure, yeah. So, I’m Steve Corona. I was CTO of Twitpic, the big photo sharing app for twitter that everyone has used or heard about. Did that for a couple of years, and now I’m at a startup in San Francisco called BigCommerce. And I’m the principal architect there.
+
+JAMES:  Wow, cool. So, Twitpic, that’s why we asked you to come on today. It turned out to be kind of a big deal, didn’t it?
+
+STEVE:  Yeah,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:04:31</itunes:duration>
+	</item>

@@ -1,0 +1,155 @@
+<item>
+		<title>164 RR Staying Sharp with Dave Thomas</title>
+		<link>http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/</link>
+		<comments>http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/#comments</comments>
+		<pubDate>Wed, 09 Jul 2014 13:00:49 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Dave Thomas]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1918</guid>
+		<description><![CDATA[Panel Dave Thomas (twitter blog) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 01:57 &#8211; Dave Thomas Introduction The Pragmatic Programmer: From Journeyman to Master by Dave [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/164StayingSharp.mp3" length="74061683" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Dave Thomas (twitter blog)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   Charles Max Wood (twitter github Teach Me To Co...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Dave Thomas (twitter blog)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+01:57 - Dave Thomas Introduction
+
+	The Pragmatic Programmer: From Journeyman to Master by Dave Thomas
+	The Agile Manifesto
+	The Pickaxe Book
+
+03:14 - Changing the Writing of Codes
+
+
+	Clojure
+	Elixir
+	Programming Elixir: Functional |&gt; Concurrent |&gt; Pragmatic |&gt; Fun by Dave Thomas
+
+06:37 - New Languages vs. Current Languages
+07:42 - Erlang vs Elixir
+
+
+	Mostly Erlang
+	Erlang
+	Prolog
+	Haskell
+	OGP
+	Erlang gen-servers
+
+09:07 - C and C++
+
+
+	Class Construction in C and C++: Object-Oriented Programming Fundamentals by Roger Sessions
+	Encapsulation
+	Inheritance
+	Struct
+	Python
+	C Macro
+	Uni-code
+	Method Definition
+
+13:16 - Picking New Projects
+17:14 - Dave Thomas in Texas, September 2014- Upcoming Events
+
+
+	Markdown
+
+17:56 - Pattern Matching
+
+
+	Lazy Streams
+	Class-based Programming (OO)
+	Camel
+	JavaScript Jabber Episode 061- Functional Reactive Programming
+
+19:41 - Agile and Agility Principles
+
+
+	Dave Thomas: Agile Is Dead (Long Live Agility)
+	Scrum
+
+22:19 - Abandoning Agile for Agility
+25:41 - Measuring Success
+28:49 - Writing Tests vs. Not Writing Tests
+
+
+	Ruby Rails Conf 2014 - DHH Keynote David Heinemeier Hansson
+	TDD
+	API’s (expressive API’s)
+	Regression
+	Deploying
+	Erlang OTP
+	Ruby Rogues Episode 162- Scaling Rails
+	Wicked Problem
+	PCI Compliance
+
+44:46 - Breaking Usual Programming Models
+46:27 - Using Ruby Unconventionally
+
+
+	Pacemaker
+
+47:55 - Jumping Into New Languages
+
+
+	Pseudoscience (see David’s picks)
+	Go
+	Dart
+	OpenGL
+
+54:31 - When To Change
+
+Picks
+
+	Dart for Hipsters by Chris Strom (James)
+	The Prose Garden (James)
+	A Gorgeous Woman Shakes Her Body On Stage ... And The Crowd Goes Wild (James)
+	Something Ventured (Saron)
+	fake_braintree (Saron)
+	Bit-Shadow Machine (Saron)
+	Bruce F. Webster: The Wetware Crisis: the Thermocline of Truth (Avdi)
+	XML (Avdi)
+	TorGuard (Avdi)
+	unitwise (Avdi)
+	Chrome Developer Tools (Chuck)
+	Tab Wrangler (Chuck)
+	Google Forum: comp.lang.misc
+	Dad Is Fat by Jim Gaffigan (Chuck)
+	Redbooth (Chuck)
+	SDL MultiTerm Desktop (Dave)
+	Camel-Markdown on Github (Dave)
+	Artful Making: What Managers Need to Know About How Artists Work by Robert Austin, Lee Devin and Eric Schmidt (Dave)
+	The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and Dave Thomas (David)
+	Teach Yourself a New Programming Language in 21 Minutes (Or 2-3 Years, It Depends) from David's own blog, "Heart, Mind, and Code" (David)
+	The Pseudoscience Wars: Immanuel Velikovsky and the Birth of the Modern Fringe by Michael D. Gordin (David)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+Next Week
+Systems Programming Tricks with Julia Evans
+Transcript
+DAVE:  Yeah. I’m jolly good, y’all. 
+[Laughter]
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[Snap is a hosted CI and continuous delivery services that goes far beyond letting you do continuous deployment. Snap’s first class support for deployment pipelines lets you push any healthy build to multiple environments automatically and on demand. This means with Snap, you can deploy your staging environment today. Verify it works and later deploy the exact same build to production.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:09</itunes:duration>
+	</item>
