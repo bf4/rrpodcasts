@@ -8,6 +8,7 @@ output_path = File.join(pwd, 'episodes')
 episode_list = File.join(output_path, 'episode_list.yml')
 
 feed_url = 'http://rubyrogues.com/feed/'
+# feed_url = 'http://rubyrogues.com/podcast.rss'
 xml = open(feed_url).read
 
 doc = Nokogiri::XML(xml)

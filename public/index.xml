@@ -3995,6 +3995,149 @@ CHUCK:  So, before we get started, we do have a couple of announcements. The fi
 		<itunes:duration>1:12:28</itunes:duration>
 	</item>
 <item>
+      <title>157 RR Book Club - Object Design Book Club with Rebecca Wirfs-Brock</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 21 May 2014 07:00:00 -0600</pubDate>
+      <itunes:summary>The Rogues talk to Rebecca Wirfs-Brock about her book Object Design: Roles, Responsibilities, and Collaborations on this Book Club episode.</itunes:summary>
+      <itunes:image/>
+      <guid>709cc728-54b7-46a7-afaa-9616aad04037</guid>
+      <itunes:duration>01:23:02</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR157ObjectDesign.mp3" length="79715482" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>151 RR The Jim Weirich Tribute</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 09 Apr 2014 07:00:00 -0600</pubDate>
+      <itunes:summary>The Rogues honor fellow Rubyist Jim Weirich in a tribute episode.</itunes:summary>
+      <itunes:image/>
+      <guid>7d48c32b-17f5-4b0a-8f24-fb0a68455005</guid>
+      <itunes:duration>01:02:32</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR151JimWeirich.mp3" length="60035384" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>147 RR APIs That Don't Suck with Michele Titolo</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 12 Mar 2014 08:00:00 -0600</pubDate>
+      <itunes:summary>The Rogues talk to Michele Titolo about how to go about building APIs that don't suck.</itunes:summary>
+      <itunes:image/>
+      <guid>4f1af517-e44e-4fb5-a863-c04e3c850c84</guid>
+      <itunes:duration>01:16:45</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR147APIs.mp3" length="73676753" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>146 RR Book Club - Ruby Under a Microscope with Pat Shaughnessy</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 05 Mar 2014 07:00:00 -0700</pubDate>
+      <itunes:summary>The Rogues discuss Pat Shaughnessy's book, Ruby Under a Microscope.</itunes:summary>
+      <itunes:image/>
+      <guid>387e907f-1da4-4f85-aff8-f425853f5474</guid>
+      <itunes:duration>01:07:02</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR146RUM.mp3" length="64358195" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>139 RR Riak with Sean Cribbs and Bryce Kerley</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 15 Jan 2014 07:00:00 -0700</pubDate>
+      <itunes:summary>The Rogues talk to Sean Cribbs and Bryce Kerley of Riak.</itunes:summary>
+      <itunes:image/>
+      <guid>2e3ede99-cd20-4e9b-856b-c10449fb8056</guid>
+      <itunes:duration>01:12:10</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR139Riak.mp3" length="69286507" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>138 RR The Holiday RubyRep Takeover</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Tue, 31 Dec 2013 07:00:00 -0700</pubDate>
+      <itunes:summary>The RubyRep brings you a collection of sound clips from the Rogues Retreat in Austin, Texas this past July.</itunes:summary>
+      <itunes:image/>
+      <guid>8ba22ace-7c5a-4da5-a186-8224b9f9e79e</guid>
+      <itunes:duration>37:30</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR138RubyRepTakeover.mp3" length="36001482" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>137 RR Book Club - Functional Programming for the Object-Oriented Programmer with Brian Marick</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 25 Dec 2013 07:00:00 -0700</pubDate>
+      <itunes:summary>The Rogues Discuss their latest book club book: Functional Programming for the Object-Oriented Programmer with Brian Marick.</itunes:summary>
+      <itunes:image/>
+      <guid>dca4624e-47ed-44ce-912c-2e325369ff13</guid>
+      <itunes:duration>58:30</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR137FPOOP.mp3" length="56153431" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>136 RR Consulting vs Product Work Part 2 with Steven Proctor</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 18 Dec 2013 07:00:00 -0700</pubDate>
+      <itunes:summary>The Rogues discuss Consulting and Product work with Steve Proctor.</itunes:summary>
+      <itunes:image/>
+      <guid>fe2944e9-81ff-49b7-a120-3f183fec8627</guid>
+      <itunes:duration>51:50</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR136ConsultingProductWork.mp3" length="49760717" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>135 RR HTTP 2.0 with Ilya Grigorik</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 11 Dec 2013 07:00:00 -0700</pubDate>
+      <itunes:summary>The Rogues talk to Ilya Grigorik of Google about the ins and outs of HTTP 2.0.</itunes:summary>
+      <itunes:image/>
+      <guid>2b0bcb5a-e693-49ab-a562-f521d8a3b442</guid>
+      <itunes:duration>1:09:22</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR135HTTP20.mp3" length="66599019" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>134 RR Sharktime with Lucas Dohmen</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 04 Dec 2013 07:00:00 -0700</pubDate>
+      <itunes:summary>Lucas Dohmen joins the Ruby Rogues to talk about his winning Ruby Golf submission: Sharktime, and also shares his experience with Computer Science Education and Functional Programming.</itunes:summary>
+      <itunes:image/>
+      <guid>5f9b38e6-e3ef-49ba-bf22-6cff362442af</guid>
+      <itunes:duration>01:18:35</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR134Sharktime.mp3" length="75444289" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>133 RR Threading with Emily Stolfo</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 27 Nov 2013 07:00:00 -0700</pubDate>
+      <itunes:summary>The Rogues discuss threading with Emily Stolfo.</itunes:summary>
+      <itunes:image/>
+      <guid>470f065c-3b2c-4415-a743-bb0d1fcc9e07</guid>
+      <itunes:duration>01:18:46</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR133Threads.mp3" length="75608547" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>132 RR Nothing to Hide with Steve Klabnik</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 20 Nov 2013 07:00:00 -0700</pubDate>
+      <itunes:summary>In this episode we discuss the implications of the recent NSA leaks and the role programmers play in the acquisition of data.</itunes:summary>
+      <itunes:image/>
+      <guid>91d58ab3-0f24-4670-b4d6-352da91c5cc4</guid>
+      <itunes:duration>01:23:37</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR132Secrets.mp3" length="80269209" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>131 RR How to Learn</title>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <pubDate>Wed, 13 Nov 2013 09:00:00 -0700</pubDate>
+      <itunes:summary>In this Rogues Only episode, the panel talks about talent vs effort, tips for starting to learn something new, and how to read programming books.</itunes:summary>
+      <itunes:image/>
+      <guid>8b2fad6e-656e-40dc-aedc-cf0d885a97b0</guid>
+      <itunes:duration>1:38:36</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/131_Episode_131_How_to_Learn.mp3" length="94655350" type="audio/mpeg"/>
+    </item>
+<item>
 		<title>130 RR Data Visualization with Aja Hammerly</title>
 		<link>http://rubyrogues.com/130-rr-data-visualization-with-aja-hammerly/</link>
 		<comments>http://rubyrogues.com/130-rr-data-visualization-with-aja-hammerly/#comments</comments>

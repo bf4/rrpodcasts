@@ -409,33 +409,46 @@
 - :feed_number: 164
   :title: 130 RR Data Visualization with Aja Hammerly
   :enclosure: RR130DataViz.mp3
-- :feed_number: 166
-  :title: 131 RR
-  :enclosure: 
-- :feed_number: 167
-  :title: 132 RR
-  :enclosure: 
-- :feed_number: 168
-  :title: 133 RR
-  :enclosure: 
-- :feed_number: 169
-  :title: 134 RR
-  :enclosure: 
-- :feed_number: 170
-  :title: 135 RR
-  :enclosure: 
-- :feed_number: 171
-  :title: 136 RR
-  :enclosure: 
-- :feed_number: 172
-  :title: 137 RR
-  :enclosure: 
-- :feed_number: 173
-  :title: 138 RR
-  :enclosure: 
-- :feed_number: 174
-  :title: 139 RR
-  :enclosure: 
+- :feed_number: 203
+  :title: 131 RR How to Learn
+  :enclosure: 131_Episode_131_How_to_Learn.mp3
+- :feed_number: 204
+  :title: 132 RR Nothing to Hide with Steve Klabnik
+  :enclosure: RR132Secrets.mp3
+- :feed_number: 205
+  :title: 133 RR Threading with Emily Stolfo
+  :enclosure: RR133Threads.mp3
+- :feed_number: 206
+  :title: 134 RR Sharktime with Lucas Dohmen
+  :enclosure: RR134Sharktime.mp3
+- :feed_number: 207
+  :title: 135 RR HTTP 2.0 with Ilya Grigorik
+  :enclosure: RR135HTTP20.mp3
+- :feed_number: 208
+  :title: 136 RR Consulting vs Product Work Part 2 with Steven Proctor
+  :enclosure: RR136ConsultingProductWork.mp3
+- :feed_number: 209
+  :title: 137 RR Book Club - Functional Programming for the Object-Oriented Programmer
+    with Brian Marick
+  :enclosure: RR137FPOOP.mp3
+- :feed_number: 210
+  :title: 138 RR The Holiday RubyRep Takeover
+  :enclosure: RR138RubyRepTakeover.mp3
+- :feed_number: 211
+  :title: 139 RR Riak with Sean Cribbs and Bryce Kerley
+  :enclosure: RR139Riak.mp3
+- :feed_number: 212
+  :title: 146 RR Book Club - Ruby Under a Microscope with Pat Shaughnessy
+  :enclosure: RR146RUM.mp3
+- :feed_number: 213
+  :title: 147 RR APIs That Don't Suck with Michele Titolo
+  :enclosure: RR147APIs.mp3
+- :feed_number: 214
+  :title: 151 RR The Jim Weirich Tribute
+  :enclosure: RR151JimWeirich.mp3
+- :feed_number: 215
+  :title: 157 RR Book Club - Object Design Book Club with Rebecca Wirfs-Brock
+  :enclosure: RR157ObjectDesign.mp3
 - :feed_number: 175
   :title: 140 RR Heroku with Richard Schneeman
   :enclosure: RR140Heroku.mp3
