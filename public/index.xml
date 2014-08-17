@@ -26,6 +26,370 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>169 RR Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III</title>
+		<link>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/</link>
+		<comments>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/#comments</comments>
+		<pubDate>Wed, 13 Aug 2014 13:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Michal Papis]]></category>
+		<category><![CDATA[Mislav Marohnić]]></category>
+		<category><![CDATA[Postmodern Mod III]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1965</guid>
+		<description><![CDATA[Panel Postmodern Mod III (twitter github blog) Mislav Marohnić (twitter github blog) Michal Papis (twitter github blog) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:28 &#8211; Options for Managing Ruby RVM rbenv freenode Ruby IRC freenode channel 04:50 &#8211; Upgrading Ruby Through Distributors JRuby Rubinius [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR169VersionManagers.mp3" length="106392212" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Postmodern Mod III (twitter github blog)   Mislav Marohnić (twitter github blog)   Michal Papis (twitter github blog)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Postmodern Mod III (twitter github blog)
+	Mislav Marohnić (twitter github blog)
+	Michal Papis (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:28 - Options for Managing Ruby
+
+	RVM
+	rbenv
+	freenode
+
+	Ruby IRC freenode channel
+
+
+
+04:50 - Upgrading Ruby Through Distributors
+
+	JRuby
+	Rubinius
+	MacRuby
+
+06:04 - Problems Solved by Version Managers
+
+	Ruby 1.9.2 API
+	Ruby packages for Ubuntu
+
+	Ubuntu
+	Ubuntu PPAs
+
+
+	Appget
+
+08:20 - Catching Up With Linux
+
+	Creating Packaging Files
+	Fedora
+	Gentoo
+	Arch
+	OpenSUSE
+	Ruby Bolt Package
+	Brightbox
+
+16:36 - Advantages/Disadvantages
+
+	GCC
+	Ruby Rake
+	Ruby Bundler
+	ruby-build
+	ruby-install
+	Chef
+	RubyGems
+	rubygems-bundler
+	chruby.sh
+	auto.sh
+	Bash
+	Bash Trap Debug
+	Shell script [Wiki]
+	path
+	Gem Directory
+
+	Gem Home
+	Gem Path
+	Ruby MRI Gems
+
+
+
+30:18 - Gem Files
+
+	Gemsets
+
+	RSpec
+	rake
+
+
+	naming Rake files after Make files
+	guard files
+	procfs [Wiki] (Proc files)
+	Padrino
+	rm-rf
+	bundle-exec
+	BIN files
+	gem rake
+	hirb
+	wirble
+	awesome_print
+	vertable
+	looksee
+
+44:22 - Installation and Applying Patches
+
+	Kaboom 2.14
+	ruby-trunk
+	Open SSL
+	Ruby MRI [Wiki]
+
+57:22 - Installing Ruby with RVM
+
+	Git
+	Homebrew
+
+59:35 - Dependencies with Patching
+
+	JVM
+	MagLev [Wiki]
+	Gemstone [Wiki]
+	Topaz
+	Python
+
+01:02:43 - Steps for Implementation
+
+	APT [Wiki]
+	yum
+	Pacman
+	gooey
+	autolibs
+	autoconf
+	libtool
+	automake
+	Libra
+
+01:08:10 - Installing Pre-compilers
+
+	fpm
+	The Tor Project
+	Gitian
+	Heroku
+	Bash Web Apps
+	COBOL ON COGS
+
+01:17:10 - Future of Projects
+
+	RVM
+	"Sorting ASCIIbetically"
+	chgems  
+	Docker
+	RVM [Wiki]
+	RVM Github
+	Hick's Law
+	Leaver's Law
+	mini-test
+	Cucumber
+
+Picks
+
+	What's the Most Popular Ruby Library? (James)
+	System Administration Screencasts (James)
+	Midwest.io 2014 - Mission Critical Innovation - Dr. Jeff Norris (Avdi)
+	Warby Parker (Avdi)
+	Pingu (Avdi)
+	Rhinoceros Success : The Secret to Charging Full Speed Toward Every Opportunity by Scott Alexander (Chuck)
+
+	Audible
+
+
+	The Go-Getter by Peter B. Kyne (Chuck)
+
+	Audible
+
+
+	QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life by John G. Miller (Chuck)
+
+	Audible
+
+
+	Linux RSI (David)
+	JayBird BlueBuds X Sport Bluetooth Headphones (David)
+	My Cat From Hell (David)
+	OpenSUSE (Michal)
+	JRuby (Michal)
+	Swimming (Michal)
+	bash (Mislav)
+	British Columbia (Mislav)
+	Bash (Postmodern)
+	Woolege [Wiki] (Postmodern)
+	shunit2 (Postmodern)
+	Robert Pankowecki: One app, one user, one ruby (Postmodern)
+	Blue Microphones | Nessie (Postmodern)
+	Grado Labs Headphones (Postmodern)
+	Padrino (Postmodern)
+	Window Managers (Postmodern)
+	Openbox (Postmodern)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Padrino with Dario Cravero and Nathan Esquenazi
+Transcript
+JAMES:  David will be chasing the cat all over the house.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:50:49</itunes:duration>
+	</item>
+<item>
+		<title>168 RR Xiki with Craig Muth</title>
+		<link>http://rubyrogues.com/168-rr-xiki-with-craig-muth/</link>
+		<comments>http://rubyrogues.com/168-rr-xiki-with-craig-muth/#comments</comments>
+		<pubDate>Wed, 06 Aug 2014 13:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Craig Muth]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1959</guid>
+		<description><![CDATA[Panel Craig Muth (twitter github) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:15 &#8211; Craig Introduction Xiki Craig Muth Xiki Ruby Conf Talk 04:44 &#8211; Defining Xiki Chrome Inspector Code folding Gooey 06:22 &#8211; gits [Kickstarter] Xiki: The Command Revolution 07:45 &#8211; Databases 08:59 &#8211; History [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/168-rr-xiki-with-craig-muth/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR168Xiki.mp3" length="80038907" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Craig Muth (twitter github)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 03:15 - Craig Introduction  Xiki </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Craig Muth (twitter github)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:15 - Craig Introduction
+
+	Xiki
+	Craig Muth Xiki Ruby Conf Talk
+
+04:44 - Defining Xiki
+
+	Chrome Inspector
+	Code folding
+	Gooey
+
+06:22 - gits
+
+	[Kickstarter] Xiki: The Command Revolution
+
+07:45 - Databases
+
+08:59 - History of Xiki
+
+	Emacs
+	Wiki Syntax
+	Craig Muth Xiki Strange Loop Talk
+	Craig Muth Xiki QCon Talk
+	Linux
+	Sublime
+	Vim
+
+18:20 - Interacting with Keyboard Shortcuts
+
+	Bash
+	Aquamacs
+	Vimium
+	Reflog
+	iTerm
+	Light Table
+
+28:32 - Adding Menus
+
+	d3.js
+	three.js
+
+32:22 - Kickstarter Sponsors
+
+	Tulio
+	PubNub
+	Twitter
+
+33:34 - Composability
+
+46:03 - Emacs Lisp vs. Ruby
+
+	Emacs Lisp
+	Perl
+
+48:51 - Getting Started with Xiki
+
+	@xiki
+
+55:49 - Language Integration
+
+58:48 - Web Components of Xiki
+
+	Pebble
+	4js
+	[Github] xiki
+	TextMate
+	TextMate IRC Channel
+	Pastie
+
+See Also
+
+	Proto Night: San Francisco
+	Carla Schroder: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X
+	John Biggs: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X
+
+Picks
+
+	Indigo BTR9 Bluetooth Wireless Music Switchable Transmitter and Receiver (David)
+	Bose QC15 Headphones (David)
+	Avdi Grimm: Where do ideas come from? (James)
+	Pat Maddox: RubySteps – a daily coding practice (James)
+	Chrome Remote Desktop Plugin (Chuck)
+	Devchat.tv (Chuck)
+	Adventures in Angular Podcast (Chuck)
+	Mission Bit (Craig)
+	Dotsies (Craig)
+	Surfaces and Essences: Analogy as the Fuel and Fire of Thinking by Douglas Hofstadter (Craig)
+	Smallest Federated Wiki Project by Ward Cunningham (Craig)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+RVM, chruby, and rbenv with Michal Papis &amp; Mislav Maronić
+Transcript
+JAMES:  Today’s opening joke needs to be the chat text before we started the call.
+[Laughter]
+CHUCK:  I could totally see that narration. Screaming. More screaming. Howling. Burning flesh smell.
+CRAIG:  It’s really going now. It’s really going. 
+[Laughter]
+CHUCK:  There goes his shirt!
+[Laughter]
+DAVID:  Here comes Chuck with, “Is that a marshmallow on a stick?”
+[Laughter]
+CHUCK:  If he had hair, he wouldn’t anymore! 
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:23:22</itunes:duration>
+	</item>
+<item>
 		<title>167 RR Speaking at Conferences</title>
 		<link>http://rubyrogues.com/167-rr-speaking-at-conferences/</link>
 		<comments>http://rubyrogues.com/167-rr-speaking-at-conferences/#comments</comments>
@@ -4116,27 +4480,369 @@ CHUCK:  So, before we get started, we do have a couple of announcements. The fi
       <enclosure url="http://traffic.libsyn.com/rubyrogues/RR133Threads.mp3" length="75608547" type="audio/mpeg"/>
     </item>
 <item>
-      <title>132 RR Nothing to Hide with Steve Klabnik</title>
-      <itunes:author/>
-      <itunes:subtitle/>
-      <pubDate>Wed, 20 Nov 2013 07:00:00 -0700</pubDate>
-      <itunes:summary>In this episode we discuss the implications of the recent NSA leaks and the role programmers play in the acquisition of data.</itunes:summary>
-      <itunes:image/>
-      <guid>91d58ab3-0f24-4670-b4d6-352da91c5cc4</guid>
-      <itunes:duration>01:23:37</itunes:duration>
-      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR132Secrets.mp3" length="80269209" type="audio/mpeg"/>
-    </item>
+		<title>169 RR Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III</title>
+		<link>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/</link>
+		<comments>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/#comments</comments>
+		<pubDate>Wed, 13 Aug 2014 13:00:20 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Michal Papis]]></category>
+		<category><![CDATA[Mislav Marohnić]]></category>
+		<category><![CDATA[Postmodern Mod III]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1965</guid>
+		<description><![CDATA[Panel Postmodern Mod III (twitter github blog) Mislav Marohnić (twitter github blog) Michal Papis (twitter github blog) David Brady (twitter github blog ADDcasts) James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:28 &#8211; Options for Managing Ruby RVM rbenv freenode Ruby IRC freenode channel 04:50 &#8211; Upgrading Ruby Through Distributors JRuby Rubinius [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR169VersionManagers.mp3" length="106392212" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Postmodern Mod III (twitter github blog)   Mislav Marohnić (twitter github blog)   Michal Papis (twitter github blog)   David Brady (twitter github blog ADDcasts)   James Edward Gray (twitter github blog) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Postmodern Mod III (twitter github blog)
+	Mislav Marohnić (twitter github blog)
+	Michal Papis (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:28 - Options for Managing Ruby
+
+	RVM
+	rbenv
+	freenode
+
+	Ruby IRC freenode channel
+
+
+
+04:50 - Upgrading Ruby Through Distributors
+
+	JRuby
+	Rubinius
+	MacRuby
+
+06:04 - Problems Solved by Version Managers
+
+	Ruby 1.9.2 API
+	Ruby packages for Ubuntu
+
+	Ubuntu
+	Ubuntu PPAs
+
+
+	Appget
+
+08:20 - Catching Up With Linux
+
+	Creating Packaging Files
+	Fedora
+	Gentoo
+	Arch
+	OpenSUSE
+	Ruby Bolt Package
+	Brightbox
+
+16:36 - Advantages/Disadvantages
+
+	GCC
+	Ruby Rake
+	Ruby Bundler
+	ruby-build
+	ruby-install
+	Chef
+	RubyGems
+	rubygems-bundler
+	chruby.sh
+	auto.sh
+	Bash
+	Bash Trap Debug
+	Shell script [Wiki]
+	path
+	Gem Directory
+
+	Gem Home
+	Gem Path
+	Ruby MRI Gems
+
+
+
+30:18 - Gem Files
+
+	Gemsets
+
+	RSpec
+	rake
+
+
+	naming Rake files after Make files
+	guard files
+	procfs [Wiki] (Proc files)
+	Padrino
+	rm-rf
+	bundle-exec
+	BIN files
+	gem rake
+	hirb
+	wirble
+	awesome_print
+	vertable
+	looksee
+
+44:22 - Installation and Applying Patches
+
+	Kaboom 2.14
+	ruby-trunk
+	Open SSL
+	Ruby MRI [Wiki]
+
+57:22 - Installing Ruby with RVM
+
+	Git
+	Homebrew
+
+59:35 - Dependencies with Patching
+
+	JVM
+	MagLev [Wiki]
+	Gemstone [Wiki]
+	Topaz
+	Python
+
+01:02:43 - Steps for Implementation
+
+	APT [Wiki]
+	yum
+	Pacman
+	gooey
+	autolibs
+	autoconf
+	libtool
+	automake
+	Libra
+
+01:08:10 - Installing Pre-compilers
+
+	fpm
+	The Tor Project
+	Gitian
+	Heroku
+	Bash Web Apps
+	COBOL ON COGS
+
+01:17:10 - Future of Projects
+
+	RVM
+	"Sorting ASCIIbetically"
+	chgems  
+	Docker
+	RVM [Wiki]
+	RVM Github
+	Hick's Law
+	Leaver's Law
+	mini-test
+	Cucumber
+
+Picks
+
+	What's the Most Popular Ruby Library? (James)
+	System Administration Screencasts (James)
+	Midwest.io 2014 - Mission Critical Innovation - Dr. Jeff Norris (Avdi)
+	Warby Parker (Avdi)
+	Pingu (Avdi)
+	Rhinoceros Success : The Secret to Charging Full Speed Toward Every Opportunity by Scott Alexander (Chuck)
+
+	Audible
+
+
+	The Go-Getter by Peter B. Kyne (Chuck)
+
+	Audible
+
+
+	QBQ! The Question Behind the Question: Practicing Personal Accountability at Work and in Life by John G. Miller (Chuck)
+
+	Audible
+
+
+	Linux RSI (David)
+	JayBird BlueBuds X Sport Bluetooth Headphones (David)
+	My Cat From Hell (David)
+	OpenSUSE (Michal)
+	JRuby (Michal)
+	Swimming (Michal)
+	bash (Mislav)
+	British Columbia (Mislav)
+	Bash (Postmodern)
+	Woolege [Wiki] (Postmodern)
+	shunit2 (Postmodern)
+	Robert Pankowecki: One app, one user, one ruby (Postmodern)
+	Blue Microphones | Nessie (Postmodern)
+	Grado Labs Headphones (Postmodern)
+	Padrino (Postmodern)
+	Window Managers (Postmodern)
+	Openbox (Postmodern)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Padrino with Dario Cravero and Nathan Esquenazi
+Transcript
+JAMES:  David will be chasing the cat all over the house.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:50:49</itunes:duration>
+	</item>
 <item>
-      <title>131 RR How to Learn</title>
-      <itunes:author/>
-      <itunes:subtitle/>
-      <pubDate>Wed, 13 Nov 2013 09:00:00 -0700</pubDate>
-      <itunes:summary>In this Rogues Only episode, the panel talks about talent vs effort, tips for starting to learn something new, and how to read programming books.</itunes:summary>
-      <itunes:image/>
-      <guid>8b2fad6e-656e-40dc-aedc-cf0d885a97b0</guid>
-      <itunes:duration>1:38:36</itunes:duration>
-      <enclosure url="http://traffic.libsyn.com/rubyrogues/131_Episode_131_How_to_Learn.mp3" length="94655350" type="audio/mpeg"/>
-    </item>
+		<title>168 RR Xiki with Craig Muth</title>
+		<link>http://rubyrogues.com/168-rr-xiki-with-craig-muth/</link>
+		<comments>http://rubyrogues.com/168-rr-xiki-with-craig-muth/#comments</comments>
+		<pubDate>Wed, 06 Aug 2014 13:00:42 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Craig Muth]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1959</guid>
+		<description><![CDATA[Panel Craig Muth (twitter github) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:15 &#8211; Craig Introduction Xiki Craig Muth Xiki Ruby Conf Talk 04:44 &#8211; Defining Xiki Chrome Inspector Code folding Gooey 06:22 &#8211; gits [Kickstarter] Xiki: The Command Revolution 07:45 &#8211; Databases 08:59 &#8211; History [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/168-rr-xiki-with-craig-muth/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR168Xiki.mp3" length="80038907" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Craig Muth (twitter github)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 03:15 - Craig Introduction  Xiki </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Craig Muth (twitter github)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:15 - Craig Introduction
+
+	Xiki
+	Craig Muth Xiki Ruby Conf Talk
+
+04:44 - Defining Xiki
+
+	Chrome Inspector
+	Code folding
+	Gooey
+
+06:22 - gits
+
+	[Kickstarter] Xiki: The Command Revolution
+
+07:45 - Databases
+
+08:59 - History of Xiki
+
+	Emacs
+	Wiki Syntax
+	Craig Muth Xiki Strange Loop Talk
+	Craig Muth Xiki QCon Talk
+	Linux
+	Sublime
+	Vim
+
+18:20 - Interacting with Keyboard Shortcuts
+
+	Bash
+	Aquamacs
+	Vimium
+	Reflog
+	iTerm
+	Light Table
+
+28:32 - Adding Menus
+
+	d3.js
+	three.js
+
+32:22 - Kickstarter Sponsors
+
+	Tulio
+	PubNub
+	Twitter
+
+33:34 - Composability
+
+46:03 - Emacs Lisp vs. Ruby
+
+	Emacs Lisp
+	Perl
+
+48:51 - Getting Started with Xiki
+
+	@xiki
+
+55:49 - Language Integration
+
+58:48 - Web Components of Xiki
+
+	Pebble
+	4js
+	[Github] xiki
+	TextMate
+	TextMate IRC Channel
+	Pastie
+
+See Also
+
+	Proto Night: San Francisco
+	Carla Schroder: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X
+	John Biggs: Meet Xiki, the Revolutionary Command Shell for Linux and Mac OS X
+
+Picks
+
+	Indigo BTR9 Bluetooth Wireless Music Switchable Transmitter and Receiver (David)
+	Bose QC15 Headphones (David)
+	Avdi Grimm: Where do ideas come from? (James)
+	Pat Maddox: RubySteps – a daily coding practice (James)
+	Chrome Remote Desktop Plugin (Chuck)
+	Devchat.tv (Chuck)
+	Adventures in Angular Podcast (Chuck)
+	Mission Bit (Craig)
+	Dotsies (Craig)
+	Surfaces and Essences: Analogy as the Fuel and Fire of Thinking by Douglas Hofstadter (Craig)
+	Smallest Federated Wiki Project by Ward Cunningham (Craig)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+RVM, chruby, and rbenv with Michal Papis &amp; Mislav Maronić
+Transcript
+JAMES:  Today’s opening joke needs to be the chat text before we started the call.
+[Laughter]
+CHUCK:  I could totally see that narration. Screaming. More screaming. Howling. Burning flesh smell.
+CRAIG:  It’s really going now. It’s really going. 
+[Laughter]
+CHUCK:  There goes his shirt!
+[Laughter]
+DAVID:  Here comes Chuck with, “Is that a marshmallow on a stick?”
+[Laughter]
+CHUCK:  If he had hair, he wouldn’t anymore! 
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:23:22</itunes:duration>
+	</item>
 <item>
 		<title>130 RR Data Visualization with Aja Hammerly</title>
 		<link>http://rubyrogues.com/130-rr-data-visualization-with-aja-hammerly/</link>
