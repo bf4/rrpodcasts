@@ -7,8 +7,11 @@ pwd = File.dirname(__FILE__)
 output_path = File.join(pwd, 'episodes')
 episode_list = File.join(output_path, 'episode_list.yml')
 
-feed_url = 'http://rubyrogues.com/feed/'
-# feed_url = 'http://rubyrogues.com/podcast.rss'
+if ARGV.shift == 'alt'
+  feed_url = 'http://rubyrogues.com/podcast.rss'
+else
+  feed_url = 'http://rubyrogues.com/feed/'
+end
 
 episodes = YAML::load(File.read(episode_list))
 
