@@ -9,15 +9,14 @@ episode_list = File.join(output_path, 'episode_list.yml')
 
 feed_url = 'http://rubyrogues.com/feed/'
 # feed_url = 'http://rubyrogues.com/podcast.rss'
-xml = open(feed_url).read
-
-doc = Nokogiri::XML(xml)
-
-items = doc.search('item')
 
 episodes = YAML::load(File.read(episode_list))
 
-highest_feed_number = episodes.max {|episode| episode[:feed_number].to_i }[:feed_number]
+highest_feed_number = episodes.map {|episode| episode[:feed_number].to_i }.max
+
+xml = open(feed_url).read
+doc = Nokogiri::XML(xml)
+items = doc.search('item')
 
 items.reverse.each  do |item|
   title = item.at('title').text
