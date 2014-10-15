@@ -1,0 +1,204 @@
+<item>
+		<title>174 RR Rubygems with Eric Hodel</title>
+		<link>http://rubyrogues.com/174-rubygems-with-eric-hodel/</link>
+		<comments>http://rubyrogues.com/174-rubygems-with-eric-hodel/#comments</comments>
+		<pubDate>Wed, 17 Sep 2014 13:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Eric Hodel]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2006</guid>
+		<description><![CDATA[Panel Eric Hodel (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Saron Yitbarek (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:06 - Eric Introduction RubyGems Ruby 04:22 &#8211; Start of RubyGems Rubyconf RubyForge Tom Copeland kitchen-sink gemcutter 06:21 &#8211; Core Functionality Gem Installer Loading Code setup.rb 09:37- Solving [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/174-rubygems-with-eric-hodel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR174RubyGems.mp3" length="71480361" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Eric Hodel (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Saron Yitbarek (twitter github blog)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Eric Hodel (twitter github blog)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Saron Yitbarek (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:06 - Eric Introduction
+
+	RubyGems
+	Ruby
+
+04:22 - Start of RubyGems
+
+	Rubyconf
+	RubyForge
+	Tom Copeland
+	kitchen-sink
+	gemcutter
+
+06:21 - Core Functionality
+
+	Gem Installer
+	Loading Code
+	setup.rb
+
+09:37- Solving Developer Problems with RubyGems
+
+	Rich Internet Application (RIA)
+	RubyTalk Mailing List
+
+10:33 - Eric’s History with Open Source
+
+	Open Source
+	Mozilla Project
+	Firefox
+	doT
+	Ruby Community
+
+11:53 - Changes to RubyGems
+
+13:25 - Merging with Bundler
+
+	Ruby Central
+	Shim
+
+16:55 - Hidden Features in RubyGems
+
+	Run your own gem server
+	Rails Sidekiq
+	Sidekiq Pro
+	geminabox
+	gem_push
+	gem_owner
+
+20:15 - Package Structures
+
+21:42 -Gem Signing - Security Tools
+
+	Python
+	OpenSSL
+	Pretty Good Programming (PGP)
+	Applied Crytography: Protocols, Algorithms, and Source Code in C by Bruce Scheier
+	Cryptography
+
+26:33 - Future Features of RubyGems
+
+	Prioritizing Features
+	GemFile Support
+	GitHub Issues
+
+29:56 - Building and Deployment of RubyGems
+
+	DevOps
+	RailsConf
+	Amazon AWS
+	Bundler Team
+	Sam Cutler
+	David Radcliffe
+	Nick Quaranto
+	Evan Phoenix
+	Andre Arko
+	Terrence Lee
+	bundler-api
+	Heroku
+
+34:10 - Plugins
+
+	rails-gem-install
+
+36:24 - James’ RubyGems Request
+
+RPA - Ruby Package Archive
+
+	The Ruby Toolbox
+	Customer Reviews
+	Yelp
+	Amazon Reviews
+	Nokogiri
+	ERB
+	Caml
+
+43:20 - “Gem Prelude”
+
+	Deployment
+
+45:31 - Dealing with Open Source Community
+
+	Seth Vargo
+	Chef
+	Seth Vargo: Leaving Chef
+
+50:11 - Good/Bad Parts of RubyGems Coding
+
+	RDoc
+
+51:46 - Lessons Learned
+
+54:16 - Favorite Gem Commands
+
+	gem_uninstall
+	gem_pristine
+
+56:24 - Eric’s Upcoming Conferences
+
+	RubyKaigi
+	RubyConf
+	Ruby on Ales
+	Cascadia IT Conference
+
+Picks
+
+	Sandi Metz: The Shape at the Bottom of All Things (James)
+	Piotr Solnica: Mocking and Ruby (James)
+	LEGO Cuusoo 21110 Research Institute (James)
+	LEGO Cuusoo 21109 Exo Suit (James)
+	The Rogues Team (James)
+	Nathan Barry: 7 Techniques to Design Killer Graphics for Your Blog Posts (Saron)
+	Seth Vargo: Leaving Chef (Saron)
+	The Truth About the Rogues (Saron’s Blog) - Saron
+	James Edward Gray: Taking Rust to Task (Avdi)
+	Sculpt Ergonomic Desktop Keyboard (Avdi)
+	The UPS Store (Avdi)
+	[Rdio] Austra (Avdi)
+	James (Chuck and David)
+	GeekBeat.tv (Chuck)
+	Planet Money Podcast (Chuck)
+	CES (Chuck)
+	Noct (David)
+	Razer BlackWidow Stealth Keyboard (David)
+	Atreus Keyboard Kit (Eric)
+	RubyKaigi 2014 (Eric)
+	Ada Developers Academy (Eric)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+HeatSeek with William Jeffries
+Transcript
+AVDI:  Charles, would you tell James that I’m not speaking to him?
+[Laughter]
+DAVID:  Charles, would you tell James that I don’t know who slashed the tires on his chair?
+[Laughter]
+JAMES:  Awesome.
+CHUCK:  Why am I always in the middle of these things?
+[Laughter]
+DAVID:  Because you’re too slow to get on the edge of them.
+[Laughter]
+DAVID:  [Inaudible] everybody else.
+[Laughter]
+CHUCK:  Saron, will you tell James everything everybody else said?
+[Laughter]
+ERIC:  I’m glad I’m being left out of this.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:14:28</itunes:duration>
+	</item>

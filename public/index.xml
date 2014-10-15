@@ -26,6 +26,1111 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+		<title>177 RR Creativity and Technology</title>
+		<link>http://rubyrogues.com/177-rr-creativity-and-technology/</link>
+		<comments>http://rubyrogues.com/177-rr-creativity-and-technology/#comments</comments>
+		<pubDate>Wed, 08 Oct 2014 13:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2032</guid>
+		<description><![CDATA[Panel Saron Yitbarek (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:40 &#8211; Cartooning Saron’s Cartoons 04:39 &#8211; What is “Creativity” and “Being Creative”? Purpose Relaxing Becoming a Writer by Dorothea Brande Inspiration 09:12 &#8211; Creativity and Coding Stimulation “The Principle of Least Surprise” 18:40 &#8211; [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/177-rr-creativity-and-technology/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR177Creativity.mp3" length="74159480" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Saron Yitbarek (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 03:40 - Cartooning - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Saron Yitbarek (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:40 - Cartooning
+
+	Saron’s Cartoons
+
+04:39 - What is “Creativity” and “Being Creative”?
+
+	Purpose
+	Relaxing
+	Becoming a Writer by Dorothea Brande
+	Inspiration
+
+09:12 - Creativity and Coding
+
+	Stimulation
+	“The Principle of Least Surprise”
+
+18:40 - Avoidance and Procrastination
+
+	Type A People vs Type B People
+
+22:18 - Increasing Creativity
+
+	exercism.io
+
+23:35 - What is “Creativity”?
+
+	Self-Comparison
+	RubyTapas
+	Novelty
+	Productivity &amp; Invention
+	Getting Ideas
+
+31:02 - Creative Endeavours
+
+	Creating a Language
+	Inventing
+	Everything is a Remix
+	“Manufacturing Serendipity”
+
+33:53 - Running Out of Ideas
+
+	“I write only when inspiration strikes. Fortunately it strikes every morning at nine o'clock sharp.” - W. Somerset Maugham
+	National Novel Writing Month (NaNoWriMo)
+
+37:38 - Stifling Creativity &amp; Putting “Crap” Out There
+
+	Studying Other People’s Work
+
+41:17 - Left Brain vs Right Brain
+
+46:03 - Exploring Creativity
+
+47:45 - How Do You Become Creative?
+
+	David’s Paperclip Example
+	Saron’s Candle on the Wall Example
+	Drive by Dan Pink
+	Functional Fixedness
+	Global Day of Coderetreat
+	Putting Yourself Under Stress/Duress
+
+01:01:42 - Contribute to Open Source
+Picks
+
+	Mass Effect 3 - Shepard’s Indoctrination (David)
+	Fourplay IPA (Avdi)
+	Circa (Avdi)
+	Eat a Pumpkin (Saron)
+	Fixed Mindset vs. Growth Mindset (Saron)
+	Spinning RGB LED Ball II (Saron)
+	The Code Newbie Discourse Page (Saron)
+	Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century by Napoleon Hill (Chuck)
+	Exercise (Chuck)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Transcript
+DAVID:  So, why not make the friend and take the friendship and make it awkward?
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/RubyRoguesPodcast.]
+[Snap is a hosted CI and continuous delivery that is simple and intuitive. Snap’s deployment pipelines deliver fast feedback and can push healthy builds to multiple environments automatically or on demand.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:15</itunes:duration>
+	</item>
+<item>
+		<title>176 RR Rails as an SOA Client with Pete Hodgson</title>
+		<link>http://rubyrogues.com/176-rr-rails-as-an-soa-client-with-pete-hodgson/</link>
+		<comments>http://rubyrogues.com/176-rr-rails-as-an-soa-client-with-pete-hodgson/#comments</comments>
+		<pubDate>Wed, 01 Oct 2014 13:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Pete Hodgson]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2019</guid>
+		<description><![CDATA[Panel Pete Hodgson (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Check out the Code Newbie Podcast brought to you and hosted by our own, Saron Yitbarek! Discussion 03:02 &#8211; Pete Hodgson Introduction ThoughtWorks Martin Fowler The iPhreaks Show 03:48 &#8211; Pete Hodgson: Rails as an SOA [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/176-rr-rails-as-an-soa-client-with-pete-hodgson/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR176RailsasSOAClient.mp3" length="60827015" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Pete Hodgson (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Check out the Code Newbie Podcast brought to you and hoste...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Pete Hodgson (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Check out the Code Newbie Podcast brought to you and hosted by our own, Saron Yitbarek!
+Discussion
+03:02 - Pete Hodgson Introduction
+
+	ThoughtWorks
+	Martin Fowler
+	The iPhreaks Show
+
+03:48 - Pete Hodgson: Rails as an SOA Client
+
+	[Slides] Pete Hodgson: Rails as an SOA Client
+
+05:27 - Conway’s Law and Service-Oriented Architecture (SOA)
+
+	Team Boundaries
+	Testing Boundaries Between Teams
+	The Shape of an Organization
+	How the Shape of an Architecture Can Play Together or Interfere with Each Other
+	Codependence vs Independence
+	Decoupling of Teams
+
+14:03 - Faking Out Services / Contract Tests
+
+	Martin Fowler: Consumer-Driven Contracts: A Service Evolution Pattern
+	Maintaining the Fakes
+	Shim
+	Gems
+
+	pact
+	pacto
+	vcr
+	webmock
+
+
+	In-process vs Out of Process
+	Facilitating Communication Between Teams
+
+	Diversity
+	Algorithmic Efficiency
+
+
+	Continuous Delivery
+
+	Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble
+
+
+
+29:04 - faraday
+
+	rack
+	middleware - (i.e: lenses / filters)
+
+32:47 - faraday and SOA
+
+	Hexagonal Architecture
+	Service Gateways
+
+	Testing in Isolation
+
+
+	Staging Environment
+	Shared Dev Environments
+
+40:41 - Feature Flags (aka Feature Toggles)
+
+	Extreme Deployment
+
+	Ruby Rogues Episode #172: Extreme Deployment with Badri Janakiraman and Florian Motlik
+
+
+
+44:15 - Caching
+
+	Segmentation by Freshness
+
+ 
+Join Chuck and the rest of The Freelancers’ Show panelists on October 7th for a LIVE Q&amp;A
+ 
+Subscribe to Avdi’s RubyTapas!
+ 
+Picks
+
+	Pete Hodgson: Rails as an SOA Client (Saron)
+	Bill Gathen: Diversity Is A Superpower (Saron)
+	RubyNewbies (Saron)
+	Cartooning For Tech Folk (Saron)
+	Octobuild (Saron)
+	Finding Ultra: Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself by Rich Roll (Chuck)
+	Michael Vey 4: Hunt for Jade Dragon by Richard Paul Evans (Chuck)
+	rack-flags (Pete)
+	GoGaRuCo (Pete)
+	Ruby Rogues (Pete)
+	Upright Four: Wheat Saison Table Beer (Pete)
+	The Laundry Files (Avdi)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Technology and Creativity
+Transcript
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:03:22</itunes:duration>
+	</item>
+<item>
+		<title>175 RR Civic Hacking with William Jeffries</title>
+		<link>http://rubyrogues.com/175-rr-civic-hacking-with-william-jeffries/</link>
+		<comments>http://rubyrogues.com/175-rr-civic-hacking-with-william-jeffries/#comments</comments>
+		<pubDate>Wed, 24 Sep 2014 16:29:06 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+		<category><![CDATA[William Jeffries]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2011</guid>
+		<description><![CDATA[Panel William Jeffries (twitter linkedin) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:27 &#8211; William Jeffries SunGard Consulting Services Heat Seek NYC Heat Seek Kickstarter Campaign 02:53 &#8211; How Heat Seek Works 05:17 &#8211; An Idea is Born The Flatiron School Supermechanical Twine Tristen Siegel 06:53 &#8211; [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/175-rr-civic-hacking-with-william-jeffries/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR175CivicHacking.mp3" length="40183588" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  William Jeffries (twitter linkedin)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 02:27 - William Jeffries - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	William Jeffries (twitter linkedin)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:27 - William Jeffries
+
+	SunGard Consulting Services
+	Heat Seek NYC
+	Heat Seek Kickstarter Campaign
+
+02:53 - How Heat Seek Works
+
+05:17 - An Idea is Born
+
+	The Flatiron School
+	Supermechanical Twine
+	Tristen Siegel
+
+06:53 - Getting Funded
+
+	Heat Seek Kickstarter Campaign
+	NYC BigApps
+
+07:53 - Working with the Government
+
+	New York Tech Meetup
+	[TechPresident] De Blasio Names Minerva Tantoco First New York City CTO
+	NYCHA
+	NYC HPD (Housing Department)
+	NYCEDC
+
+11:39 - Challenges
+
+	Hardware Contributions
+	Code For America
+
+	Textizen
+	SeeClickFix
+	Engage
+
+	Catarse
+
+
+
+
+
+14:00 - How the Sensors Work
+
+	Urban Justice Center
+
+15:03 - How Heat Seek Helps in Court
+
+	Prima Facie
+
+15:52 - Building the Cold Map
+
+	Leaflet.js
+
+16:44 - Restrictions and Government Data
+
+	NYC Open Data
+	311
+
+18:04 - Technological Hurdles, Using Ruby, and Choosing Other Tech Tools
+
+	Sensors
+	Raspberry Pi
+	DigiMesh
+
+22:00 - Data
+
+25:21 - Getting Ready for this Upcoming Winter &amp; Distributing Sensors
+
+26:59 - Getting Involved in “Civic Hacking”
+
+	The Environmental Performance Index (EPI)
+	Code For America
+
+See Also
+
+	William and Tristan Present Heat Seek NYC at New York Tech Meetup
+	Heat Seek NYC Aims to Keep the City Warm with Code
+	[The Flatiron School] Project Recap: Heat Seek NYC
+	[WIRED] How to Use the Internet of Things to Fight Slumlords
+
+Picks
+
+	Meet the Ipsums (Saron)
+	4 ways to create CSS that's modular and scalable (Saron)
+	CodeNewbie Podcast: Episode 1 - Bootcamps, Water Coolers and Hiring Devs (Saron)
+	typing.io (Avdi)
+	GelPro (Avdi)
+	Boomerang for Gmail (Chuck)
+	Think and Grow Rich by Napoleon Hill (Chuck)
+	The Iron Druid Chronicles (Chuck)
+	Polymer Web Components (William)
+
+	JavaScript Jabber Episode #120: Google Polymer with Rob Dodson and Eric Bidelman
+
+
+	NYC Department of Housing Preservation &amp; Development (William)
+	Flatiron After School (William)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Rails as an SOA Client with Pete Hodgson
+Transcript
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>41:51</itunes:duration>
+	</item>
+<item>
+		<title>174 RR Rubygems with Eric Hodel</title>
+		<link>http://rubyrogues.com/174-rubygems-with-eric-hodel/</link>
+		<comments>http://rubyrogues.com/174-rubygems-with-eric-hodel/#comments</comments>
+		<pubDate>Wed, 17 Sep 2014 13:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Eric Hodel]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2006</guid>
+		<description><![CDATA[Panel Eric Hodel (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Saron Yitbarek (twitter github blog) Avdi Grimm (twitter github blog book) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:06 - Eric Introduction RubyGems Ruby 04:22 &#8211; Start of RubyGems Rubyconf RubyForge Tom Copeland kitchen-sink gemcutter 06:21 &#8211; Core Functionality Gem Installer Loading Code setup.rb 09:37- Solving [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/174-rubygems-with-eric-hodel/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR174RubyGems.mp3" length="71480361" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Eric Hodel (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Saron Yitbarek (twitter github blog)   Avdi Grimm (twitter github blog book) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Eric Hodel (twitter github blog)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Saron Yitbarek (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:06 - Eric Introduction
+
+	RubyGems
+	Ruby
+
+04:22 - Start of RubyGems
+
+	Rubyconf
+	RubyForge
+	Tom Copeland
+	kitchen-sink
+	gemcutter
+
+06:21 - Core Functionality
+
+	Gem Installer
+	Loading Code
+	setup.rb
+
+09:37- Solving Developer Problems with RubyGems
+
+	Rich Internet Application (RIA)
+	RubyTalk Mailing List
+
+10:33 - Eric’s History with Open Source
+
+	Open Source
+	Mozilla Project
+	Firefox
+	doT
+	Ruby Community
+
+11:53 - Changes to RubyGems
+
+13:25 - Merging with Bundler
+
+	Ruby Central
+	Shim
+
+16:55 - Hidden Features in RubyGems
+
+	Run your own gem server
+	Rails Sidekiq
+	Sidekiq Pro
+	geminabox
+	gem_push
+	gem_owner
+
+20:15 - Package Structures
+
+21:42 -Gem Signing - Security Tools
+
+	Python
+	OpenSSL
+	Pretty Good Programming (PGP)
+	Applied Crytography: Protocols, Algorithms, and Source Code in C by Bruce Scheier
+	Cryptography
+
+26:33 - Future Features of RubyGems
+
+	Prioritizing Features
+	GemFile Support
+	GitHub Issues
+
+29:56 - Building and Deployment of RubyGems
+
+	DevOps
+	RailsConf
+	Amazon AWS
+	Bundler Team
+	Sam Cutler
+	David Radcliffe
+	Nick Quaranto
+	Evan Phoenix
+	Andre Arko
+	Terrence Lee
+	bundler-api
+	Heroku
+
+34:10 - Plugins
+
+	rails-gem-install
+
+36:24 - James’ RubyGems Request
+
+RPA - Ruby Package Archive
+
+	The Ruby Toolbox
+	Customer Reviews
+	Yelp
+	Amazon Reviews
+	Nokogiri
+	ERB
+	Caml
+
+43:20 - “Gem Prelude”
+
+	Deployment
+
+45:31 - Dealing with Open Source Community
+
+	Seth Vargo
+	Chef
+	Seth Vargo: Leaving Chef
+
+50:11 - Good/Bad Parts of RubyGems Coding
+
+	RDoc
+
+51:46 - Lessons Learned
+
+54:16 - Favorite Gem Commands
+
+	gem_uninstall
+	gem_pristine
+
+56:24 - Eric’s Upcoming Conferences
+
+	RubyKaigi
+	RubyConf
+	Ruby on Ales
+	Cascadia IT Conference
+
+Picks
+
+	Sandi Metz: The Shape at the Bottom of All Things (James)
+	Piotr Solnica: Mocking and Ruby (James)
+	LEGO Cuusoo 21110 Research Institute (James)
+	LEGO Cuusoo 21109 Exo Suit (James)
+	The Rogues Team (James)
+	Nathan Barry: 7 Techniques to Design Killer Graphics for Your Blog Posts (Saron)
+	Seth Vargo: Leaving Chef (Saron)
+	The Truth About the Rogues (Saron’s Blog) - Saron
+	James Edward Gray: Taking Rust to Task (Avdi)
+	Sculpt Ergonomic Desktop Keyboard (Avdi)
+	The UPS Store (Avdi)
+	[Rdio] Austra (Avdi)
+	James (Chuck and David)
+	GeekBeat.tv (Chuck)
+	Planet Money Podcast (Chuck)
+	CES (Chuck)
+	Noct (David)
+	Razer BlackWidow Stealth Keyboard (David)
+	Atreus Keyboard Kit (Eric)
+	RubyKaigi 2014 (Eric)
+	Ada Developers Academy (Eric)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+HeatSeek with William Jeffries
+Transcript
+AVDI:  Charles, would you tell James that I’m not speaking to him?
+[Laughter]
+DAVID:  Charles, would you tell James that I don’t know who slashed the tires on his chair?
+[Laughter]
+JAMES:  Awesome.
+CHUCK:  Why am I always in the middle of these things?
+[Laughter]
+DAVID:  Because you’re too slow to get on the edge of them.
+[Laughter]
+DAVID:  [Inaudible] everybody else.
+[Laughter]
+CHUCK:  Saron, will you tell James everything everybody else said?
+[Laughter]
+ERIC:  I’m glad I’m being left out of this.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:14:28</itunes:duration>
+	</item>
+<item>
+		<title>173 RR ActiveRecord CRUD with Eileen Uchitelle</title>
+		<link>http://rubyrogues.com/173-rr-activerecord-crud/</link>
+		<comments>http://rubyrogues.com/173-rr-activerecord-crud/#comments</comments>
+		<pubDate>Wed, 10 Sep 2014 13:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Eileen Uchitelle]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1997</guid>
+		<description><![CDATA[Panel Eileen Uchitelle (twitter github blog) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:44 &#8211; Eileen Introduction PhishMe ActiveRecord::Batches 03:23 &#8211; Phishing Gray Map Testing (Gray Box) Penetration Testing (Pen Testing) 05:43 &#8211; Incorporating Data [Talk] Eileen Uchitelle: CRUD! The Consequences of Not Understanding [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/173-rr-activerecord-crud/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR173ActiveRecord.mp3" length="67449574" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Eileen Uchitelle (twitter github blog)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discus...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Eileen Uchitelle (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discus...</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:10:16</itunes:duration>
+	</item>
+<item>
+		<title>172 RR Extreme Deployment with Badri Janakiraman and Florian Motlik</title>
+		<link>http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/</link>
+		<comments>http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/#comments</comments>
+		<pubDate>Wed, 03 Sep 2014 13:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Florian Motlike]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1988</guid>
+		<description><![CDATA[Panel Florian Motlik (twitter) Badrinath Janakiraman (twitter github) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:06 &#8211; Guests Introduction Florian CodeShip @codeship Badrinath SnapCI [GitHub] snap-ci 05:09 &#8211; Extreme Deployment &#8211; Definition and Opposite 09:20 &#8211; Tools for Deployment/Process Writing [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR172ExtremeDeployment.mp3" length="73791711" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Florian Motlik (twitter)   Badrinath Janakiraman (twitter github)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Florian Motlik (twitter)
+	Badrinath Janakiraman (twitter github)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:06 - Guests Introduction
+
+	Florian
+
+	CodeShip
+	@codeship
+
+
+	Badrinath
+
+	SnapCI
+	[GitHub] snap-ci
+
+
+
+05:09 - Extreme Deployment - Definition and Opposite
+
+09:20 - Tools for Deployment/Process
+
+	Writing Tests
+
+10:28 - Application Design
+
+	Ross Snyder: Continuous Deployment at Etsy
+
+	Etsy
+
+
+
+11:38 - Feature Flags
+
+	Agile
+	Extreme Programming
+	Schoolhouse Rock!
+
+	I’m Just A Bill - Schoolhouse Rock!
+
+
+	Staging
+
+18:13 - First Step to Deployment
+
+	Setting up Workflow
+	Testing
+	Continuous Integration
+
+22:36 - Service-Oriented Architecture (SOA)
+
+24:29 - APIs
+
+	Designing Hypermedia APIs by Steve Klabnik
+
+27:48 - Migrating Databases
+
+	Naming
+
+34:07 - Microservices
+
+	Martin Fowler: Microservices
+	Martin Fowler: MicroservicePrerequisites
+
+36:08 - Transitioning to SOA
+
+41:44 - Coupling and Cohesion
+
+43:07 - Deployment with QA Teams
+
+	DevOps
+	Agile vs. Waterfall by Rutul Dave
+
+48:11 - Testing Software
+
+	AJAX
+
+52:51 - Irreversible Migrations
+
+56:25 - Tools That Help Deployment
+
+	Amazon
+	PaaS
+	Heroku
+	Packer
+	Docker
+	Chef
+	Puppet
+	Terraform
+	Vagrant
+
+See Also
+Mike Brittain: Continuous Deployment: The Dirty Details
+Picks
+
+	@savedyouaclick (David)
+	Mat Honan: I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me (David)
+	Elan Morgan: I Quit Liking Things On Facebook for Two Weeks. Here’s How It Changed My View of Humanity. (David)
+	prelude (Avdi)
+	Sam Hewitt: [How To] Get Your Fingerprint Reader Working in Ubuntu (Avdi)
+	Ferguson Fake Wedding Post (Saron)
+	HeatSeek (Saron)
+	3D Wall Mural (Saron)
+	Introduction to A* (James)
+	Fiasco (James)
+	[YouTube] TableTop - Fiasco Set-Up (James)
+	[YouTube] Fiasco: Alison Haislip, Bonnie Burton, and John Rogers join Wil on TableTop, episode 8 (James)
+	[YouTube] Fiasco pt. 2: Alison Haislip, Bonnie Burton, and John Rogers join Wil on TableTop, episode 9 (James)
+	Tabletop (James)
+	The Oatmeal: Why Haven't You Had Kids Yet? (Chuck)
+	Generative Programming: Methods, Tools, and Applications by Krysztof Czarnecki (Badrinath)
+	The Art of the Metaobject Protocol by Gregor Kiczales (Badrinath)
+	Tim's Vermeer (Florian)
+	Wunderlist (Florian)
+	Omega: flexible, scalable schedulers for large compute clusters (Florian)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+ActiveRecord with Eileen Uchitelle
+Transcript
+BADRI:  Yeah, unfortunately I’m from a, I guess I’m from a place where we didn’t have these games. So, I only knew of this code at a way to get websites to do funny things like make a dinosaur wear a hat.
+[Laughter]
+JAMES:  Not that that’s not equally important.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:52</itunes:duration>
+	</item>
+<item>
+		<title>171 RR Evaluating Yourself</title>
+		<link>http://rubyrogues.com/171-rr-evaluating-yourself/</link>
+		<comments>http://rubyrogues.com/171-rr-evaluating-yourself/#comments</comments>
+		<pubDate>Wed, 27 Aug 2014 13:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1981</guid>
+		<description><![CDATA[Panel James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:42 &#8211; Evaluating Yourself 03:13 &#8211; Figuring Out Your Momentum Life Balance NoSQL Tournament Chess 08:09 &#8211; Learning New Things 09:42 &#8211; How To Learn James Edward Gray: Are We Teaching the Best Things? [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/171-rr-evaluating-yourself/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR171EvaluatingYourself.mp3" length="64059491" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 02:42 - Evaluating Yourself - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:42 - Evaluating Yourself
+
+03:13 - Figuring Out Your Momentum
+
+Life Balance
+
+	NoSQL
+	Tournament Chess
+
+08:09 - Learning New Things
+
+09:42 - How To Learn
+
+	James Edward Gray: Are We Teaching the Best Things?
+
+10:20 - Other Types of Thinking
+
+	Social Skills
+	Pair Programming
+
+12:57 - “Thinking Like a Computer”
+
+	Measuring Success with Numbers
+
+19:56 - Measuring Progress
+
+	James Edward Gray Youtube Channel
+	MUDs
+	Shipping
+	Barriers
+	Saron’s Blog - Archives
+
+27:14 - Areas of Interest
+
+	Intrinsic Motivation
+	Rust
+
+	Rust IRC Channel
+
+
+
+29:33 - Other Metrics or Stats for Evaluation
+
+	Typing Tutor
+	Dreyfus Model of Skill Acquisition
+	User Story
+	Programming Pearls (2nd Edition) by Jon Bentley
+
+34:22 - Getting Over Self-Doubt
+
+	Social Coding
+	Steve Klabnik
+	Illusory Superiority
+
+38:51 - Feedback
+
+	Qualitative Feedback
+	RSpec
+	Binary Tree
+	Inject
+
+42:54 - Measuring Perspective
+
+	Social Skills
+
+47:27 - The Rogues Evaluate Themselves
+
+	Swift
+	Riak
+
+	139 RR - Riak with Sean Cribbs and Bryce Kerley
+
+
+	Verse
+	Kindle
+
+53:39 - Evaluating Non-Technical Skills
+
+	Communication
+	Keeping Journals
+	zenspider
+
+	Ryan Davis
+
+
+
+Picks
+
+	THOUGHT OF YOU | Ryan Woodward Art and Animation (Saron)
+	Tess Rinearson - A Hacking Hiatus: I’m stepping back from hackathons for a little while (Saron)
+	Scalable and Modular Architecture for CSS (Saron)
+	Bret Victor: Inventing on Principle (Avdi)
+	Buff Headwear (Avdi)
+	Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes by Alfie Kohn (James)
+	Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink (James)
+	Sphero Robot Ball (James)
+	My Story by Elizabeth Smart (Chuck)
+	Podcast Movement- National Podcasting Conference (Chuck)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Extreme Deployment with Badri Janakiraman and Florian Motlik
+
+Transcript
+JAMES:  I’ve been sweating these questions since they arrived.
+CHUCK:  Good questions.
+SARON:  [Chuckles] Oh. Are they hard?
+JAMES:  Scribbling answers, crossing them out, scribbling answers, crossing them out.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:06:44</itunes:duration>
+	</item>
+<item>
+		<title>170 RR Padrino with Dario Cravero, Nathan Esquenazi, &amp; Arthur Chiu</title>
+		<link>http://rubyrogues.com/170-rr-padrino-with-dario-cravero-nathan-esquenazi-arthur-chiu/</link>
+		<comments>http://rubyrogues.com/170-rr-padrino-with-dario-cravero-nathan-esquenazi-arthur-chiu/#comments</comments>
+		<pubDate>Wed, 20 Aug 2014 13:00:35 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Arthur Chiu]]></category>
+		<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Darío Cravero]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Nathan Esquenazi]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1975</guid>
+		<description><![CDATA[Panel Arthur Chiu (twitter github blog) Nathan Esquenazi (twitter github CodePath) Darío Cravero (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:53: Guest Introductions Nathan Padrino @padrinorb CodePath Arthur GitHub Dario Content Kingdom 03:47 &#8211; Start of Padrino “The Godfather” Sinatra sinatra_more Standalone Usage in Sinatra 05:59 [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/170-rr-padrino-with-dario-cravero-nathan-esquenazi-arthur-chiu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR170Padrino.mp3" length="67345944" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Arthur Chiu (twitter github blog)   Nathan Esquenazi (twitter github CodePath)   Darío Cravero (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   David Brady (twitter github blog ADDcasts) ...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Arthur Chiu (twitter github blog)
+	Nathan Esquenazi (twitter github CodePath)
+	Darío Cravero (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:53: Guest Introductions
+
+	Nathan
+
+	Padrino
+	@padrinorb
+	CodePath
+
+
+	Arthur
+
+	GitHub
+
+
+	Dario
+
+	Content Kingdom
+
+
+
+03:47 - Start of Padrino
+
+	“The Godfather”
+	Sinatra
+
+	sinatra_more
+	Standalone Usage in Sinatra
+
+
+
+05:59 - Features
+
+07:08 -Writing Apps in Padrino
+
+	persistence.js
+	Bootstrap
+	Slim
+
+10:14 - Default Stacks
+
+	jQuery
+	rstack
+	Arabis
+
+12:22 - Crossing Over - Simple to Complex
+
+	Monolithic App
+	Django
+	RubyGems
+
+17:38 - Sinatra vs. Padrino
+
+	Dev BootCamp
+	Rails BootCamp - San Francisco
+
+23:47 - Tradeoffs Between Larger Frameworks
+
+	Rails Asset Pipeline
+
+25:28 - Stacking Gems
+
+27:46 - Applications and Modules
+
+31:23 - Architectural Problems
+
+38:07 - Embedding URL’s
+
+39:37 - Tutorials for Padrino
+
+	PadrinoBook
+	Projects Using Padrino
+	machinima
+	Padrino Timeline
+
+41:31 - Future of Padrino
+
+	namusyaka
+	pendragon
+	JRuby
+
+44:09- Padrino 1.0
+
+46:07- Front-End Framework Support
+
+	Angular
+	Backbone
+	Bower
+	Rabl
+
+	JSON
+	XML
+	MessagePack
+
+
+	JBuilder
+
+51:25 - Sinatra with Padrino Projects
+
+	Sinatra Omniauth
+	Devise
+	tilt
+
+54:45 - Auth Libraries
+
+	Warden
+
+See Also
+
+	Press for blog posts and some tutorials
+
+Picks
+
+	Type Fu (Avdi)
+	Z-Type (Avdi)
+	Can I use (Saron)
+	Sourcegraph (Saron)
+	GoPro Hero 3+: Black Edition (David)
+	HARLOCK: Space Pirate (David)
+	LootCrate (Chuck)
+	Scorched (Nathan)
+	pakyow (Nathan)
+	Lotus (Nathan)
+	spider-gazelle (Darío)
+	flux (Darío)
+	OhLife (Darío)
+	OMW (On My Way) (Arthur)
+	unite.vim (Arthur)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Rogues Only - Evaluating Yourself
+Transcript
+[Electronic buzzing sounds]
+AVDI:  Oh hey, there’s a real replicant. I tell you what Dave, I didn’t understand you but my microwave perked right up.
+[Laughter]
+DAVID:  Excellent. Is she free on Tuesday night? 
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:10:09</itunes:duration>
+	</item>
+<item>
 		<title>169 RR Version Managers with Michal Papis, Mislav Maronić and Postmodern Mod III</title>
 		<link>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/</link>
 		<comments>http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/#comments</comments>

@@ -1,0 +1,31 @@
+<item>
+		<title>173 RR ActiveRecord CRUD with Eileen Uchitelle</title>
+		<link>http://rubyrogues.com/173-rr-activerecord-crud/</link>
+		<comments>http://rubyrogues.com/173-rr-activerecord-crud/#comments</comments>
+		<pubDate>Wed, 10 Sep 2014 13:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Eileen Uchitelle]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1997</guid>
+		<description><![CDATA[Panel Eileen Uchitelle (twitter github blog) Avdi Grimm (twitter github blog book) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:44 &#8211; Eileen Introduction PhishMe ActiveRecord::Batches 03:23 &#8211; Phishing Gray Map Testing (Gray Box) Penetration Testing (Pen Testing) 05:43 &#8211; Incorporating Data [Talk] Eileen Uchitelle: CRUD! The Consequences of Not Understanding [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/173-rr-activerecord-crud/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR173ActiveRecord.mp3" length="67449574" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Eileen Uchitelle (twitter github blog)   Avdi Grimm (twitter github blog book)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discus...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Eileen Uchitelle (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discus...</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:10:16</itunes:duration>
+	</item>

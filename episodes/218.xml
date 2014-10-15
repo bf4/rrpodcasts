@@ -1,0 +1,161 @@
+<item>
+		<title>172 RR Extreme Deployment with Badri Janakiraman and Florian Motlik</title>
+		<link>http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/</link>
+		<comments>http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/#comments</comments>
+		<pubDate>Wed, 03 Sep 2014 13:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Florian Motlike]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1988</guid>
+		<description><![CDATA[Panel Florian Motlik (twitter) Badrinath Janakiraman (twitter github) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) James Edward Gray (twitter github blog) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:06 &#8211; Guests Introduction Florian CodeShip @codeship Badrinath SnapCI [GitHub] snap-ci 05:09 &#8211; Extreme Deployment &#8211; Definition and Opposite 09:20 &#8211; Tools for Deployment/Process Writing [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/172-rr-extreme-deployment-with-badri-janakiraman-and-florian-motlik/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR172ExtremeDeployment.mp3" length="73791711" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Florian Motlik (twitter)   Badrinath Janakiraman (twitter github)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   James Edward Gray (twitter github blog)   David Brady (twitter github blog ADDcasts) </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Florian Motlik (twitter)
+	Badrinath Janakiraman (twitter github)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	James Edward Gray (twitter github blog)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:06 - Guests Introduction
+
+	Florian
+
+	CodeShip
+	@codeship
+
+
+	Badrinath
+
+	SnapCI
+	[GitHub] snap-ci
+
+
+
+05:09 - Extreme Deployment - Definition and Opposite
+
+09:20 - Tools for Deployment/Process
+
+	Writing Tests
+
+10:28 - Application Design
+
+	Ross Snyder: Continuous Deployment at Etsy
+
+	Etsy
+
+
+
+11:38 - Feature Flags
+
+	Agile
+	Extreme Programming
+	Schoolhouse Rock!
+
+	I’m Just A Bill - Schoolhouse Rock!
+
+
+	Staging
+
+18:13 - First Step to Deployment
+
+	Setting up Workflow
+	Testing
+	Continuous Integration
+
+22:36 - Service-Oriented Architecture (SOA)
+
+24:29 - APIs
+
+	Designing Hypermedia APIs by Steve Klabnik
+
+27:48 - Migrating Databases
+
+	Naming
+
+34:07 - Microservices
+
+	Martin Fowler: Microservices
+	Martin Fowler: MicroservicePrerequisites
+
+36:08 - Transitioning to SOA
+
+41:44 - Coupling and Cohesion
+
+43:07 - Deployment with QA Teams
+
+	DevOps
+	Agile vs. Waterfall by Rutul Dave
+
+48:11 - Testing Software
+
+	AJAX
+
+52:51 - Irreversible Migrations
+
+56:25 - Tools That Help Deployment
+
+	Amazon
+	PaaS
+	Heroku
+	Packer
+	Docker
+	Chef
+	Puppet
+	Terraform
+	Vagrant
+
+See Also
+Mike Brittain: Continuous Deployment: The Dirty Details
+Picks
+
+	@savedyouaclick (David)
+	Mat Honan: I Liked Everything I Saw on Facebook for Two Days. Here’s What It Did to Me (David)
+	Elan Morgan: I Quit Liking Things On Facebook for Two Weeks. Here’s How It Changed My View of Humanity. (David)
+	prelude (Avdi)
+	Sam Hewitt: [How To] Get Your Fingerprint Reader Working in Ubuntu (Avdi)
+	Ferguson Fake Wedding Post (Saron)
+	HeatSeek (Saron)
+	3D Wall Mural (Saron)
+	Introduction to A* (James)
+	Fiasco (James)
+	[YouTube] TableTop - Fiasco Set-Up (James)
+	[YouTube] Fiasco: Alison Haislip, Bonnie Burton, and John Rogers join Wil on TableTop, episode 8 (James)
+	[YouTube] Fiasco pt. 2: Alison Haislip, Bonnie Burton, and John Rogers join Wil on TableTop, episode 9 (James)
+	Tabletop (James)
+	The Oatmeal: Why Haven't You Had Kids Yet? (Chuck)
+	Generative Programming: Methods, Tools, and Applications by Krysztof Czarnecki (Badrinath)
+	The Art of the Metaobject Protocol by Gregor Kiczales (Badrinath)
+	Tim's Vermeer (Florian)
+	Wunderlist (Florian)
+	Omega: flexible, scalable schedulers for large compute clusters (Florian)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+ActiveRecord with Eileen Uchitelle
+Transcript
+BADRI:  Yeah, unfortunately I’m from a, I guess I’m from a place where we didn’t have these games. So, I only knew of this code at a way to get websites to do funny things like make a dinosaur wear a hat.
+[Laughter]
+JAMES:  Not that that’s not equally important.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:16:52</itunes:duration>
+	</item>

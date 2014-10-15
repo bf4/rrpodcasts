@@ -1,0 +1,114 @@
+<item>
+		<title>177 RR Creativity and Technology</title>
+		<link>http://rubyrogues.com/177-rr-creativity-and-technology/</link>
+		<comments>http://rubyrogues.com/177-rr-creativity-and-technology/#comments</comments>
+		<pubDate>Wed, 08 Oct 2014 13:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[David Brady]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2032</guid>
+		<description><![CDATA[Panel Saron Yitbarek (twitter github blog) Avdi Grimm (twitter github blog book) David Brady (twitter github blog ADDcasts) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 03:40 &#8211; Cartooning Saron’s Cartoons 04:39 &#8211; What is “Creativity” and “Being Creative”? Purpose Relaxing Becoming a Writer by Dorothea Brande Inspiration 09:12 &#8211; Creativity and Coding Stimulation “The Principle of Least Surprise” 18:40 &#8211; [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/177-rr-creativity-and-technology/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR177Creativity.mp3" length="74159480" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Saron Yitbarek (twitter github blog)   Avdi Grimm (twitter github blog book)   David Brady (twitter github blog ADDcasts)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 03:40 - Cartooning - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	Saron Yitbarek (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	David Brady (twitter github blog ADDcasts)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+03:40 - Cartooning
+
+	Saron’s Cartoons
+
+04:39 - What is “Creativity” and “Being Creative”?
+
+	Purpose
+	Relaxing
+	Becoming a Writer by Dorothea Brande
+	Inspiration
+
+09:12 - Creativity and Coding
+
+	Stimulation
+	“The Principle of Least Surprise”
+
+18:40 - Avoidance and Procrastination
+
+	Type A People vs Type B People
+
+22:18 - Increasing Creativity
+
+	exercism.io
+
+23:35 - What is “Creativity”?
+
+	Self-Comparison
+	RubyTapas
+	Novelty
+	Productivity &amp; Invention
+	Getting Ideas
+
+31:02 - Creative Endeavours
+
+	Creating a Language
+	Inventing
+	Everything is a Remix
+	“Manufacturing Serendipity”
+
+33:53 - Running Out of Ideas
+
+	“I write only when inspiration strikes. Fortunately it strikes every morning at nine o'clock sharp.” - W. Somerset Maugham
+	National Novel Writing Month (NaNoWriMo)
+
+37:38 - Stifling Creativity &amp; Putting “Crap” Out There
+
+	Studying Other People’s Work
+
+41:17 - Left Brain vs Right Brain
+
+46:03 - Exploring Creativity
+
+47:45 - How Do You Become Creative?
+
+	David’s Paperclip Example
+	Saron’s Candle on the Wall Example
+	Drive by Dan Pink
+	Functional Fixedness
+	Global Day of Coderetreat
+	Putting Yourself Under Stress/Duress
+
+01:01:42 - Contribute to Open Source
+Picks
+
+	Mass Effect 3 - Shepard’s Indoctrination (David)
+	Fourplay IPA (Avdi)
+	Circa (Avdi)
+	Eat a Pumpkin (Saron)
+	Fixed Mindset vs. Growth Mindset (Saron)
+	Spinning RGB LED Ball II (Saron)
+	The Code Newbie Discourse Page (Saron)
+	Think and Grow Rich: The Landmark Bestseller - Now Revised and Updated for the 21st Century by Napoleon Hill (Chuck)
+	Exercise (Chuck)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Transcript
+DAVID:  So, why not make the friend and take the friendship and make it awkward?
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally, if you’re not looking for a job and know someone who is, you can refer them to Hired and get a $1,337 bonus if they accept a job. Go sign up at Hired.com/RubyRoguesPodcast.]
+[Snap is a hosted CI and continuous delivery that is simple and intuitive. Snap’s deployment pipelines deliver fast feedback and can push healthy builds to multiple environments automatically or on demand.</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:15</itunes:duration>
+	</item>

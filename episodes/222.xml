@@ -1,0 +1,134 @@
+<item>
+		<title>176 RR Rails as an SOA Client with Pete Hodgson</title>
+		<link>http://rubyrogues.com/176-rr-rails-as-an-soa-client-with-pete-hodgson/</link>
+		<comments>http://rubyrogues.com/176-rr-rails-as-an-soa-client-with-pete-hodgson/#comments</comments>
+		<pubDate>Wed, 01 Oct 2014 13:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Pete Hodgson]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2019</guid>
+		<description><![CDATA[Panel Pete Hodgson (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Check out the Code Newbie Podcast brought to you and hosted by our own, Saron Yitbarek! Discussion 03:02 &#8211; Pete Hodgson Introduction ThoughtWorks Martin Fowler The iPhreaks Show 03:48 &#8211; Pete Hodgson: Rails as an SOA [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/176-rr-rails-as-an-soa-client-with-pete-hodgson/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR176RailsasSOAClient.mp3" length="60827015" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  Pete Hodgson (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Check out the Code Newbie Podcast brought to you and hoste...</itunes:subtitle>
+		<itunes:summary>Panel
+
+	Pete Hodgson (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Check out the Code Newbie Podcast brought to you and hosted by our own, Saron Yitbarek!
+Discussion
+03:02 - Pete Hodgson Introduction
+
+	ThoughtWorks
+	Martin Fowler
+	The iPhreaks Show
+
+03:48 - Pete Hodgson: Rails as an SOA Client
+
+	[Slides] Pete Hodgson: Rails as an SOA Client
+
+05:27 - Conway’s Law and Service-Oriented Architecture (SOA)
+
+	Team Boundaries
+	Testing Boundaries Between Teams
+	The Shape of an Organization
+	How the Shape of an Architecture Can Play Together or Interfere with Each Other
+	Codependence vs Independence
+	Decoupling of Teams
+
+14:03 - Faking Out Services / Contract Tests
+
+	Martin Fowler: Consumer-Driven Contracts: A Service Evolution Pattern
+	Maintaining the Fakes
+	Shim
+	Gems
+
+	pact
+	pacto
+	vcr
+	webmock
+
+
+	In-process vs Out of Process
+	Facilitating Communication Between Teams
+
+	Diversity
+	Algorithmic Efficiency
+
+
+	Continuous Delivery
+
+	Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Jez Humble
+
+
+
+29:04 - faraday
+
+	rack
+	middleware - (i.e: lenses / filters)
+
+32:47 - faraday and SOA
+
+	Hexagonal Architecture
+	Service Gateways
+
+	Testing in Isolation
+
+
+	Staging Environment
+	Shared Dev Environments
+
+40:41 - Feature Flags (aka Feature Toggles)
+
+	Extreme Deployment
+
+	Ruby Rogues Episode #172: Extreme Deployment with Badri Janakiraman and Florian Motlik
+
+
+
+44:15 - Caching
+
+	Segmentation by Freshness
+
+ 
+Join Chuck and the rest of The Freelancers’ Show panelists on October 7th for a LIVE Q&amp;A
+ 
+Subscribe to Avdi’s RubyTapas!
+ 
+Picks
+
+	Pete Hodgson: Rails as an SOA Client (Saron)
+	Bill Gathen: Diversity Is A Superpower (Saron)
+	RubyNewbies (Saron)
+	Cartooning For Tech Folk (Saron)
+	Octobuild (Saron)
+	Finding Ultra: Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself by Rich Roll (Chuck)
+	Michael Vey 4: Hunt for Jade Dragon by Richard Paul Evans (Chuck)
+	rack-flags (Pete)
+	GoGaRuCo (Pete)
+	Ruby Rogues (Pete)
+	Upright Four: Wheat Saison Table Beer (Pete)
+	The Laundry Files (Avdi)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Technology and Creativity
+Transcript
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:03:22</itunes:duration>
+	</item>

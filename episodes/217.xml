@@ -1,0 +1,144 @@
+<item>
+		<title>171 RR Evaluating Yourself</title>
+		<link>http://rubyrogues.com/171-rr-evaluating-yourself/</link>
+		<comments>http://rubyrogues.com/171-rr-evaluating-yourself/#comments</comments>
+		<pubDate>Wed, 27 Aug 2014 13:00:15 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[James Edward Gray II]]></category>
+		<category><![CDATA[Saron Yitbarek]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=1981</guid>
+		<description><![CDATA[Panel James Edward Gray (twitter github blog) Avdi Grimm (twitter github blog book) Saron Yitbarek (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) Discussion 02:42 &#8211; Evaluating Yourself 03:13 &#8211; Figuring Out Your Momentum Life Balance NoSQL Tournament Chess 08:09 &#8211; Learning New Things 09:42 &#8211; How To Learn James Edward Gray: Are We Teaching the Best Things? [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/171-rr-evaluating-yourself/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR171EvaluatingYourself.mp3" length="64059491" type="audio/mpeg"/>
+		<itunes:subtitle>Panel  James Edward Gray (twitter github blog)   Avdi Grimm (twitter github blog book)   Saron Yitbarek (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - Discussion 02:42 - Evaluating Yourself - </itunes:subtitle>
+		<itunes:summary>Panel
+
+	James Edward Gray (twitter github blog)
+	Avdi Grimm (twitter github blog book)
+	Saron Yitbarek (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+Discussion
+02:42 - Evaluating Yourself
+
+03:13 - Figuring Out Your Momentum
+
+Life Balance
+
+	NoSQL
+	Tournament Chess
+
+08:09 - Learning New Things
+
+09:42 - How To Learn
+
+	James Edward Gray: Are We Teaching the Best Things?
+
+10:20 - Other Types of Thinking
+
+	Social Skills
+	Pair Programming
+
+12:57 - “Thinking Like a Computer”
+
+	Measuring Success with Numbers
+
+19:56 - Measuring Progress
+
+	James Edward Gray Youtube Channel
+	MUDs
+	Shipping
+	Barriers
+	Saron’s Blog - Archives
+
+27:14 - Areas of Interest
+
+	Intrinsic Motivation
+	Rust
+
+	Rust IRC Channel
+
+
+
+29:33 - Other Metrics or Stats for Evaluation
+
+	Typing Tutor
+	Dreyfus Model of Skill Acquisition
+	User Story
+	Programming Pearls (2nd Edition) by Jon Bentley
+
+34:22 - Getting Over Self-Doubt
+
+	Social Coding
+	Steve Klabnik
+	Illusory Superiority
+
+38:51 - Feedback
+
+	Qualitative Feedback
+	RSpec
+	Binary Tree
+	Inject
+
+42:54 - Measuring Perspective
+
+	Social Skills
+
+47:27 - The Rogues Evaluate Themselves
+
+	Swift
+	Riak
+
+	139 RR - Riak with Sean Cribbs and Bryce Kerley
+
+
+	Verse
+	Kindle
+
+53:39 - Evaluating Non-Technical Skills
+
+	Communication
+	Keeping Journals
+	zenspider
+
+	Ryan Davis
+
+
+
+Picks
+
+	THOUGHT OF YOU | Ryan Woodward Art and Animation (Saron)
+	Tess Rinearson - A Hacking Hiatus: I’m stepping back from hackathons for a little while (Saron)
+	Scalable and Modular Architecture for CSS (Saron)
+	Bret Victor: Inventing on Principle (Avdi)
+	Buff Headwear (Avdi)
+	Punished by Rewards: The Trouble with Gold Stars, Incentive Plans, A's, Praise, and Other Bribes by Alfie Kohn (James)
+	Drive: The Surprising Truth About What Motivates Us by Daniel H. Pink (James)
+	Sphero Robot Ball (James)
+	My Story by Elizabeth Smart (Chuck)
+	Podcast Movement- National Podcasting Conference (Chuck)
+
+Book Club
+Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+Next Week
+Extreme Deployment with Badri Janakiraman and Florian Motlik
+
+Transcript
+JAMES:  I’ve been sweating these questions since they arrived.
+CHUCK:  Good questions.
+SARON:  [Chuckles] Oh. Are they hard?
+JAMES:  Scribbling answers, crossing them out, scribbling answers, crossing them out.
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers, providing them with salary and equity upfront. The average Ruby developer gets an average of 5 to 15 introductory offers and an average salary offer of $130,000 a year. Users can either accept an offer and go right into interviewing with the company or deny them without any continuing obligations. It’s totally free for users. And when you’re hired, they also give you a $2,000 signing bonus as a thank you for using them. But if you use the Ruby Rogues link, you’ll get a $4,000 bonus instead. Finally,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:06:44</itunes:duration>
+	</item>
