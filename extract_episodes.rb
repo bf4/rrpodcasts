@@ -5,6 +5,7 @@ require 'yaml'
 
 pwd = File.dirname(__FILE__)
 output_path = File.join(pwd, 'episodes')
+# Path and file must exists
 episode_list = File.join(output_path, 'episode_list.yml')
 
 if ARGV.shift == 'alt'
@@ -13,8 +14,10 @@ else
   feed_url = 'http://rubyrogues.com/feed/'
 end
 
+# Must be []
 episodes = YAML::load(File.read(episode_list))
 
+# Should be 1 or higher
 highest_feed_number = episodes.map {|episode| episode[:feed_number].to_i }.max
 
 xml = open(feed_url).read
