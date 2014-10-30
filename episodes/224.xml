@@ -1,0 +1,171 @@
+<item>
+		<title>178 RR Book Club: Refactoring Ruby with Martin Fowler</title>
+		<link>http://rubyrogues.com/178-rr-book-club-refactoring-ruby-with-martin-fowler/</link>
+		<comments>http://rubyrogues.com/178-rr-book-club-refactoring-ruby-with-martin-fowler/#comments</comments>
+		<pubDate>Wed, 22 Oct 2014 13:00:19 +0000</pubDate>
+		<dc:creator><![CDATA[Charles Max Wood]]></dc:creator>
+				<category><![CDATA[Avdi Grimm]]></category>
+		<category><![CDATA[Book Club]]></category>
+		<category><![CDATA[Charles Max Wood]]></category>
+		<category><![CDATA[Jessica Kerr]]></category>
+		<category><![CDATA[Martin Fowler]]></category>
+
+		<guid isPermaLink="false">http://rubyrogues.com/?p=2039</guid>
+		<description><![CDATA[Martin Fowler (twitter martinfowler.com) Avdi Grimm (twitter github blog book) Jessica Kerr (twitter github blog) Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) October 30th &#8211; Jeremy Kemper and Eileen Uchitelle &#8211; Google Hangout Session on Rails 4.2 Text “Rails” to 38470 Discussion 02:40 &#8211; Jessica Kerr Introduction @jessitron Scala Clojure 03:20 &#8211; Martin Fowler Introduction 04:05 &#8211; Book Club [&#8230;]]]></description>
+		<wfw:commentRss>http://rubyrogues.com/178-rr-book-club-refactoring-ruby-with-martin-fowler/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="http://traffic.libsyn.com/rubyrogues/RR178RefactoringBook.mp3" length="72523192" type="audio/mpeg"/>
+		<itunes:subtitle>Martin Fowler (twitter martinfowler.com)   Avdi Grimm (twitter github blog book)   Jessica Kerr (twitter github blog)   Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up) - October 30th - Jeremy Kemper and Eileen Uchitelle - Google Hango...</itunes:subtitle>
+		<itunes:summary>Martin Fowler (twitter martinfowler.com)
+	Avdi Grimm (twitter github blog book)
+	Jessica Kerr (twitter github blog)
+	Charles Max Wood (twitter github Teach Me To Code Rails Ramp Up)
+
+October 30th - Jeremy Kemper and Eileen Uchitelle - Google Hangout Session on Rails 4.2
+Text “Rails” to 38470
+Discussion
+02:40 - Jessica Kerr Introduction
+
+	@jessitron
+	Scala
+	Clojure
+
+03:20 - Martin Fowler Introduction
+
+04:05 - Book Club
+
+	Refactoring: Ruby Edition: Ruby Edition (Addison-Wesley Professional Ruby Series) by Jay Fields, Shane Harvie, Martin Fowler, and Kent Beck
+
+04:21 - Most Important Part of Refactoring
+
+05:19 - Refactoring Definition
+
+	Noun Form
+	Verb Form
+
+08:49 - Steps to Refactoring
+
+	Kent Beck
+	Debugging
+	Test Driven Development (TDD)
+
+11:04 - When To Use Debuggers
+
+	Test Granularity
+	Rollbacks
+	Reasoning About Code
+
+12:49 - Extract Method
+
+	Source Method
+	Target Method
+	Compiler Tests
+
+16:37 - Writing Code with Refactoring
+
+	c3
+
+17:46 - Modernizing Refactoring
+
+	Java Vector
+	Collection Pipelines
+	Lambdas
+	Smalltalk
+
+20:24 - Tools and Refactoring
+
+	Customization
+	RubyMine
+	John Brandt
+	Don Roberts
+	C#
+	Renaming
+
+25:02 - Advice for Using Refactoring Tools
+
+26:55 - CodeSmell Definition
+
+30:28 - Comments and Structures in Languages
+
+	Symbols and Strings
+	num_count
+	Commit Messages
+	Ward Cunningham
+	Git
+	GitLog
+	GitHub
+
+40:10 - Changes Over 20 Years
+
+	Pascal
+	Extreme Programming
+	Self-testing Code
+	Continuous Integration
+
+41:37 - Backlash Against Refactoring
+
+	Pair Programming
+
+43:35 - Getting People to Embrace Refactoring
+
+	Healthy Codes
+	Code Bases
+
+47:06 - TDD as Automatic Workflow
+
+	Preparatory Refactoring
+
+49:47 - Making Changes
+
+	Object Orientation (OOP)
+	Gnarly
+	jQuery.promises
+	jQuery
+	Promises
+	QPromises
+
+54:11 - Technical Debt and Restarting
+
+	Sacrificial Architecture
+	Scratch Rewrite
+
+58:06 - When to Estimate CodeBase Lifetime
+
+	Becoming a Polite Legacy CodeBase
+
+1:00:19 - Knowledge Increase: Working on a Project vs. Learning Better Practices
+
+1:01:35 - Modularity and Microservices
+
+	  “Microservices” by Martin Fowler
+	  Log Files
+
+See Also
+Refactoring in Ruby by William C. Wake and Kevin Rutherford
+
+ 
+October 30th - Jeremy Kemper and Eileen Uchitelle - Google Hangout Session on Rails 4.2
+Text “Rails” to 38470
+Picks
+
+	Thinking, Fast and Slow by Daniel Kahneman (Avdi)
+	The introduction to Reactive Programming you've been missing (Avdi)
+	Travelpro FlightCrew4 22" Rollaboard (Avdi)
+	UNIX man pages: split () (Jessica)
+	1DEVDAY Detroit 2014 (Jessica)
+	Sleep (Chuck)
+	Farm Heroes for iPhone (Chuck)
+	Badri’s video on Hexagonal Rails (Martin)
+	Imbibe!: From Absinthe Cocktail to Whiskey Smash, a Salute in Stories and Drinks to "Professor" Jerry Thomas, Pioneer of the American Bar by David Wondrich (Martin)
+
+Transcript
+MARTIN:  And in honor of Katrina, we also have to remember to refer to Charles as Chunk for the entire episode.
+[Laughter]
+
+[This episode is sponsored by Rackspace. Are you looking for a place to host your latest creation? Want terrific support, high performance all backed by the largest open source cloud? What if you could try it for free? Try out Rackspace at RubyRogues.com/Rackspace and get a $300 credit over six months. That’s $50 per month at RubyRogues.com/Rackspace.]
+[This episode is sponsored by Codeship.io. Don’t you wish you could simply deploy your code every time your tests pass? Wouldn’t it be nice if it were tied into a nice continuous integration system? That’s Codeship. They run your code. If all your tests pass, they deploy your code automatically. For fuss-free continuous delivery, check them out at Codeship.io, continuous delivery made simple.]
+[This episode is sponsored by Hired.com. Every week on Hired, they run an auction where over a thousand tech companies in San Francisco, New York, and L.A. bid on Ruby developers,</itunes:summary>
+		<itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:15:33</itunes:duration>
+	</item>

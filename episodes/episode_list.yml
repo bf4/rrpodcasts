@@ -564,3 +564,9 @@
 - :feed_number: 223
   :title: 177 RR Creativity and Technology
   :enclosure: RR177Creativity.mp3
+- :feed_number: 224
+  :title: ! '178 RR Book Club: Refactoring Ruby with Martin Fowler'
+  :enclosure: RR178RefactoringBook.mp3
+- :feed_number: 225
+  :title: 179 RR Accountability and Diversity with Meagan Waller
+  :enclosure: RR179AccountabilityandDiversity.mp3
