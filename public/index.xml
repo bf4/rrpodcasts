@@ -26,6 +26,48 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>178 RR - Book Club: Refactoring Ruby with Martin Fowler</title>
+      <link/>
+      <pubDate>Wed, 22 Oct 2014 07:00:00 -0600</pubDate>
+      <description>The Rogues introduce new Rogue, Jessica Kerr, and talk with Martin Fowler in another book club episode: Refactoring Ruby.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">1cea6077-bdc3-4573-94e4-5ba492cd3167</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues introduce new Rogue, Jessica Kerr, and talk with Martin Fowler in another book club episode: Refactoring Ruby.</itunes:summary>
+      <itunes:duration>01:15:33</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR178RefactoringBook.mp3" length="72523192" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>174 Rubygems with Eric Hodel</title>
+      <link/>
+      <pubDate>Wed, 17 Sep 2014 07:00:00 -0600</pubDate>
+      <description>The Rogues talk to Eric Hodel about Rubygems.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">afc55774-dbcf-47f4-bab3-73796e513359</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk to Eric Hodel about Rubygems.</itunes:summary>
+      <itunes:duration>01:14:28</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR174RubyGems.mp3" length="71480361" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>173 RR ActiveRecord CRUD</title>
+      <link/>
+      <pubDate>Wed, 10 Sep 2014 07:00:00 -0600</pubDate>
+      <description>The Rogues talk with Eileen Uchitelle about ActiveRecord and big data.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">3bb357b4-4688-49bf-8354-12c923b1adfa</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk with Eileen Uchitelle about ActiveRecord and big data.</itunes:summary>
+      <itunes:duration>01:10:16</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR173ActiveRecord.mp3" length="67449574" type="audio/mpeg"/>
+    </item>
+<item>
 		<title>179 RR Accountability and Diversity with Meagan Waller</title>
 		<link>http://rubyrogues.com/179-rr-accountability-and-diversity-with-meagan-waller/</link>
 		<comments>http://rubyrogues.com/179-rr-accountability-and-diversity-with-meagan-waller/#comments</comments>
