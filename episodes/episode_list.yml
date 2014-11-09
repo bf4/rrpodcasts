@@ -579,3 +579,28 @@
 - :feed_number: 228
   :title: ! '178 RR - Book Club: Refactoring Ruby with Martin Fowler'
   :enclosure: RR178RefactoringBook.mp3
+- :feed_number: 229
+  :title: ! '019 RR Book Club: Exceptional Ruby with Avdi Grimm'
+  :enclosure: RubyRogues20110907.mp3
+- :feed_number: 230
+  :title: 025 RR Logging – I Do Not Think It Means What You Think It Means with Tim
+    Pease
+  :enclosure: RubyRogues20111018.mp3
+- :feed_number: 231
+  :title: 028 RR Beyond the Web with Dave Copeland
+  :enclosure: RubyRogues20111116.mp3
+- :feed_number: 232
+  :title: 029 RR Keeping Up with Gowalla with Adam Keys
+  :enclosure: RubyRogues20111117.mp3
+- :feed_number: 233
+  :title: 033 RR Book Club – Eloquent Ruby with Russ Olsen
+  :enclosure: eloquent_ruby.mp3
+- :feed_number: 234
+  :title: 036 RR RubyGems with Nick Quaranto
+  :enclosure: rubygems_org.mp3
+- :feed_number: 235
+  :title: 040 RR Text Editors and IDE’s with Gary Bernhardt
+  :enclosure: RR_40_Editor_War.mp3
+- :feed_number: 236
+  :title: 180 RR Barriers to New Developers with Kinsey Ann Durham
+  :enclosure: RR180NewProgrammers.mp3

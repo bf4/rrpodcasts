@@ -26,6 +26,118 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>180 RR Barriers to New Developers with Kinsey Ann Durham</title>
+      <link>http://devchat.tv/ruby-rogues/180-rr-barriers-to-new-developers-with-kinsey-ann-durham</link>
+      <pubDate>Wed, 05 Nov 2014 07:00:00 -0700</pubDate>
+      <description>The Rogues talk to Kinsey Ann Durham about new programmers and the barriers they face in the field and community.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">1c0de597-1c13-418f-8502-11870953f593</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk to Kinsey Ann Durham about new programmers and the barriers they face in the field and community.</itunes:summary>
+      <itunes:duration>59:41</itunes:duration>
+      <enclosure url="http://devchat.cachefly.net/rubyrogues/RR180NewProgrammers.mp3" length="57296941" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>040 RR Text Editors and IDE’s with Gary Bernhardt</title>
+      <link>http://devchat.tv/ruby-rogues/040-rr-text-editors-and-ides</link>
+      <pubDate>Thu, 02 Feb 2012 19:40:00 -0700</pubDate>
+      <description>The Rogues talk about text editors and IDEs with Gary Bernhardt.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=410</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Gary Bernhardt (twitter github destroyallsoftware.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   David Brady (blog witter github ADDcasts) </itunes:subtitle>
+      <itunes:summary>The Rogues talk about text editors and IDEs with Gary Bernhardt.</itunes:summary>
+      <itunes:duration>1:07:26</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR_40_Editor_War.mp3" length="97109669" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>036 RR RubyGems with Nick Quaranto</title>
+      <link>http://devchat.tv/ruby-rogues/036-rr-rubygems</link>
+      <pubDate>Wed, 04 Jan 2012 21:48:00 -0700</pubDate>
+      <description>The Rogues talk about Ruby Gems with Nick Quaranto.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=358</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Nick Quaranto (twitter github blog)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion - ...</itunes:subtitle>
+      <itunes:summary>The Rogues talk about Ruby Gems with Nick Quaranto.</itunes:summary>
+      <itunes:duration>01:03:31</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/rubygems_org.mp3" length="25828161" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>033 RR Book Club – Eloquent Ruby with Russ Olsen</title>
+      <link>http://devchat.tv/ruby-rogues/033-rr-book-club-eloquent-ruby</link>
+      <pubDate>Thu, 15 Dec 2011 12:27:00 -0700</pubDate>
+      <description>In this book club episode, the Rogues talk to Russ Olsen about his book, Eloquent Ruby.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=329</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Russ Olsen (twitter russolsen.com eloquentruby.com designpatternsinruby.com)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github) </itunes:subtitle>
+      <itunes:summary>In this book club episode, the Rogues talk to Russ Olsen about his book, Eloquent Ruby.</itunes:summary>
+      <itunes:duration>01:10:09</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/eloquent_ruby.mp3" length="28388964" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>029 RR Keeping Up with Gowalla with Adam Keys</title>
+      <link>http://devchat.tv/ruby-rogues/029-rr-keeping-up-with-gowalla</link>
+      <pubDate>Thu, 17 Nov 2011 11:48:00 -0700</pubDate>
+      <description>The Rogues talk about Gowalla with Adam Keys.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=282</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Adam Keys (twitter github therealadam.com)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - Discussion  Gowalla   Ruby on Rails   Amazon EC2   Postgres   ...</itunes:subtitle>
+      <itunes:summary>The Rogues talk about Gowalla with Adam Keys.</itunes:summary>
+      <itunes:duration>01:02:06</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111117.mp3" length="28977720" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>028 RR Beyond the Web with Dave Copeland</title>
+      <link>http://devchat.tv/ruby-rogues/028-beyond-the-web</link>
+      <pubDate>Thu, 17 Nov 2011 11:16:00 -0700</pubDate>
+      <description>This episode was recorded at the Ruby Midwest Conference.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=285</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>This episode was recorded at the Ruby Midwest Conference.</itunes:subtitle>
+      <itunes:summary>This episode was recorded at the Ruby Midwest Conference.</itunes:summary>
+      <itunes:duration>27:55</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111116.mp3" length="11721874" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>025 RR Logging – I Do Not Think It Means What You Think It Means with Tim Pease</title>
+      <link>http://devchat.tv/ruby-rogues/025-rr-logging-i-do-not-think-it-means-what-you-think-it-means</link>
+      <pubDate>Wed, 19 Oct 2011 19:19:00 -0600</pubDate>
+      <description>The panelists discuss logging with Tim Pease.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=258</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Avdi Grimm   Charles Max Wood   James Edward Gray   Tim Pease - Discussed in this Episode  Any message of note generated by your application   A message of note is something the conveys meaning or has importance to the developer   Log4J </itunes:subtitle>
+      <itunes:summary>The panelists discuss logging with Tim Pease.</itunes:summary>
+      <itunes:duration>54:12</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20111018.mp3" length="21853250" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>019 RR Book Club: Exceptional Ruby with Avdi Grimm</title>
+      <link>http://devchat.tv/ruby-rogues/book-club-exceptional-ruby</link>
+      <pubDate>Sat, 10 Sep 2011 13:05:00 -0600</pubDate>
+      <description>The Rogues have their first Book Club episode and discuss Exceptional Ruby by and with Avdi Grimm.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=131</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Steven! Ragnarok (blog/site twitter github)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog) - </itunes:subtitle>
+      <itunes:summary>The Rogues have their first Book Club episode and discuss Exceptional Ruby by and with Avdi Grimm.</itunes:summary>
+      <itunes:duration>1:00:40</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RubyRogues20110907.mp3" length="45584035" type="audio/mpeg"/>
+    </item>
+<item>
       <title>178 RR - Book Club: Refactoring Ruby with Martin Fowler</title>
       <link/>
       <pubDate>Wed, 22 Oct 2014 07:00:00 -0600</pubDate>
