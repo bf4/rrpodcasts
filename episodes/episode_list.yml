@@ -604,3 +604,16 @@
 - :feed_number: 236
   :title: 180 RR Barriers to New Developers with Kinsey Ann Durham
   :enclosure: RR180NewProgrammers.mp3
+- :feed_number: 237
+  :title: 057 RR Ruby Central with Evan Phoenix and Chad Fowler
+  :enclosure: RR057RubyCentral.mp3
+- :feed_number: 238
+  :title: ! '068 RR Book Club: Growing Object Oriented Software Guided by Tests with
+    Steve Freeman and Nat Pryce'
+  :enclosure: RR068_GOOS.mp3
+- :feed_number: 239
+  :title: 071 RR Zero Downtime Deploys with Pedro Belo
+  :enclosure: RR071ZeroDowntimeDeploys.mp3
+- :feed_number: 240
+  :title: 181 RR RubyInstaller with Luis Lavena
+  :enclosure: RR181RubyInstaller.mp3

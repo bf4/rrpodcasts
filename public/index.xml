@@ -26,6 +26,62 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>181 RR RubyInstaller with Luis Lavena</title>
+      <link>http://devchat.tv/ruby-rogues/181-rr-rubyinstaller-with-luis-lavena</link>
+      <pubDate>Wed, 12 Nov 2014 07:00:00 -0700</pubDate>
+      <description>The Rogues talk about RubyInstaller with Luis Lavena.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">3331cf34-5a48-47c8-8a5e-4afc18b9c718</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk about RubyInstaller with Luis Lavena.</itunes:summary>
+      <itunes:duration>01:05:03</itunes:duration>
+      <enclosure url="http://devchat.cachefly.net/rubyrogues/RR181RubyInstaller.mp3" length="72050045" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>071 RR Zero Downtime Deploys with Pedro Belo</title>
+      <link>http://devchat.tv/ruby-rogues/071-rr-zero-downtime-deploys</link>
+      <pubDate>Mon, 24 Sep 2012 08:00:00 -0600</pubDate>
+      <description>The Rogues discuss zero downtime deploys with Pedro Belo.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=719</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github)   Josh Susser (twitter github blog)   Pedro Belo (twitter github) Discussion  Zer...</itunes:subtitle>
+      <itunes:summary>The Rogues discuss zero downtime deploys with Pedro Belo.</itunes:summary>
+      <itunes:duration>1:05:33</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR071ZeroDowntimeDeploys.mp3" length="78669887" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>068 RR Book Club: Growing Object Oriented Software Guided by Tests with Steve Freeman and Nat Pryce</title>
+      <link>http://devchat.tv/ruby-rogues/068-rr-book-club-growing-object-oriented-software-guided-by-tests</link>
+      <pubDate>Fri, 24 Aug 2012 08:00:00 -0600</pubDate>
+      <description>In this Book Club episode, the Rogues talk to Steve Freeman and Nat Pryce about the book Growing Object Oriented Software Guided by Tests.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=640</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Steve Freeman (twitter website book)   Nat Pryce (twitter website book)   Avdi Grimm (twitter github blog book)   Charles Max Wood (twitter github Teach Me To Code Rails Summer Camp)   James Edward Gray (blog twitter github) - Discussion - ...</itunes:subtitle>
+      <itunes:summary>In this Book Club episode, the Rogues talk to Steve Freeman and Nat Pryce about the book Growing Object Oriented Software Guided by Tests.</itunes:summary>
+      <itunes:duration>1:18:41</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR068_GOOS.mp3" length="94415216" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>057 RR Ruby Central with Evan Phoenix and Chad Fowler</title>
+      <link>http://devchat.tv/ruby-rogues/057-rr-rubycentral</link>
+      <pubDate>Wed, 13 Jun 2012 23:57:00 -0600</pubDate>
+      <description>The Rogues talk to Evan Phoenix and Chad Fowler about Ruby Central.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=554</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panel  Evan Phoenix (twitter github blog)   Chad Fowler (twitter github chadfowler.com)   Avdi Grimm (twitter github blog book)   David Brady (blog witter github ADDcasts)   James Edward Gray II (blog twitter github) </itunes:subtitle>
+      <itunes:summary>The Rogues talk to Evan Phoenix and Chad Fowler about Ruby Central.</itunes:summary>
+      <itunes:duration>1:04:12</itunes:duration>
+      <enclosure url="http://traffic.libsyn.com/rubyrogues/RR057RubyCentral.mp3" length="77032094" type="audio/mpeg"/>
+    </item>
+<item>
       <title>180 RR Barriers to New Developers with Kinsey Ann Durham</title>
       <link>http://devchat.tv/ruby-rogues/180-rr-barriers-to-new-developers-with-kinsey-ann-durham</link>
       <pubDate>Wed, 05 Nov 2014 07:00:00 -0700</pubDate>
