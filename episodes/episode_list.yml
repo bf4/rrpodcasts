@@ -617,3 +617,6 @@
 - :feed_number: 240
   :title: 181 RR RubyInstaller with Luis Lavena
   :enclosure: RR181RubyInstaller.mp3
+- :feed_number: 241
+  :title: 182 RR Keeping Libraries and Utilities Small and Simple with Michel Martens
+  :enclosure: RR182Simplicity.mp3
