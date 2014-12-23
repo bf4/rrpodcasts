@@ -26,6 +26,62 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>186 RR The 4 Rules of Simple Design with Corey Haines</title>
+      <link>http://devchat.tv/ruby-rogues/186-rr-the-4-rules-of-simple-design-with-corey-haines</link>
+      <pubDate>Wed, 17 Dec 2014 07:00:00 -0700</pubDate>
+      <description>The Rogues talk to Corey Haines about his book, Understanding the Four Rules of Simple Design and other lessons from watching thousands of pairs work on Conway's Game of Life.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">826d3e10-0b1f-4213-9fca-6fc3f25a7a2b</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk to Corey Haines about his book, Understanding the Four Rules of Simple Design and other lessons from watching thousands of pairs work on Conway's Game of Life.</itunes:summary>
+      <itunes:duration>01:07:25</itunes:duration>
+      <enclosure url="http://devchat.cachefly.net/rubyrogues/RR186FourRules.mp3" length="64735776" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>185 RR Rails 4 Test Prescriptions with Noel Rappin</title>
+      <link>http://devchat.tv/ruby-rogues/185-rr-rails-4-test-prescriptions-with-noel-rappin</link>
+      <pubDate>Wed, 10 Dec 2014 07:00:00 -0700</pubDate>
+      <description>The Rogues talk about Noel Rappin's book, Rails 4 Test Prescriptions and TDD.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">bc34bdff-4124-43eb-9aa0-f18c2ad07ac0</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk about Noel Rappin's book, Rails 4 Test Prescriptions and TDD.</itunes:summary>
+      <itunes:duration>01:12:53</itunes:duration>
+      <enclosure url="http://devchat.cachefly.net/rubyrogues/RR185Rails4TestPrescriptions.mp3" length="69970294" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>184 RR What We Actually Know About Software Development and Why We Believe It's True with Greg Wilson and Andreas Stefik</title>
+      <link>http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik</link>
+      <pubDate>Wed, 03 Dec 2014 07:00:00 -0700</pubDate>
+      <description>The Rogues talk SCIENCE! with Greg Wilson and Andreas Stefik.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">f05f8a5b-f3ee-464f-aa5e-b8079735243b</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk SCIENCE! with Greg Wilson and Andreas Stefik.</itunes:summary>
+      <itunes:duration>01:52:03</itunes:duration>
+      <enclosure url="http://devchat.cachefly.net/rubyrogues/RR184Science.mp3" length="107569136" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>183 RR Consequences of Technology with Ben Hammersley</title>
+      <link>http://devchat.tv/ruby-rogues/183-rr-consequences-of-technology-with-ben-hammersley</link>
+      <pubDate>Wed, 26 Nov 2014 07:00:00 -0700</pubDate>
+      <description>The Rogues discuss the consequences of technology with Ben Hammersley.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">9dfe2d79-ab91-4a1e-85d5-07338e0322f9</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues discuss the consequences of technology with Ben Hammersley.</itunes:summary>
+      <itunes:duration>01:01:02</itunes:duration>
+      <enclosure url="http://devchat.cachefly.net/rubyrogues/RR183BenHammersley.mp3" length="58607238" type="audio/mpeg"/>
+    </item>
+<item>
       <title>182 RR Keeping Libraries and Utilities Small and Simple with Michel Martens</title>
       <link>https://devchat.tv/ruby-rogues/182-rr-keeping-libraries-and-utilities-small-and-simple-with-michel-martens</link>
       <pubDate>Wed, 19 Nov 2014 07:00:00 -0700</pubDate>
