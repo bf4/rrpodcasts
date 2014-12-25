@@ -26,6 +26,20 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>187 Marketing Yourself as a Software Developer with John Sonmez</title>
+      <link>http://devchat.tv/ruby-rogues/187-marketing-yourself-as-a-software-developer-with-john-sonmez</link>
+      <pubDate>Wed, 24 Dec 2014 07:00:00 -0700</pubDate>
+      <description>The Rogues talk about how to market yourself as a software developer.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">d99a2a5c-0013-49f0-9e1b-8a923ebcbcf1</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk about how to market yourself as a software developer.</itunes:summary>
+      <itunes:duration>01:15:34</itunes:duration>
+      <enclosure url="http://devchat.cachefly.net/rubyrogues/RR187MarketingYourself.mp3" length="72551208" type="audio/mpeg"/>
+    </item>
+<item>
       <title>186 RR The 4 Rules of Simple Design with Corey Haines</title>
       <link>http://devchat.tv/ruby-rogues/186-rr-the-4-rules-of-simple-design-with-corey-haines</link>
       <pubDate>Wed, 17 Dec 2014 07:00:00 -0700</pubDate>
