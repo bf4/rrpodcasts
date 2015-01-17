@@ -26,6 +26,20 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>190 RR Apprenticeship with Joseph Mastey and Jill Lynch of Enova</title>
+      <link>http://devchat.tv/ruby-rogues/190-rr-apprenticeship-with-joseph-mastey-and-jill-lynch-of-enova</link>
+      <pubDate>Wed, 14 Jan 2015 07:00:00 -0700</pubDate>
+      <description>The Rogues talk about Enova's apprenticeship program with Joseph Mastey and Jill Lynch.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">4b82fe56-532f-422b-bb36-103e2c9ed7f3</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk about Enova's apprenticeship program with Joseph Mastey and Jill Lynch.</itunes:summary>
+      <itunes:duration>01:02:55</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR190Apprenticeships.mp3?rss=true" length="70001238" type="audio/mpeg"/>
+    </item>
+<item>
       <title>189 RR Choosing a JavaScript MVC Framework with Craig McKeachie </title>
       <link>http://devchat.tv/ruby-rogues/189-rr-choosing-a-javascript-mvc-framework-with-craig-mckeachie-</link>
       <pubDate>Wed, 07 Jan 2015 07:00:00 -0700</pubDate>
