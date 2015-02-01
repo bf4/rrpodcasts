@@ -26,6 +26,34 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>192 RR Vagrant with Mitchell Hashimoto</title>
+      <link>http://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto</link>
+      <pubDate>Wed, 28 Jan 2015 07:00:00 -0700</pubDate>
+      <description>The Rogues interview Mitchell Hashimoto, the creator of Vagrant.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">328911d2-a8d6-481a-8bf6-104a6dc7b08d</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues interview Mitchell Hashimoto, the creator of Vagrant.</itunes:summary>
+      <itunes:duration>56:02</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR192Vagrant.mp3?rss=true " length="53801113" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>191 RR The Developer Happiness Team with Kerri Miller</title>
+      <link>http://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller</link>
+      <pubDate>Wed, 21 Jan 2015 07:00:00 -0700</pubDate>
+      <description>Kerri Miller and Coraline head the conversation with the rest of the Rogues about The Developer Happiness Team.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">0a7eee49-14ac-4658-a0e8-fe4114a013bd</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>Kerri Miller and Coraline head the conversation with the rest of the Rogues about The Developer Happiness Team.</itunes:summary>
+      <itunes:duration>01:04:27</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR191DeveloperHappiness.mp3?rss=true" length="61873173" type="audio/mpeg"/>
+    </item>
+<item>
       <title>190 RR Apprenticeship with Joseph Mastey and Jill Lynch of Enova</title>
       <link>http://devchat.tv/ruby-rogues/190-rr-apprenticeship-with-joseph-mastey-and-jill-lynch-of-enova</link>
       <pubDate>Wed, 14 Jan 2015 07:00:00 -0700</pubDate>

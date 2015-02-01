@@ -644,3 +644,9 @@
 - :feed_number: 249
   :title: 190 RR Apprenticeship with Joseph Mastey and Jill Lynch of Enova
   :enclosure: RR190Apprenticeships.mp3?rss=true
+- :feed_number: 250
+  :title: 191 RR The Developer Happiness Team with Kerri Miller
+  :enclosure: RR191DeveloperHappiness.mp3?rss=true
+- :feed_number: 251
+  :title: 192 RR Vagrant with Mitchell Hashimoto
+  :enclosure: 'RR192Vagrant.mp3?rss=true '
