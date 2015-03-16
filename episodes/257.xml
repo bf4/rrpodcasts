@@ -1,0 +1,446 @@
+<item>
+      <title>198 RR Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</title>
+      <link>http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates</link>
+      <pubDate>Wed, 11 Mar 2015 08:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:32 - Mark Bates Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/markbates" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/markbates" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://metabates.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://bostonrb.org/" style="text-decoration:none;"&gt;Boston Ruby Users Group&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/bostonrb" style="text-decoration:none;"&gt;@bostonrb&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.metacasts.tv/" style="text-decoration:none;"&gt;MetaCasts: HD Screencasts for GO Enthusiasts&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/metacasts" style="line-height: 1.6; text-decoration: none;"&gt;@metacasts&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:14 - Scott Feinberg Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/scottefein" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/scottefein" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.wepay.com/" style="text-decoration:none;"&gt;WePay&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/WePay" style="text-decoration:none;"&gt;@WePay&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/wepaystatus" style="line-height: 1.6; text-decoration: none;"&gt;@wepaystatus&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:46 - Community Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.windycityrails.org/videos/2014/#19" style="text-decoration:none;"&gt;2014 Videos - WindyCityRails Lightning Talks&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Scott&amp;rsquo;s is first)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/the-happiness-manifesto/" style="text-decoration:none;"&gt;Scott Feinberg: Where does Ruby go from here? (The Happiness Manifesto)&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/scottefein/the-happiness-manifesto" style="line-height: 1.6; text-decoration: none;"&gt;[GitHub] the-happiness-manifesto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;05:32 - Ruby Community Standards and Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Programming Should Be Fun and Enjoyable&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Pairing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Large Regional Conferences and &lt;/span&gt;&lt;a href="http://www.meetup.com/" style="text-decoration:none;"&gt;Meetups&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:33 - User Groups&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://lambdalounge.org/" style="text-decoration:none;"&gt;Lambda Lounge&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/LambdaLounge" style="text-decoration:none;"&gt;@LambdaLounge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.meetup.com/Netflix-Open-Source-Platform/" style="text-decoration:none;"&gt;Netflix Open Source Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:18 - Polyglot Conferences&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=jsXK11f4yE0" style="text-decoration:none;"&gt;Midwest.io 2014 - MythBashers: Adventures in Overlooked Technologies - Avdi Grimm&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/avleen/bashttpd" style="text-decoration:none;"&gt;[GitHub] A web server written in Bash&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://greatwideopen.org/" style="text-decoration:none;"&gt;Great Wide Open&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/AllThingsOpen" style="text-decoration:none;"&gt;@AllThingsOpen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.codemash.org/" style="text-decoration:none;"&gt;CodeMash&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/codemash" style="text-decoration:none;"&gt;@codemash&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;13:07 - Including and Getting Newbies Involved in Conference and Community Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Generations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boot Camps&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.launchacademy.com/" style="text-decoration:none;"&gt;Launch Academy&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/LaunchAcademy_" style="text-decoration:none;"&gt;@LaunchAcademy_&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hugs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:41 - Diversity and Codes of Conduct&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.pyladies.com/" style="text-decoration:none;"&gt;PyLadies&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/PyLadies_pdx/lists/pyladies-chapters" style="text-decoration:none;"&gt;PyLadies Chapters (Twitter)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.railsbridge.org/" style="text-decoration:none;"&gt;RailsBridge&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsbridge" style="text-decoration:none;"&gt;@railsbridge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://railsgirls.com/" style="text-decoration:none;"&gt;Rails Girls&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsgirls" style="text-decoration:none;"&gt;@railsgirls&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:08 - &lt;/span&gt;&lt;a href="http://www.alterconf.com/" style="text-decoration:none;"&gt;AlterConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/alterconf" style="text-decoration:none;"&gt;@AlterConf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.ashedryden.com/" style="text-decoration:none;"&gt;Ashe Dryden&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/ashedryden" style="text-decoration:none;"&gt;@ashedryden&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:22 - &lt;/span&gt;&lt;a href="https://us.pycon.org/" style="text-decoration:none;"&gt;PyCon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/pycon" style="text-decoration:none;"&gt;@pycon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;25:31 - &lt;/span&gt;&lt;a href="http://www.happinessconf.com/" style="text-decoration:none;"&gt;HappinessConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/Happiness_Conf" style="text-decoration:none;"&gt;@Happiness_Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Diversity&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.blackgirlscode.com/" style="text-decoration:none;"&gt;Black Girls Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/blackgirlscode" style="text-decoration:none;"&gt;@blackgirlscode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.womenwhocode.com/" style="text-decoration:none;"&gt;Women Who Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/WomenWhoCode" style="text-decoration:none;"&gt;@WomenWhoCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Developer Happiness and Invoking Community Values Within Corporate Company Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller" style="text-decoration:none;"&gt;Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.pluralsight.com/" style="text-decoration:none;"&gt;PluralSight&lt;/a&gt;
+
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://blog.pluralsight.com/pluralsight-annual-author-summit" style="text-decoration:none;"&gt;PluralSight Author Summit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Trust&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roles of Influence&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Navigating Office Politics&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:03 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Agile_software_development" style="text-decoration:none;"&gt;Agile Software Development&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Productivity&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/The-Disciplines-Execution-Achieving-Important/dp/1491517751" style="text-decoration:none;"&gt;The 4 Disciplines of Execution: Achieving Your Wildly Important Goals&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family" style="text-decoration:none;"&gt;[TED Talk] Bruce Feiler: Agile programming &amp;mdash; for your family&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:41 - &amp;ldquo;The Ruby Diaspora&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://vimeo.com/103590400" style="text-decoration:none;"&gt;Mark Bates - Panel: The Future of Ruby - Burlington Ruby Conference 2014&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://pragprog.com/book/elixir/programming-elixir" style="line-height: 1.6; text-decoration: none;"&gt;Programming Elixir: Functional |&amp;gt; Concurrent |&amp;gt; Pragmatic |&amp;gt; Fun by Dave Thomas&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;The Go Programming Language&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.gophercon.com/" style="text-decoration:none;"&gt;Gophercon&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/GopherCon" style="text-decoration:none;"&gt;@GopherCon&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:47 - Acceptance&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Accepting Acceptance / Tolerating Intolerance&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;50:55 - Mentoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boston Ruby&amp;rsquo;s &amp;ldquo;Project Night&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Mentor Someone Who Doesn&amp;rsquo;t Look Like You&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">fd368cf8-80f9-4d7d-9379-031f1c3cbd3f</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:32 - Mark Bates Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/markbates" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/markbates" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://metabates.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://bostonrb.org/" style="text-decoration:none;"&gt;Boston Ruby Users Group&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/bostonrb" style="text-decoration:none;"&gt;@bostonrb&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.metacasts.tv/" style="text-decoration:none;"&gt;MetaCasts: HD Screencasts for GO Enthusiasts&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/metacasts" style="line-height: 1.6; text-decoration: none;"&gt;@metacasts&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:14 - Scott Feinberg Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/scottefein" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/scottefein" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.wepay.com/" style="text-decoration:none;"&gt;WePay&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/WePay" style="text-decoration:none;"&gt;@WePay&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/wepaystatus" style="line-height: 1.6; text-decoration: none;"&gt;@wepaystatus&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:46 - Community Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.windycityrails.org/videos/2014/#19" style="text-decoration:none;"&gt;2014 Videos - WindyCityRails Lightning Talks&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Scott&amp;rsquo;s is first)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/the-happiness-manifesto/" style="text-decoration:none;"&gt;Scott Feinberg: Where does Ruby go from here? (The Happiness Manifesto)&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/scottefein/the-happiness-manifesto" style="line-height: 1.6; text-decoration: none;"&gt;[GitHub] the-happiness-manifesto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;05:32 - Ruby Community Standards and Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Programming Should Be Fun and Enjoyable&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Pairing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Large Regional Conferences and &lt;/span&gt;&lt;a href="http://www.meetup.com/" style="text-decoration:none;"&gt;Meetups&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:33 - User Groups&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://lambdalounge.org/" style="text-decoration:none;"&gt;Lambda Lounge&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/LambdaLounge" style="text-decoration:none;"&gt;@LambdaLounge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.meetup.com/Netflix-Open-Source-Platform/" style="text-decoration:none;"&gt;Netflix Open Source Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:18 - Polyglot Conferences&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=jsXK11f4yE0" style="text-decoration:none;"&gt;Midwest.io 2014 - MythBashers: Adventures in Overlooked Technologies - Avdi Grimm&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/avleen/bashttpd" style="text-decoration:none;"&gt;[GitHub] A web server written in Bash&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://greatwideopen.org/" style="text-decoration:none;"&gt;Great Wide Open&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/AllThingsOpen" style="text-decoration:none;"&gt;@AllThingsOpen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.codemash.org/" style="text-decoration:none;"&gt;CodeMash&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/codemash" style="text-decoration:none;"&gt;@codemash&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;13:07 - Including and Getting Newbies Involved in Conference and Community Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Generations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boot Camps&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.launchacademy.com/" style="text-decoration:none;"&gt;Launch Academy&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/LaunchAcademy_" style="text-decoration:none;"&gt;@LaunchAcademy_&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hugs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:41 - Diversity and Codes of Conduct&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.pyladies.com/" style="text-decoration:none;"&gt;PyLadies&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/PyLadies_pdx/lists/pyladies-chapters" style="text-decoration:none;"&gt;PyLadies Chapters (Twitter)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.railsbridge.org/" style="text-decoration:none;"&gt;RailsBridge&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsbridge" style="text-decoration:none;"&gt;@railsbridge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://railsgirls.com/" style="text-decoration:none;"&gt;Rails Girls&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsgirls" style="text-decoration:none;"&gt;@railsgirls&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:08 - &lt;/span&gt;&lt;a href="http://www.alterconf.com/" style="text-decoration:none;"&gt;AlterConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/alterconf" style="text-decoration:none;"&gt;@AlterConf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.ashedryden.com/" style="text-decoration:none;"&gt;Ashe Dryden&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/ashedryden" style="text-decoration:none;"&gt;@ashedryden&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:22 - &lt;/span&gt;&lt;a href="https://us.pycon.org/" style="text-decoration:none;"&gt;PyCon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/pycon" style="text-decoration:none;"&gt;@pycon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;25:31 - &lt;/span&gt;&lt;a href="http://www.happinessconf.com/" style="text-decoration:none;"&gt;HappinessConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/Happiness_Conf" style="text-decoration:none;"&gt;@Happiness_Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Diversity&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.blackgirlscode.com/" style="text-decoration:none;"&gt;Black Girls Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/blackgirlscode" style="text-decoration:none;"&gt;@blackgirlscode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.womenwhocode.com/" style="text-decoration:none;"&gt;Women Who Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/WomenWhoCode" style="text-decoration:none;"&gt;@WomenWhoCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Developer Happiness and Invoking Community Values Within Corporate Company Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller" style="text-decoration:none;"&gt;Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.pluralsight.com/" style="text-decoration:none;"&gt;PluralSight&lt;/a&gt;
+
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://blog.pluralsight.com/pluralsight-annual-author-summit" style="text-decoration:none;"&gt;PluralSight Author Summit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Trust&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roles of Influence&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Navigating Office Politics&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:03 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Agile_software_development" style="text-decoration:none;"&gt;Agile Software Development&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Productivity&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/The-Disciplines-Execution-Achieving-Important/dp/1491517751" style="text-decoration:none;"&gt;The 4 Disciplines of Execution: Achieving Your Wildly Important Goals&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family" style="text-decoration:none;"&gt;[TED Talk] Bruce Feiler: Agile programming &amp;mdash; for your family&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:41 - &amp;ldquo;The Ruby Diaspora&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://vimeo.com/103590400" style="text-decoration:none;"&gt;Mark Bates - Panel: The Future of Ruby - Burlington Ruby Conference 2014&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://pragprog.com/book/elixir/programming-elixir" style="line-height: 1.6; text-decoration: none;"&gt;Programming Elixir: Functional |&amp;gt; Concurrent |&amp;gt; Pragmatic |&amp;gt; Fun by Dave Thomas&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;The Go Programming Language&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.gophercon.com/" style="text-decoration:none;"&gt;Gophercon&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/GopherCon" style="text-decoration:none;"&gt;@GopherCon&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:47 - Acceptance&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Accepting Acceptance / Tolerating Intolerance&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;50:55 - Mentoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boston Ruby&amp;rsquo;s &amp;ldquo;Project Night&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Mentor Someone Who Doesn&amp;rsquo;t Look Like You&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:duration>01:05:38</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR198CommunityValues.mp3?rss=true" length="63018006" type="audio/mpeg"/>
+    </item>

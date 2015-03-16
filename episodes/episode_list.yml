@@ -650,3 +650,22 @@
 - :feed_number: 251
   :title: 192 RR Vagrant with Mitchell Hashimoto
   :enclosure: 'RR192Vagrant.mp3?rss=true '
+- :feed_number: 252
+  :title: 193 RR The Volt Framework with Ryan Stout
+  :enclosure: 'RR193Volt.mp3?rss=true '
+- :feed_number: 253
+  :title: 194 RR Real Life JRuby with Sudhindra R. Rao
+  :enclosure: 'RR194JRuby.mp3?rss=true '
+- :feed_number: 254
+  :title: 195 RR Building Your Technology Radar with Neal Ford
+  :enclosure: 'RR195TechRadar.mp3?rss=true '
+- :feed_number: 255
+  :title: 196 RR Testing Clojure in Ruby with Ashton Kemerling
+  :enclosure: 'RR196TestingWithClojure.mp3?rss=true '
+- :feed_number: 256
+  :title: 197 RR The Social Coding Contract with Justin Searls
+  :enclosure: RR197SocialCodingContract.mp3?rss=true
+- :feed_number: 257
+  :title: 198 RR Expanding the Ruby Community Values to Other Languages with Scott
+    Feinberg and Mark Bates
+  :enclosure: RR198CommunityValues.mp3?rss=true

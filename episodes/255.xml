@@ -1,0 +1,156 @@
+<item>
+      <title>196 RR Testing Clojure in Ruby with Ashton Kemerling</title>
+      <link>http://devchat.tv/ruby-rogues/196-rr-testing-clojure-in-ruby-with-ashton-kemerling</link>
+      <pubDate>Wed, 25 Feb 2015 07:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;strong&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir="ltr" style="text-align:center"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:45 - Ashton Kemerling Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/ashton" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/AshtonKem" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:00 - Ruby and &lt;/span&gt;&lt;a href="http://clojure.org/" style="text-decoration:none;"&gt;Clojure&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://pivotallabs.com/" style="text-decoration:none;"&gt;Pivotal Labs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/" style="text-decoration:none;"&gt;Pivotal Tracker&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/clojurescript" style="text-decoration:none;"&gt;Clojurescript&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/community/tracker-blog/generative-testing" style="text-decoration:none;"&gt;Generative Testing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://phantomjs.org/" style="line-height: 1.6; text-decoration: none;"&gt;PhantomJS&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Invariant_(computer_science)" style="text-decoration:none;"&gt;Invariance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;14:50 - Difficulty&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/justincampbell/generative" style="text-decoration:none;"&gt;generative&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/hayeah/rantly" style="text-decoration:none;"&gt;rantly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:13 - Generative Testing and Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Shrinking&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;26:38 - Are Generative Tests Disposable?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Capybara" style="text-decoration:none;"&gt;Capybara&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;29:09 - When Do You Start Generative Testing?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:43 - Setup &amp;amp; Barriers to Entry&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:38 - Why Does Generative Testing Have a Bad Reputation?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:49 - Getting Past ^^&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:17 - Verifying Things Are Fixed&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:57 - Maintaining These Tests&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/multimethods" style="text-decoration:none;"&gt;Multimethods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;51:12 - Human Actions, Generative Testing, and Architecture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Functional_programming" style="text-decoration:none;"&gt;Functional Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:02:10 - Resources&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=HXGpBrmR70U" style="text-decoration:none;"&gt;[YouTube] Integrating Test.Check and Javascript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html" style="text-decoration:none;"&gt;Jessica Kerr: TDD with generative testing: an example in Ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/blog/2014/09/25/integrating-test-dot-check-and-javascript/" style="text-decoration:none;"&gt;Ashton Kemerling: Integrating Test.Check and Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">69741d82-3ed7-4dd6-881f-f0fa16aa14e8</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;strong&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir="ltr" style="text-align:center"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:45 - Ashton Kemerling Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/ashton" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/AshtonKem" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:00 - Ruby and &lt;/span&gt;&lt;a href="http://clojure.org/" style="text-decoration:none;"&gt;Clojure&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://pivotallabs.com/" style="text-decoration:none;"&gt;Pivotal Labs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/" style="text-decoration:none;"&gt;Pivotal Tracker&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/clojurescript" style="text-decoration:none;"&gt;Clojurescript&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/community/tracker-blog/generative-testing" style="text-decoration:none;"&gt;Generative Testing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://phantomjs.org/" style="line-height: 1.6; text-decoration: none;"&gt;PhantomJS&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Invariant_(computer_science)" style="text-decoration:none;"&gt;Invariance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;14:50 - Difficulty&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/justincampbell/generative" style="text-decoration:none;"&gt;generative&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/hayeah/rantly" style="text-decoration:none;"&gt;rantly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:13 - Generative Testing and Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Shrinking&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;26:38 - Are Generative Tests Disposable?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Capybara" style="text-decoration:none;"&gt;Capybara&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;29:09 - When Do You Start Generative Testing?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:43 - Setup &amp;amp; Barriers to Entry&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:38 - Why Does Generative Testing Have a Bad Reputation?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:49 - Getting Past ^^&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:17 - Verifying Things Are Fixed&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:57 - Maintaining These Tests&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/multimethods" style="text-decoration:none;"&gt;Multimethods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;51:12 - Human Actions, Generative Testing, and Architecture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Functional_programming" style="text-decoration:none;"&gt;Functional Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:02:10 - Resources&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=HXGpBrmR70U" style="text-decoration:none;"&gt;[YouTube] Integrating Test.Check and Javascript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html" style="text-decoration:none;"&gt;Jessica Kerr: TDD with generative testing: an example in Ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/blog/2014/09/25/integrating-test-dot-check-and-javascript/" style="text-decoration:none;"&gt;Ashton Kemerling: Integrating Test.Check and Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:duration>01:15:20</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR196TestingWithClojure.mp3?rss=true " length="72325496" type="audio/mpeg"/>
+    </item>

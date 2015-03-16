@@ -26,6 +26,1066 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>198 RR Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</title>
+      <link>http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates</link>
+      <pubDate>Wed, 11 Mar 2015 08:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:32 - Mark Bates Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/markbates" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/markbates" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://metabates.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://bostonrb.org/" style="text-decoration:none;"&gt;Boston Ruby Users Group&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/bostonrb" style="text-decoration:none;"&gt;@bostonrb&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.metacasts.tv/" style="text-decoration:none;"&gt;MetaCasts: HD Screencasts for GO Enthusiasts&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/metacasts" style="line-height: 1.6; text-decoration: none;"&gt;@metacasts&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:14 - Scott Feinberg Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/scottefein" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/scottefein" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.wepay.com/" style="text-decoration:none;"&gt;WePay&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/WePay" style="text-decoration:none;"&gt;@WePay&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/wepaystatus" style="line-height: 1.6; text-decoration: none;"&gt;@wepaystatus&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:46 - Community Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.windycityrails.org/videos/2014/#19" style="text-decoration:none;"&gt;2014 Videos - WindyCityRails Lightning Talks&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Scott&amp;rsquo;s is first)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/the-happiness-manifesto/" style="text-decoration:none;"&gt;Scott Feinberg: Where does Ruby go from here? (The Happiness Manifesto)&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/scottefein/the-happiness-manifesto" style="line-height: 1.6; text-decoration: none;"&gt;[GitHub] the-happiness-manifesto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;05:32 - Ruby Community Standards and Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Programming Should Be Fun and Enjoyable&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Pairing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Large Regional Conferences and &lt;/span&gt;&lt;a href="http://www.meetup.com/" style="text-decoration:none;"&gt;Meetups&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:33 - User Groups&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://lambdalounge.org/" style="text-decoration:none;"&gt;Lambda Lounge&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/LambdaLounge" style="text-decoration:none;"&gt;@LambdaLounge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.meetup.com/Netflix-Open-Source-Platform/" style="text-decoration:none;"&gt;Netflix Open Source Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:18 - Polyglot Conferences&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=jsXK11f4yE0" style="text-decoration:none;"&gt;Midwest.io 2014 - MythBashers: Adventures in Overlooked Technologies - Avdi Grimm&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/avleen/bashttpd" style="text-decoration:none;"&gt;[GitHub] A web server written in Bash&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://greatwideopen.org/" style="text-decoration:none;"&gt;Great Wide Open&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/AllThingsOpen" style="text-decoration:none;"&gt;@AllThingsOpen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.codemash.org/" style="text-decoration:none;"&gt;CodeMash&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/codemash" style="text-decoration:none;"&gt;@codemash&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;13:07 - Including and Getting Newbies Involved in Conference and Community Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Generations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boot Camps&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.launchacademy.com/" style="text-decoration:none;"&gt;Launch Academy&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/LaunchAcademy_" style="text-decoration:none;"&gt;@LaunchAcademy_&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hugs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:41 - Diversity and Codes of Conduct&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.pyladies.com/" style="text-decoration:none;"&gt;PyLadies&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/PyLadies_pdx/lists/pyladies-chapters" style="text-decoration:none;"&gt;PyLadies Chapters (Twitter)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.railsbridge.org/" style="text-decoration:none;"&gt;RailsBridge&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsbridge" style="text-decoration:none;"&gt;@railsbridge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://railsgirls.com/" style="text-decoration:none;"&gt;Rails Girls&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsgirls" style="text-decoration:none;"&gt;@railsgirls&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:08 - &lt;/span&gt;&lt;a href="http://www.alterconf.com/" style="text-decoration:none;"&gt;AlterConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/alterconf" style="text-decoration:none;"&gt;@AlterConf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.ashedryden.com/" style="text-decoration:none;"&gt;Ashe Dryden&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/ashedryden" style="text-decoration:none;"&gt;@ashedryden&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:22 - &lt;/span&gt;&lt;a href="https://us.pycon.org/" style="text-decoration:none;"&gt;PyCon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/pycon" style="text-decoration:none;"&gt;@pycon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;25:31 - &lt;/span&gt;&lt;a href="http://www.happinessconf.com/" style="text-decoration:none;"&gt;HappinessConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/Happiness_Conf" style="text-decoration:none;"&gt;@Happiness_Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Diversity&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.blackgirlscode.com/" style="text-decoration:none;"&gt;Black Girls Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/blackgirlscode" style="text-decoration:none;"&gt;@blackgirlscode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.womenwhocode.com/" style="text-decoration:none;"&gt;Women Who Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/WomenWhoCode" style="text-decoration:none;"&gt;@WomenWhoCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Developer Happiness and Invoking Community Values Within Corporate Company Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller" style="text-decoration:none;"&gt;Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.pluralsight.com/" style="text-decoration:none;"&gt;PluralSight&lt;/a&gt;
+
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://blog.pluralsight.com/pluralsight-annual-author-summit" style="text-decoration:none;"&gt;PluralSight Author Summit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Trust&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roles of Influence&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Navigating Office Politics&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:03 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Agile_software_development" style="text-decoration:none;"&gt;Agile Software Development&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Productivity&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/The-Disciplines-Execution-Achieving-Important/dp/1491517751" style="text-decoration:none;"&gt;The 4 Disciplines of Execution: Achieving Your Wildly Important Goals&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family" style="text-decoration:none;"&gt;[TED Talk] Bruce Feiler: Agile programming &amp;mdash; for your family&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:41 - &amp;ldquo;The Ruby Diaspora&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://vimeo.com/103590400" style="text-decoration:none;"&gt;Mark Bates - Panel: The Future of Ruby - Burlington Ruby Conference 2014&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://pragprog.com/book/elixir/programming-elixir" style="line-height: 1.6; text-decoration: none;"&gt;Programming Elixir: Functional |&amp;gt; Concurrent |&amp;gt; Pragmatic |&amp;gt; Fun by Dave Thomas&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;The Go Programming Language&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.gophercon.com/" style="text-decoration:none;"&gt;Gophercon&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/GopherCon" style="text-decoration:none;"&gt;@GopherCon&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:47 - Acceptance&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Accepting Acceptance / Tolerating Intolerance&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;50:55 - Mentoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boston Ruby&amp;rsquo;s &amp;ldquo;Project Night&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Mentor Someone Who Doesn&amp;rsquo;t Look Like You&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">fd368cf8-80f9-4d7d-9379-031f1c3cbd3f</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:32 - Mark Bates Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/markbates" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/markbates" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://metabates.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://bostonrb.org/" style="text-decoration:none;"&gt;Boston Ruby Users Group&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/bostonrb" style="text-decoration:none;"&gt;@bostonrb&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.metacasts.tv/" style="text-decoration:none;"&gt;MetaCasts: HD Screencasts for GO Enthusiasts&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/metacasts" style="line-height: 1.6; text-decoration: none;"&gt;@metacasts&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:14 - Scott Feinberg Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/scottefein" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/scottefein" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.wepay.com/" style="text-decoration:none;"&gt;WePay&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/WePay" style="text-decoration:none;"&gt;@WePay&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/wepaystatus" style="line-height: 1.6; text-decoration: none;"&gt;@wepaystatus&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:46 - Community Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.windycityrails.org/videos/2014/#19" style="text-decoration:none;"&gt;2014 Videos - WindyCityRails Lightning Talks&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Scott&amp;rsquo;s is first)&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.sefindustries.com/the-happiness-manifesto/" style="text-decoration:none;"&gt;Scott Feinberg: Where does Ruby go from here? (The Happiness Manifesto)&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/scottefein/the-happiness-manifesto" style="line-height: 1.6; text-decoration: none;"&gt;[GitHub] the-happiness-manifesto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;05:32 - Ruby Community Standards and Values&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Programming Should Be Fun and Enjoyable&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Pairing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Large Regional Conferences and &lt;/span&gt;&lt;a href="http://www.meetup.com/" style="text-decoration:none;"&gt;Meetups&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:33 - User Groups&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://lambdalounge.org/" style="text-decoration:none;"&gt;Lambda Lounge&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/LambdaLounge" style="text-decoration:none;"&gt;@LambdaLounge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.meetup.com/Netflix-Open-Source-Platform/" style="text-decoration:none;"&gt;Netflix Open Source Group&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:18 - Polyglot Conferences&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=jsXK11f4yE0" style="text-decoration:none;"&gt;Midwest.io 2014 - MythBashers: Adventures in Overlooked Technologies - Avdi Grimm&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/avleen/bashttpd" style="text-decoration:none;"&gt;[GitHub] A web server written in Bash&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://greatwideopen.org/" style="text-decoration:none;"&gt;Great Wide Open&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/AllThingsOpen" style="text-decoration:none;"&gt;@AllThingsOpen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.codemash.org/" style="text-decoration:none;"&gt;CodeMash&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/codemash" style="text-decoration:none;"&gt;@codemash&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;13:07 - Including and Getting Newbies Involved in Conference and Community Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Generations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boot Camps&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.launchacademy.com/" style="text-decoration:none;"&gt;Launch Academy&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/LaunchAcademy_" style="text-decoration:none;"&gt;@LaunchAcademy_&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hugs&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:41 - Diversity and Codes of Conduct&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.pyladies.com/" style="text-decoration:none;"&gt;PyLadies&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/PyLadies_pdx/lists/pyladies-chapters" style="text-decoration:none;"&gt;PyLadies Chapters (Twitter)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.railsbridge.org/" style="text-decoration:none;"&gt;RailsBridge&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsbridge" style="text-decoration:none;"&gt;@railsbridge&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://railsgirls.com/" style="text-decoration:none;"&gt;Rails Girls&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/railsgirls" style="text-decoration:none;"&gt;@railsgirls&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:08 - &lt;/span&gt;&lt;a href="http://www.alterconf.com/" style="text-decoration:none;"&gt;AlterConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/alterconf" style="text-decoration:none;"&gt;@AlterConf&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.ashedryden.com/" style="text-decoration:none;"&gt;Ashe Dryden&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/ashedryden" style="text-decoration:none;"&gt;@ashedryden&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:22 - &lt;/span&gt;&lt;a href="https://us.pycon.org/" style="text-decoration:none;"&gt;PyCon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/pycon" style="text-decoration:none;"&gt;@pycon&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;25:31 - &lt;/span&gt;&lt;a href="http://www.happinessconf.com/" style="text-decoration:none;"&gt;HappinessConf&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/Happiness_Conf" style="text-decoration:none;"&gt;@Happiness_Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Diversity&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.blackgirlscode.com/" style="text-decoration:none;"&gt;Black Girls Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/blackgirlscode" style="text-decoration:none;"&gt;@blackgirlscode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.womenwhocode.com/" style="text-decoration:none;"&gt;Women Who Code&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/WomenWhoCode" style="text-decoration:none;"&gt;@WomenWhoCode&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Developer Happiness and Invoking Community Values Within Corporate Company Culture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/191-rr-the-developer-happiness-team-with-kerri-miller" style="text-decoration:none;"&gt;Ruby Rogues Episode #191: The Developer Happiness Team with Kerri Miller&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.pluralsight.com/" style="text-decoration:none;"&gt;PluralSight&lt;/a&gt;
+
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://blog.pluralsight.com/pluralsight-annual-author-summit" style="text-decoration:none;"&gt;PluralSight Author Summit&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Trust&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roles of Influence&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Navigating Office Politics&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:03 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Agile_software_development" style="text-decoration:none;"&gt;Agile Software Development&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Productivity&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/The-Disciplines-Execution-Achieving-Important/dp/1491517751" style="text-decoration:none;"&gt;The 4 Disciplines of Execution: Achieving Your Wildly Important Goals&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.ted.com/talks/bruce_feiler_agile_programming_for_your_family" style="text-decoration:none;"&gt;[TED Talk] Bruce Feiler: Agile programming &amp;mdash; for your family&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:41 - &amp;ldquo;The Ruby Diaspora&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://vimeo.com/103590400" style="text-decoration:none;"&gt;Mark Bates - Panel: The Future of Ruby - Burlington Ruby Conference 2014&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://pragprog.com/book/elixir/programming-elixir" style="line-height: 1.6; text-decoration: none;"&gt;Programming Elixir: Functional |&amp;gt; Concurrent |&amp;gt; Pragmatic |&amp;gt; Fun by Dave Thomas&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;The Go Programming Language&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.gophercon.com/" style="text-decoration:none;"&gt;Gophercon&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://twitter.com/GopherCon" style="text-decoration:none;"&gt;@GopherCon&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:47 - Acceptance&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Accepting Acceptance / Tolerating Intolerance&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;50:55 - Mentoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Boston Ruby&amp;rsquo;s &amp;ldquo;Project Night&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Mentor Someone Who Doesn&amp;rsquo;t Look Like You&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:duration>01:05:38</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR198CommunityValues.mp3?rss=true" length="63018006" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>197 RR The Social Coding Contract with Justin Searls</title>
+      <link>http://devchat.tv/ruby-rogues/197-rr-the-social-coding-contract-with-justin-searls</link>
+      <pubDate>Wed, 04 Mar 2015 07:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:23 - Justin Searls Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/searls" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/searls" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://about.me/searls" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://testdouble.com/" style="text-decoration:none;"&gt;Test Double&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/testdouble" style="line-height: 1.6; text-decoration: none;"&gt;@testdouble&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:02 - &lt;/span&gt;&lt;a href="http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html" style="text-decoration:none;"&gt;Justin Searls: The Social Coding Contract&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Open_source" style="text-decoration:none;"&gt;Open Source&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;04:58 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Transitive_dependency" style="text-decoration:none;"&gt;Transitive Dependences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Understanding &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Technical_debt" style="text-decoration:none;"&gt;Technical Debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9naDS3r4MbY" style="text-decoration:none;"&gt;RailsConf 2014 - Keynote: 10 Years! by Yehuda Katz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/CAP_theorem" style="text-decoration:none;"&gt;The CAP Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:21 - Learning Outside Work Hours&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tracking Time&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Micromanagement" style="text-decoration:none;"&gt;Micromanagement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;21:21 - Understanding Transitive Dependencies (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/garybernhardt" style="text-decoration:none;"&gt;Gary Bernhardt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:00 - Use Someone Else&amp;rsquo;s Framework or Write Your Own?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;It Depends.&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;A dirty code base is the sign of a well-monetized application.&amp;rdquo; - &lt;/span&gt;&lt;a href="http://www.bizjournals.com/columbus/print-edition/2013/07/12/health-care-heroes-matt-scantland.html?page=all" style="text-decoration:none;"&gt;Matt Scantland&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:25 - When Does it Hurt to Use Tools You Don&amp;rsquo;t Completely Understand?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.elasticsearch.org/" style="text-decoration:none;"&gt;Elasticsearch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:14 - Leaving Code Behind&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;36:26 - Be a Responsible Open Source User&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/linemanjs/rails-lineman/pull/15#issuecomment-75122029" style="text-decoration:none;"&gt;Pull Request Sample&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Amount of Investment&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Management&lt;/span&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Communication&lt;/span&gt;
+			&lt;ul&gt;
+				&lt;li&gt;&lt;a href="https://github.com/ryanb/cancan" style="text-decoration:none;"&gt;cancan&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="https://github.com/CanCanCommunity/cancancan" style="text-decoration:none;"&gt;cancancan&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://gitx.frim.nl/" style="text-decoration:none;"&gt;GitX&lt;/a&gt;
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Graphical_user_interface" style="text-decoration:none;"&gt;Graphical User Interface (GUI)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://rowanj.github.io/gitx/" style="text-decoration:none;"&gt;rowanj GitX&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:22 - Reacting to Change&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Process and Ceremony&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Deming&amp;rsquo;s &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Common_cause_and_special_cause_%28statistics%29" style="text-decoration:none;"&gt;Common Cause and Special Cause&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/Pair_programming" style="text-decoration:none;"&gt;Pair Programming&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=w6kPgTkEbZQ" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Justin Searls and Aaron Patterson: The act of using vim, tenderly.&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;54:16 - Just Blog It!&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">bfd920aa-5b48-4066-8dab-63af4a8d737d</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:23 - Justin Searls Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/searls" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/searls" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://about.me/searls" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://testdouble.com/" style="text-decoration:none;"&gt;Test Double&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/testdouble" style="line-height: 1.6; text-decoration: none;"&gt;@testdouble&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:02 - &lt;/span&gt;&lt;a href="http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html" style="text-decoration:none;"&gt;Justin Searls: The Social Coding Contract&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Open_source" style="text-decoration:none;"&gt;Open Source&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;04:58 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Transitive_dependency" style="text-decoration:none;"&gt;Transitive Dependences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Understanding &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Technical_debt" style="text-decoration:none;"&gt;Technical Debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9naDS3r4MbY" style="text-decoration:none;"&gt;RailsConf 2014 - Keynote: 10 Years! by Yehuda Katz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/CAP_theorem" style="text-decoration:none;"&gt;The CAP Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:21 - Learning Outside Work Hours&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tracking Time&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Micromanagement" style="text-decoration:none;"&gt;Micromanagement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;21:21 - Understanding Transitive Dependencies (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/garybernhardt" style="text-decoration:none;"&gt;Gary Bernhardt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:00 - Use Someone Else&amp;rsquo;s Framework or Write Your Own?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;It Depends.&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;A dirty code base is the sign of a well-monetized application.&amp;rdquo; - &lt;/span&gt;&lt;a href="http://www.bizjournals.com/columbus/print-edition/2013/07/12/health-care-heroes-matt-scantland.html?page=all" style="text-decoration:none;"&gt;Matt Scantland&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:25 - When Does it Hurt to Use Tools You Don&amp;rsquo;t Completely Understand?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.elasticsearch.org/" style="text-decoration:none;"&gt;Elasticsearch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:14 - Leaving Code Behind&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;36:26 - Be a Responsible Open Source User&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/linemanjs/rails-lineman/pull/15#issuecomment-75122029" style="text-decoration:none;"&gt;Pull Request Sample&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Amount of Investment&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Management&lt;/span&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Communication&lt;/span&gt;
+			&lt;ul&gt;
+				&lt;li&gt;&lt;a href="https://github.com/ryanb/cancan" style="text-decoration:none;"&gt;cancan&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="https://github.com/CanCanCommunity/cancancan" style="text-decoration:none;"&gt;cancancan&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://gitx.frim.nl/" style="text-decoration:none;"&gt;GitX&lt;/a&gt;
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Graphical_user_interface" style="text-decoration:none;"&gt;Graphical User Interface (GUI)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://rowanj.github.io/gitx/" style="text-decoration:none;"&gt;rowanj GitX&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:22 - Reacting to Change&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Process and Ceremony&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Deming&amp;rsquo;s &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Common_cause_and_special_cause_%28statistics%29" style="text-decoration:none;"&gt;Common Cause and Special Cause&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/Pair_programming" style="text-decoration:none;"&gt;Pair Programming&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=w6kPgTkEbZQ" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Justin Searls and Aaron Patterson: The act of using vim, tenderly.&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;54:16 - Just Blog It!&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:11:18</itunes:duration>
+      <enclosure url=" http://media.devchat.tv/ruby-rogues/RR197SocialCodingContract.mp3?rss=true" length="68461045" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>196 RR Testing Clojure in Ruby with Ashton Kemerling</title>
+      <link>http://devchat.tv/ruby-rogues/196-rr-testing-clojure-in-ruby-with-ashton-kemerling</link>
+      <pubDate>Wed, 25 Feb 2015 07:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;strong&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir="ltr" style="text-align:center"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:45 - Ashton Kemerling Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/ashton" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/AshtonKem" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:00 - Ruby and &lt;/span&gt;&lt;a href="http://clojure.org/" style="text-decoration:none;"&gt;Clojure&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://pivotallabs.com/" style="text-decoration:none;"&gt;Pivotal Labs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/" style="text-decoration:none;"&gt;Pivotal Tracker&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/clojurescript" style="text-decoration:none;"&gt;Clojurescript&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/community/tracker-blog/generative-testing" style="text-decoration:none;"&gt;Generative Testing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://phantomjs.org/" style="line-height: 1.6; text-decoration: none;"&gt;PhantomJS&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Invariant_(computer_science)" style="text-decoration:none;"&gt;Invariance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;14:50 - Difficulty&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/justincampbell/generative" style="text-decoration:none;"&gt;generative&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/hayeah/rantly" style="text-decoration:none;"&gt;rantly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:13 - Generative Testing and Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Shrinking&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;26:38 - Are Generative Tests Disposable?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Capybara" style="text-decoration:none;"&gt;Capybara&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;29:09 - When Do You Start Generative Testing?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:43 - Setup &amp;amp; Barriers to Entry&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:38 - Why Does Generative Testing Have a Bad Reputation?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:49 - Getting Past ^^&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:17 - Verifying Things Are Fixed&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:57 - Maintaining These Tests&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/multimethods" style="text-decoration:none;"&gt;Multimethods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;51:12 - Human Actions, Generative Testing, and Architecture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Functional_programming" style="text-decoration:none;"&gt;Functional Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:02:10 - Resources&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=HXGpBrmR70U" style="text-decoration:none;"&gt;[YouTube] Integrating Test.Check and Javascript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html" style="text-decoration:none;"&gt;Jessica Kerr: TDD with generative testing: an example in Ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/blog/2014/09/25/integrating-test-dot-check-and-javascript/" style="text-decoration:none;"&gt;Ashton Kemerling: Integrating Test.Check and Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">69741d82-3ed7-4dd6-881f-f0fa16aa14e8</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;strong&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p dir="ltr" style="text-align:center"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:45 - Ashton Kemerling Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/ashton" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/AshtonKem" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:00 - Ruby and &lt;/span&gt;&lt;a href="http://clojure.org/" style="text-decoration:none;"&gt;Clojure&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://pivotallabs.com/" style="text-decoration:none;"&gt;Pivotal Labs&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/" style="text-decoration:none;"&gt;Pivotal Tracker&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/clojurescript" style="text-decoration:none;"&gt;Clojurescript&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.pivotaltracker.com/community/tracker-blog/generative-testing" style="text-decoration:none;"&gt;Generative Testing&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://phantomjs.org/" style="line-height: 1.6; text-decoration: none;"&gt;PhantomJS&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Invariant_(computer_science)" style="text-decoration:none;"&gt;Invariance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;14:50 - Difficulty&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/justincampbell/generative" style="text-decoration:none;"&gt;generative&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/hayeah/rantly" style="text-decoration:none;"&gt;rantly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:13 - Generative Testing and Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Shrinking&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;26:38 - Are Generative Tests Disposable?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Capybara" style="text-decoration:none;"&gt;Capybara&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;29:09 - When Do You Start Generative Testing?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:43 - Setup &amp;amp; Barriers to Entry&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;40:38 - Why Does Generative Testing Have a Bad Reputation?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:49 - Getting Past ^^&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:17 - Verifying Things Are Fixed&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:57 - Maintaining These Tests&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/multimethods" style="text-decoration:none;"&gt;Multimethods&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;51:12 - Human Actions, Generative Testing, and Architecture&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Functional_programming" style="text-decoration:none;"&gt;Functional Programming&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:02:10 - Resources&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=HXGpBrmR70U" style="text-decoration:none;"&gt;[YouTube] Integrating Test.Check and Javascript&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://blog.jessitron.com/2014/09/tdd-with-generative-testing-example-in.html" style="text-decoration:none;"&gt;Jessica Kerr: TDD with generative testing: an example in Ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://ashtonkemerling.com/blog/2014/09/25/integrating-test-dot-check-and-javascript/" style="text-decoration:none;"&gt;Ashton Kemerling: Integrating Test.Check and Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:duration>01:15:20</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR196TestingWithClojure.mp3?rss=true " length="72325496" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>195 RR Building Your Technology Radar with Neal Ford</title>
+      <link>http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford</link>
+      <pubDate>Wed, 18 Feb 2015 07:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:25 - Neal Ford Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/neal4d" style="text-decoration: none;"&gt;&lt;u&gt;Twitter&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/nealford" style="text-decoration: none;"&gt;&lt;u&gt;GitHub&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://nealford.com/" style="text-decoration: none;"&gt;&lt;u&gt;Blog&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.thoughtworks.com/" style="text-decoration: none;"&gt;&lt;u&gt;ThoughtWorks&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/iphreaks/084-iphreaks-show-building-your-technology-radar-with-neal-ford" style="text-decoration: none;"&gt;&lt;u&gt;iPhreaks Show Episode #084: Building Your Technology Radar with Neal Ford&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/freelancers/145-fs-life-as-a-traveling-consultant-with-neal-ford" style="text-decoration: none;"&gt;&lt;u&gt;Freelancers&amp;#39; Show Episode 145: Life as a Traveling Consultant with Neal Ford&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=c8ZQwz76wuM" style="text-decoration: none;"&gt;&lt;u&gt;RailsConf 2010: Neal Ford &amp;quot;Creativity &amp;amp; Constraint&amp;quot;&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:20 -&amp;nbsp;&lt;/span&gt;&lt;a href="http://www.thoughtworks.com/radar" style="text-decoration: none;"&gt;&lt;u&gt;The Thoughtworks Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.thoughtworks.com/profiles/rebecca-parsons" style="text-decoration: none;"&gt;&lt;u&gt;Rebecca Parsons&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;06:28 - Quadrants&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Techniques&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tools&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Languages &amp;amp; Frameworks&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Platforms&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:01 - Categories (Rings)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hold&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Assess&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Trial&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Adopt&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;09:23 - Adopting New Technologies&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Gibson" style="text-decoration: none;"&gt;&lt;u&gt;William Gibson&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;:&amp;nbsp;&lt;/span&gt;&lt;em&gt;&amp;ldquo;The future is already here, it&amp;rsquo;s just not evenly distributed.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Cycle Time&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html" style="text-decoration: none;"&gt;&lt;u&gt;Neal Ford: Build Your Own Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=3cqf1neieE4" style="text-decoration: none;"&gt;&lt;u&gt;[YouTube] Neal Ford: Build Your Own Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;14:42 - Providing Familiarity Resources&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:24 - Radars as Resources and Lifecycle Assessment Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.intentsoft.com/" style="text-decoration: none;"&gt;&lt;u&gt;Intentional Software&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.thoughtworks.com/radar/a-z" style="text-decoration: none;"&gt;&lt;u&gt;Radar A-Z&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;18:36 - Themes&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;22:17 - Making Decisions&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Diversify&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testability&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;27:40 - Jamming Radars&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:53 - Hireability?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Paying Developers to Learn&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;36:54 - Financial Portfolios and Planning Your Career&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Specialization vs Generalization&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:03 - Software Architecture &amp;amp; Engineering Practices&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Microservices&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;43:57 - Functional Programming&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/Functional-Thinking-Paradigm-Over-Syntax/dp/1449365515/ref=sr_1_1?ie=UTF8&amp;amp;qid=1423839530&amp;amp;sr=8-1&amp;amp;keywords=functional+thinking" style="text-decoration: none;"&gt;&lt;u&gt;Functional Thinking: Paradigm Over Syntax by Neal Ford&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/" style="text-decoration: none;"&gt;&lt;u&gt;Clojure&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:16 - Estimation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:03 - Creating Your Own Radar&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/bdargan/techradar" style="text-decoration: none;"&gt;&lt;u&gt;Brett Dargan: bdargan/techradar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Blip Placement&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html" style="text-decoration: none;"&gt;&lt;u&gt;Neal Ford: Build Your Own Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">8e176cc2-71b6-4e1c-87e7-3b99384ce3f4</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:25 - Neal Ford Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/neal4d" style="text-decoration: none;"&gt;&lt;u&gt;Twitter&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/nealford" style="text-decoration: none;"&gt;&lt;u&gt;GitHub&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://nealford.com/" style="text-decoration: none;"&gt;&lt;u&gt;Blog&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.thoughtworks.com/" style="text-decoration: none;"&gt;&lt;u&gt;ThoughtWorks&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/iphreaks/084-iphreaks-show-building-your-technology-radar-with-neal-ford" style="text-decoration: none;"&gt;&lt;u&gt;iPhreaks Show Episode #084: Building Your Technology Radar with Neal Ford&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/freelancers/145-fs-life-as-a-traveling-consultant-with-neal-ford" style="text-decoration: none;"&gt;&lt;u&gt;Freelancers&amp;#39; Show Episode 145: Life as a Traveling Consultant with Neal Ford&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=c8ZQwz76wuM" style="text-decoration: none;"&gt;&lt;u&gt;RailsConf 2010: Neal Ford &amp;quot;Creativity &amp;amp; Constraint&amp;quot;&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:20 -&amp;nbsp;&lt;/span&gt;&lt;a href="http://www.thoughtworks.com/radar" style="text-decoration: none;"&gt;&lt;u&gt;The Thoughtworks Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.thoughtworks.com/profiles/rebecca-parsons" style="text-decoration: none;"&gt;&lt;u&gt;Rebecca Parsons&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;06:28 - Quadrants&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Techniques&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tools&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Languages &amp;amp; Frameworks&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Platforms&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:01 - Categories (Rings)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hold&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Assess&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Trial&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Adopt&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;09:23 - Adopting New Technologies&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Gibson" style="text-decoration: none;"&gt;&lt;u&gt;William Gibson&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;:&amp;nbsp;&lt;/span&gt;&lt;em&gt;&amp;ldquo;The future is already here, it&amp;rsquo;s just not evenly distributed.&amp;rdquo;&lt;/em&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Cycle Time&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html" style="text-decoration: none;"&gt;&lt;u&gt;Neal Ford: Build Your Own Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.youtube.com/watch?v=3cqf1neieE4" style="text-decoration: none;"&gt;&lt;u&gt;[YouTube] Neal Ford: Build Your Own Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;14:42 - Providing Familiarity Resources&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:24 - Radars as Resources and Lifecycle Assessment Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.intentsoft.com/" style="text-decoration: none;"&gt;&lt;u&gt;Intentional Software&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.thoughtworks.com/radar/a-z" style="text-decoration: none;"&gt;&lt;u&gt;Radar A-Z&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;18:36 - Themes&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;22:17 - Making Decisions&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Diversify&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testability&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;27:40 - Jamming Radars&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:53 - Hireability?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Paying Developers to Learn&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;36:54 - Financial Portfolios and Planning Your Career&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Specialization vs Generalization&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:03 - Software Architecture &amp;amp; Engineering Practices&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Microservices&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;43:57 - Functional Programming&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/Functional-Thinking-Paradigm-Over-Syntax/dp/1449365515/ref=sr_1_1?ie=UTF8&amp;amp;qid=1423839530&amp;amp;sr=8-1&amp;amp;keywords=functional+thinking" style="text-decoration: none;"&gt;&lt;u&gt;Functional Thinking: Paradigm Over Syntax by Neal Ford&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://clojure.org/" style="text-decoration: none;"&gt;&lt;u&gt;Clojure&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:16 - Estimation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:03 - Creating Your Own Radar&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/bdargan/techradar" style="text-decoration: none;"&gt;&lt;u&gt;Brett Dargan: bdargan/techradar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Blip Placement&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://nealford.com/memeagora/2013/05/28/build_your_own_technology_radar.html" style="text-decoration: none;"&gt;&lt;u&gt;Neal Ford: Build Your Own Technology Radar&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</itunes:summary>
+      <itunes:duration>58:15</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR195TechRadar.mp3?rss=true " length="55930629" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>194 RR Real Life JRuby with Sudhindra R. Rao</title>
+      <link>http://devchat.tv/ruby-rogues/194-rr-real-life-jruby-with-sudhindra-r-rao</link>
+      <pubDate>Wed, 11 Feb 2015 07:00:00 -0700</pubDate>
+      <description>The Rogues talk to ThoughtWorks' Sudhindra R. Rao about JRuby.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">76cabcd6-20c2-46b4-9ab6-90aa8bca1ac2</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk to ThoughtWorks' Sudhindra R. Rao about JRuby.</itunes:summary>
+      <itunes:duration>50:45</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR194JRuby.mp3?rss=true " length="48721243" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>193 RR The Volt Framework with Ryan Stout</title>
+      <link>http://devchat.tv/ruby-rogues/193-rr-the-volt-framework-with-ryan-stout</link>
+      <pubDate>Wed, 04 Feb 2015 07:00:00 -0700</pubDate>
+      <description>The Rogues talk to Ryan Stout about the Volt framework.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">51aa5c33-f1f3-4d7b-aeb3-0343d7db1f0b</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues talk to Ryan Stout about the Volt framework.</itunes:summary>
+      <itunes:duration>01:13:51</itunes:duration>
+      <enclosure url="http://media.devchat.tv/ruby-rogues/RR193Volt.mp3?rss=true " length="70899826" type="audio/mpeg"/>
+    </item>
+<item>
       <title>192 RR Vagrant with Mitchell Hashimoto</title>
       <link>http://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto</link>
       <pubDate>Wed, 28 Jan 2015 07:00:00 -0700</pubDate>

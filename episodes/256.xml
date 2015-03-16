@@ -1,0 +1,218 @@
+<item>
+      <title>197 RR The Social Coding Contract with Justin Searls</title>
+      <link>http://devchat.tv/ruby-rogues/197-rr-the-social-coding-contract-with-justin-searls</link>
+      <pubDate>Wed, 04 Mar 2015 07:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:23 - Justin Searls Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/searls" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/searls" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://about.me/searls" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://testdouble.com/" style="text-decoration:none;"&gt;Test Double&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/testdouble" style="line-height: 1.6; text-decoration: none;"&gt;@testdouble&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:02 - &lt;/span&gt;&lt;a href="http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html" style="text-decoration:none;"&gt;Justin Searls: The Social Coding Contract&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Open_source" style="text-decoration:none;"&gt;Open Source&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;04:58 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Transitive_dependency" style="text-decoration:none;"&gt;Transitive Dependences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Understanding &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Technical_debt" style="text-decoration:none;"&gt;Technical Debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9naDS3r4MbY" style="text-decoration:none;"&gt;RailsConf 2014 - Keynote: 10 Years! by Yehuda Katz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/CAP_theorem" style="text-decoration:none;"&gt;The CAP Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:21 - Learning Outside Work Hours&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tracking Time&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Micromanagement" style="text-decoration:none;"&gt;Micromanagement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;21:21 - Understanding Transitive Dependencies (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/garybernhardt" style="text-decoration:none;"&gt;Gary Bernhardt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:00 - Use Someone Else&amp;rsquo;s Framework or Write Your Own?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;It Depends.&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;A dirty code base is the sign of a well-monetized application.&amp;rdquo; - &lt;/span&gt;&lt;a href="http://www.bizjournals.com/columbus/print-edition/2013/07/12/health-care-heroes-matt-scantland.html?page=all" style="text-decoration:none;"&gt;Matt Scantland&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:25 - When Does it Hurt to Use Tools You Don&amp;rsquo;t Completely Understand?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.elasticsearch.org/" style="text-decoration:none;"&gt;Elasticsearch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:14 - Leaving Code Behind&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;36:26 - Be a Responsible Open Source User&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/linemanjs/rails-lineman/pull/15#issuecomment-75122029" style="text-decoration:none;"&gt;Pull Request Sample&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Amount of Investment&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Management&lt;/span&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Communication&lt;/span&gt;
+			&lt;ul&gt;
+				&lt;li&gt;&lt;a href="https://github.com/ryanb/cancan" style="text-decoration:none;"&gt;cancan&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="https://github.com/CanCanCommunity/cancancan" style="text-decoration:none;"&gt;cancancan&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://gitx.frim.nl/" style="text-decoration:none;"&gt;GitX&lt;/a&gt;
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Graphical_user_interface" style="text-decoration:none;"&gt;Graphical User Interface (GUI)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://rowanj.github.io/gitx/" style="text-decoration:none;"&gt;rowanj GitX&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:22 - Reacting to Change&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Process and Ceremony&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Deming&amp;rsquo;s &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Common_cause_and_special_cause_%28statistics%29" style="text-decoration:none;"&gt;Common Cause and Special Cause&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/Pair_programming" style="text-decoration:none;"&gt;Pair Programming&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=w6kPgTkEbZQ" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Justin Searls and Aaron Patterson: The act of using vim, tenderly.&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;54:16 - Just Blog It!&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">bfd920aa-5b48-4066-8dab-63af4a8d737d</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://devchat.tv/kickstarter" style="text-decoration:none;"&gt;RailsClips on Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:23 - Justin Searls Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/searls" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/searls" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://about.me/searls" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://testdouble.com/" style="text-decoration:none;"&gt;Test Double&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/testdouble" style="line-height: 1.6; text-decoration: none;"&gt;@testdouble&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:02 - &lt;/span&gt;&lt;a href="http://blog.testdouble.com/posts/2014-12-02-the-social-coding-contract.html" style="text-decoration:none;"&gt;Justin Searls: The Social Coding Contract&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Open_source" style="text-decoration:none;"&gt;Open Source&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;04:58 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Transitive_dependency" style="text-decoration:none;"&gt;Transitive Dependences&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Understanding &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Technical_debt" style="text-decoration:none;"&gt;Technical Debt&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=9naDS3r4MbY" style="text-decoration:none;"&gt;RailsConf 2014 - Keynote: 10 Years! by Yehuda Katz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/CAP_theorem" style="text-decoration:none;"&gt;The CAP Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:21 - Learning Outside Work Hours&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tracking Time&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Micromanagement" style="text-decoration:none;"&gt;Micromanagement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;21:21 - Understanding Transitive Dependencies (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/garybernhardt" style="text-decoration:none;"&gt;Gary Bernhardt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:00 - Use Someone Else&amp;rsquo;s Framework or Write Your Own?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;It Depends.&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;A dirty code base is the sign of a well-monetized application.&amp;rdquo; - &lt;/span&gt;&lt;a href="http://www.bizjournals.com/columbus/print-edition/2013/07/12/health-care-heroes-matt-scantland.html?page=all" style="text-decoration:none;"&gt;Matt Scantland&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;31:25 - When Does it Hurt to Use Tools You Don&amp;rsquo;t Completely Understand?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.elasticsearch.org/" style="text-decoration:none;"&gt;Elasticsearch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:14 - Leaving Code Behind&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;36:26 - Be a Responsible Open Source User&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/linemanjs/rails-lineman/pull/15#issuecomment-75122029" style="text-decoration:none;"&gt;Pull Request Sample&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Amount of Investment&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Management&lt;/span&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Communication&lt;/span&gt;
+			&lt;ul&gt;
+				&lt;li&gt;&lt;a href="https://github.com/ryanb/cancan" style="text-decoration:none;"&gt;cancan&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="https://github.com/CanCanCommunity/cancancan" style="text-decoration:none;"&gt;cancancan&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href="http://gitx.frim.nl/" style="text-decoration:none;"&gt;GitX&lt;/a&gt;
+				&lt;ul&gt;
+					&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Graphical_user_interface" style="text-decoration:none;"&gt;Graphical User Interface (GUI)&lt;/a&gt;&lt;/li&gt;
+					&lt;li&gt;&lt;a href="http://rowanj.github.io/gitx/" style="text-decoration:none;"&gt;rowanj GitX&lt;/a&gt;&lt;/li&gt;
+				&lt;/ul&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+			&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:22 - Reacting to Change&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Process and Ceremony&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Deming&amp;rsquo;s &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Common_cause_and_special_cause_%28statistics%29" style="text-decoration:none;"&gt;Common Cause and Special Cause&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/Pair_programming" style="text-decoration:none;"&gt;Pair Programming&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=w6kPgTkEbZQ" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Justin Searls and Aaron Patterson: The act of using vim, tenderly.&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;54:16 - Just Blog It!&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:11:18</itunes:duration>
+      <enclosure url=" http://media.devchat.tv/ruby-rogues/RR197SocialCodingContract.mp3?rss=true" length="68461045" type="audio/mpeg"/>
+    </item>
