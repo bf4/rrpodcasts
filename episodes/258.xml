@@ -1,0 +1,258 @@
+<item>
+      <title>199 RR Deployments with Noah Gibbs</title>
+      <link>http://devchat.tv/ruby-rogues/199-rr-deployments-with-noah-gibbs</link>
+      <pubDate>Wed, 18 Mar 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:08 - Noah Gibbs Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/codefolio" style="text-decoration:none;"&gt;&lt;u&gt;Twitter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs" style="text-decoration:none;"&gt;&lt;u&gt;GitHub&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://codefol.io/" style="text-decoration:none;"&gt;&lt;u&gt;Blog&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:38 - &lt;/span&gt;&lt;a href="https://rebuilding-rails.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rebuilding Rails: Understand Rails by Building a Ruby Web Framework by Noah Gibbs&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Uh5MYvNXt0A" style="text-decoration:none;"&gt;&lt;u&gt;[YouTube] Noah Gibbs: GoGaRuCo 2013 - The Littlest ORM&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:06 - &lt;/span&gt;&lt;a href="http://www.sinatrarb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Sinatra&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:47 - &lt;/span&gt;&lt;a href="http://rack.github.io/" style="text-decoration:none;"&gt;&lt;u&gt;Rack&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.amberbit.com/blog/2011/07/13/introduction-to-rack-middleware/" style="text-decoration:none;"&gt;&lt;u&gt;Introduction to Rack middleware&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/derailed/rackamole" style="text-decoration:none;"&gt;&lt;u&gt;rackamole&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:32 - Deploying Apps&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hosting&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.heroku.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Heroku&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://redis.io/" style="text-decoration:none;"&gt;&lt;u&gt;Redis&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.vagrantup.com/" style="text-decoration:none;"&gt;&lt;u&gt;Vagrant&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Server Provisioning&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.chef.io/chef/" style="text-decoration:none;"&gt;&lt;u&gt;Chef&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://puppetlabs.com/" style="text-decoration:none;"&gt;&lt;u&gt;Puppet&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.ansible.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ansible&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://capistranorb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Capistrano&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;12:22 - Support, Operations, and Monitoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/DevOps" style="text-decoration:none;"&gt;DevOps&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Database_administrator" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Database Administrator (DBA)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;[Confreaks] Paul Hinze: Smoke &amp;amp; Mirrors: The Primitives of High Availability&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Reliability&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Enterprise Tools&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://hashicorp.com/" style="text-decoration:none;"&gt;HashiCorp&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ruby Rogues Episode #192: Vagrant with Mitchell Hashimoto&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Learning Curve and Lack of Documentation (&amp;ldquo;Wild West&amp;rdquo;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:36 - Social Differences Between Communities: Ruby vs &lt;/span&gt;&lt;a href="https://www.python.org/" style="text-decoration:none;"&gt;&lt;u&gt;Python&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/COBOL" style="text-decoration:none;"&gt;&lt;u&gt;COBOL&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="https://www.oracle.com/java/" style="text-decoration:none;"&gt;&lt;u&gt;Java&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration:none;"&gt;&lt;u&gt;C&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://saltstack.com/" style="text-decoration:none;"&gt;&lt;u&gt;The SaltStack&lt;/u&gt;&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/" style="text-decoration:none;"&gt;&lt;u&gt;Ryan D. Lane: Moving away from Puppet: SaltStack or Ansible?&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;27:18 - Deployment Tools Targeting Polyglot Architectures&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:39 - Ease of Deployment&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;&lt;u&gt;Go&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:26 - The Success of a Language = The Deployment Story&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;33:51 - Feedback Cycle&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:57 - Reproducibility&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.gnu.org/software/bash/" style="text-decoration:none;"&gt;&lt;u&gt;Bash&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;35:44 - &lt;/span&gt;&lt;a href="http://www.docker.com/" style="text-decoration:none;"&gt;&lt;u&gt;Docker&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Configuration Management Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://wiki.archlinux.org/index.php/change_root" style="text-decoration:none;"&gt;&lt;u&gt;&amp;quot;chroot&amp;quot; = change root&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:06 - Deployment Problems&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:45 - &lt;/span&gt;&lt;a href="http://rubymadscience.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Mad Science&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs/madscience_gem" style="text-decoration:none;"&gt;&lt;u&gt;madscience_gem&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Feedback&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;The Learning Curve&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roadmap&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Multiple VM Setups&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://tunemygc.com" style="text-decoration:none;"&gt;&lt;u&gt;TuneMyGC&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://bearmetal.eu/theden/rails-garbage-collection-tuning-approaches/" style="text-decoration:none;"&gt;&lt;u&gt;Bear Metal: Rails Garbage Collection: Tuning Approaches&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rbkit.codemancers.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rbkit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;br /&gt;
+Get out and jump in a mud puddle! (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://pragprog.com/book/mnee/release-it" style="text-decoration:none;"&gt;&lt;u&gt;Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;&lt;u&gt;Ruby DSL Handbook by Jim Gay&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">6b1bbada-dbca-4115-b369-777c06ac21c7</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:08 - Noah Gibbs Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/codefolio" style="text-decoration:none;"&gt;&lt;u&gt;Twitter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs" style="text-decoration:none;"&gt;&lt;u&gt;GitHub&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://codefol.io/" style="text-decoration:none;"&gt;&lt;u&gt;Blog&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:38 - &lt;/span&gt;&lt;a href="https://rebuilding-rails.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rebuilding Rails: Understand Rails by Building a Ruby Web Framework by Noah Gibbs&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Uh5MYvNXt0A" style="text-decoration:none;"&gt;&lt;u&gt;[YouTube] Noah Gibbs: GoGaRuCo 2013 - The Littlest ORM&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:06 - &lt;/span&gt;&lt;a href="http://www.sinatrarb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Sinatra&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:47 - &lt;/span&gt;&lt;a href="http://rack.github.io/" style="text-decoration:none;"&gt;&lt;u&gt;Rack&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.amberbit.com/blog/2011/07/13/introduction-to-rack-middleware/" style="text-decoration:none;"&gt;&lt;u&gt;Introduction to Rack middleware&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/derailed/rackamole" style="text-decoration:none;"&gt;&lt;u&gt;rackamole&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:32 - Deploying Apps&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hosting&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.heroku.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Heroku&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://redis.io/" style="text-decoration:none;"&gt;&lt;u&gt;Redis&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.vagrantup.com/" style="text-decoration:none;"&gt;&lt;u&gt;Vagrant&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Server Provisioning&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.chef.io/chef/" style="text-decoration:none;"&gt;&lt;u&gt;Chef&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://puppetlabs.com/" style="text-decoration:none;"&gt;&lt;u&gt;Puppet&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.ansible.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ansible&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://capistranorb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Capistrano&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;12:22 - Support, Operations, and Monitoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/DevOps" style="text-decoration:none;"&gt;DevOps&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Database_administrator" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Database Administrator (DBA)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;[Confreaks] Paul Hinze: Smoke &amp;amp; Mirrors: The Primitives of High Availability&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Reliability&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Enterprise Tools&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://hashicorp.com/" style="text-decoration:none;"&gt;HashiCorp&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ruby Rogues Episode #192: Vagrant with Mitchell Hashimoto&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Learning Curve and Lack of Documentation (&amp;ldquo;Wild West&amp;rdquo;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:36 - Social Differences Between Communities: Ruby vs &lt;/span&gt;&lt;a href="https://www.python.org/" style="text-decoration:none;"&gt;&lt;u&gt;Python&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/COBOL" style="text-decoration:none;"&gt;&lt;u&gt;COBOL&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="https://www.oracle.com/java/" style="text-decoration:none;"&gt;&lt;u&gt;Java&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration:none;"&gt;&lt;u&gt;C&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://saltstack.com/" style="text-decoration:none;"&gt;&lt;u&gt;The SaltStack&lt;/u&gt;&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/" style="text-decoration:none;"&gt;&lt;u&gt;Ryan D. Lane: Moving away from Puppet: SaltStack or Ansible?&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;27:18 - Deployment Tools Targeting Polyglot Architectures&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:39 - Ease of Deployment&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;&lt;u&gt;Go&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:26 - The Success of a Language = The Deployment Story&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;33:51 - Feedback Cycle&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:57 - Reproducibility&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.gnu.org/software/bash/" style="text-decoration:none;"&gt;&lt;u&gt;Bash&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;35:44 - &lt;/span&gt;&lt;a href="http://www.docker.com/" style="text-decoration:none;"&gt;&lt;u&gt;Docker&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Configuration Management Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://wiki.archlinux.org/index.php/change_root" style="text-decoration:none;"&gt;&lt;u&gt;&amp;quot;chroot&amp;quot; = change root&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:06 - Deployment Problems&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:45 - &lt;/span&gt;&lt;a href="http://rubymadscience.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Mad Science&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs/madscience_gem" style="text-decoration:none;"&gt;&lt;u&gt;madscience_gem&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Feedback&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;The Learning Curve&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roadmap&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Multiple VM Setups&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://tunemygc.com" style="text-decoration:none;"&gt;&lt;u&gt;TuneMyGC&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://bearmetal.eu/theden/rails-garbage-collection-tuning-approaches/" style="text-decoration:none;"&gt;&lt;u&gt;Bear Metal: Rails Garbage Collection: Tuning Approaches&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rbkit.codemancers.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rbkit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;br /&gt;
+Get out and jump in a mud puddle! (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://pragprog.com/book/mnee/release-it" style="text-decoration:none;"&gt;&lt;u&gt;Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;&lt;u&gt;Ruby DSL Handbook by Jim Gay&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:07:56</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR199Deployments.mp3?rss=true" length="65223097" type="audio/mpeg"/>
+    </item>

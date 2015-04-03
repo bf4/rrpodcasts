@@ -26,6 +26,848 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>201 RR Game Development with Andrea Magnorsky</title>
+      <link>http://devchat.tv/ruby-rogues/201-rr-game-development-with-andrea-magnorsky</link>
+      <pubDate>Wed, 01 Apr 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt;Thank you &lt;/span&gt;&lt;a href="https://www.kickstarter.com/projects/521063736/rails-clips-build-an-api-with-rails-video-series" style="text-decoration:none;"&gt;RailsClips Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt; Backers!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:27 - Andrea Magnorsky Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/silverspoon" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/Andrea" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://batcatgames.com/blog/" style="text-decoration:none;"&gt;BatCat Games&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/batcatgames" style="line-height: 1.6; text-decoration: none;"&gt;@batcatgames&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/roundcrisis" style="text-decoration:none;"&gt;@roundcrisis&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea&amp;rsquo;s Game-Related Twitter Account)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:56 - &amp;ldquo;What Game Developers Know That Business Devs Can Benefit From&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Going From Enterprise =&amp;gt; Professional Game Dev&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://about.me/andrewAtBatCat" style="text-decoration:none;"&gt;Andrew O&amp;rsquo;Connor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, co-founder of BatCat Games&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.xsplit.com/about" style="text-decoration:none;"&gt;XSplit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Xbox Comparison)&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;08:28 - Curiosity and Motivation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;09:10 - Is game development more approachable than in the past?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://unity3d.com/" style="text-decoration:none;"&gt;Unity Game Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.unrealengine.com/" style="text-decoration:none;"&gt;The Unreal Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.monogame.net/" style="text-decoration:none;"&gt;MonoGame&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://archive.kontek.net/republic.strategyplanet.gamespy.com/totality.shtml" style="text-decoration:none;"&gt;Totality Engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:12 - Learning New Skills and Coding Practices to Write Games&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Unlearning to Be Clean&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://gameprogrammingpatterns.com/game-loop.html" style="text-decoration:none;"&gt;Game Loop&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Levels of Code:&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Low-Level Code&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Intermediate Layer&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Scripts and Game Play&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:45 - Performance and Iterations&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Iteration Speed&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Benevolent Dictator + You&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:45 - Making Games Inviting&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;FUN&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:11 - Techniques to Cope with State&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:16 - Releasing and Deadlines (Business Issues Between Developers and Management)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Testing &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Property Testing&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/fsharp/FsCheck" style="text-decoration:none;"&gt;FsCheck&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;30:45 - Writing Aspects of Games (Stories, Artwork, etc.)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:22 - Why &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/F_Sharp_(programming_language)" style="text-decoration:none;"&gt;F#&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh156509.aspx" style="text-decoration:none;"&gt;Type Providers&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh361034.aspx" style="text-decoration:none;"&gt;Tutorial: Creating a Type Provider (F#)&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://xamarin.com/studio" style="text-decoration:none;"&gt;Xamarin Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:44 - Pair Programming or Agile Techniques in Game Dev?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Stupid Courage/Bravery&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:22 - Teaching Game Development (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Game_jam" style="text-decoration:none;"&gt;Game Jams&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://globalgamejam.org/" style="text-decoration:none;"&gt;Global Game Jam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.indiegamejams.com/" style="text-decoration:none;"&gt;Indie Game Jams&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://itch.io/jams" style="text-decoration:none;"&gt;Game Jams on itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:39 - &lt;/span&gt;&lt;a href="http://www.onikira.com/" style="text-decoration:none;"&gt;Onikira: Demon Killer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://store.steampowered.com/app/310850/" style="text-decoration:none;"&gt;Onikara - Demon Killer on Steam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hardware&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/DmC:_Devil_May_Cry" style="text-decoration:none;"&gt;DmC: Devil May Cry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/80375707" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Carina C. Zona: Schemas for the Real World&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Maryville,_Tennessee" style="text-decoration:none;"&gt;&lt;u&gt;Maryville, Tennessee&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://monodraw.helftone.com" style="text-decoration:none;"&gt;&lt;u&gt;Monodraw&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://naramore.net/blog/uncomfortable" style="text-decoration:none;"&gt;&lt;u&gt;Elizabeth Naramore: Uncomfortable&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/CoralineAda/ambient_spec" style="text-decoration:none;"&gt;&lt;u&gt;ambient_spec&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.fantasyflightgames.com/en/products/cosmic-encounter/" style="text-decoration:none;"&gt;&lt;u&gt;Cosmic Encounter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217449&amp;amp;sr=8-1&amp;amp;keywords=ready+player+one" style="text-decoration:none;"&gt;&lt;u&gt;Ready Player One by Ernest Cline&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217491&amp;amp;sr=8-1&amp;amp;keywords=mastery" style="text-decoration:none;"&gt;&lt;u&gt;Mastery by Robert Greene&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://boardgamegeek.com/boardgame/39856/dixit" style="text-decoration:none;"&gt;&lt;u&gt;Dixit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://michaelrbernste.in/2014/06/23/know-your-types-goruco-2014.html" style="text-decoration:none;"&gt;&lt;u&gt;Michael Bernstein: Know Your Types&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://vimeo.com/100976693" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Philip Potter: Generative testing with clojure.test.check&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">b70b6a50-8009-4aa0-a6e9-88160ae953b4</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt;Thank you &lt;/span&gt;&lt;a href="https://www.kickstarter.com/projects/521063736/rails-clips-build-an-api-with-rails-video-series" style="text-decoration:none;"&gt;RailsClips Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt; Backers!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:27 - Andrea Magnorsky Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/silverspoon" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/Andrea" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://batcatgames.com/blog/" style="text-decoration:none;"&gt;BatCat Games&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/batcatgames" style="line-height: 1.6; text-decoration: none;"&gt;@batcatgames&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/roundcrisis" style="text-decoration:none;"&gt;@roundcrisis&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea&amp;rsquo;s Game-Related Twitter Account)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:56 - &amp;ldquo;What Game Developers Know That Business Devs Can Benefit From&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Going From Enterprise =&amp;gt; Professional Game Dev&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://about.me/andrewAtBatCat" style="text-decoration:none;"&gt;Andrew O&amp;rsquo;Connor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, co-founder of BatCat Games&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.xsplit.com/about" style="text-decoration:none;"&gt;XSplit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Xbox Comparison)&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;08:28 - Curiosity and Motivation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;09:10 - Is game development more approachable than in the past?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://unity3d.com/" style="text-decoration:none;"&gt;Unity Game Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.unrealengine.com/" style="text-decoration:none;"&gt;The Unreal Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.monogame.net/" style="text-decoration:none;"&gt;MonoGame&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://archive.kontek.net/republic.strategyplanet.gamespy.com/totality.shtml" style="text-decoration:none;"&gt;Totality Engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:12 - Learning New Skills and Coding Practices to Write Games&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Unlearning to Be Clean&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://gameprogrammingpatterns.com/game-loop.html" style="text-decoration:none;"&gt;Game Loop&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Levels of Code:&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Low-Level Code&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Intermediate Layer&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Scripts and Game Play&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:45 - Performance and Iterations&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Iteration Speed&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Benevolent Dictator + You&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:45 - Making Games Inviting&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;FUN&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:11 - Techniques to Cope with State&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:16 - Releasing and Deadlines (Business Issues Between Developers and Management)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Testing &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Property Testing&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/fsharp/FsCheck" style="text-decoration:none;"&gt;FsCheck&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;30:45 - Writing Aspects of Games (Stories, Artwork, etc.)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:22 - Why &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/F_Sharp_(programming_language)" style="text-decoration:none;"&gt;F#&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh156509.aspx" style="text-decoration:none;"&gt;Type Providers&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh361034.aspx" style="text-decoration:none;"&gt;Tutorial: Creating a Type Provider (F#)&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://xamarin.com/studio" style="text-decoration:none;"&gt;Xamarin Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:44 - Pair Programming or Agile Techniques in Game Dev?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Stupid Courage/Bravery&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:22 - Teaching Game Development (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Game_jam" style="text-decoration:none;"&gt;Game Jams&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://globalgamejam.org/" style="text-decoration:none;"&gt;Global Game Jam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.indiegamejams.com/" style="text-decoration:none;"&gt;Indie Game Jams&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://itch.io/jams" style="text-decoration:none;"&gt;Game Jams on itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:39 - &lt;/span&gt;&lt;a href="http://www.onikira.com/" style="text-decoration:none;"&gt;Onikira: Demon Killer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://store.steampowered.com/app/310850/" style="text-decoration:none;"&gt;Onikara - Demon Killer on Steam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hardware&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/DmC:_Devil_May_Cry" style="text-decoration:none;"&gt;DmC: Devil May Cry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/80375707" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Carina C. Zona: Schemas for the Real World&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Maryville,_Tennessee" style="text-decoration:none;"&gt;&lt;u&gt;Maryville, Tennessee&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://monodraw.helftone.com" style="text-decoration:none;"&gt;&lt;u&gt;Monodraw&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://naramore.net/blog/uncomfortable" style="text-decoration:none;"&gt;&lt;u&gt;Elizabeth Naramore: Uncomfortable&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/CoralineAda/ambient_spec" style="text-decoration:none;"&gt;&lt;u&gt;ambient_spec&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.fantasyflightgames.com/en/products/cosmic-encounter/" style="text-decoration:none;"&gt;&lt;u&gt;Cosmic Encounter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217449&amp;amp;sr=8-1&amp;amp;keywords=ready+player+one" style="text-decoration:none;"&gt;&lt;u&gt;Ready Player One by Ernest Cline&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217491&amp;amp;sr=8-1&amp;amp;keywords=mastery" style="text-decoration:none;"&gt;&lt;u&gt;Mastery by Robert Greene&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://boardgamegeek.com/boardgame/39856/dixit" style="text-decoration:none;"&gt;&lt;u&gt;Dixit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://michaelrbernste.in/2014/06/23/know-your-types-goruco-2014.html" style="text-decoration:none;"&gt;&lt;u&gt;Michael Bernstein: Know Your Types&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://vimeo.com/100976693" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Philip Potter: Generative testing with clojure.test.check&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>57:56</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR201GameDev.mp3?rss=true" length="55631363" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>200 RR 200th Episode Free-For-All!</title>
+      <link>http://devchat.tv/ruby-rogues/200-rr-200th-episode-free-for-all-</link>
+      <pubDate>Wed, 25 Mar 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:08 - What&amp;rsquo;s Up with Aaron Patterson?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/tenderlove" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/tenderlove" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://tenderlovemaking.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.redhat.com/en" style="text-decoration:none;"&gt;Red Hat&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;lt;= They&amp;rsquo;re &lt;/span&gt;&lt;a href="http://jobs.redhat.com/" style="text-decoration:none;"&gt;Hiring&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;!!&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Mechanical Keyboarding&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://ergodox.org/" style="text-decoration:none;"&gt;ErgoDox.org&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://www.arduino.cc/" style="text-decoration:none;"&gt;Arduino&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://normanlayout.info/" style="line-height: 1.6; text-decoration: none;"&gt;The Norman Layout&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; vs &lt;/span&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard" style="line-height: 1.6; text-decoration: none;"&gt;Dvorak&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.duckychannel.com.tw/en/keyboard.html" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ducky Keyboards&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://atreus.technomancy.us/" style="line-height: 1.6; text-decoration: none;"&gt;Atreus Keyboard Kit&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;16:45 - What&amp;rsquo;s Up with James Edward Gray?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Game Programming&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://gamesalad.com/" style="text-decoration:none;"&gt;GameSalad&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.libgosu.org/" style="text-decoration:none;"&gt;Gusu&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.dartlang.org/" style="text-decoration:none;"&gt;Dart&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.unrealengine.com/" style="text-decoration:none;"&gt;Unreal Engine&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://unity3d.com/" style="text-decoration:none;"&gt;Unity&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://gameprogrammingpatterns.com/" style="text-decoration:none;"&gt;Game Programming Patterns by Bob Nystrom&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://graysoftinc.com/book-reviews/game-programming-patterns" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;James Edward Gray&amp;rsquo;s Book Review on Game Programming Patterns&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.blender.org/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Blender&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Teaching Kids to Program&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://mindstorms.lego.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;LEGO Mindstorms&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://www.wowwee.com/mip/" style="line-height: 1.6; text-decoration: none;"&gt;MiP Robot&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://code.org/" style="line-height: 1.6; text-decoration: none;"&gt;Code.org&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733" style="text-decoration:none;"&gt;Joseph Wilk: Programming as Performance (from RubyConf Australia)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.raspberrypi.org/" style="text-decoration:none;"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://sonic-pi.net/" style="text-decoration:none;"&gt;Sonic Pi&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;30:16 - What&amp;rsquo;s Up with Katrina Owen?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://splice.com" style="text-decoration:none;"&gt;Splice&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://2015.bathruby.org/" style="text-decoration:none;"&gt;Bath Ruby Conference&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/BathRuby" style="text-decoration:none;"&gt;@BathRuby&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://confreaks.tv/videos/bathruby2015-here-be-dragons" style="text-decoration:none;"&gt;[Confreaks] Katrina: Here Be Dragons at Bath Ruby Conference 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;The Go Programming Language&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://rubyheroes.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ruby Hero Awards&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://signup.99bottlesbook.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;99 Bottles Of OOP (Practical Programming Book) by Sandi Metz and Katrina Owen&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=GWEEPt8VvmU" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Katrina Owen: Overkill &lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;(Bob &lt;/span&gt;&lt;a href="http://www.exercism.io/" style="line-height: 1.6; text-decoration: none;"&gt;Exercism&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; Problem)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;41:55 - What&amp;rsquo;s Up with Saron Yitbarek?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.codenewbie.org/" style="text-decoration:none;"&gt;CodeNewbie&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/CodeNewbies" style="text-decoration:none;"&gt;@CodeNewbies&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="https://twitter.com/hashtag/codenewbie?f=realtime&amp;amp;src=hash" style="text-decoration:none;"&gt;#CodeNewbie&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://itunes.apple.com/us/podcast/codenewbie/id919219256" style="text-decoration:none;"&gt;Podcast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://discourse.codenewbie.org/" style="line-height: 1.6; text-decoration: none;"&gt;Discourse Forum&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.codenewbie.org/blogs" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Developer Apprentice at &lt;/span&gt;&lt;a href="https://thoughtbot.com/" style="text-decoration:none;"&gt;thoughtbot&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://www.nand2tetris.org/" style="text-decoration:none;"&gt;Nand2Tetris&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://mitpress.mit.edu/books/elements-computing-systems" style="line-height: 1.6; text-decoration: none;"&gt;The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan and Shimon Schocken&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.codenewbie.org/" style="text-decoration:none;"&gt;CodeNewbie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Hardware&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.codenewbie.org/podcast/intro-to-raspberry-pi" style="text-decoration:none;"&gt;CodeNewbie Episode #27: Intro to Raspberry Pi with Matt Richardson&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://www.codenewbie.org/podcast/the-hardware-marketplace" style="text-decoration:none;"&gt;CodeNewbie Episode #26: The Hardware Marketplace with Julia Grace&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.codenewbie.org/podcast/from-software-to-hardware" style="line-height: 1.6; text-decoration: none;"&gt;CodeNewbie Episode #25: From Software To Hardware with Sara Chipps&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://confreaks.tv/videos/bathruby2015-learning-code-good" style="line-height: 1.6; text-decoration: none;"&gt;[Confreaks] Saron: Reading Code Good at Bath Ruby Conference 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:31 - A Look Back at the Past 100 Ruby Rogues Episodes and Conference Memories &amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/196-rr-testing-clojure-in-ruby-with-ashton-kemerling" style="text-decoration:none;"&gt;Ruby Rogues Episode #196: Testing Clojure in Ruby with Ashton Kemerling&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.rubymidwest.com/" style="text-decoration:none;"&gt;Ruby Midwest&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="https://twitter.com/RubyMidwest" style="text-decoration:none;"&gt;@RubyMidwest&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ZLFeqmh7Dec" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Ruby Midwest 2013 Keynote by James Edward Gray II&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://keeprubyweird.com/" style="text-decoration:none;"&gt;Keep Ruby Weird&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/keeprubyweird" style="text-decoration:none;"&gt;@keeprubyweird&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;53:55 - &lt;/span&gt;&lt;strong&gt;HI AARON&amp;rsquo;S MOM! THANKS FOR MAKING AARON PUNNY! &lt;/strong&gt;&lt;em&gt;(Editor&amp;rsquo;s Note: Aaron didn&amp;rsquo;t tell you how far into the call it was, but I did. &amp;lt;3 Mandy)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;55:50 - A Look Back at the Past 100 Ruby Rogues Episodes and Conference Memories (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;James at Scottish Ruby Conf 2013: The Patterns We All Need to Know &lt;/span&gt;&lt;em&gt;(Editor&amp;rsquo;s Note: I can&amp;rsquo;t find this must-see video online, but if you can, tweet a link to &lt;/em&gt;&lt;a href="https://twitter.com/therubyrep" style="text-decoration:none;"&gt;@therubyrep&lt;/a&gt;&lt;em&gt;)&lt;/em&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.confreaks.com/videos/4785-KeepRubyWeird14-opening-keynote" style="text-decoration:none;"&gt;[Confreaks] Aaron Patterson: Keep Ruby Weird&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Homeopathic Refactoring)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;58:32 - Legacy Rogues: What Changed You and Improved You the Most by Being a Panelist on Ruby Rogues?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:02:29 - The Panelists &amp;lt;3 Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tweet Us YOUR Picks: &lt;/span&gt;&lt;a href="https://twitter.com/rubyrogues" style="text-decoration:none;"&gt;@rubyrogues&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:10:10 - New Rogues&amp;rsquo; and Chuck&amp;rsquo;s Thoughts on the Show&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="http://www.amazon.com/Speed-Dark-Ballantine-Readers-Circle/dp/0345447549/ref=sr_1_1?ie=UTF8&amp;amp;qid=1426613858&amp;amp;sr=8-1&amp;amp;keywords=the+speed+of+dark" style="text-decoration:none;"&gt;&lt;u&gt;The Speed of Dark (Ballantine Reader&amp;#39;s Circle) by Elizabeth Moon&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Katrina)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/The-Curious-Incident-Dog-Night-Time/dp/1400032717" style="text-decoration:none;"&gt;&lt;u&gt;The Curious Incident of the Dog in the Night-Time by Mark Haddon&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Katrina)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://atreus.technomancy.us/" style="text-decoration:none;"&gt;&lt;u&gt;Atreus Keyboard Kit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Aaron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.bemyeyes.org" style="text-decoration:none;"&gt;&lt;u&gt;Be My Eyes&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.marchisformakers.com" style="text-decoration:none;"&gt;&lt;u&gt;March is for Makers&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="mailto:saron.yitbarek@gmail.com" style="text-decoration:none;"&gt;&lt;u&gt;Hire Saron!&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.indiegogo.com/projects/con-man" style="text-decoration:none;"&gt;&lt;u&gt;[Indiegogo] Con Man&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (James)&lt;br /&gt;
+​&lt;/span&gt;&lt;a href="https://imagecomics.com/comics/series/alex-ada" style="text-decoration:none;"&gt;&lt;u&gt;Alex + Ada&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (James)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">2bfb1a5a-acc7-4653-a468-c9b3262185e3</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:08 - What&amp;rsquo;s Up with Aaron Patterson?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/tenderlove" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/tenderlove" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://tenderlovemaking.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.redhat.com/en" style="text-decoration:none;"&gt;Red Hat&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;lt;= They&amp;rsquo;re &lt;/span&gt;&lt;a href="http://jobs.redhat.com/" style="text-decoration:none;"&gt;Hiring&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;!!&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Mechanical Keyboarding&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://ergodox.org/" style="text-decoration:none;"&gt;ErgoDox.org&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://www.arduino.cc/" style="text-decoration:none;"&gt;Arduino&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://normanlayout.info/" style="line-height: 1.6; text-decoration: none;"&gt;The Norman Layout&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; vs &lt;/span&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard" style="line-height: 1.6; text-decoration: none;"&gt;Dvorak&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.duckychannel.com.tw/en/keyboard.html" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ducky Keyboards&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://atreus.technomancy.us/" style="line-height: 1.6; text-decoration: none;"&gt;Atreus Keyboard Kit&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;16:45 - What&amp;rsquo;s Up with James Edward Gray?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Game Programming&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://gamesalad.com/" style="text-decoration:none;"&gt;GameSalad&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.libgosu.org/" style="text-decoration:none;"&gt;Gusu&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.dartlang.org/" style="text-decoration:none;"&gt;Dart&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.unrealengine.com/" style="text-decoration:none;"&gt;Unreal Engine&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://unity3d.com/" style="text-decoration:none;"&gt;Unity&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://gameprogrammingpatterns.com/" style="text-decoration:none;"&gt;Game Programming Patterns by Bob Nystrom&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://graysoftinc.com/book-reviews/game-programming-patterns" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;James Edward Gray&amp;rsquo;s Book Review on Game Programming Patterns&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.blender.org/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Blender&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Teaching Kids to Program&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://mindstorms.lego.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;LEGO Mindstorms&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://www.wowwee.com/mip/" style="line-height: 1.6; text-decoration: none;"&gt;MiP Robot&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://code.org/" style="line-height: 1.6; text-decoration: none;"&gt;Code.org&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733" style="text-decoration:none;"&gt;Joseph Wilk: Programming as Performance (from RubyConf Australia)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.raspberrypi.org/" style="text-decoration:none;"&gt;Raspberry Pi&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://sonic-pi.net/" style="text-decoration:none;"&gt;Sonic Pi&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;30:16 - What&amp;rsquo;s Up with Katrina Owen?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://splice.com" style="text-decoration:none;"&gt;Splice&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://2015.bathruby.org/" style="text-decoration:none;"&gt;Bath Ruby Conference&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/BathRuby" style="text-decoration:none;"&gt;@BathRuby&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://confreaks.tv/videos/bathruby2015-here-be-dragons" style="text-decoration:none;"&gt;[Confreaks] Katrina: Here Be Dragons at Bath Ruby Conference 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;The Go Programming Language&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://rubyheroes.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ruby Hero Awards&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://signup.99bottlesbook.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;99 Bottles Of OOP (Practical Programming Book) by Sandi Metz and Katrina Owen&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=GWEEPt8VvmU" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Katrina Owen: Overkill &lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;nbsp;(Bob &lt;/span&gt;&lt;a href="http://www.exercism.io/" style="line-height: 1.6; text-decoration: none;"&gt;Exercism&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; Problem)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;41:55 - What&amp;rsquo;s Up with Saron Yitbarek?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.codenewbie.org/" style="text-decoration:none;"&gt;CodeNewbie&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/CodeNewbies" style="text-decoration:none;"&gt;@CodeNewbies&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="https://twitter.com/hashtag/codenewbie?f=realtime&amp;amp;src=hash" style="text-decoration:none;"&gt;#CodeNewbie&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://itunes.apple.com/us/podcast/codenewbie/id919219256" style="text-decoration:none;"&gt;Podcast&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://discourse.codenewbie.org/" style="line-height: 1.6; text-decoration: none;"&gt;Discourse Forum&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.codenewbie.org/blogs" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Developer Apprentice at &lt;/span&gt;&lt;a href="https://thoughtbot.com/" style="text-decoration:none;"&gt;thoughtbot&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://www.nand2tetris.org/" style="text-decoration:none;"&gt;Nand2Tetris&lt;/a&gt;&lt;/u&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://mitpress.mit.edu/books/elements-computing-systems" style="line-height: 1.6; text-decoration: none;"&gt;The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan and Shimon Schocken&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.codenewbie.org/" style="text-decoration:none;"&gt;CodeNewbie&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Hardware&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.codenewbie.org/podcast/intro-to-raspberry-pi" style="text-decoration:none;"&gt;CodeNewbie Episode #27: Intro to Raspberry Pi with Matt Richardson&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="http://www.codenewbie.org/podcast/the-hardware-marketplace" style="text-decoration:none;"&gt;CodeNewbie Episode #26: The Hardware Marketplace with Julia Grace&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.codenewbie.org/podcast/from-software-to-hardware" style="line-height: 1.6; text-decoration: none;"&gt;CodeNewbie Episode #25: From Software To Hardware with Sara Chipps&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://confreaks.tv/videos/bathruby2015-learning-code-good" style="line-height: 1.6; text-decoration: none;"&gt;[Confreaks] Saron: Reading Code Good at Bath Ruby Conference 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;47:31 - A Look Back at the Past 100 Ruby Rogues Episodes and Conference Memories &amp;nbsp;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/196-rr-testing-clojure-in-ruby-with-ashton-kemerling" style="text-decoration:none;"&gt;Ruby Rogues Episode #196: Testing Clojure in Ruby with Ashton Kemerling&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.rubymidwest.com/" style="text-decoration:none;"&gt;Ruby Midwest&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;u&gt;&lt;a href="https://twitter.com/RubyMidwest" style="text-decoration:none;"&gt;@RubyMidwest&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=ZLFeqmh7Dec" style="line-height: 1.6; text-decoration: none;"&gt;[YouTube] Ruby Midwest 2013 Keynote by James Edward Gray II&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://keeprubyweird.com/" style="text-decoration:none;"&gt;Keep Ruby Weird&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/keeprubyweird" style="text-decoration:none;"&gt;@keeprubyweird&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;53:55 - &lt;/span&gt;&lt;strong&gt;HI AARON&amp;rsquo;S MOM! THANKS FOR MAKING AARON PUNNY! &lt;/strong&gt;&lt;em&gt;(Editor&amp;rsquo;s Note: Aaron didn&amp;rsquo;t tell you how far into the call it was, but I did. &amp;lt;3 Mandy)&lt;/em&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;55:50 - A Look Back at the Past 100 Ruby Rogues Episodes and Conference Memories (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;James at Scottish Ruby Conf 2013: The Patterns We All Need to Know &lt;/span&gt;&lt;em&gt;(Editor&amp;rsquo;s Note: I can&amp;rsquo;t find this must-see video online, but if you can, tweet a link to &lt;/em&gt;&lt;a href="https://twitter.com/therubyrep" style="text-decoration:none;"&gt;@therubyrep&lt;/a&gt;&lt;em&gt;)&lt;/em&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.confreaks.com/videos/4785-KeepRubyWeird14-opening-keynote" style="text-decoration:none;"&gt;[Confreaks] Aaron Patterson: Keep Ruby Weird&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Homeopathic Refactoring)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;58:32 - Legacy Rogues: What Changed You and Improved You the Most by Being a Panelist on Ruby Rogues?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:02:29 - The Panelists &amp;lt;3 Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Tweet Us YOUR Picks: &lt;/span&gt;&lt;a href="https://twitter.com/rubyrogues" style="text-decoration:none;"&gt;@rubyrogues&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;01:10:10 - New Rogues&amp;rsquo; and Chuck&amp;rsquo;s Thoughts on the Show&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="http://www.amazon.com/Speed-Dark-Ballantine-Readers-Circle/dp/0345447549/ref=sr_1_1?ie=UTF8&amp;amp;qid=1426613858&amp;amp;sr=8-1&amp;amp;keywords=the+speed+of+dark" style="text-decoration:none;"&gt;&lt;u&gt;The Speed of Dark (Ballantine Reader&amp;#39;s Circle) by Elizabeth Moon&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Katrina)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/The-Curious-Incident-Dog-Night-Time/dp/1400032717" style="text-decoration:none;"&gt;&lt;u&gt;The Curious Incident of the Dog in the Night-Time by Mark Haddon&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Katrina)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://atreus.technomancy.us/" style="text-decoration:none;"&gt;&lt;u&gt;Atreus Keyboard Kit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Aaron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.bemyeyes.org" style="text-decoration:none;"&gt;&lt;u&gt;Be My Eyes&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.marchisformakers.com" style="text-decoration:none;"&gt;&lt;u&gt;March is for Makers&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="mailto:saron.yitbarek@gmail.com" style="text-decoration:none;"&gt;&lt;u&gt;Hire Saron!&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.indiegogo.com/projects/con-man" style="text-decoration:none;"&gt;&lt;u&gt;[Indiegogo] Con Man&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (James)&lt;br /&gt;
+​&lt;/span&gt;&lt;a href="https://imagecomics.com/comics/series/alex-ada" style="text-decoration:none;"&gt;&lt;u&gt;Alex + Ada&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (James)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:22:29</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR200.mp3?rss=true" length="79190050" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>199 RR Deployments with Noah Gibbs</title>
+      <link>http://devchat.tv/ruby-rogues/199-rr-deployments-with-noah-gibbs</link>
+      <pubDate>Wed, 18 Mar 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:08 - Noah Gibbs Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/codefolio" style="text-decoration:none;"&gt;&lt;u&gt;Twitter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs" style="text-decoration:none;"&gt;&lt;u&gt;GitHub&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://codefol.io/" style="text-decoration:none;"&gt;&lt;u&gt;Blog&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:38 - &lt;/span&gt;&lt;a href="https://rebuilding-rails.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rebuilding Rails: Understand Rails by Building a Ruby Web Framework by Noah Gibbs&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Uh5MYvNXt0A" style="text-decoration:none;"&gt;&lt;u&gt;[YouTube] Noah Gibbs: GoGaRuCo 2013 - The Littlest ORM&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:06 - &lt;/span&gt;&lt;a href="http://www.sinatrarb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Sinatra&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:47 - &lt;/span&gt;&lt;a href="http://rack.github.io/" style="text-decoration:none;"&gt;&lt;u&gt;Rack&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.amberbit.com/blog/2011/07/13/introduction-to-rack-middleware/" style="text-decoration:none;"&gt;&lt;u&gt;Introduction to Rack middleware&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/derailed/rackamole" style="text-decoration:none;"&gt;&lt;u&gt;rackamole&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:32 - Deploying Apps&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hosting&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.heroku.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Heroku&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://redis.io/" style="text-decoration:none;"&gt;&lt;u&gt;Redis&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.vagrantup.com/" style="text-decoration:none;"&gt;&lt;u&gt;Vagrant&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Server Provisioning&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.chef.io/chef/" style="text-decoration:none;"&gt;&lt;u&gt;Chef&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://puppetlabs.com/" style="text-decoration:none;"&gt;&lt;u&gt;Puppet&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.ansible.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ansible&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://capistranorb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Capistrano&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;12:22 - Support, Operations, and Monitoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/DevOps" style="text-decoration:none;"&gt;DevOps&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Database_administrator" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Database Administrator (DBA)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;[Confreaks] Paul Hinze: Smoke &amp;amp; Mirrors: The Primitives of High Availability&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Reliability&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Enterprise Tools&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://hashicorp.com/" style="text-decoration:none;"&gt;HashiCorp&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ruby Rogues Episode #192: Vagrant with Mitchell Hashimoto&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Learning Curve and Lack of Documentation (&amp;ldquo;Wild West&amp;rdquo;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:36 - Social Differences Between Communities: Ruby vs &lt;/span&gt;&lt;a href="https://www.python.org/" style="text-decoration:none;"&gt;&lt;u&gt;Python&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/COBOL" style="text-decoration:none;"&gt;&lt;u&gt;COBOL&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="https://www.oracle.com/java/" style="text-decoration:none;"&gt;&lt;u&gt;Java&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration:none;"&gt;&lt;u&gt;C&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://saltstack.com/" style="text-decoration:none;"&gt;&lt;u&gt;The SaltStack&lt;/u&gt;&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/" style="text-decoration:none;"&gt;&lt;u&gt;Ryan D. Lane: Moving away from Puppet: SaltStack or Ansible?&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;27:18 - Deployment Tools Targeting Polyglot Architectures&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:39 - Ease of Deployment&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;&lt;u&gt;Go&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:26 - The Success of a Language = The Deployment Story&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;33:51 - Feedback Cycle&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:57 - Reproducibility&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.gnu.org/software/bash/" style="text-decoration:none;"&gt;&lt;u&gt;Bash&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;35:44 - &lt;/span&gt;&lt;a href="http://www.docker.com/" style="text-decoration:none;"&gt;&lt;u&gt;Docker&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Configuration Management Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://wiki.archlinux.org/index.php/change_root" style="text-decoration:none;"&gt;&lt;u&gt;&amp;quot;chroot&amp;quot; = change root&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:06 - Deployment Problems&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:45 - &lt;/span&gt;&lt;a href="http://rubymadscience.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Mad Science&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs/madscience_gem" style="text-decoration:none;"&gt;&lt;u&gt;madscience_gem&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Feedback&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;The Learning Curve&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roadmap&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Multiple VM Setups&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://tunemygc.com" style="text-decoration:none;"&gt;&lt;u&gt;TuneMyGC&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://bearmetal.eu/theden/rails-garbage-collection-tuning-approaches/" style="text-decoration:none;"&gt;&lt;u&gt;Bear Metal: Rails Garbage Collection: Tuning Approaches&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rbkit.codemancers.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rbkit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;br /&gt;
+Get out and jump in a mud puddle! (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://pragprog.com/book/mnee/release-it" style="text-decoration:none;"&gt;&lt;u&gt;Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;&lt;u&gt;Ruby DSL Handbook by Jim Gay&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">6b1bbada-dbca-4115-b369-777c06ac21c7</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:08 - Noah Gibbs Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/codefolio" style="text-decoration:none;"&gt;&lt;u&gt;Twitter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs" style="text-decoration:none;"&gt;&lt;u&gt;GitHub&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://codefol.io/" style="text-decoration:none;"&gt;&lt;u&gt;Blog&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:38 - &lt;/span&gt;&lt;a href="https://rebuilding-rails.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rebuilding Rails: Understand Rails by Building a Ruby Web Framework by Noah Gibbs&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=Uh5MYvNXt0A" style="text-decoration:none;"&gt;&lt;u&gt;[YouTube] Noah Gibbs: GoGaRuCo 2013 - The Littlest ORM&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:06 - &lt;/span&gt;&lt;a href="http://www.sinatrarb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Sinatra&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;03:47 - &lt;/span&gt;&lt;a href="http://rack.github.io/" style="text-decoration:none;"&gt;&lt;u&gt;Rack&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.amberbit.com/blog/2011/07/13/introduction-to-rack-middleware/" style="text-decoration:none;"&gt;&lt;u&gt;Introduction to Rack middleware&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/derailed/rackamole" style="text-decoration:none;"&gt;&lt;u&gt;rackamole&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;07:32 - Deploying Apps&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hosting&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.heroku.com/" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Heroku&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://redis.io/" style="text-decoration:none;"&gt;&lt;u&gt;Redis&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.vagrantup.com/" style="text-decoration:none;"&gt;&lt;u&gt;Vagrant&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Server Provisioning&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://www.chef.io/chef/" style="text-decoration:none;"&gt;&lt;u&gt;Chef&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://puppetlabs.com/" style="text-decoration:none;"&gt;&lt;u&gt;Puppet&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.ansible.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ansible&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://capistranorb.com/" style="text-decoration:none;"&gt;&lt;u&gt;Capistrano&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;12:22 - Support, Operations, and Monitoring&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;u&gt;&lt;a href="http://en.wikipedia.org/wiki/DevOps" style="text-decoration:none;"&gt;DevOps&lt;/a&gt;&lt;/u&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Database_administrator" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Database Administrator (DBA)&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://confreaks.tv/videos/mwrc2015-smoke-mirrors-the-primitives-of-high-availability" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;[Confreaks] Paul Hinze: Smoke &amp;amp; Mirrors: The Primitives of High Availability&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Reliability&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Enterprise Tools&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://hashicorp.com/" style="text-decoration:none;"&gt;HashiCorp&lt;/a&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/192-rr-vagrant-with-mitchell-hashimoto" style="line-height: 1.6; text-decoration: none;"&gt;&lt;u&gt;Ruby Rogues Episode #192: Vagrant with Mitchell Hashimoto&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Learning Curve and Lack of Documentation (&amp;ldquo;Wild West&amp;rdquo;)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:36 - Social Differences Between Communities: Ruby vs &lt;/span&gt;&lt;a href="https://www.python.org/" style="text-decoration:none;"&gt;&lt;u&gt;Python&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Rogues Episode #198: Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/COBOL" style="text-decoration:none;"&gt;&lt;u&gt;COBOL&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="https://www.oracle.com/java/" style="text-decoration:none;"&gt;&lt;u&gt;Java&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/C_(programming_language)" style="text-decoration:none;"&gt;&lt;u&gt;C&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://saltstack.com/" style="text-decoration:none;"&gt;&lt;u&gt;The SaltStack&lt;/u&gt;&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://ryandlane.com/blog/2014/08/04/moving-away-from-puppet-saltstack-or-ansible/" style="text-decoration:none;"&gt;&lt;u&gt;Ryan D. Lane: Moving away from Puppet: SaltStack or Ansible?&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;27:18 - Deployment Tools Targeting Polyglot Architectures&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:39 - Ease of Deployment&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://golang.org/" style="text-decoration:none;"&gt;&lt;u&gt;Go&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:26 - The Success of a Language = The Deployment Story&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;33:51 - Feedback Cycle&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;34:57 - Reproducibility&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.gnu.org/software/bash/" style="text-decoration:none;"&gt;&lt;u&gt;Bash&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;35:44 - &lt;/span&gt;&lt;a href="http://www.docker.com/" style="text-decoration:none;"&gt;&lt;u&gt;Docker&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; and Configuration Management Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://wiki.archlinux.org/index.php/change_root" style="text-decoration:none;"&gt;&lt;u&gt;&amp;quot;chroot&amp;quot; = change root&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:06 - Deployment Problems&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;46:45 - &lt;/span&gt;&lt;a href="http://rubymadscience.com/" style="text-decoration:none;"&gt;&lt;u&gt;Ruby Mad Science&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://github.com/noahgibbs/madscience_gem" style="text-decoration:none;"&gt;&lt;u&gt;madscience_gem&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Community Feedback&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;The Learning Curve&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Roadmap&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Multiple VM Setups&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://tunemygc.com" style="text-decoration:none;"&gt;&lt;u&gt;TuneMyGC&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://bearmetal.eu/theden/rails-garbage-collection-tuning-approaches/" style="text-decoration:none;"&gt;&lt;u&gt;Bear Metal: Rails Garbage Collection: Tuning Approaches&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rbkit.codemancers.com/" style="text-decoration:none;"&gt;&lt;u&gt;Rbkit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;br /&gt;
+Get out and jump in a mud puddle! (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://pragprog.com/book/mnee/release-it" style="text-decoration:none;"&gt;&lt;u&gt;Release It!: Design and Deploy Production-Ready Software by Michael T. Nygard&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;&lt;u&gt;Ruby DSL Handbook by Jim Gay&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Noah)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:07:56</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR199Deployments.mp3?rss=true" length="65223097" type="audio/mpeg"/>
+    </item>
+<item>
       <title>198 RR Expanding the Ruby Community Values to Other Languages with Scott Feinberg and Mark Bates</title>
       <link>http://devchat.tv/ruby-rogues/198-rr-expanding-the-ruby-community-values-to-other-languages-with-scott-feinberg-and-mark-bates</link>
       <pubDate>Wed, 11 Mar 2015 08:00:00 -0600</pubDate>

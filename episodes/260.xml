@@ -1,0 +1,286 @@
+<item>
+      <title>201 RR Game Development with Andrea Magnorsky</title>
+      <link>http://devchat.tv/ruby-rogues/201-rr-game-development-with-andrea-magnorsky</link>
+      <pubDate>Wed, 01 Apr 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt;Thank you &lt;/span&gt;&lt;a href="https://www.kickstarter.com/projects/521063736/rails-clips-build-an-api-with-rails-video-series" style="text-decoration:none;"&gt;RailsClips Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt; Backers!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:27 - Andrea Magnorsky Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/silverspoon" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/Andrea" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://batcatgames.com/blog/" style="text-decoration:none;"&gt;BatCat Games&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/batcatgames" style="line-height: 1.6; text-decoration: none;"&gt;@batcatgames&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/roundcrisis" style="text-decoration:none;"&gt;@roundcrisis&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea&amp;rsquo;s Game-Related Twitter Account)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:56 - &amp;ldquo;What Game Developers Know That Business Devs Can Benefit From&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Going From Enterprise =&amp;gt; Professional Game Dev&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://about.me/andrewAtBatCat" style="text-decoration:none;"&gt;Andrew O&amp;rsquo;Connor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, co-founder of BatCat Games&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.xsplit.com/about" style="text-decoration:none;"&gt;XSplit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Xbox Comparison)&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;08:28 - Curiosity and Motivation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;09:10 - Is game development more approachable than in the past?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://unity3d.com/" style="text-decoration:none;"&gt;Unity Game Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.unrealengine.com/" style="text-decoration:none;"&gt;The Unreal Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.monogame.net/" style="text-decoration:none;"&gt;MonoGame&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://archive.kontek.net/republic.strategyplanet.gamespy.com/totality.shtml" style="text-decoration:none;"&gt;Totality Engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:12 - Learning New Skills and Coding Practices to Write Games&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Unlearning to Be Clean&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://gameprogrammingpatterns.com/game-loop.html" style="text-decoration:none;"&gt;Game Loop&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Levels of Code:&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Low-Level Code&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Intermediate Layer&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Scripts and Game Play&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:45 - Performance and Iterations&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Iteration Speed&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Benevolent Dictator + You&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:45 - Making Games Inviting&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;FUN&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:11 - Techniques to Cope with State&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:16 - Releasing and Deadlines (Business Issues Between Developers and Management)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Testing &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Property Testing&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/fsharp/FsCheck" style="text-decoration:none;"&gt;FsCheck&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;30:45 - Writing Aspects of Games (Stories, Artwork, etc.)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:22 - Why &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/F_Sharp_(programming_language)" style="text-decoration:none;"&gt;F#&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh156509.aspx" style="text-decoration:none;"&gt;Type Providers&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh361034.aspx" style="text-decoration:none;"&gt;Tutorial: Creating a Type Provider (F#)&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://xamarin.com/studio" style="text-decoration:none;"&gt;Xamarin Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:44 - Pair Programming or Agile Techniques in Game Dev?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Stupid Courage/Bravery&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:22 - Teaching Game Development (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Game_jam" style="text-decoration:none;"&gt;Game Jams&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://globalgamejam.org/" style="text-decoration:none;"&gt;Global Game Jam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.indiegamejams.com/" style="text-decoration:none;"&gt;Indie Game Jams&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://itch.io/jams" style="text-decoration:none;"&gt;Game Jams on itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:39 - &lt;/span&gt;&lt;a href="http://www.onikira.com/" style="text-decoration:none;"&gt;Onikira: Demon Killer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://store.steampowered.com/app/310850/" style="text-decoration:none;"&gt;Onikara - Demon Killer on Steam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hardware&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/DmC:_Devil_May_Cry" style="text-decoration:none;"&gt;DmC: Devil May Cry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/80375707" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Carina C. Zona: Schemas for the Real World&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Maryville,_Tennessee" style="text-decoration:none;"&gt;&lt;u&gt;Maryville, Tennessee&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://monodraw.helftone.com" style="text-decoration:none;"&gt;&lt;u&gt;Monodraw&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://naramore.net/blog/uncomfortable" style="text-decoration:none;"&gt;&lt;u&gt;Elizabeth Naramore: Uncomfortable&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/CoralineAda/ambient_spec" style="text-decoration:none;"&gt;&lt;u&gt;ambient_spec&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.fantasyflightgames.com/en/products/cosmic-encounter/" style="text-decoration:none;"&gt;&lt;u&gt;Cosmic Encounter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217449&amp;amp;sr=8-1&amp;amp;keywords=ready+player+one" style="text-decoration:none;"&gt;&lt;u&gt;Ready Player One by Ernest Cline&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217491&amp;amp;sr=8-1&amp;amp;keywords=mastery" style="text-decoration:none;"&gt;&lt;u&gt;Mastery by Robert Greene&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://boardgamegeek.com/boardgame/39856/dixit" style="text-decoration:none;"&gt;&lt;u&gt;Dixit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://michaelrbernste.in/2014/06/23/know-your-types-goruco-2014.html" style="text-decoration:none;"&gt;&lt;u&gt;Michael Bernstein: Know Your Types&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://vimeo.com/100976693" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Philip Potter: Generative testing with clojure.test.check&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">b70b6a50-8009-4aa0-a6e9-88160ae953b4</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt;Thank you &lt;/span&gt;&lt;a href="https://www.kickstarter.com/projects/521063736/rails-clips-build-an-api-with-rails-video-series" style="text-decoration:none;"&gt;RailsClips Kickstarter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:16px"&gt; Backers!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:27 - Andrea Magnorsky Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/silverspoon" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://github.com/Andrea" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://batcatgames.com/blog/" style="text-decoration:none;"&gt;BatCat Games&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://twitter.com/batcatgames" style="line-height: 1.6; text-decoration: none;"&gt;@batcatgames&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.roundcrisis.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/roundcrisis" style="text-decoration:none;"&gt;@roundcrisis&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea&amp;rsquo;s Game-Related Twitter Account)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;02:56 - &amp;ldquo;What Game Developers Know That Business Devs Can Benefit From&amp;rdquo;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Going From Enterprise =&amp;gt; Professional Game Dev&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://about.me/andrewAtBatCat" style="text-decoration:none;"&gt;Andrew O&amp;rsquo;Connor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;, co-founder of BatCat Games&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="https://www.xsplit.com/about" style="text-decoration:none;"&gt;XSplit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Xbox Comparison)&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;08:28 - Curiosity and Motivation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;09:10 - Is game development more approachable than in the past?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://unity3d.com/" style="text-decoration:none;"&gt;Unity Game Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://www.unrealengine.com/" style="text-decoration:none;"&gt;The Unreal Engine&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.monogame.net/" style="text-decoration:none;"&gt;MonoGame&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://archive.kontek.net/republic.strategyplanet.gamespy.com/totality.shtml" style="text-decoration:none;"&gt;Totality Engine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;10:12 - Learning New Skills and Coding Practices to Write Games&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Unlearning to Be Clean&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://gameprogrammingpatterns.com/game-loop.html" style="text-decoration:none;"&gt;Game Loop&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Levels of Code:&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Low-Level Code&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Intermediate Layer&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Scripts and Game Play&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;15:45 - Performance and Iterations&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=7ualiN55h8o" style="text-decoration:none;"&gt;[YouTube] Andrea Magnorsky: The Tools that Shape Us&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Testing&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Iteration Speed&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Benevolent Dictator + You&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;20:45 - Making Games Inviting&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;FUN&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;23:11 - Techniques to Cope with State&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;24:16 - Releasing and Deadlines (Business Issues Between Developers and Management)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;28:30 - Testing &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Property Testing&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://github.com/fsharp/FsCheck" style="text-decoration:none;"&gt;FsCheck&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;30:45 - Writing Aspects of Games (Stories, Artwork, etc.)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;32:22 - Why &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/F_Sharp_(programming_language)" style="text-decoration:none;"&gt;F#&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh156509.aspx" style="text-decoration:none;"&gt;Type Providers&lt;/a&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="https://msdn.microsoft.com/en-us/library/hh361034.aspx" style="text-decoration:none;"&gt;Tutorial: Creating a Type Provider (F#)&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://xamarin.com/studio" style="text-decoration:none;"&gt;Xamarin Studio&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;38:44 - Pair Programming or Agile Techniques in Game Dev?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;&amp;ldquo;Stupid Courage/Bravery&amp;rdquo;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;42:22 - Teaching Game Development (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Game_jam" style="text-decoration:none;"&gt;Game Jams&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://globalgamejam.org/" style="text-decoration:none;"&gt;Global Game Jam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.indiegamejams.com/" style="text-decoration:none;"&gt;Indie Game Jams&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://itch.io/jams" style="text-decoration:none;"&gt;Game Jams on itch.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;44:39 - &lt;/span&gt;&lt;a href="http://www.onikira.com/" style="text-decoration:none;"&gt;Onikira: Demon Killer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://store.steampowered.com/app/310850/" style="text-decoration:none;"&gt;Onikara - Demon Killer on Steam&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Hardware&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/DmC:_Devil_May_Cry" style="text-decoration:none;"&gt;DmC: Devil May Cry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/80375707" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Carina C. Zona: Schemas for the Real World&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/Maryville,_Tennessee" style="text-decoration:none;"&gt;&lt;u&gt;Maryville, Tennessee&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://monodraw.helftone.com" style="text-decoration:none;"&gt;&lt;u&gt;Monodraw&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://naramore.net/blog/uncomfortable" style="text-decoration:none;"&gt;&lt;u&gt;Elizabeth Naramore: Uncomfortable&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://github.com/CoralineAda/ambient_spec" style="text-decoration:none;"&gt;&lt;u&gt;ambient_spec&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.fantasyflightgames.com/en/products/cosmic-encounter/" style="text-decoration:none;"&gt;&lt;u&gt;Cosmic Encounter&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217449&amp;amp;sr=8-1&amp;amp;keywords=ready+player+one" style="text-decoration:none;"&gt;&lt;u&gt;Ready Player One by Ernest Cline&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1427217491&amp;amp;sr=8-1&amp;amp;keywords=mastery" style="text-decoration:none;"&gt;&lt;u&gt;Mastery by Robert Greene&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://boardgamegeek.com/boardgame/39856/dixit" style="text-decoration:none;"&gt;&lt;u&gt;Dixit&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://michaelrbernste.in/2014/06/23/know-your-types-goruco-2014.html" style="text-decoration:none;"&gt;&lt;u&gt;Michael Bernstein: Know Your Types&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://vimeo.com/100976693" style="text-decoration:none;"&gt;&lt;u&gt;[Vimeo] Philip Potter: Generative testing with clojure.test.check&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Andrea)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>57:56</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR201GameDev.mp3?rss=true" length="55631363" type="audio/mpeg"/>
+    </item>
