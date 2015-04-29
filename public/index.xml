@@ -26,6 +26,616 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>204 RR Limerence with Dave Thomas</title>
+      <link>http://devchat.tv/ruby-rogues/204-rr-limerence-with-dave-thomas</link>
+      <pubDate>Wed, 22 Apr 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:37 - Dave Thomas Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/pragdave" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://pragdave.me/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://pragprog.com/" style="text-decoration:none;"&gt;The Pragmatic Bookshelf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:17 - How Dave Got Started in Programming&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Tools and Constraints&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;An Enthusiast&amp;rsquo;s Problem&amp;rdquo;?&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Is the focus on tools a form of cargo &lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;culting&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;?&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Leadism Over Chosen Technologies and Its&amp;rsquo; Effect on Innovation &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;S&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;witching Tools and Making Excuses&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:29 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Limerence" style="text-decoration:none;"&gt;Limerence&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/0812862864/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0812862864&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=OF5YYV3LSFXVVZAI" style="text-decoration:none;"&gt;Love and Limerence: The Experience of Being in Love by Dorothy Tennov&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Irrational Interest and Defensiveness&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;28:54 - Ruby = Happiness: Does it Hurt?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:00 - Tools and Falling in Love with Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Fear of Falling Behind; Fear of Irrelevancy &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Different Tools for Different Contexts&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:08 - When Do You Learn? When Do You Train? (Not Falling Behind)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:01 - Choosing &lt;/span&gt;&lt;em&gt;Similar&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Tools and Technologies vs Choosing &lt;/span&gt;&lt;em&gt;Different&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Tools and Technologies&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://gulpjs.com/" style="text-decoration:none;"&gt;Gulp&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="http://gruntjs.com/" style="text-decoration:none;"&gt;Grunt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="http://browserify.org/" style="text-decoration:none;"&gt;Browserify&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Example&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1934356050&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=IX6ICL6PDJIZA5QU" style="text-decoration:none;"&gt;Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;43:36 - Relationships and Identities&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:08 - Looking Forward vs Looking Back (Knowing Your History)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Resources, Curriculum:&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/0262510871/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0262510871&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=KV3TPJEHIO23ZTPF" style="line-height: 1.6; text-decoration: none;"&gt;Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) by Harold Abelson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SICP)&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=013476904X&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=YPBQDEMZKQEGAWZX" style="text-decoration:none;"&gt;Smalltalk Best Practice Patterns by Kent Beck&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/0262162091/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0262162091&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=G27VD4NXKUABPRFF" style="line-height: 1.6; text-decoration: none;"&gt;Types and Programming Languages by Benjamin C. Pierce&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming" style="text-decoration:none;"&gt;The Art of Computer Programming by Donald Knuth&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Series)&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Communicating_sequential_processes" style="text-decoration:none;"&gt;Communicating Sequential Processes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (CSP) Brainstorming Example&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:01:48 - Is the rampant use of social media hindering the learning of big ideas?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Self-Curation = Key&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:08:15 - How You Learn a Language / Decide You Like a Language&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.sudoku-solutions.com/" style="text-decoration:none;"&gt;Sudoku Solver&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Markdown Parser&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks &lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://slack.com/" style="text-decoration:none;"&gt;Slack&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;span style="font-size:14px"&gt;(Dave)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0306818760/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0306818760&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=YEF4I6TXJH4FXW4A" style="text-decoration:none;"&gt;Why Does E=mc2? (And Why Should We Care?) by Brian Cox and Jeff Forshaw&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;span style="font-size:14px"&gt;(Dave)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://phillyemergingtech.com/" style="text-decoration:none;"&gt;Philly Emerging Tech Conference&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;span style="font-size:14px"&gt;(Dave)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">8a64e09e-5e7f-48fd-a8a9-d6995cf1c9b0</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:37 - Dave Thomas Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/pragdave" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://pragdave.me/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="https://pragprog.com/" style="text-decoration:none;"&gt;The Pragmatic Bookshelf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:17 - How Dave Got Started in Programming&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Tools and Constraints&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;An Enthusiast&amp;rsquo;s Problem&amp;rdquo;?&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Is the focus on tools a form of cargo &lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;culting&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;?&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Leadism Over Chosen Technologies and Its&amp;rsquo; Effect on Innovation &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;S&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;witching Tools and Making Excuses&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:29 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Limerence" style="text-decoration:none;"&gt;Limerence&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/0812862864/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0812862864&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=OF5YYV3LSFXVVZAI" style="text-decoration:none;"&gt;Love and Limerence: The Experience of Being in Love by Dorothy Tennov&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Irrational Interest and Defensiveness&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;28:54 - Ruby = Happiness: Does it Hurt?&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:00 - Tools and Falling in Love with Tools&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Fear of Falling Behind; Fear of Irrelevancy &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Different Tools for Different Contexts&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:08 - When Do You Learn? When Do You Train? (Not Falling Behind)&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:01 - Choosing &lt;/span&gt;&lt;em&gt;Similar&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Tools and Technologies vs Choosing &lt;/span&gt;&lt;em&gt;Different&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Tools and Technologies&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://gulpjs.com/" style="text-decoration:none;"&gt;Gulp&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="http://gruntjs.com/" style="text-decoration:none;"&gt;Grunt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; =&amp;gt; &lt;/span&gt;&lt;a href="http://browserify.org/" style="text-decoration:none;"&gt;Browserify&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Example&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/1934356050/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1934356050&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=IX6ICL6PDJIZA5QU" style="text-decoration:none;"&gt;Pragmatic Thinking and Learning: Refactor Your Wetware by Andy Hunt&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;43:36 - Relationships and Identities&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:08 - Looking Forward vs Looking Back (Knowing Your History)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Resources, Curriculum:&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/0262510871/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0262510871&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=KV3TPJEHIO23ZTPF" style="line-height: 1.6; text-decoration: none;"&gt;Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) by Harold Abelson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (SICP)&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/013476904X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=013476904X&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=YPBQDEMZKQEGAWZX" style="text-decoration:none;"&gt;Smalltalk Best Practice Patterns by Kent Beck&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.amazon.com/gp/product/0262162091/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0262162091&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=G27VD4NXKUABPRFF" style="line-height: 1.6; text-decoration: none;"&gt;Types and Programming Languages by Benjamin C. Pierce&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/The_Art_of_Computer_Programming" style="text-decoration:none;"&gt;The Art of Computer Programming by Donald Knuth&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Series)&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Communicating_sequential_processes" style="text-decoration:none;"&gt;Communicating Sequential Processes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (CSP) Brainstorming Example&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:01:48 - Is the rampant use of social media hindering the learning of big ideas?&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Self-Curation = Key&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:08:15 - How You Learn a Language / Decide You Like a Language&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.sudoku-solutions.com/" style="text-decoration:none;"&gt;Sudoku Solver&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Markdown Parser&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks &lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://slack.com/" style="text-decoration:none;"&gt;Slack&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;span style="font-size:14px"&gt;(Dave)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0306818760/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0306818760&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=YEF4I6TXJH4FXW4A" style="text-decoration:none;"&gt;Why Does E=mc2? (And Why Should We Care?) by Brian Cox and Jeff Forshaw&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &lt;span style="font-size:14px"&gt;(Dave)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://phillyemergingtech.com/" style="text-decoration:none;"&gt;Philly Emerging Tech Conference&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; &amp;nbsp;&lt;span style="font-size:14px"&gt;(Dave)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:14:39</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR204Limerence.mp3?rss=true" length="71672405" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>203 RR Design and Sketching with CSS with Sean Fioritto</title>
+      <link>http://devchat.tv/ruby-rogues/203-rr-design-and-sketching-with-css-with-sean-fioritto</link>
+      <pubDate>Wed, 15 Apr 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:29 - Sean Fioritto Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/sfioritto" style="text-decoration:none;"&gt;@sfioritto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Design and Sketching with CSS Background &amp;amp; Overview&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" style="text-decoration:none;"&gt;Cascading Style Sheets (CSS) &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Skip Using &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Move Straight to Code =&amp;gt; Get Pixels to Screen Faster&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Developer &amp;lt;&amp;gt; Designer Communication&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Tooling and Muscle Memory&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:23 - Using CSS Over &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, Alternative Programs, and Frameworks&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://bohemiancoding.com/" style="text-decoration:none;"&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.invisionapp.com/" style="text-decoration:none;"&gt;InVision&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://macaw.co/" style="text-decoration:none;"&gt;Macaw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:29 - Grid Systems and Resets (Frontend Tools)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;i.e. Grid Systems&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.thegridsystem.org/" style="text-decoration:none;"&gt;The Grid System&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.responsivegridsystem.com/" style="line-height: 1.6; text-decoration: none;"&gt;Responsive Grid System&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;CSS Resets&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://cssreset.com/what-is-a-css-reset/" style="line-height: 1.6; text-decoration: none;"&gt;What Is A CSS Reset?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://meyerweb.com/eric/tools/css/reset/" style="line-height: 1.6; text-decoration: none;"&gt;CSS Tools: Reset CSS&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;17:27 - Prototyping (Workflow)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://git-scm.com/" style="text-decoration:none;"&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:14 - Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:14 - Adopting New Practices (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Progressive_enhancement" style="text-decoration:none;"&gt;Progressive Enhancement&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;(Killer) Interactive Demo Presentations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://styletil.es/" style="text-decoration:none;"&gt;&amp;ldquo;Style Tiles&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Fluency&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.urbandictionary.com/define.php?term=pixel+pusher" style="text-decoration:none;"&gt;&amp;quot;Pixel Pushers&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;45:33 - The Modern Web Moving Forward&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:30 - Keep Up with Scott&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/" style="text-decoration:none;"&gt;The ginormous, unstoppable list of Angular resources&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Picks&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="http://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0321826620&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=5RD5L3AAWSH4TTQY" style="text-decoration:none;"&gt;NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Pramod J. Sadalage and Martin Fowler&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ondras.github.io/rot.js/hp/" style="text-decoration:none;"&gt;RoT.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://store.steampowered.com/app/346420/" style="text-decoration:none;"&gt;The Spatials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://theuserisdrunk.com" style="text-decoration:none;"&gt;The User is Drunk&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/MyHarto" style="text-decoration:none;"&gt;Drunk Kitchen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/The_Reckoners" style="text-decoration:none;"&gt;The Reckoners Series by Brandon Sanderson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://bootstrappingdesign.com/" style="text-decoration:none;"&gt;Bootstrapping Design: Roll Your Own Design by Jarrod Drysdale&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;The Ruby DSL Handbook by Jim Gay&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ryancastillo.org/7-recipes-recurring-revenue/" style="text-decoration:none;"&gt;Ryan Castillo: 7 Recurring Recipes for Consultancies&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.expeditedssl.com/" style="text-decoration:none;"&gt;ExpeditedSSL&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1607747308&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=A5I5EDBMI4JVDVDF" style="text-decoration:none;"&gt;The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing &amp;nbsp;Marie Kondo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">82e65928-f72f-48ac-9ce7-3c5b7d8da6bb</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:29 - Sean Fioritto Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/sfioritto" style="text-decoration:none;"&gt;@sfioritto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Design and Sketching with CSS Background &amp;amp; Overview&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" style="text-decoration:none;"&gt;Cascading Style Sheets (CSS) &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Skip Using &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Move Straight to Code =&amp;gt; Get Pixels to Screen Faster&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Developer &amp;lt;&amp;gt; Designer Communication&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Tooling and Muscle Memory&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:23 - Using CSS Over &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, Alternative Programs, and Frameworks&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://bohemiancoding.com/" style="text-decoration:none;"&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.invisionapp.com/" style="text-decoration:none;"&gt;InVision&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://macaw.co/" style="text-decoration:none;"&gt;Macaw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:29 - Grid Systems and Resets (Frontend Tools)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;i.e. Grid Systems&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.thegridsystem.org/" style="text-decoration:none;"&gt;The Grid System&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.responsivegridsystem.com/" style="line-height: 1.6; text-decoration: none;"&gt;Responsive Grid System&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;CSS Resets&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://cssreset.com/what-is-a-css-reset/" style="line-height: 1.6; text-decoration: none;"&gt;What Is A CSS Reset?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://meyerweb.com/eric/tools/css/reset/" style="line-height: 1.6; text-decoration: none;"&gt;CSS Tools: Reset CSS&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;17:27 - Prototyping (Workflow)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://git-scm.com/" style="text-decoration:none;"&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:14 - Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:14 - Adopting New Practices (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Progressive_enhancement" style="text-decoration:none;"&gt;Progressive Enhancement&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;(Killer) Interactive Demo Presentations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://styletil.es/" style="text-decoration:none;"&gt;&amp;ldquo;Style Tiles&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Fluency&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.urbandictionary.com/define.php?term=pixel+pusher" style="text-decoration:none;"&gt;&amp;quot;Pixel Pushers&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;45:33 - The Modern Web Moving Forward&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:30 - Keep Up with Scott&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/" style="text-decoration:none;"&gt;The ginormous, unstoppable list of Angular resources&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Picks&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="http://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0321826620&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=5RD5L3AAWSH4TTQY" style="text-decoration:none;"&gt;NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Pramod J. Sadalage and Martin Fowler&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ondras.github.io/rot.js/hp/" style="text-decoration:none;"&gt;RoT.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://store.steampowered.com/app/346420/" style="text-decoration:none;"&gt;The Spatials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://theuserisdrunk.com" style="text-decoration:none;"&gt;The User is Drunk&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/MyHarto" style="text-decoration:none;"&gt;Drunk Kitchen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/The_Reckoners" style="text-decoration:none;"&gt;The Reckoners Series by Brandon Sanderson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://bootstrappingdesign.com/" style="text-decoration:none;"&gt;Bootstrapping Design: Roll Your Own Design by Jarrod Drysdale&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;The Ruby DSL Handbook by Jim Gay&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ryancastillo.org/7-recipes-recurring-revenue/" style="text-decoration:none;"&gt;Ryan Castillo: 7 Recurring Recipes for Consultancies&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.expeditedssl.com/" style="text-decoration:none;"&gt;ExpeditedSSL&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1607747308&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=A5I5EDBMI4JVDVDF" style="text-decoration:none;"&gt;The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing &amp;nbsp;Marie Kondo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>59:57</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR203SketchingWithCSS.mp3?rss=true" length="57566524" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>202 RR The Struggles New Ruby Users Have with Jake Day Williams</title>
+      <link>http://devchat.tv/ruby-rogues/202-rr-the-struggles-new-ruby-users-have-with-jake-day-williams</link>
+      <pubDate>Wed, 08 Apr 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:16px"&gt;&lt;a href="http://www.teespring.com/aprilrogues" style="text-decoration:none;"&gt;Support our Teespring campaign!&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Get your Ruby Rogues unisex t-shirts, hoodies, ladies&amp;rsquo;-sized, and long-sleeve tees! &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:19 - Jake Day Williams Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/jakedaywilliams" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://wildacademy.co/" style="text-decoration:none;"&gt;Wild Academy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/user/JakeDayWilliams" style="text-decoration:none;"&gt;[YouTube] Wild Academy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/B00R4T8EJ4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00R4T8EJ4&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=TDTT6GGCGGHQTIHQ" style="text-decoration:none;"&gt;Learn Ruby: The Beginner Guide: An Introduction to Ruby Programming by Jake Day Williams&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/B00ULKOU1O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00ULKOU1O&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=CH4FOE4BVZJ4JDNB" style="text-decoration:none;"&gt;Learn PHP: The Beginner Guide: An Introduction to PHP Programming by Jake Day Williams&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:48 - What Do New People Struggle With?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:59 - Teaching While Learning and Video Tutorials vs In-Person Training&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Resources:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.lynda.com/" style="line-height: 1.6; text-decoration: none;"&gt;Lynda&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.skilledup.com/articles/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/" style="line-height: 1.6; text-decoration: none;"&gt;The Ultimate Guide to Coding Bootcamps: The Exhaustive List&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Being a &amp;ldquo;Self-Starter&amp;rdquo; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=CS9mDPLV25A" style="text-decoration:none;"&gt;The EntreProgrammers Episode 51: Ship &amp;#39;em Pears with Jake Day Williams&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Work the system that &lt;/span&gt;&lt;em&gt;does&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; exist, not the system we &lt;/span&gt;&lt;em&gt;wish&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; exists.&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://en.wikipedia.org/wiki/Impostor_syndrome" style="text-decoration:none;"&gt;Impostor Syndrome&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devchat.tv/rails-clips" style="text-decoration:none;"&gt;RailsClips&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devchat.tv/kickstarter" style="line-height: 1.6; text-decoration: none;"&gt;RailsClips Kickstarter Campaign&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1400075998&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=AFSFPBF5OEW7WLJZ" style="line-height: 1.6; text-decoration: none;"&gt;Turing&amp;#39;s Cathedral: The Origins of the Digital Universe by George Dyson&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.ias.edu/" style="text-decoration:none;"&gt;Institute for Advanced Study (IAS)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.blenderguru.com/" style="line-height: 1.6; text-decoration: none;"&gt;Blender Guru&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;: &lt;/span&gt;&lt;a href="https://twitter.com/andrewpprice" style="line-height: 1.6; text-decoration: none;"&gt;Andrew Price&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:59 - Responsibility&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;As Teachers&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.npr.org/blogs/money/2012/01/31/146152273/the-tuesday-podcast-the-app-economy" style="text-decoration:none;"&gt;Planet Money Podcast: The App Economy with Marco Arment of Instapaper&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Gauging Your Own Success&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Digital Content (Updating)&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://railstutorial.org" style="text-decoration:none;"&gt;Ruby on Rails Tutorial: Learn Web Development with Rails by Michael Hartl&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:05 - Feedback&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Trolling and Criticism (Niceness vs Directness)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://vimeo.com/21981264" style="text-decoration:none;"&gt;David Brady: Ruby Hashes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://vimeo.com/22041207" style="text-decoration:none;"&gt;David Brady: Associative Arrays with James Edward Gray II&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Example&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.jobreplacementguide.com/" style="text-decoration:none;"&gt;The Job Replacement Guide by David Brady&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:22 - Leveling Up and Monetizing Content&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;MPP&amp;rdquo; (Multiple Payout Potential)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Ethics and Morals&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Long-term Sustainability&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:26 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Impostor_syndrome" style="text-decoration:none;"&gt;Impostor Syndrome&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" style="text-decoration:none;"&gt;The Dunning&amp;ndash;Kruger Effect&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://the-pastry-box-project.net/lara-hogan/2015-march-18" style="text-decoration:none;"&gt;Lara Hogan: On having a totally reasonable amount of self-confidence&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:42 - Is the Ruby Community Beginner-Friendly?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;thoughtbot&amp;#39;s &lt;/span&gt;&lt;a href="https://robots.thoughtbot.com/" style="text-decoration:none;"&gt;Giant Robots Smashing into Other Giant Robots&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Podcast&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://5by5.tv/rubyonrails/148" style="text-decoration:none;"&gt;The Ruby on Rails Podcast: 148: Chad Pytel of thoughtbot discusses @dhh&amp;#39;s RailsConf 2014 keynote (and more)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:50 - Content Production: Is it a barrier to entry?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/0874771641/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0874771641&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=RBPQBTUXB7LG46LI" style="text-decoration:none;"&gt;Becoming a Writer by Dorothea Brande&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://youarenotsosmart.com/2013/05/23/survivorship-bias/" style="text-decoration:none;"&gt;Survivorship Bias&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://blog.fogcreek.com/10x-programmer-and-other-myths-in-software-engineering-interview-with-laurent-bossavit/" style="text-decoration:none;"&gt;Laurent Bossavit: 10X Programmer and other Myths in Software Engineering&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rachelnabors.com/2015/03/13/the-hating-game/" style="text-decoration:none;"&gt;Rachel Nabors: The Hating Game&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1853757829/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1853757829&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=V3PSOTYS7KFPECPR" style="text-decoration:none;"&gt;How to Poo on a Date: The Lovers&amp;#39; Guide to Toilet Etiquette by Mats&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0452297664/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0452297664&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=NJI73UUCOXYV63S3" style="text-decoration:none;"&gt;How to Poo at Work by Mats&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1853758116/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1853758116&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=TMWKYX2BCS5M45BE" style="text-decoration:none;"&gt;How to Poo on Holiday by Mats&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0385743572&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=UQBFENF72U6RVTSB" style="text-decoration:none;"&gt;Steelheart (The Reckoners) by Brandon Sanderson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://gitter.im/" style="text-decoration:none;"&gt;Gitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://entreprogrammers.com/" style="text-decoration:none;"&gt;The Entreprogrammers Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jake)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1400082471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1400082471&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=VK535K7XVFSIEHBD" style="text-decoration:none;"&gt;Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software by Scott Rosenberg&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jake)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech" style="text-decoration:none;"&gt;Laura Sydell: The Forgotten Female Programmers Who Created Modern Tech&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jake)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">e648fe92-1617-4e54-8e8f-51de0e4acf70</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:16px"&gt;&lt;a href="http://www.teespring.com/aprilrogues" style="text-decoration:none;"&gt;Support our Teespring campaign!&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Get your Ruby Rogues unisex t-shirts, hoodies, ladies&amp;rsquo;-sized, and long-sleeve tees! &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:19 - Jake Day Williams Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/jakedaywilliams" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://wildacademy.co/" style="text-decoration:none;"&gt;Wild Academy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/user/JakeDayWilliams" style="text-decoration:none;"&gt;[YouTube] Wild Academy&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/B00R4T8EJ4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00R4T8EJ4&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=TDTT6GGCGGHQTIHQ" style="text-decoration:none;"&gt;Learn Ruby: The Beginner Guide: An Introduction to Ruby Programming by Jake Day Williams&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/B00ULKOU1O/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00ULKOU1O&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=CH4FOE4BVZJ4JDNB" style="text-decoration:none;"&gt;Learn PHP: The Beginner Guide: An Introduction to PHP Programming by Jake Day Williams&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:48 - What Do New People Struggle With?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:59 - Teaching While Learning and Video Tutorials vs In-Person Training&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Resources:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.lynda.com/" style="line-height: 1.6; text-decoration: none;"&gt;Lynda&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.skilledup.com/articles/the-ultimate-guide-to-coding-bootcamps-the-exhaustive-list/" style="line-height: 1.6; text-decoration: none;"&gt;The Ultimate Guide to Coding Bootcamps: The Exhaustive List&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Being a &amp;ldquo;Self-Starter&amp;rdquo; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=CS9mDPLV25A" style="text-decoration:none;"&gt;The EntreProgrammers Episode 51: Ship &amp;#39;em Pears with Jake Day Williams&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Work the system that &lt;/span&gt;&lt;em&gt;does&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; exist, not the system we &lt;/span&gt;&lt;em&gt;wish&lt;/em&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; exists.&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://en.wikipedia.org/wiki/Impostor_syndrome" style="text-decoration:none;"&gt;Impostor Syndrome&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devchat.tv/rails-clips" style="text-decoration:none;"&gt;RailsClips&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devchat.tv/kickstarter" style="line-height: 1.6; text-decoration: none;"&gt;RailsClips Kickstarter Campaign&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1400075998/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1400075998&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=AFSFPBF5OEW7WLJZ" style="line-height: 1.6; text-decoration: none;"&gt;Turing&amp;#39;s Cathedral: The Origins of the Digital Universe by George Dyson&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.ias.edu/" style="text-decoration:none;"&gt;Institute for Advanced Study (IAS)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.blenderguru.com/" style="line-height: 1.6; text-decoration: none;"&gt;Blender Guru&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;: &lt;/span&gt;&lt;a href="https://twitter.com/andrewpprice" style="line-height: 1.6; text-decoration: none;"&gt;Andrew Price&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:59 - Responsibility&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;As Teachers&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.npr.org/blogs/money/2012/01/31/146152273/the-tuesday-podcast-the-app-economy" style="text-decoration:none;"&gt;Planet Money Podcast: The App Economy with Marco Arment of Instapaper&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Gauging Your Own Success&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Digital Content (Updating)&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://railstutorial.org" style="text-decoration:none;"&gt;Ruby on Rails Tutorial: Learn Web Development with Rails by Michael Hartl&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:05 - Feedback&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Trolling and Criticism (Niceness vs Directness)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://vimeo.com/21981264" style="text-decoration:none;"&gt;David Brady: Ruby Hashes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="https://vimeo.com/22041207" style="text-decoration:none;"&gt;David Brady: Associative Arrays with James Edward Gray II&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Example&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.jobreplacementguide.com/" style="text-decoration:none;"&gt;The Job Replacement Guide by David Brady&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:22 - Leveling Up and Monetizing Content&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;MPP&amp;rdquo; (Multiple Payout Potential)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Ethics and Morals&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Long-term Sustainability&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;33:26 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Impostor_syndrome" style="text-decoration:none;"&gt;Impostor Syndrome&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect" style="text-decoration:none;"&gt;The Dunning&amp;ndash;Kruger Effect&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://the-pastry-box-project.net/lara-hogan/2015-march-18" style="text-decoration:none;"&gt;Lara Hogan: On having a totally reasonable amount of self-confidence&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:42 - Is the Ruby Community Beginner-Friendly?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;thoughtbot&amp;#39;s &lt;/span&gt;&lt;a href="https://robots.thoughtbot.com/" style="text-decoration:none;"&gt;Giant Robots Smashing into Other Giant Robots&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Podcast&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://5by5.tv/rubyonrails/148" style="text-decoration:none;"&gt;The Ruby on Rails Podcast: 148: Chad Pytel of thoughtbot discusses @dhh&amp;#39;s RailsConf 2014 keynote (and more)&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:50 - Content Production: Is it a barrier to entry?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/0874771641/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0874771641&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=RBPQBTUXB7LG46LI" style="text-decoration:none;"&gt;Becoming a Writer by Dorothea Brande&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://youarenotsosmart.com/2013/05/23/survivorship-bias/" style="text-decoration:none;"&gt;Survivorship Bias&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://blog.fogcreek.com/10x-programmer-and-other-myths-in-software-engineering-interview-with-laurent-bossavit/" style="text-decoration:none;"&gt;Laurent Bossavit: 10X Programmer and other Myths in Software Engineering&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://rachelnabors.com/2015/03/13/the-hating-game/" style="text-decoration:none;"&gt;Rachel Nabors: The Hating Game&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1853757829/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1853757829&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=V3PSOTYS7KFPECPR" style="text-decoration:none;"&gt;How to Poo on a Date: The Lovers&amp;#39; Guide to Toilet Etiquette by Mats&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0452297664/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0452297664&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=NJI73UUCOXYV63S3" style="text-decoration:none;"&gt;How to Poo at Work by Mats&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1853758116/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1853758116&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=TMWKYX2BCS5M45BE" style="text-decoration:none;"&gt;How to Poo on Holiday by Mats&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0385743572/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0385743572&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=UQBFENF72U6RVTSB" style="text-decoration:none;"&gt;Steelheart (The Reckoners) by Brandon Sanderson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://gitter.im/" style="text-decoration:none;"&gt;Gitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://entreprogrammers.com/" style="text-decoration:none;"&gt;The Entreprogrammers Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jake)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1400082471/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1400082471&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=VK535K7XVFSIEHBD" style="text-decoration:none;"&gt;Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software by Scott Rosenberg&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jake)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.npr.org/blogs/alltechconsidered/2014/10/06/345799830/the-forgotten-female-programmers-who-created-modern-tech" style="text-decoration:none;"&gt;Laura Sydell: The Forgotten Female Programmers Who Created Modern Tech&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jake)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>58:47</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/www.podtrac.com/pts/redirect.mp3/www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR202NewDevStruggles.mp3?rss=true " length="56433859" type="audio/mpeg"/>
+    </item>
+<item>
       <title>201 RR Game Development with Andrea Magnorsky</title>
       <link>http://devchat.tv/ruby-rogues/201-rr-game-development-with-andrea-magnorsky</link>
       <pubDate>Wed, 01 Apr 2015 07:00:00 -0600</pubDate>

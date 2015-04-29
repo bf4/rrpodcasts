@@ -678,3 +678,12 @@
 - :feed_number: 260
   :title: 201 RR Game Development with Andrea Magnorsky
   :enclosure: RR201GameDev.mp3?rss=true
+- :feed_number: 261
+  :title: 202 RR The Struggles New Ruby Users Have with Jake Day Williams
+  :enclosure: 'RR202NewDevStruggles.mp3?rss=true '
+- :feed_number: 262
+  :title: 203 RR Design and Sketching with CSS with Sean Fioritto
+  :enclosure: RR203SketchingWithCSS.mp3?rss=true
+- :feed_number: 263
+  :title: 204 RR Limerence with Dave Thomas
+  :enclosure: RR204Limerence.mp3?rss=true

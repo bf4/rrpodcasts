@@ -1,0 +1,200 @@
+<item>
+      <title>203 RR Design and Sketching with CSS with Sean Fioritto</title>
+      <link>http://devchat.tv/ruby-rogues/203-rr-design-and-sketching-with-css-with-sean-fioritto</link>
+      <pubDate>Wed, 15 Apr 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:29 - Sean Fioritto Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/sfioritto" style="text-decoration:none;"&gt;@sfioritto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Design and Sketching with CSS Background &amp;amp; Overview&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" style="text-decoration:none;"&gt;Cascading Style Sheets (CSS) &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Skip Using &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Move Straight to Code =&amp;gt; Get Pixels to Screen Faster&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Developer &amp;lt;&amp;gt; Designer Communication&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Tooling and Muscle Memory&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:23 - Using CSS Over &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, Alternative Programs, and Frameworks&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://bohemiancoding.com/" style="text-decoration:none;"&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.invisionapp.com/" style="text-decoration:none;"&gt;InVision&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://macaw.co/" style="text-decoration:none;"&gt;Macaw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:29 - Grid Systems and Resets (Frontend Tools)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;i.e. Grid Systems&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.thegridsystem.org/" style="text-decoration:none;"&gt;The Grid System&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.responsivegridsystem.com/" style="line-height: 1.6; text-decoration: none;"&gt;Responsive Grid System&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;CSS Resets&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://cssreset.com/what-is-a-css-reset/" style="line-height: 1.6; text-decoration: none;"&gt;What Is A CSS Reset?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://meyerweb.com/eric/tools/css/reset/" style="line-height: 1.6; text-decoration: none;"&gt;CSS Tools: Reset CSS&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;17:27 - Prototyping (Workflow)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://git-scm.com/" style="text-decoration:none;"&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:14 - Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:14 - Adopting New Practices (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Progressive_enhancement" style="text-decoration:none;"&gt;Progressive Enhancement&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;(Killer) Interactive Demo Presentations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://styletil.es/" style="text-decoration:none;"&gt;&amp;ldquo;Style Tiles&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Fluency&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.urbandictionary.com/define.php?term=pixel+pusher" style="text-decoration:none;"&gt;&amp;quot;Pixel Pushers&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;45:33 - The Modern Web Moving Forward&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:30 - Keep Up with Scott&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/" style="text-decoration:none;"&gt;The ginormous, unstoppable list of Angular resources&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Picks&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="http://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0321826620&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=5RD5L3AAWSH4TTQY" style="text-decoration:none;"&gt;NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Pramod J. Sadalage and Martin Fowler&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ondras.github.io/rot.js/hp/" style="text-decoration:none;"&gt;RoT.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://store.steampowered.com/app/346420/" style="text-decoration:none;"&gt;The Spatials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://theuserisdrunk.com" style="text-decoration:none;"&gt;The User is Drunk&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/MyHarto" style="text-decoration:none;"&gt;Drunk Kitchen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/The_Reckoners" style="text-decoration:none;"&gt;The Reckoners Series by Brandon Sanderson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://bootstrappingdesign.com/" style="text-decoration:none;"&gt;Bootstrapping Design: Roll Your Own Design by Jarrod Drysdale&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;The Ruby DSL Handbook by Jim Gay&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ryancastillo.org/7-recipes-recurring-revenue/" style="text-decoration:none;"&gt;Ryan Castillo: 7 Recurring Recipes for Consultancies&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.expeditedssl.com/" style="text-decoration:none;"&gt;ExpeditedSSL&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1607747308&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=A5I5EDBMI4JVDVDF" style="text-decoration:none;"&gt;The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing &amp;nbsp;Marie Kondo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">82e65928-f72f-48ac-9ce7-3c5b7d8da6bb</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:29 - Sean Fioritto Introduction&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="https://twitter.com/sfioritto" style="text-decoration:none;"&gt;@sfioritto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Design and Sketching with CSS Background &amp;amp; Overview&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Cascading_Style_Sheets" style="text-decoration:none;"&gt;Cascading Style Sheets (CSS) &lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Skip Using &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;; Move Straight to Code =&amp;gt; Get Pixels to Screen Faster&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:34 - Developer &amp;lt;&amp;gt; Designer Communication&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Tooling and Muscle Memory&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:23 - Using CSS Over &lt;/span&gt;&lt;a href="http://www.photoshop.com/" style="text-decoration:none;"&gt;Photoshop&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, Alternative Programs, and Frameworks&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://bohemiancoding.com/" style="text-decoration:none;"&gt;Sketch&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.invisionapp.com/" style="text-decoration:none;"&gt;InVision&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://macaw.co/" style="text-decoration:none;"&gt;Macaw&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:29 - Grid Systems and Resets (Frontend Tools)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;i.e. Grid Systems&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.thegridsystem.org/" style="text-decoration:none;"&gt;The Grid System&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://www.responsivegridsystem.com/" style="line-height: 1.6; text-decoration: none;"&gt;Responsive Grid System&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;CSS Resets&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://cssreset.com/what-is-a-css-reset/" style="line-height: 1.6; text-decoration: none;"&gt;What Is A CSS Reset?&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href="http://meyerweb.com/eric/tools/css/reset/" style="line-height: 1.6; text-decoration: none;"&gt;CSS Tools: Reset CSS&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;17:27 - Prototyping (Workflow)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://git-scm.com/" style="text-decoration:none;"&gt;Git&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:14 - Documentation&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;26:14 - Adopting New Practices (&lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Progressive_enhancement" style="text-decoration:none;"&gt;Progressive Enhancement&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;(Killer) Interactive Demo Presentations&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://styletil.es/" style="text-decoration:none;"&gt;&amp;ldquo;Style Tiles&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Fluency&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.urbandictionary.com/define.php?term=pixel+pusher" style="text-decoration:none;"&gt;&amp;quot;Pixel Pushers&amp;quot;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;45:33 - The Modern Web Moving Forward&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;47:30 - Keep Up with Scott&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;a href="http://www.sketchingwithcss.com/" style="text-decoration:none;"&gt;Sketching with CSS by Sean Fioritto&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href="http://www.planningforaliens.com/" style="text-decoration:none;"&gt;planning for aliens&lt;/a&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;a href="http://www.planningforaliens.com/angular/ginormous-unstoppable-angular-resource-list/" style="text-decoration:none;"&gt;The ginormous, unstoppable list of Angular resources&lt;/a&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Picks&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="http://www.amazon.com/gp/product/0321826620/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0321826620&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=5RD5L3AAWSH4TTQY" style="text-decoration:none;"&gt;NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence by Pramod J. Sadalage and Martin Fowler&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ondras.github.io/rot.js/hp/" style="text-decoration:none;"&gt;RoT.js&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://store.steampowered.com/app/346420/" style="text-decoration:none;"&gt;The Spatials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://theuserisdrunk.com" style="text-decoration:none;"&gt;The User is Drunk&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/MyHarto" style="text-decoration:none;"&gt;Drunk Kitchen&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://en.wikipedia.org/wiki/The_Reckoners" style="text-decoration:none;"&gt;The Reckoners Series by Brandon Sanderson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://bootstrappingdesign.com/" style="text-decoration:none;"&gt;Bootstrapping Design: Roll Your Own Design by Jarrod Drysdale&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://clean-ruby.com/dsl" style="text-decoration:none;"&gt;The Ruby DSL Handbook by Jim Gay&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ryancastillo.org/7-recipes-recurring-revenue/" style="text-decoration:none;"&gt;Ryan Castillo: 7 Recurring Recipes for Consultancies&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.expeditedssl.com/" style="text-decoration:none;"&gt;ExpeditedSSL&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/1607747308/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1607747308&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=A5I5EDBMI4JVDVDF" style="text-decoration:none;"&gt;The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing &amp;nbsp;Marie Kondo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt; (Sean)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>59:57</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR203SketchingWithCSS.mp3?rss=true" length="57566524" type="audio/mpeg"/>
+    </item>
