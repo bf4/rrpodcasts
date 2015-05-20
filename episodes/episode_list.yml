@@ -687,3 +687,12 @@
 - :feed_number: 263
   :title: 204 RR Limerence with Dave Thomas
   :enclosure: RR204Limerence.mp3?rss=true
+- :feed_number: 264
+  :title: 205 RR Eight Years of Ruby and Rails with Piotr Solnica
+  :enclosure: RR205EightYears.mp3?rss=true
+- :feed_number: 265
+  :title: 206 RR Trailblazer with Nick Sutterer
+  :enclosure: RR206Trailblazer.mp3?rss=true
+- :feed_number: 266
+  :title: 207 RR Rebuilding Rails with Noah Gibbs
+  :enclosure: RR207RebuildingRails.mp3?rss=true
