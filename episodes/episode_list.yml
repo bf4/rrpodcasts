@@ -696,3 +696,18 @@
 - :feed_number: 266
   :title: 207 RR Rebuilding Rails with Noah Gibbs
   :enclosure: RR207RebuildingRails.mp3?rss=true
+- :feed_number: 267
+  :title: 208 RR Erlang with Francesco Cesarini
+  :enclosure: RR208Erlang.mp3?rss=true
+- :feed_number: 268
+  :title: 209 RR Robots and IoT with Julian Cheal
+  :enclosure: RR209RobotsandIoT.mp3?rss=true
+- :feed_number: 269
+  :title: 210 RR Roda and Routing Trees with Jeremy Evans
+  :enclosure: RR210RodaRoutingTrees.mp3?rss=true
+- :feed_number: 270
+  :title: 211 RR DCI with Jim Gay
+  :enclosure: RR211DCI.mp3?rss=true
+- :feed_number: 271
+  :title: 212 RR Elm with Richard Feldman and Evan Czaplicki
+  :enclosure: RR212Elm.mp3?rss=true

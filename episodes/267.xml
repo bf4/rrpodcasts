@@ -1,0 +1,420 @@
+<item>
+      <title>208 RR Erlang with Francesco Cesarini</title>
+      <link>http://devchat.tv/ruby-rogues/208-rr-erlang-with-francesco-cesarini</link>
+      <pubDate>Wed, 20 May 2015 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out and sign up for &lt;/span&gt;&lt;a href="https://rubyremoteconf.com/"&gt;Ruby Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:45 - Francesco Cesarini Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/francescoc" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/francescoc" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/" style="text-decoration:none;"&gt;Erlang Solutions&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Books:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/9780596518189.do" style="text-decoration:none;"&gt;Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/0636920020240.do" style="text-decoration:none;"&gt;Larger Cover Erlang By Example by Francesco Cesarini and Simon Thompson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/0636920024149.do" style="line-height: 1.6; text-decoration: none;"&gt;Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:08 - &lt;/span&gt;&lt;a href="http://www.erlang.org/" style="text-decoration:none;"&gt;Erlang Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Multicore &lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://stackoverflow.com/questions/7005759/erlang-on-multicore-cpu" style="text-decoration:none;"&gt;[Stack Overflow] paralellel processing - Erlang on multicore CPU&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;History&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.ericsson.se/" style="text-decoration:none;"&gt;Ericsson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang.se/" style="text-decoration:none;"&gt;Home of Erlang/OTP&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:23 - Francesco and Erlang&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/joeerl" style="text-decoration:none;"&gt;Joe Armstrong&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://joearms.github.io/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:49 - Building a Company Around a Language (&lt;/span&gt;&lt;a href="https://www.erlang-solutions.com/" style="text-decoration:none;"&gt;Erlang Solutions&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Products:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform" style="line-height: 1.6; text-decoration: none;"&gt;MongooseIM&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/products/wombat" style="line-height: 1.6; text-decoration: none;"&gt;WombatOAM&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/products/riak-nosql-database" style="text-decoration:none;"&gt;Riak NoSQL Database&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Events:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang-factory.com/euc2015/#home" style="line-height: 1.6; text-decoration: none;"&gt;Erlang User Conference&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang-factory.com/" style="text-decoration:none;"&gt;Erlang Factory&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.codemesh.io/" style="line-height: 1.6; text-decoration: none;"&gt;Code Mesh&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Projects:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;T-Mobile SMS Gateway&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Instant Messaging Gateway (2008-2009)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Preemptive Support, Monitoring, Metrics &amp;amp; Alarming (&lt;/span&gt;&lt;a href="https://www.erlang-solutions.com/products/wombat" style="text-decoration:none;"&gt;WombatOAM&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:00 - &lt;/span&gt;&lt;a href="http://www.erlang.org/" style="text-decoration:none;"&gt;The Erlang Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/" style="text-decoration:none;"&gt;Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://pharo.org/" style="text-decoration:none;"&gt;Pharo by Example&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;The Concurrency Model&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Debugging&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Live Code Upgrade&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://en.wikipedia.org/wiki/Smalltalk" style="text-decoration:none;"&gt;Smalltalk&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;The Elixir Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://en.wikipedia.org/wiki/Open_Telecom_Platform" style="line-height: 1.6; text-decoration: none;"&gt;OTP (Open Telecom Platform)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:25 - Error Handling Semantics&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Actors and Supervisors&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;The Client-Server Behavior&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;The Event Handler&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Finite State Machines&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:23 - Getting Started with Erlang&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Resources:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/jaerlang/programming-erlang" style="text-decoration:none;"&gt;Programming Erlang: Software for a Concurrent World by Joe Armstrong&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://moodle.kent.ac.uk/external/course/view.php?id=237" style="text-decoration:none;"&gt;Functional Programming with Erlang&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Erlang &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Massive_open_online_course" style="text-decoration:none;"&gt;MOOC&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://learnyousomeerlang.com/content" style="text-decoration:none;"&gt;Learn You Some Erlang&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/0636920024149.do" style="text-decoration:none;"&gt;Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/9780596518189.do" style="text-decoration:none;"&gt;Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Major Hurdles to Learning Erlang:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Understanding Tail Recursion and Pattern Matching&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Concurrency&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Error Handling&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:23 - &lt;/span&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:28 - Erlang and Polyglot Architecture&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.rabbitmq.com/" style="text-decoration:none;"&gt;RabbitMQ&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:01 - &lt;/span&gt;&lt;a href="https://www.erlang-solutions.com/products/wombat" style="text-decoration:none;"&gt;WombatOAM&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:57 - Erlang Pros and Cons&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Cons:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Number Crunching&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Parallelism&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Graphics, Web Development, and Frontends&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Pros:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;REST APIs&lt;/span&gt;&lt;/span&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://github.com/basho/webmachine" style="text-decoration:none;"&gt;webmachine&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="https://github.com/ninenines/cowboy" style="text-decoration:none;"&gt;cowboy&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:44 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Test-driven_development" style="text-decoration:none;"&gt;TDD (Test-Driven Development)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang.org/doc/man/common_test.html" style="text-decoration:none;"&gt;common_test&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/richcarl/eunit" style="text-decoration:none;"&gt;EUnit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.quviq.com/products/erlang-quickcheck/" style="text-decoration:none;"&gt;QuickCheck&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang.org/doc/man/mnesia.html" style="text-decoration:none;"&gt;mnesia&lt;/a&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Shrinking&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:10 - Languages/Technologies on the Horizon (for Francesco)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Large-Scale Distributed Computing&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.flowforwarding.org/" style="text-decoration:none;"&gt;FlowForwarding&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/FlowForwarding/" style="text-decoration:none;"&gt;[GitHub] FlowForwarding&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:21 - The Erlang Community&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://erlang.org/mailman/listinfo" style="text-decoration:none;"&gt;The Erlang Mailing List&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://erlangcentral.org/" style="text-decoration:none;"&gt;Erlang Central&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:24 - Writing Apps with Erlang / IoT?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devblog.avdi.org/2015/05/08/a-personal-programming-language-roadmap/" style="text-decoration:none;"&gt;Avdi Grimm: A Personal Programming Language Roadmap&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://pharo.org/" style="text-decoration:none;"&gt;Pharo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/" style="text-decoration:none;"&gt;Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0375706690/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0375706690&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=MWQUHC65F2ARUNLP" style="text-decoration:none;"&gt;Babel-17 / Empire Star by Samuel R. Delany&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.tcm.com/this-month/article/1083885%7C0/Orson-Welles-Fridays-in-May.html" style="text-decoration:none;"&gt;Orson Welles&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://vimeo.com/112812515" style="text-decoration:none;"&gt;John Hughes: QuickCheck Evolution @ CodeMesh 2014&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0262521121/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0262521121&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=O6ZYVOI2MTPAUEPZ" style="text-decoration:none;"&gt;Vehicles: Experiments in Synthetic Psychology by Valentino Braitenberg&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://zerotoonebook.com/" style="text-decoration:none;"&gt;Zero to One: Notes On Startups, or How to Build the Future by Peter Thiel&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Francesco)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.codenewbie.org/podcast" style="text-decoration:none;"&gt;CodeNewbie Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.npr.org/programs/ask-me-another/" style="text-decoration:none;"&gt;Ask Me Another&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.startupsfortherestofus.com/" style="text-decoration:none;"&gt;Startups For the Rest of Us&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Chuck)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">39586cd5-4c26-4a89-821c-2ffc647c0494</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out and sign up for &lt;/span&gt;&lt;a href="https://rubyremoteconf.com/"&gt;Ruby Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:45 - Francesco Cesarini Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/francescoc" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/francescoc" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/" style="text-decoration:none;"&gt;Erlang Solutions&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Books:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/9780596518189.do" style="text-decoration:none;"&gt;Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/0636920020240.do" style="text-decoration:none;"&gt;Larger Cover Erlang By Example by Francesco Cesarini and Simon Thompson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/0636920024149.do" style="line-height: 1.6; text-decoration: none;"&gt;Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:08 - &lt;/span&gt;&lt;a href="http://www.erlang.org/" style="text-decoration:none;"&gt;Erlang Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Multicore &lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://stackoverflow.com/questions/7005759/erlang-on-multicore-cpu" style="text-decoration:none;"&gt;[Stack Overflow] paralellel processing - Erlang on multicore CPU&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;History&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.ericsson.se/" style="text-decoration:none;"&gt;Ericsson&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang.se/" style="text-decoration:none;"&gt;Home of Erlang/OTP&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:23 - Francesco and Erlang&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/joeerl" style="text-decoration:none;"&gt;Joe Armstrong&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://joearms.github.io/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:49 - Building a Company Around a Language (&lt;/span&gt;&lt;a href="https://www.erlang-solutions.com/" style="text-decoration:none;"&gt;Erlang Solutions&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Products:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/products/mongooseim-massively-scalable-ejabberd-platform" style="line-height: 1.6; text-decoration: none;"&gt;MongooseIM&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/products/wombat" style="line-height: 1.6; text-decoration: none;"&gt;WombatOAM&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang-solutions.com/products/riak-nosql-database" style="text-decoration:none;"&gt;Riak NoSQL Database&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Events:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang-factory.com/euc2015/#home" style="line-height: 1.6; text-decoration: none;"&gt;Erlang User Conference&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang-factory.com/" style="text-decoration:none;"&gt;Erlang Factory&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.codemesh.io/" style="line-height: 1.6; text-decoration: none;"&gt;Code Mesh&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Projects:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;T-Mobile SMS Gateway&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Instant Messaging Gateway (2008-2009)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Preemptive Support, Monitoring, Metrics &amp;amp; Alarming (&lt;/span&gt;&lt;a href="https://www.erlang-solutions.com/products/wombat" style="text-decoration:none;"&gt;WombatOAM&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:00 - &lt;/span&gt;&lt;a href="http://www.erlang.org/" style="text-decoration:none;"&gt;The Erlang Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/" style="text-decoration:none;"&gt;Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://pharo.org/" style="text-decoration:none;"&gt;Pharo by Example&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;The Concurrency Model&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Debugging&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Live Code Upgrade&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://en.wikipedia.org/wiki/Smalltalk" style="text-decoration:none;"&gt;Smalltalk&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;The Elixir Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://en.wikipedia.org/wiki/Open_Telecom_Platform" style="line-height: 1.6; text-decoration: none;"&gt;OTP (Open Telecom Platform)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;24:25 - Error Handling Semantics&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Actors and Supervisors&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;The Client-Server Behavior&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;The Event Handler&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Finite State Machines&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:23 - Getting Started with Erlang&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Resources:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/jaerlang/programming-erlang" style="text-decoration:none;"&gt;Programming Erlang: Software for a Concurrent World by Joe Armstrong&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://moodle.kent.ac.uk/external/course/view.php?id=237" style="text-decoration:none;"&gt;Functional Programming with Erlang&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Erlang &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Massive_open_online_course" style="text-decoration:none;"&gt;MOOC&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://learnyousomeerlang.com/content" style="text-decoration:none;"&gt;Learn You Some Erlang&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/0636920024149.do" style="text-decoration:none;"&gt;Designing for Scalability with Erlang/OTP: Implementing Robust, Fault-Tolerant Systems by Francesco Cesarini and Steve Vinoski&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://shop.oreilly.com/product/9780596518189.do" style="text-decoration:none;"&gt;Erlang Programming: A Concurrent Approach to Software Development by Francesco Cesarini and Simon Thompson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Major Hurdles to Learning Erlang:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Understanding Tail Recursion and Pattern Matching&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Concurrency&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Error Handling&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:23 - &lt;/span&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:28 - Erlang and Polyglot Architecture&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.rabbitmq.com/" style="text-decoration:none;"&gt;RabbitMQ&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:01 - &lt;/span&gt;&lt;a href="https://www.erlang-solutions.com/products/wombat" style="text-decoration:none;"&gt;WombatOAM&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:57 - Erlang Pros and Cons&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Cons:&lt;/span&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Number Crunching&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Parallelism&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Graphics, Web Development, and Frontends&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Pros:&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;REST APIs&lt;/span&gt;&lt;/span&gt;
+		&lt;ul&gt;
+			&lt;li&gt;&lt;a href="https://github.com/basho/webmachine" style="text-decoration:none;"&gt;webmachine&lt;/a&gt;&lt;/li&gt;
+			&lt;li&gt;&lt;a href="https://github.com/ninenines/cowboy" style="text-decoration:none;"&gt;cowboy&lt;/a&gt;&lt;/li&gt;
+		&lt;/ul&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:44 - &lt;/span&gt;&lt;a href="http://en.wikipedia.org/wiki/Test-driven_development" style="text-decoration:none;"&gt;TDD (Test-Driven Development)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang.org/doc/man/common_test.html" style="text-decoration:none;"&gt;common_test&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/richcarl/eunit" style="text-decoration:none;"&gt;EUnit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.quviq.com/products/erlang-quickcheck/" style="text-decoration:none;"&gt;QuickCheck&lt;/a&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.erlang.org/doc/man/mnesia.html" style="text-decoration:none;"&gt;mnesia&lt;/a&gt; &lt;/span&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Shrinking&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:10 - Languages/Technologies on the Horizon (for Francesco)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Large-Scale Distributed Computing&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.flowforwarding.org/" style="text-decoration:none;"&gt;FlowForwarding&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/FlowForwarding/" style="text-decoration:none;"&gt;[GitHub] FlowForwarding&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:21 - The Erlang Community&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://erlang.org/mailman/listinfo" style="text-decoration:none;"&gt;The Erlang Mailing List&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://erlangcentral.org/" style="text-decoration:none;"&gt;Erlang Central&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:24 - Writing Apps with Erlang / IoT?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://devblog.avdi.org/2015/05/08/a-personal-programming-language-roadmap/" style="text-decoration:none;"&gt;Avdi Grimm: A Personal Programming Language Roadmap&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://pharo.org/" style="text-decoration:none;"&gt;Pharo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/" style="text-decoration:none;"&gt;Avdi Grimm: In Which I Make You Hate Ruby in 7 Minutes&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0375706690/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0375706690&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=MWQUHC65F2ARUNLP" style="text-decoration:none;"&gt;Babel-17 / Empire Star by Samuel R. Delany&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.tcm.com/this-month/article/1083885%7C0/Orson-Welles-Fridays-in-May.html" style="text-decoration:none;"&gt;Orson Welles&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://vimeo.com/112812515" style="text-decoration:none;"&gt;John Hughes: QuickCheck Evolution @ CodeMesh 2014&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/0262521121/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0262521121&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=O6ZYVOI2MTPAUEPZ" style="text-decoration:none;"&gt;Vehicles: Experiments in Synthetic Psychology by Valentino Braitenberg&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://zerotoonebook.com/" style="text-decoration:none;"&gt;Zero to One: Notes On Startups, or How to Build the Future by Peter Thiel&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Francesco)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.codenewbie.org/podcast" style="text-decoration:none;"&gt;CodeNewbie Podcast&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.npr.org/programs/ask-me-another/" style="text-decoration:none;"&gt;Ask Me Another&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.startupsfortherestofus.com/" style="text-decoration:none;"&gt;Startups For the Rest of Us&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:15px"&gt;Chuck)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:02:06</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR208Erlang.mp3?rss=true" length="59626627" type="audio/mpeg"/>
+    </item>
