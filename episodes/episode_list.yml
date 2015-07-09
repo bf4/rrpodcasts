@@ -718,3 +718,6 @@
 - :feed_number: 273
   :title: 214 RR Ruby in a Polyglot Architecture at Ruby Remote Conf 2015
   :enclosure: RR214RRC.mp3?rss=true
+- :feed_number: 274
+  :title: 215 RR Sonic Pi with Sam Aaron
+  :enclosure: RR215SonicPi.mp3?rss=true

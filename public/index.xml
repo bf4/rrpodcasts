@@ -26,6 +26,180 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>215 RR Sonic Pi with Sam Aaron</title>
+      <link>http://devchat.tv/ruby-rogues/215-rr-sonic-pi-with-sam-aaron</link>
+      <pubDate>Wed, 08 Jul 2015 09:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:41 - Sam Aaron Introduction and Background&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/samaaron" style="line-height: 1.6; text-decoration: none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/samaaron" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://sam.aaron.name/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:53 - &lt;/span&gt;&lt;a href="http://sonic-pi.net" style="text-decoration:none;"&gt;Sonic Pi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Defined&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Affordable Creative Coding with Music&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:10 - Live Performance Aspect&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:58 - The Learning Curve&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;28:06 - Teaching Kids to Program Through Music&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733" style="text-decoration:none;"&gt;Joseph Wilk: Programming as Performance @ Ruby Conf Australia 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:07 - &lt;/span&gt;&lt;a href="http://sonic-pi.net/#teachers" style="text-decoration:none;"&gt;Sonic Pi in the Classroom&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:22 - Threading&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Cue and Sync&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:18 - Choosing Ruby Over &lt;/span&gt;&lt;a href="http://clojure.org/" style="text-decoration:none;"&gt;Clojure&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for Sonic Pi&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;44:13 - Sonic Pi Roadmap: What&amp;rsquo;s Next?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;49:22 - Contribute to the &lt;/span&gt;&lt;a href="https://github.com/samaaron/sonic-pi" style="text-decoration:none;"&gt;sonic-pi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Repo!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.facebook.com/SonicPi?fref=ts" style="text-decoration:none;"&gt;Sonic Pi on Facebook&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://vimeo.com/132104622" style="text-decoration:none;"&gt;Phase Abstractions: Live Coded with Sonic Pi at NODE15, Frankfurt&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:43 - Heritage?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/gilesbowkett/archaeopteryx" style="text-decoration:none;"&gt;archaeopteryx&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/bleything/midiator" style="text-decoration:none;"&gt;midiator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;53:53 - Experimenting with Music, The Evolution of Dance Music&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;56:19 - Types of Sounds&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Synths&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Pre-recorded Sounds&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.freesound.org/" style="text-decoration:none;"&gt;freesound.org&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Effects&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.catehuston.com/blog/2014/04/25/5-strategies-for-making-progress-on-side-projects/" style="text-decoration:none;"&gt;Cate Huston: 5 Strategies For Making Progress on Side Projects&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.zachtronics.com/tis-100/" style="text-decoration:none;"&gt;TIS-100&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1491950358/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1491950358&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=BLSFXJD2SBJC7ZYR" style="text-decoration:none;"&gt;Building Microservices by Sam Newman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0132350882&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=VCZFCPHIDBMVUPCE" style="text-decoration:none;"&gt;Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.youtube.com/watch?v=ZEgqzOkGJ7U" style="text-decoration:none;"&gt;[YouTube] Ben Eggett: Writing Music with Ruby: A Subtle Introduction to Music Theory @ MountainWest RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/elixir/programming-elixir" style="text-decoration:none;"&gt;Programming Elixir: Functional |&amp;gt; Concurrent |&amp;gt; Pragmatic |&amp;gt; Fun by Dave Thomas&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/0981484603/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0981484603&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=ZCN4BV5P2YYUACHZ" style="text-decoration:none;"&gt;Wabi-Sabi for Artists, Designers, Poets &amp;amp; Philosophers by Leonard Koren&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Sam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1617291412/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1617291412&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=5OO337TFVWIFQDEQ" style="text-decoration:none;"&gt;The Joy of Clojure by Michael Fogus&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Sam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://www.raspberrypi.org/" style="text-decoration:none;"&gt;Raspberry Pi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Sam)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">bffef985-c3bd-4362-b7d8-172120d30656</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:41 - Sam Aaron Introduction and Background&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/samaaron" style="line-height: 1.6; text-decoration: none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/samaaron" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://sam.aaron.name/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:53 - &lt;/span&gt;&lt;a href="http://sonic-pi.net" style="text-decoration:none;"&gt;Sonic Pi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Defined&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Affordable Creative Coding with Music&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:10 - Live Performance Aspect&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;23:58 - The Learning Curve&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;28:06 - Teaching Kids to Program Through Music&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://rubyconf.eventer.com/rubyconf-australia-2015-1223/programming-as-performance-by-joseph-wilk-1733" style="text-decoration:none;"&gt;Joseph Wilk: Programming as Performance @ Ruby Conf Australia 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:07 - &lt;/span&gt;&lt;a href="http://sonic-pi.net/#teachers" style="text-decoration:none;"&gt;Sonic Pi in the Classroom&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:22 - Threading&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Cue and Sync&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:18 - Choosing Ruby Over &lt;/span&gt;&lt;a href="http://clojure.org/" style="text-decoration:none;"&gt;Clojure&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for Sonic Pi&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;44:13 - Sonic Pi Roadmap: What&amp;rsquo;s Next?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;49:22 - Contribute to the &lt;/span&gt;&lt;a href="https://github.com/samaaron/sonic-pi" style="text-decoration:none;"&gt;sonic-pi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Repo!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.facebook.com/SonicPi?fref=ts" style="text-decoration:none;"&gt;Sonic Pi on Facebook&lt;/a&gt;&lt;/span&gt;
+
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://vimeo.com/132104622" style="text-decoration:none;"&gt;Phase Abstractions: Live Coded with Sonic Pi at NODE15, Frankfurt&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:43 - Heritage?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/gilesbowkett/archaeopteryx" style="text-decoration:none;"&gt;archaeopteryx&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/bleything/midiator" style="text-decoration:none;"&gt;midiator&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;53:53 - Experimenting with Music, The Evolution of Dance Music&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;56:19 - Types of Sounds&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Synths&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Pre-recorded Sounds&lt;/span&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.freesound.org/" style="text-decoration:none;"&gt;freesound.org&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Effects&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.catehuston.com/blog/2014/04/25/5-strategies-for-making-progress-on-side-projects/" style="text-decoration:none;"&gt;Cate Huston: 5 Strategies For Making Progress on Side Projects&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.zachtronics.com/tis-100/" style="text-decoration:none;"&gt;TIS-100&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1491950358/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1491950358&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=BLSFXJD2SBJC7ZYR" style="text-decoration:none;"&gt;Building Microservices by Sam Newman&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/0132350882/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0132350882&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=VCZFCPHIDBMVUPCE" style="text-decoration:none;"&gt;Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.youtube.com/watch?v=ZEgqzOkGJ7U" style="text-decoration:none;"&gt;[YouTube] Ben Eggett: Writing Music with Ruby: A Subtle Introduction to Music Theory @ MountainWest RubyConf 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;Elixir&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://pragprog.com/book/elixir/programming-elixir" style="text-decoration:none;"&gt;Programming Elixir: Functional |&amp;gt; Concurrent |&amp;gt; Pragmatic |&amp;gt; Fun by Dave Thomas&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/0981484603/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=0981484603&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=ZCN4BV5P2YYUACHZ" style="text-decoration:none;"&gt;Wabi-Sabi for Artists, Designers, Poets &amp;amp; Philosophers by Leonard Koren&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Sam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/1617291412/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=1617291412&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=5OO337TFVWIFQDEQ" style="text-decoration:none;"&gt;The Joy of Clojure by Michael Fogus&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Sam)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span style="font-size:14px"&gt;&lt;a href="https://www.raspberrypi.org/" style="text-decoration:none;"&gt;Raspberry Pi&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Sam)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:09:06</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR215SonicPi.mp3?rss=true" length="66337790" type="audio/mpeg"/>
+    </item>
+<item>
       <title>214 RR Ruby in a Polyglot Architecture at Ruby Remote Conf 2015</title>
       <link>http://devchat.tv/ruby-rogues/214-rr-ruby-in-a-polyglot-architecture-at-ruby-remote-conf-2015</link>
       <pubDate>Wed, 01 Jul 2015 09:00:00 -0600</pubDate>
