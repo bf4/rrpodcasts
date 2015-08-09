@@ -721,3 +721,15 @@
 - :feed_number: 274
   :title: 215 RR Sonic Pi with Sam Aaron
   :enclosure: RR215SonicPi.mp3?rss=true
+- :feed_number: 275
+  :title: 216 RR Code Review Culture with Derek Prior
+  :enclosure: RR216CodeReviewCulture.mp3?rss=true
+- :feed_number: 276
+  :title: 217 RR Architecture Without an End State with Michael Nygard
+  :enclosure: RR217Architecture.mp3?rss=true
+- :feed_number: 277
+  :title: 218 RR AWS Deployments with Alex Wood and Trevor Rowe
+  :enclosure: RR218AWS.mp3?rss=true
+- :feed_number: 278
+  :title: 219 RR Brakeman and Rails Security with Justin Collins
+  :enclosure: RR219Brakeman.mp3?rss=true
