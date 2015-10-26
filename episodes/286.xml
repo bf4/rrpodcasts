@@ -1,0 +1,116 @@
+<item>
+      <title>227 RR Rails Composer, RailsApps and Tutorials with Daniel Kehoe</title>
+      <link>https://devchat.tv/ruby-rogues/227-rr-rails-composer-railsapps-and-tutorials-with-daniel-kehoe</link>
+      <pubDate>Wed, 30 Sep 2015 09:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://railsremoteconf.com" style="text-decoration:none;"&gt;Rails Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;! Submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:53 - Daniel Kehoe Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/danielkehoe" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/fortuity" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://danielkehoe.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:07 - Digital Nomad Lifestyle&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.railsapps.org/post/124463849955/why-i-left-my-heart-in-san-francisco" style="text-decoration:none;"&gt;Daniel Kehoe: Why I Left My Heart in San Francisco&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://nomadlist.com/" style="text-decoration:none;"&gt;Nomad List&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.remoteyear.com/itinerary/" style="text-decoration:none;"&gt;Remote Year&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:45 - &lt;/span&gt;&lt;a href="http://railsapps.github.io/" style="text-decoration:none;"&gt;RailsApps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &amp;amp; &lt;/span&gt;&lt;a href="https://tutorials.railsapps.org/" style="text-decoration:none;"&gt;Rails Tutorials&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/rails_apps" style="text-decoration:none;"&gt;@rails_apps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/RailsApps" style="text-decoration:none;"&gt;[GitHub] RailsApps&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/rails-clips/007-railsclips-rails-composer" style="text-decoration:none;"&gt;RailsClips #007: Rails Composer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.kickstarter.com/projects/909377477/rails-composer-with-rails-tutorials" style="text-decoration:none;"&gt;Daniel&amp;#39;s Kickstarter Project: Rails Composer with Rails Tutorials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; -- Runs until October 6th, 2015!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;u&gt;&lt;a href="https://www.railstutorial.org/" style="text-decoration:none;"&gt;Michael Hartl&amp;#39;s he Ruby on Rails Tutorial Book and Screencast Series&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.learnenough.com/command-line-tutorial" style="line-height: 1.6; text-decoration: none;"&gt;Learn Enough Command Line To Be Dangerous&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:42 - &lt;/span&gt;&lt;a href="https://github.com/RailsApps/rails-composer" style="text-decoration:none;"&gt;rails-composer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for Beginner Programmers &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://flatironschool.com/" style="text-decoration:none;"&gt;Flatiron School&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, &lt;/span&gt;&lt;a href="https://twitter.com/aviflombaum" style="text-decoration:none;"&gt;@aviflombaum&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/B00QK2T1SY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00QK2T1SY&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=KNJUIETFYT7SDJTG" style="text-decoration:none;"&gt;Learn Ruby on Rails by Daniel Kehoe&lt;/a&gt;&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:center"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Remember to go check out &lt;/span&gt;&lt;a href="https://www.kickstarter.com/projects/909377477/rails-composer-with-rails-tutorials" style="text-decoration:none;"&gt;Daniel&amp;#39;s Kickstarter Project: Rails Composer with Rails Tutorials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;! &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://remoteok.io/" style="text-decoration:none;"&gt;remote | ok&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://railsremoteconf.com" style="text-decoration:none;"&gt;Rails Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://weworkremotely.com/" style="text-decoration:none;"&gt;weworkremotely.com&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://slack.com/" style="text-decoration:none;"&gt;Slack&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://screenhero.com/" style="text-decoration:none;"&gt;Screenhero&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://pinegrow.com/" style="text-decoration:none;"&gt;Pinegrow Web Editor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Daniel)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://nomadlist.com/" style="text-decoration:none;"&gt;Nomad List&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Daniel)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://plazalowyat.com/" style="text-decoration:none;"&gt;Low Yat Plaza&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Daniel)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">bca44240-981a-4ad2-a0cf-b8edeb1a4fa6</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;a href="http://railsremoteconf.com" style="text-decoration:none;"&gt;Rails Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;! Submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:53 - Daniel Kehoe Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/danielkehoe" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/fortuity" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://danielkehoe.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:07 - Digital Nomad Lifestyle&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.railsapps.org/post/124463849955/why-i-left-my-heart-in-san-francisco" style="text-decoration:none;"&gt;Daniel Kehoe: Why I Left My Heart in San Francisco&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://nomadlist.com/" style="text-decoration:none;"&gt;Nomad List&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.remoteyear.com/itinerary/" style="text-decoration:none;"&gt;Remote Year&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:45 - &lt;/span&gt;&lt;a href="http://railsapps.github.io/" style="text-decoration:none;"&gt;RailsApps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &amp;amp; &lt;/span&gt;&lt;a href="https://tutorials.railsapps.org/" style="text-decoration:none;"&gt;Rails Tutorials&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/rails_apps" style="text-decoration:none;"&gt;@rails_apps&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/RailsApps" style="text-decoration:none;"&gt;[GitHub] RailsApps&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/rails-clips/007-railsclips-rails-composer" style="text-decoration:none;"&gt;RailsClips #007: Rails Composer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.kickstarter.com/projects/909377477/rails-composer-with-rails-tutorials" style="text-decoration:none;"&gt;Daniel&amp;#39;s Kickstarter Project: Rails Composer with Rails Tutorials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; -- Runs until October 6th, 2015!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;u&gt;&lt;a href="https://www.railstutorial.org/" style="text-decoration:none;"&gt;Michael Hartl&amp;#39;s he Ruby on Rails Tutorial Book and Screencast Series&lt;/a&gt;&lt;/u&gt;&lt;/span&gt;
+	&lt;ul&gt;
+		&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.learnenough.com/command-line-tutorial" style="line-height: 1.6; text-decoration: none;"&gt;Learn Enough Command Line To Be Dangerous&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:42 - &lt;/span&gt;&lt;a href="https://github.com/RailsApps/rails-composer" style="text-decoration:none;"&gt;rails-composer&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for Beginner Programmers &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://flatironschool.com/" style="text-decoration:none;"&gt;Flatiron School&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;, &lt;/span&gt;&lt;a href="https://twitter.com/aviflombaum" style="text-decoration:none;"&gt;@aviflombaum&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/gp/product/B00QK2T1SY/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00QK2T1SY&amp;amp;linkCode=as2&amp;amp;tag=chamaxwoo-20&amp;amp;linkId=KNJUIETFYT7SDJTG" style="text-decoration:none;"&gt;Learn Ruby on Rails by Daniel Kehoe&lt;/a&gt;&lt;/span&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p style="text-align:center"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Remember to go check out &lt;/span&gt;&lt;a href="https://www.kickstarter.com/projects/909377477/rails-composer-with-rails-tutorials" style="text-decoration:none;"&gt;Daniel&amp;#39;s Kickstarter Project: Rails Composer with Rails Tutorials&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;! &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://remoteok.io/" style="text-decoration:none;"&gt;remote | ok&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Saron)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://railsremoteconf.com" style="text-decoration:none;"&gt;Rails Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://weworkremotely.com/" style="text-decoration:none;"&gt;weworkremotely.com&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://slack.com/" style="text-decoration:none;"&gt;Slack&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://screenhero.com/" style="text-decoration:none;"&gt;Screenhero&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://pinegrow.com/" style="text-decoration:none;"&gt;Pinegrow Web Editor&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Daniel)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://nomadlist.com/" style="text-decoration:none;"&gt;Nomad List&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Daniel)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://plazalowyat.com/" style="text-decoration:none;"&gt;Low Yat Plaza&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Daniel)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>41:09</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR227DanielKehoe.mp3?rss=true" length="39506108" type="audio/mpeg"/>
+    </item>

@@ -736,3 +736,33 @@
 - :feed_number: 279
   :title: 220 RR Augmenting Your Reality with Leon Gersing
   :enclosure: RR220AugmentingReality.mp3?rss=true
+- :feed_number: 280
+  :title: 221 RR Sidekiq with Mike Perham
+  :enclosure: RR221Sidekiq.mp3?rss=true
+- :feed_number: 281
+  :title: 222 RR Rails 5 with Sean Griffin
+  :enclosure: RR222Rails5.mp3?rss=true
+- :feed_number: 282
+  :title: 223 RR Oga and Parsing with Yorick Peterse
+  :enclosure: RR223OgaParsing.mp3?rss=true
+- :feed_number: 283
+  :title: 224 RR Ruby Together with André Arko
+  :enclosure: RR224RubyTogether.mp3
+- :feed_number: 284
+  :title: 225 RR TorqueBox with Ben Browning
+  :enclosure: RR225Torquebox.mp3
+- :feed_number: 285
+  :title: 226 RR The Leprechauns of Software Engineering with Laurent Bossavit
+  :enclosure: RR226LeprechaunsofSoftwareEngineering.mp3?rss=true
+- :feed_number: 286
+  :title: 227 RR Rails Composer, RailsApps and Tutorials with Daniel Kehoe
+  :enclosure: RR227DanielKehoe.mp3?rss=true
+- :feed_number: 287
+  :title: 228 The Lotus Framework with Luca Guidi
+  :enclosure: RR228Lotus.mp3?rss=true
+- :feed_number: 288
+  :title: 229 RR Adopting New Technology
+  :enclosure: RR229AdoptingNewTech.mp3?rss=true
+- :feed_number: 289
+  :title: 230 RR Hiring Diversely with Sarah Mei
+  :enclosure: RR230HiringDiversity.mp3?rss=true
