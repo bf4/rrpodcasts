@@ -11,7 +11,7 @@ episode_list = File.join(output_path, 'episode_list.yml')
 if ARGV.shift == 'alt'
   feed_url = 'http://rubyrogues.com/podcast.rss'
 else
-  feed_url = 'http://rubyrogues.com/feed/'
+  feed_url = 'https://rubyrogues.com/feed/'
 end
 
 # Must be []
