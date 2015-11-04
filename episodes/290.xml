@@ -1,0 +1,186 @@
+<item>
+      <title>231 RR GraphQL with Lee Byron</title>
+      <link>https://devchat.tv/ruby-rogues/231-rr-graphql-with-lee-byron</link>
+      <pubDate>Wed, 28 Oct 2015 09:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Go check out &lt;/span&gt;&lt;a href="https://railsremoteconf.com/" style="text-decoration:none;"&gt;Rails Remote Conf!&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:30 - Lee Byron Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/leeb" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/leebyron" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://leebyron.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.facebook.com/" style="text-decoration:none;"&gt;Facebook&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:46 - &lt;/span&gt;&lt;a href="http://graphql.org/" style="text-decoration:none;"&gt;GraphQL&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/asonge/graphql" style="text-decoration:none;"&gt;[GitHub] graphql&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://facebook.github.io/relay/" style="text-decoration:none;"&gt;Relay&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:16 - GraphQL vs REST&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;09:43 - Endpoints&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Security&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:33 - How the Stack Works&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/rmosolgo/graphql-ruby" style="text-decoration:none;"&gt;graphql-ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:35 - GraphQL on the Front and Back Ends&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Type Checking&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Contracts&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Versions&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:14 - Calculating Tradeoffs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;43:38 - Structuring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:17 - Building the Ecosystem&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:16 - Use with Other Frameworks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/152-jsj-graphql-and-relay-with-nick-schrock-and-joe-savona-" style="text-decoration:none;"&gt;JavaScript Jabber Episode #152: GraphQL and Relay with Nick Schrock and Joe Savona&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;49:50 - GraphQL vs &lt;/span&gt;&lt;a href="https://netflix.github.io/falcor/" style="text-decoration:none;"&gt;Falcor&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;52:20 - How would you have made GraphQL differently?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;54:06 - &lt;/span&gt;&lt;a href="https://facebook.github.io/react-native/" style="text-decoration:none;"&gt;React Native&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;56:29 - REST =&amp;gt; GraphQL&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixirconf.com/" style="text-decoration:none;"&gt;ElixirConf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;57:36 - Types&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://sfgov.org/" style="text-decoration:none;"&gt;San Francisco&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Dolores_Park" style="text-decoration:none;"&gt;Dolores Park&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://gregheo.com/blog/speaking-outlining-like-pixar/" style="text-decoration:none;"&gt;Greg Heo: Outlining Your Conference Talk Pixar-style&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://thewalnut.io" style="text-decoration:none;"&gt;Walnut&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.tandyleather.com/en/" style="text-decoration:none;"&gt;Tandy Leather&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/satansbarber" style="text-decoration:none;"&gt;Ian Atkinson on YouTube&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/cheaneysaddles" style="text-decoration:none;"&gt;Bruce Cheaney on YouTube&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://springfieldleather.com/" style="text-decoration:none;"&gt;Springfield Leather&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.tandyleatheroutlet.com/" style="text-decoration:none;"&gt;Tandy Leather Outlet&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ionicframework.com/" style="text-decoration:none;"&gt;The Ionic Framework&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://charlesmaxwood.com/" style="text-decoration:none;"&gt;CharlesMaxWood.com&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://railsremoteconf.com/" style="text-decoration:none;"&gt;Rails Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://flowtype.org/" style="text-decoration:none;"&gt;Flow&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Lee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://thefiresteel.com/" style="text-decoration:none;"&gt;The Firesteel: A Novel by Ash Huang&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Lee) &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">642f2061-eda6-49d4-8eed-9daf2549c502</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr" style="text-align:center"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="font-size:18px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Go check out &lt;/span&gt;&lt;a href="https://railsremoteconf.com/" style="text-decoration:none;"&gt;Rails Remote Conf!&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:30 - Lee Byron Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/leeb" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/leebyron" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://leebyron.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.facebook.com/" style="text-decoration:none;"&gt;Facebook&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:46 - &lt;/span&gt;&lt;a href="http://graphql.org/" style="text-decoration:none;"&gt;GraphQL&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/asonge/graphql" style="text-decoration:none;"&gt;[GitHub] graphql&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://facebook.github.io/relay/" style="text-decoration:none;"&gt;Relay&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;04:16 - GraphQL vs REST&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;09:43 - Endpoints&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Security&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;13:33 - How the Stack Works&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/rmosolgo/graphql-ruby" style="text-decoration:none;"&gt;graphql-ruby&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:35 - GraphQL on the Front and Back Ends&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Type Checking&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Contracts&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Versions&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:14 - Calculating Tradeoffs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;43:38 - Structuring&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;46:17 - Building the Ecosystem&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;48:16 - Use with Other Frameworks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/js-jabber/152-jsj-graphql-and-relay-with-nick-schrock-and-joe-savona-" style="text-decoration:none;"&gt;JavaScript Jabber Episode #152: GraphQL and Relay with Nick Schrock and Joe Savona&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;49:50 - GraphQL vs &lt;/span&gt;&lt;a href="https://netflix.github.io/falcor/" style="text-decoration:none;"&gt;Falcor&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;52:20 - How would you have made GraphQL differently?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;54:06 - &lt;/span&gt;&lt;a href="https://facebook.github.io/react-native/" style="text-decoration:none;"&gt;React Native&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;56:29 - REST =&amp;gt; GraphQL&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixirconf.com/" style="text-decoration:none;"&gt;ElixirConf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;57:36 - Types&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://sfgov.org/" style="text-decoration:none;"&gt;San Francisco&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://en.wikipedia.org/wiki/Dolores_Park" style="text-decoration:none;"&gt;Dolores Park&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://gregheo.com/blog/speaking-outlining-like-pixar/" style="text-decoration:none;"&gt;Greg Heo: Outlining Your Conference Talk Pixar-style&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://thewalnut.io" style="text-decoration:none;"&gt;Walnut&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.tandyleather.com/en/" style="text-decoration:none;"&gt;Tandy Leather&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/satansbarber" style="text-decoration:none;"&gt;Ian Atkinson on YouTube&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/user/cheaneysaddles" style="text-decoration:none;"&gt;Bruce Cheaney on YouTube&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://springfieldleather.com/" style="text-decoration:none;"&gt;Springfield Leather&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.tandyleatheroutlet.com/" style="text-decoration:none;"&gt;Tandy Leather Outlet&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://ionicframework.com/" style="text-decoration:none;"&gt;The Ionic Framework&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://charlesmaxwood.com/" style="text-decoration:none;"&gt;CharlesMaxWood.com&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://railsremoteconf.com/" style="text-decoration:none;"&gt;Rails Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://allremoteconfs.com/" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://flowtype.org/" style="text-decoration:none;"&gt;Flow&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Lee)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://thefiresteel.com/" style="text-decoration:none;"&gt;The Firesteel: A Novel by Ash Huang&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Lee) &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:13:34</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR231GraphQL.mp3?rss=true" length="70631066" type="audio/mpeg"/>
+    </item>
