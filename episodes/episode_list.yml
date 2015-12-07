@@ -782,3 +782,6 @@
 - :feed_number: 294
   :title: 235 RR Processing Textual Data with Ruby with Rob Miller
   :enclosure: RR235TextProcessing.mp3?rss=true
+- :feed_number: 295
+  :title: 236 RR Neo4j with Brian Underwood
+  :enclosure: RR236Neo4j.mp3?rss=true
