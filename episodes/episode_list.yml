@@ -785,3 +785,9 @@
 - :feed_number: 295
   :title: 236 RR Neo4j with Brian Underwood
   :enclosure: RR236Neo4j.mp3?rss=true
+- :feed_number: 296
+  :title: 237 RR Rails + JavaScript + Functional Programming with Brad Urani
+  :enclosure: 'RR237BradUrani.mp3?rss=true '
+- :feed_number: 297
+  :title: 238 RR Refactoring
+  :enclosure: RR238Refactoring.mp3?rss=true
