@@ -791,3 +791,6 @@
 - :feed_number: 297
   :title: 238 RR Refactoring
   :enclosure: RR238Refactoring.mp3?rss=true
+- :feed_number: 298
+  :title: 239 RR Swiss Army Rubyknife with Peter Cooper at Ruby Remote Conf 2015
+  :enclosure: RR239RRCPeterCooper.mp3?rss=true

@@ -26,6 +26,40 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>239 RR Swiss Army Rubyknife with Peter Cooper at Ruby Remote Conf 2015</title>
+      <link>https://devchat.tv/ruby-rogues/239-rr-swiss-army-rubyknife-with-peter-cooper-at-ruby-remote-conf-2015</link>
+      <pubDate>Wed, 23 Dec 2015 09:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:16px"&gt;&lt;strong&gt;This episode is from&amp;nbsp;&lt;a href="https://twitter.com/peterc" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Peter Cooper&lt;/a&gt;&amp;rsquo;s talk at Ruby Remote Conf 2015. You can watch the full, unedited presentation,&amp;nbsp;&lt;a href="https://www.youtube.com/watch?v=lcywmx7dF-k" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Swiss Army Rubyknife&lt;/a&gt;, on YouTube at your convenience.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for next year&amp;rsquo;s remote conference lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://rubyremoteconf.com/" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;March 23rd-25th 2016&lt;/strong&gt;. Buy a ticket or submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; is running from &lt;strong&gt;January 14th-16th 2016&lt;/strong&gt;. Check out the speaker lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com/freelance-2016" style="text-decoration:none;"&gt;Freelance Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;February 24th-26th&lt;/strong&gt;. We&amp;rsquo;ve already got a great list of confirmed speakers. Stay tuned for more details!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;We, the Ruby Rogues panelists (And, &lt;/span&gt;&lt;strong&gt;&lt;a href="http://twitter.com/therubyrep" style="text-decoration:none;"&gt;Mandy&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!), wish you a very happy holiday season.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">1f2902c0-b9bf-4ef6-914d-13034c79456b</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:16px"&gt;&lt;strong&gt;This episode is from&amp;nbsp;&lt;a href="https://twitter.com/peterc" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Peter Cooper&lt;/a&gt;&amp;rsquo;s talk at Ruby Remote Conf 2015. You can watch the full, unedited presentation,&amp;nbsp;&lt;a href="https://www.youtube.com/watch?v=lcywmx7dF-k" style="font-size: 14px; line-height: 22.4px; text-decoration: none;"&gt;Swiss Army Rubyknife&lt;/a&gt;, on YouTube at your convenience.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Check out &lt;/span&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com" style="text-decoration:none;"&gt;All Remote Confs&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; for next year&amp;rsquo;s remote conference lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://rubyremoteconf.com/" style="text-decoration:none;"&gt;Ruby Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;March 23rd-25th 2016&lt;/strong&gt;. Buy a ticket or submit a CFP!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://jsremoteconf.com/" style="text-decoration:none;"&gt;JS Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; is running from &lt;strong&gt;January 14th-16th 2016&lt;/strong&gt;. Check out the speaker lineup!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;strong&gt;&lt;a href="https://allremoteconfs.com/freelance-2016" style="text-decoration:none;"&gt;Freelance Remote Conf&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; will run from &lt;strong&gt;February 24th-26th&lt;/strong&gt;. We&amp;rsquo;ve already got a great list of confirmed speakers. Stay tuned for more details!&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;We, the Ruby Rogues panelists (And, &lt;/span&gt;&lt;strong&gt;&lt;a href="http://twitter.com/therubyrep" style="text-decoration:none;"&gt;Mandy&lt;/a&gt;&lt;/strong&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;!), wish you a very happy holiday season.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>46:34</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR239RRCPeterCooper.mp3?rss=true" length="44704681" type="audio/mpeg"/>
+    </item>
+<item>
       <title>238 RR Refactoring</title>
       <link>https://devchat.tv/ruby-rogues/238-rr-refactoring</link>
       <pubDate>Wed, 16 Dec 2015 09:00:00 -0700</pubDate>
