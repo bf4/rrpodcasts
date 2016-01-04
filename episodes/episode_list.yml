@@ -794,3 +794,6 @@
 - :feed_number: 298
   :title: 239 RR Swiss Army Rubyknife with Peter Cooper at Ruby Remote Conf 2015
   :enclosure: RR239RRCPeterCooper.mp3?rss=true
+- :feed_number: 299
+  :title: 240 RR What Makes a Good Manager with Marcus Blankenship
+  :enclosure: RR240Management.mp3?rss=true
