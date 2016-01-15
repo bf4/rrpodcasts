@@ -797,3 +797,10 @@
 - :feed_number: 299
   :title: 240 RR What Makes a Good Manager with Marcus Blankenship
   :enclosure: RR240Management.mp3?rss=true
+- :feed_number: 300
+  :title: 241 RR What Makes a Great Developer with Phil Spitler
+  :enclosure: RR241WhatMakesGreatDeveloper.mp3?rss=true
+- :feed_number: 301
+  :title: 242 RR Migrating a Monolith to Microservices Via an Evolutionary Path with
+    Mike Gehard
+  :enclosure: 'RR242MonolithMicroservices.mp3?rss=true '
