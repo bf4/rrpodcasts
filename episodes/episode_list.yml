@@ -817,3 +817,9 @@
 - :feed_number: 305
   :title: 246 RR Clearwater with Jamie Gaskins
   :enclosure: RR246Clearwater.mp3?rss=true
+- :feed_number: 306
+  :title: 247 RR Parallella with Ray Hightower
+  :enclosure: 'RR247Parallella.mp3?rss=true '
+- :feed_number: 307
+  :title: 248 RR The Crystal Programming Language with Erik Michaels-Ober
+  :enclosure: 'RR248Crystal.mp3?rss=true '

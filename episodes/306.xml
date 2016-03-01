@@ -1,0 +1,136 @@
+<item>
+      <title>247 RR Parallella with Ray Hightower</title>
+      <link>https://devchat.tv/ruby-rogues/247-rr-parallella-with-ray-hightower</link>
+      <pubDate>Wed, 17 Feb 2016 07:00:00 -0700</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:02 - Ray Hightower Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/RayHightower" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/RayHightower" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://rayhightower.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.wisdomgroup.com/" style="text-decoration:none;"&gt;WisdomGroup&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.chicagoruby.org/" style="text-decoration:none;"&gt;ChicagoRuby&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.windycityrails.com/" style="text-decoration:none;"&gt;WindyCityRails&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://windycitythings.com/" style="text-decoration:none;"&gt;WindyCityThings&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:22 - &lt;/span&gt;&lt;a href="https://www.parallella.org/" style="text-decoration:none;"&gt;Parallella&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.raspberrypi.org/" style="text-decoration:none;"&gt;Raspberry Pi&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;05:39 - Web Developers and The Hardware World&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:38 - Does a hardware background inform software?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:42 - Learning and Playing&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Verilog" style="text-decoration:none;"&gt;Verilog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:22 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Concurrency_(computer_science)" style="text-decoration:none;"&gt;Concurrency&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="http://literarydevices.net/parallelism/" style="text-decoration:none;"&gt;Parallelism&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=Tbx0KGd6ols" style="text-decoration:none;"&gt;The Most Energy Efficient Supercomputer on the Planet by Ray Hightower at Madison+ Ruby 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/parallella/parallella-examples" style="text-decoration:none;"&gt;github.com/parallella/parallella-examples&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;32:48 - Getting Started with &lt;/span&gt;&lt;a href="https://www.parallella.org/" style="text-decoration:none;"&gt;Parallella&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/" style="text-decoration:none;"&gt;Parallella Quick Start Guide (with gotchas)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;COIK = Clear Only If Known&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://parallella.org/forums/" style="text-decoration:none;"&gt;parallella.org/forums&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:02 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:38 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Internet_of_Things" style="text-decoration:none;"&gt;IoT (Internet of Things)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://developer.apple.com/healthkit/" style="text-decoration:none;"&gt;HealthKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.apple.com/ios/homekit/" style="text-decoration:none;"&gt;HomeKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://developer.apple.com/watchkit/" style="text-decoration:none;"&gt;WatchKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://codon.com/refactoring-ruby-with-monads" style="text-decoration:none;"&gt;Refactoring Ruby with Monads&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart" style="text-decoration:none;"&gt;Ruby Rogues Episode #120: Book Club: Understanding Computation with Tom Stuart&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;br /&gt;
+Learning to play the piano (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&amp;amp;redirect=true&amp;amp;ref_=oh_aui_detailpage_o05_s00" style="text-decoration:none;"&gt;Mogo Portable Seat&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=cN_DpYBzKso" style="text-decoration:none;"&gt;Rob Pike: Concurrency Is Not Parallelism&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Ray)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www-unix.mcs.anl.gov/~itf/dbpp/text/book.html" style="text-decoration:none;"&gt;Designing and Building Parallel Programs by Ian Foster&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Ray)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">115196bb-b26c-4bbe-9f69-d81ad39d5085</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:02 - Ray Hightower Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/RayHightower" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/RayHightower" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://rayhightower.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.wisdomgroup.com/" style="text-decoration:none;"&gt;WisdomGroup&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.chicagoruby.org/" style="text-decoration:none;"&gt;ChicagoRuby&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.windycityrails.com/" style="text-decoration:none;"&gt;WindyCityRails&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://windycitythings.com/" style="text-decoration:none;"&gt;WindyCityThings&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:22 - &lt;/span&gt;&lt;a href="https://www.parallella.org/" style="text-decoration:none;"&gt;Parallella&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.raspberrypi.org/" style="text-decoration:none;"&gt;Raspberry Pi&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;05:39 - Web Developers and The Hardware World&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:38 - Does a hardware background inform software?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:42 - Learning and Playing&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Verilog" style="text-decoration:none;"&gt;Verilog&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:22 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Concurrency_(computer_science)" style="text-decoration:none;"&gt;Concurrency&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; and &lt;/span&gt;&lt;a href="http://literarydevices.net/parallelism/" style="text-decoration:none;"&gt;Parallelism&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=Tbx0KGd6ols" style="text-decoration:none;"&gt;The Most Energy Efficient Supercomputer on the Planet by Ray Hightower at Madison+ Ruby 2015&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/parallella/parallella-examples" style="text-decoration:none;"&gt;github.com/parallella/parallella-examples&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;32:48 - Getting Started with &lt;/span&gt;&lt;a href="https://www.parallella.org/" style="text-decoration:none;"&gt;Parallella&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://rayhightower.com/blog/2014/07/07/parallella-quick-start-guide-with-gotchas/" style="text-decoration:none;"&gt;Parallella Quick Start Guide (with gotchas)&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;COIK = Clear Only If Known&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://parallella.org/forums/" style="text-decoration:none;"&gt;parallella.org/forums&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:02 - Use Cases&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:38 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/Internet_of_Things" style="text-decoration:none;"&gt;IoT (Internet of Things)&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://developer.apple.com/healthkit/" style="text-decoration:none;"&gt;HealthKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.apple.com/ios/homekit/" style="text-decoration:none;"&gt;HomeKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://developer.apple.com/watchkit/" style="text-decoration:none;"&gt;WatchKit&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://codon.com/refactoring-ruby-with-monads" style="text-decoration:none;"&gt;Refactoring Ruby with Monads&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart" style="text-decoration:none;"&gt;Ruby Rogues Episode #120: Book Club: Understanding Computation with Tom Stuart&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;br /&gt;
+Learning to play the piano (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/gp/product/B00KQ1M1XM?psc=1&amp;amp;redirect=true&amp;amp;ref_=oh_aui_detailpage_o05_s00" style="text-decoration:none;"&gt;Mogo Portable Seat&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=cN_DpYBzKso" style="text-decoration:none;"&gt;Rob Pike: Concurrency Is Not Parallelism&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Ray)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www-unix.mcs.anl.gov/~itf/dbpp/text/book.html" style="text-decoration:none;"&gt;Designing and Building Parallel Programs by Ian Foster&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Ray)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:02:24</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR247Parallella.mp3?rss=true " length="59906658" type="audio/mpeg"/>
+    </item>
