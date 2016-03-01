@@ -823,3 +823,9 @@
 - :feed_number: 307
   :title: 248 RR The Crystal Programming Language with Erik Michaels-Ober
   :enclosure: 'RR248Crystal.mp3?rss=true '
+- :feed_number: 308
+  :title: 004 RR Databases, SQL,  NoSQL
+  :enclosure: RubyRogues20110526.mp3?rss=true
+- :feed_number: 309
+  :title: 170 RR Padrino with Dario Cravero, Nathan Esquenazi,  Arthur Chiu
+  :enclosure: RR170Padrino.mp3?rss=true

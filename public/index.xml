@@ -26,6 +26,34 @@
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/RubyRogues" /><feedburner:info uri="rubyrogues" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>Intentional Excellence Productions LLC</media:copyright><media:thumbnail url="http://rubyrogues.com/wp-content/uploads/2011/09/iTunesLogo.png" /><media:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category><itunes:owner><itunes:email>chuck@teachmetocode.com</itunes:email><itunes:name>Charles Max Wood</itunes:name></itunes:owner><itunes:keywords>ruby,rails,rspec,cucumber,testing,James,Edward,Gray,Charles,Max,Wood,programming,development,developer,panel,fun,funny,David,Brady</itunes:keywords><itunes:category text="Technology"><itunes:category text="Software How-To" /></itunes:category>
 
 <item>
+      <title>170 RR Padrino with Dario Cravero, Nathan Esquenazi,  Arthur Chiu</title>
+      <link/>
+      <pubDate>Wed, 20 Aug 2014 07:00:00 -0600</pubDate>
+      <description>The Rogues discuss Padrino with Dario Cravero, Nathan Esquenazi, and Arthur Chiu.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author/>
+      <guid isPermalink="false">3997034d-24f1-47f9-a373-0db8866e104b</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>The Rogues discuss Padrino with Dario Cravero, Nathan Esquenazi, and Arthur Chiu.</itunes:summary>
+      <itunes:duration>01:10:09</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR170Padrino.mp3?rss=true" length="67345944" type="audio/mpeg"/>
+    </item>
+<item>
+      <title>004 RR Databases, SQL,  NoSQL</title>
+      <link>http://devchat.tv/ruby-rogues/databases-sql-nosql</link>
+      <pubDate>Thu, 26 May 2011 18:22:00 -0600</pubDate>
+      <description>The Rogues discuss databases, SQL,  NoSQL.</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</author>
+      <guid isPermalink="false">http://rubyrogues.com/?p=28</guid>
+      <itunes:author>Charles Max Wood, James Edward Gray II, David Brady, Avdi Grimm, Josh Susser, Katrina Owen</itunes:author>
+      <itunes:subtitle>Panelists  Aaron Patterson (@tenderlove)   Charles Max Wood (@cmaxw)   Fernand Galiana (@kitesurfer)   James Edward Gray II (@JEG2)   Peter Cooper (@peterc) Items discussed in today's episode  amalgalite   Queue Classic   mysql   postgresql </itunes:subtitle>
+      <itunes:summary>The Rogues discuss databases, SQL,  NoSQL.</itunes:summary>
+      <itunes:duration>56:41</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RubyRogues20110526.mp3?rss=true" length="81622254" type="audio/mpeg"/>
+    </item>
+<item>
       <title>248 RR The Crystal Programming Language with Erik Michaels-Ober</title>
       <link>https://devchat.tv/ruby-rogues/248-rr-the-crystal-programming-language-with-erik-michaels-ober</link>
       <pubDate>Wed, 24 Feb 2016 07:00:00 -0700</pubDate>
