@@ -829,3 +829,9 @@
 - :feed_number: 309
   :title: 170 RR Padrino with Dario Cravero, Nathan Esquenazi,  Arthur Chiu
   :enclosure: RR170Padrino.mp3?rss=true
+- :feed_number: 310
+  :title: 249 RR The Normalization of Deviance with Dan Luu
+  :enclosure: RR249NormalizationOfDeviance.mp3?rss=true
+- :feed_number: 311
+  :title: 250 RR Programming Language Evolution and Design with Gilad Bracha
+  :enclosure: RR250ProgrammingLanguageEvolutionandDesign.mp3?rss=true
