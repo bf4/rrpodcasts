@@ -835,3 +835,6 @@
 - :feed_number: 311
   :title: 250 RR Programming Language Evolution and Design with Gilad Bracha
   :enclosure: RR250ProgrammingLanguageEvolutionandDesign.mp3?rss=true
+- :feed_number: 312
+  :title: 251 RR Automating Code Reviews with Mindaugas Mozūras
+  :enclosure: RR251AutomatedReviews.mp3?rss=true
