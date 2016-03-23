@@ -1,0 +1,147 @@
+<item>
+      <title>252 RR Feature Toggles with Pete Hodgson</title>
+      <link>https://devchat.tv/ruby-rogues/252-rr-feature-toggles-with-pete-hodgson</link>
+      <pubDate>Wed, 23 Mar 2016 09:00:00 -0400</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:07 - Pete Hodgson Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/ph1" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/moredip" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.thepete.net/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/ruby-rogues/176-rr-rails-as-an-soa-client-with-pete-hodgson" style="text-decoration:none;"&gt;Ruby Rogues Episode #176: Rails as an SOA Client with Pete Hodgson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/hosts/Pete%20Hodgson" style="text-decoration:none;"&gt;The iPhreaks Show Episodes with Pete Hodgson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:13 - Feature Toggles, Flags, Bits, Etc.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/" style="text-decoration:none;"&gt;Trunk Based Development&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/iphreaks/136-ips-efficient-engineering-practices-for-software-projects-with-neal-ford" style="text-decoration:none;"&gt;iPhreaks Show Episode #136: Efficient Engineering Practices for Software Projects with Neal Ford&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:17 - Merge Hell &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:10 - Branches&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:59 - Why not constantly rebase?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://martinfowler.com/bliki/FeatureBranch.html" style="text-decoration:none;"&gt;Martin Fowler: FeatureBranch&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:48 - Why use feature toggles?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://martinfowler.com/articles/feature-toggles.html" style="text-decoration:none;"&gt;Martin Fowler: Feature Toggles&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:29 - Making Code Configurable&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:37 - Approaching Feature Toggles&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:04 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/A/B_testing" style="text-decoration:none;"&gt;A/B Testing&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:11 - Approaching Feature Toggles (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://rubygems.org/gems/snuffle/versions/0.14.0" style="text-decoration:none;"&gt;snuffle&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/CoralineAda/ambient_spec" style="text-decoration:none;"&gt;ambient-spec&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/moredip/rack-flags" style="text-decoration:none;"&gt;rack-flags&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:37 - Implications for Testing&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:12 - Toggle Interaction; Nesting of Features&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:28 - Introducing Features Toggles to Teams&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Pushback&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:43 - Managing Code Reviews with No Feature Branches&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jimneath.org/2010/01/04/cryptic-ruby-global-variables-and-their-meanings.html" style="text-decoration:none;"&gt;Cryptic Ruby Global Variables and Their Meanings&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://installfest.railsbridge.org/installfest/installfest" style="text-decoration:none;"&gt;RailsBridge Installfest&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://concourse.ci/" style="text-decoration:none;"&gt;Concourse&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions" style="text-decoration:none;"&gt;Architectural Decision Records&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://blog.thepete.net/blog/2015/06/21/the-ultimate-travelers-coffee-kit/" style="text-decoration:none;"&gt;Pete Hodgson: The Ultimate Traveler&amp;#39;s Coffee Kit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.deschutesbrewery.com/beer/red-chair-nwpa/" style="text-decoration:none;"&gt;Deschutes Red Chair NWPA&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <guid isPermaLink="false">f7b0429b-6ccc-4242-940a-e288191ee23d</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:07 - Pete Hodgson Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/ph1" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/moredip" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.thepete.net/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/ruby-rogues/176-rr-rails-as-an-soa-client-with-pete-hodgson" style="text-decoration:none;"&gt;Ruby Rogues Episode #176: Rails as an SOA Client with Pete Hodgson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/hosts/Pete%20Hodgson" style="text-decoration:none;"&gt;The iPhreaks Show Episodes with Pete Hodgson&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;03:13 - Feature Toggles, Flags, Bits, Etc.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/" style="text-decoration:none;"&gt;Trunk Based Development&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://devchat.tv/iphreaks/136-ips-efficient-engineering-practices-for-software-projects-with-neal-ford" style="text-decoration:none;"&gt;iPhreaks Show Episode #136: Efficient Engineering Practices for Software Projects with Neal Ford&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:17 - Merge Hell &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:10 - Branches&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:59 - Why not constantly rebase?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://martinfowler.com/bliki/FeatureBranch.html" style="text-decoration:none;"&gt;Martin Fowler: FeatureBranch&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;10:48 - Why use feature toggles?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://martinfowler.com/articles/feature-toggles.html" style="text-decoration:none;"&gt;Martin Fowler: Feature Toggles&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:29 - Making Code Configurable&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:37 - Approaching Feature Toggles&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:04 - &lt;/span&gt;&lt;a href="https://en.wikipedia.org/wiki/A/B_testing" style="text-decoration:none;"&gt;A/B Testing&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:11 - Approaching Feature Toggles (Cont&amp;rsquo;d)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://rubygems.org/gems/snuffle/versions/0.14.0" style="text-decoration:none;"&gt;snuffle&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/CoralineAda/ambient_spec" style="text-decoration:none;"&gt;ambient-spec&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/moredip/rack-flags" style="text-decoration:none;"&gt;rack-flags&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:37 - Implications for Testing&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;36:12 - Toggle Interaction; Nesting of Features&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:28 - Introducing Features Toggles to Teams&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Pushback&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:43 - Managing Code Reviews with No Feature Branches&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jimneath.org/2010/01/04/cryptic-ruby-global-variables-and-their-meanings.html" style="text-decoration:none;"&gt;Cryptic Ruby Global Variables and Their Meanings&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://installfest.railsbridge.org/installfest/installfest" style="text-decoration:none;"&gt;RailsBridge Installfest&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Coraline)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://concourse.ci/" style="text-decoration:none;"&gt;Concourse&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions" style="text-decoration:none;"&gt;Architectural Decision Records&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://blog.thepete.net/blog/2015/06/21/the-ultimate-travelers-coffee-kit/" style="text-decoration:none;"&gt;Pete Hodgson: The Ultimate Traveler&amp;#39;s Coffee Kit&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.deschutesbrewery.com/beer/red-chair-nwpa/" style="text-decoration:none;"&gt;Deschutes Red Chair NWPA&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Pete)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>57:08</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR252FeatureToggles-Take2.mp3?rss=true " length="54859387" type="audio/mpeg"/>
+    </item>

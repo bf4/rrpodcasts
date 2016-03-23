@@ -838,3 +838,6 @@
 - :feed_number: 312
   :title: 251 RR Automating Code Reviews with Mindaugas Mozūras
   :enclosure: RR251AutomatedReviews.mp3?rss=true
+- :feed_number: 313
+  :title: 252 RR Feature Toggles with Pete Hodgson
+  :enclosure: 'RR252FeatureToggles-Take2.mp3?rss=true '
