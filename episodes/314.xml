@@ -1,0 +1,205 @@
+<item>
+      <title>253 RR Phoenix and Rails with Chris McCord</title>
+      <link>https://devchat.tv/ruby-rogues/253-rr-phoenix-and-rails-with-chris-mccord</link>
+      <pubDate>Wed, 30 Mar 2016 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:57 - Chris McCord Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/chris_mccord" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/chrismccord" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.chrismccord.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://dockyard.com/" style="text-decoration:none;"&gt;DockYard&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453/ref=sr_1_1?ie=UTF8&amp;amp;qid=1458842029&amp;amp;sr=8-1&amp;amp;keywords=chris+mccord" style="text-decoration:none;"&gt;Programming Phoenix: Productive |&amp;gt; Reliable |&amp;gt; Fast by Chris McCord, Bruce Tate, and Jose Valim&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414/ref=sr_1_3?ie=UTF8&amp;amp;qid=1458842029&amp;amp;sr=8-3&amp;amp;keywords=chris+mccord" style="text-decoration:none;"&gt;Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!) by Chris McCord&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:09 - &lt;/span&gt;&lt;a href="http://www.phoenixframework.org/" style="text-decoration:none;"&gt;The Phoenix Framework&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;The Elixir Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang.org/" style="text-decoration:none;"&gt;The Erlang Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:46 - Ruby vs Elixir&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.plataformatec.com.br/" style="text-decoration:none;"&gt;Jos&amp;eacute; Valim&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Programming should be enjoyable.&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/chrismccord/sync" style="text-decoration:none;"&gt;sync&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.whatsapp.com/" style="text-decoration:none;"&gt;WhatsApp&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Metaprogramming" style="text-decoration:none;"&gt;Metaprogramming&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:12 - Phoenix as a Framework; Similarity to Rails&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:38 - &lt;/span&gt;&lt;a href="https://github.com/elixir-lang/ecto" style="text-decoration:none;"&gt;ecto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:45 - Performance &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:06 - Generating a Phoenix Project&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html" style="text-decoration:none;"&gt;Mix&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:44 - Getting Started with Phoenix; Creating and Maintaining&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:29 - Guidance and Decision Making &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Development and Documentation&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:22 - Phoenix and JavaScript; Build Tools&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://brunch.io/" style="text-decoration:none;"&gt;Brunch&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:22 - Phoenix and Elm&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=XJ9ckqCMiKk" style="text-decoration:none;"&gt;Chris McCord and Evan Czaplicki: Phoenix and Elm: Making the Web Functional @ Erlang Factory SF 2016&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:45 - Maintainability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Open_Telecom_Platform" style="text-decoration:none;"&gt;OTP Framework&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:52 - Hosting Phoenix&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.heroku.com/" style="text-decoration:none;"&gt;Heroku&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:48 - Object-Oriented vs Functional&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Actor_model" style="line-height: 1.6; text-decoration: none;"&gt;The Actor Model&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Smalltalk" style="text-decoration:none;"&gt;Smalltalk&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:29 - Debugging; Tooling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://angel.co/uberauth" style="text-decoration:none;"&gt;UberAuth&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:01:08 - Phoenix Presence&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=4yODalLQ2lM" style="text-decoration:none;"&gt;Radical Candor &amp;mdash; The Surprising Secret to Being a Good Boss | First Round Review&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Flex-Mancer-Ferrett-Steinmetz-ebook/dp/B00JNPF4BS" style="text-decoration:none;"&gt;Flex (&amp;#39;Mancer) by Ferrett Steinmetz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/The-Teaching-Company-UNDERSTAND-Complete/dp/1598032704" style="text-decoration:none;"&gt;The Teaching Company: How to Listen to and Understand Great Music&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://pragprog.com/book/phoenix/programming-phoenix" style="text-decoration:none;"&gt;Programming Phoenix: Productive |&amp;gt; Reliable |&amp;gt; Fast by Chris McCord, Bruce Tate, and Jos&amp;eacute; Valim&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chris)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=MD3P7Qan3pw" style="text-decoration:none;"&gt;Jose Valim: Phoenix a web framework for the new web @ Lambda Days 2016&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chris)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?ie=UTF8&amp;amp;qid=1458668168&amp;amp;sr=8-1&amp;amp;keywords=4+hour+work+week" style="text-decoration:none;"&gt;The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://arxiv.org/abs/1410.2803" style="text-decoration:none;"&gt;Efficient State-based CRDTs by Delta-Mutation&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chris)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <guid isPermaLink="false">980da3d0-3e7d-4447-b195-32a52c106e9b</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:57 - Chris McCord Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/chris_mccord" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/chrismccord" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.chrismccord.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://dockyard.com/" style="text-decoration:none;"&gt;DockYard&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Programming-Phoenix-Productive-Reliable-Fast/dp/1680501453/ref=sr_1_1?ie=UTF8&amp;amp;qid=1458842029&amp;amp;sr=8-1&amp;amp;keywords=chris+mccord" style="text-decoration:none;"&gt;Programming Phoenix: Productive |&amp;gt; Reliable |&amp;gt; Fast by Chris McCord, Bruce Tate, and Jose Valim&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414/ref=sr_1_3?ie=UTF8&amp;amp;qid=1458842029&amp;amp;sr=8-3&amp;amp;keywords=chris+mccord" style="text-decoration:none;"&gt;Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!) by Chris McCord&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:09 - &lt;/span&gt;&lt;a href="http://www.phoenixframework.org/" style="text-decoration:none;"&gt;The Phoenix Framework&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/" style="text-decoration:none;"&gt;The Elixir Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.erlang.org/" style="text-decoration:none;"&gt;The Erlang Programming Language&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:46 - Ruby vs Elixir&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://blog.plataformatec.com.br/" style="text-decoration:none;"&gt;Jos&amp;eacute; Valim&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Programming should be enjoyable.&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/chrismccord/sync" style="text-decoration:none;"&gt;sync&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.whatsapp.com/" style="text-decoration:none;"&gt;WhatsApp&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Metaprogramming" style="text-decoration:none;"&gt;Metaprogramming&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:12 - Phoenix as a Framework; Similarity to Rails&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:38 - &lt;/span&gt;&lt;a href="https://github.com/elixir-lang/ecto" style="text-decoration:none;"&gt;ecto&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;16:45 - Performance &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;18:06 - Generating a Phoenix Project&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html" style="text-decoration:none;"&gt;Mix&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:44 - Getting Started with Phoenix; Creating and Maintaining&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;25:29 - Guidance and Decision Making &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Development and Documentation&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;30:22 - Phoenix and JavaScript; Build Tools&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://brunch.io/" style="text-decoration:none;"&gt;Brunch&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:22 - Phoenix and Elm&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=XJ9ckqCMiKk" style="text-decoration:none;"&gt;Chris McCord and Evan Czaplicki: Phoenix and Elm: Making the Web Functional @ Erlang Factory SF 2016&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;38:45 - Maintainability&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Open_Telecom_Platform" style="text-decoration:none;"&gt;OTP Framework&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;41:52 - Hosting Phoenix&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.heroku.com/" style="text-decoration:none;"&gt;Heroku&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;42:48 - Object-Oriented vs Functional&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Actor_model" style="line-height: 1.6; text-decoration: none;"&gt;The Actor Model&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Smalltalk" style="text-decoration:none;"&gt;Smalltalk&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;50:29 - Debugging; Tooling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://angel.co/uberauth" style="text-decoration:none;"&gt;UberAuth&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:01:08 - Phoenix Presence&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.youtube.com/watch?v=4yODalLQ2lM" style="text-decoration:none;"&gt;Radical Candor &amp;mdash; The Surprising Secret to Being a Good Boss | First Round Review&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Flex-Mancer-Ferrett-Steinmetz-ebook/dp/B00JNPF4BS" style="text-decoration:none;"&gt;Flex (&amp;#39;Mancer) by Ferrett Steinmetz&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/The-Teaching-Company-UNDERSTAND-Complete/dp/1598032704" style="text-decoration:none;"&gt;The Teaching Company: How to Listen to and Understand Great Music&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://pragprog.com/book/phoenix/programming-phoenix" style="text-decoration:none;"&gt;Programming Phoenix: Productive |&amp;gt; Reliable |&amp;gt; Fast by Chris McCord, Bruce Tate, and Jos&amp;eacute; Valim&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chris)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=MD3P7Qan3pw" style="text-decoration:none;"&gt;Jose Valim: Phoenix a web framework for the new web @ Lambda Days 2016&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chris)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/4-Hour-Workweek-Escape-Live-Anywhere/dp/0307465357/ref=sr_1_1?ie=UTF8&amp;amp;qid=1458668168&amp;amp;sr=8-1&amp;amp;keywords=4+hour+work+week" style="text-decoration:none;"&gt;The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich by Timothy Ferriss&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://arxiv.org/abs/1410.2803" style="text-decoration:none;"&gt;Efficient State-based CRDTs by Delta-Mutation&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chris)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:09:56</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR253Phoenix.mp3?rss=true" length="67147807" type="audio/mpeg"/>
+    </item>

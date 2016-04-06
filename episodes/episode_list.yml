@@ -841,3 +841,6 @@
 - :feed_number: 313
   :title: 252 RR Feature Toggles with Pete Hodgson
   :enclosure: 'RR252FeatureToggles-Take2.mp3?rss=true '
+- :feed_number: 314
+  :title: 253 RR Phoenix and Rails with Chris McCord
+  :enclosure: RR253Phoenix.mp3?rss=true
