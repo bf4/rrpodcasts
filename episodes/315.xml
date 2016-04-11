@@ -1,0 +1,133 @@
+<item>
+      <title>254 RR Building/Scaling a Rails SaaS App with Derrick Reimer</title>
+      <link>https://devchat.tv/ruby-rogues/254-rr-building-scaling-a-rails-saas-app-with-derrick-reimer</link>
+      <pubDate>Wed, 06 Apr 2016 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:25 - Julia Evans Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/b0rk" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jvns" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jvns.ca/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Derrick Reimer Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/derrickreimer" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/djreimer" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.scalingsaas.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.getdrip.com/" style="text-decoration:none;"&gt;Drip&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Software_as_a_service" style="text-decoration:none;"&gt;SaaS = Software as a Service&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://codetree.com/" style="text-decoration:none;"&gt;Codetree&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;05:25 - SaaS Apps vs Other Web Development Projects&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:18 - Scaling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:44 - Gathering Feedback&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:01 - How has underlying technology helped and gotten in the way?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.postgresql.org/" style="text-decoration:none;"&gt;PostgreSQL&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:18 - Choosing Boring Technology&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:49 - Scaling (Cont&amp;rsquo;d) &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Caching&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://redis.io/" style="text-decoration:none;"&gt;Redis&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:07 - Strategies to Keep the Application Manageable&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:41 - What makes technology boring and safe to use? Evaluating Technologies&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Boringification&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:43 - Building Something Useful vs Building Something for Entertainment&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:13 - Prioritization&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://www.npmjs.com/package/writegif" style="text-decoration:none;"&gt;&lt;u&gt;writegif&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Derrick)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://batsov.com/rubocop/" style="text-decoration:none;"&gt;&lt;u&gt;RuboCop&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Derrick)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://hisham.hm/htop/" style="text-decoration:none;"&gt;&lt;u&gt;htop&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601" style="text-decoration:none;"&gt;&lt;u&gt;Java Concurrency in Practice&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Julia)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=MSJaSS_Zj0Y" style="text-decoration:none;"&gt;&lt;u&gt;HOW TO PRONOUNCE GIF!&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (David)&lt;br /&gt;
+Teaching a local Ruby class (Avdi)&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <guid isPermaLink="false">3dda41d6-96f7-4888-aa78-0f4b9ec81f6a</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:25 - Julia Evans Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/b0rk" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/jvns" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://jvns.ca/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:52 - Derrick Reimer Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/derrickreimer" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/djreimer" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.scalingsaas.com/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.getdrip.com/" style="text-decoration:none;"&gt;Drip&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://en.wikipedia.org/wiki/Software_as_a_service" style="text-decoration:none;"&gt;SaaS = Software as a Service&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://codetree.com/" style="text-decoration:none;"&gt;Codetree&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;05:25 - SaaS Apps vs Other Web Development Projects&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;06:18 - Scaling&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:44 - Gathering Feedback&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:01 - How has underlying technology helped and gotten in the way?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.postgresql.org/" style="text-decoration:none;"&gt;PostgreSQL&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;15:18 - Choosing Boring Technology&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;20:49 - Scaling (Cont&amp;rsquo;d) &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Caching&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://redis.io/" style="text-decoration:none;"&gt;Redis&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;29:07 - Strategies to Keep the Application Manageable&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;31:41 - What makes technology boring and safe to use? Evaluating Technologies&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;&amp;ldquo;Boringification&amp;rdquo;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;35:43 - Building Something Useful vs Building Something for Entertainment&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;40:13 - Prioritization&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;Picks&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;a href="https://www.npmjs.com/package/writegif" style="text-decoration:none;"&gt;&lt;u&gt;writegif&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Derrick)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://batsov.com/rubocop/" style="text-decoration:none;"&gt;&lt;u&gt;RuboCop&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Derrick)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://hisham.hm/htop/" style="text-decoration:none;"&gt;&lt;u&gt;htop&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Jessica)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.amazon.ca/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601" style="text-decoration:none;"&gt;&lt;u&gt;Java Concurrency in Practice&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (Julia)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.youtube.com/watch?v=MSJaSS_Zj0Y" style="text-decoration:none;"&gt;&lt;u&gt;HOW TO PRONOUNCE GIF!&lt;/u&gt;&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial; font-size:14.6667px"&gt; (David)&lt;br /&gt;
+Teaching a local Ruby class (Avdi)&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>46:50</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR254Building:ScalingaRailsSaaSApp.mp3?rss=true" length="44969239" type="audio/mpeg"/>
+    </item>
