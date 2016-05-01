@@ -1,0 +1,111 @@
+<item>
+      <title>256 RR Reading Code and The Architecture of Open Source Applications with Michael DiBernardo</title>
+      <link>https://devchat.tv/ruby-rogues/256-rr-reading-code-and-the-architecture-of-open-source-applications-with-michael-dibernardo</link>
+      <pubDate>Wed, 20 Apr 2016 07:00:00 -0600</pubDate>
+      <description>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:42 - Michael DiBernardo Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/mdibernardo" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/MichaelDiBernardo" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://mikedebo.ca/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.waveapps.com/payments/" style="text-decoration:none;"&gt;Wave&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:27 - &lt;/span&gt;&lt;a href="http://aosabook.org/en/index.html" style="text-decoration:none;"&gt;The Architecture of Open Source Applications Series&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:24 - Demonstrating Concepts in 500 Lines of Code&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:24 - Why Open Source? &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420" style="text-decoration:none;"&gt;Patterns of Enterprise Application Architecture by Martin Fowler&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;14:20 - Lessons Learned&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:05 - Communication Issues&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:41 - Reuse&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://udidahan.com/2009/06/07/the-fallacy-of-reuse/" style="text-decoration:none;"&gt;Udi Dahan: The Fallacy Of ReUse&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;28:52 - What should people gain from the book?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:12 - How to Read a Book Like This (Retention)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:48 - Soft Skills&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.writingexcuses.com/" style="text-decoration:none;"&gt;Writing Excuses&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://udidahan.com/2009/06/07/the-fallacy-of-reuse/" style="text-decoration:none;"&gt;Udi Dahan: The Fallacy Of ReUse&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://danluu.com/wat/" style="text-decoration:none;"&gt;Dan Luu: Normalization of deviance in software: how broken practices become standard&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Mind-Its-Own-Distorts-Deceives/dp/0393331636" style="text-decoration:none;"&gt;A Mind of Its Own: How Your Brain Distorts and Deceives by Cordelia Fine&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.microsoft.com/microsoft-hololens/en-us" style="text-decoration:none;"&gt;HolloLens&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Demo (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229" style="text-decoration:none;"&gt;Build a Raspberry Pi-Powered DIY Amazon Echo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.amazon.ca/How-Buildings-Learn-Happens-Theyre/dp/0140139966" style="text-decoration:none;"&gt;How Buildings Learn: What Happens After They&amp;#39;re Built by Stewart Brand&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Michael)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.amazon.ca/How-Learning-Works-Research-Based-Principles/dp/0470484101" style="text-decoration:none;"&gt;How Learning Works: Seven Research-Based Principles for Smart Teaching&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Michael)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.writingexcuses.com/" style="text-decoration:none;"&gt;Writing Excuses&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Michael)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+      <source url="http://rubyrogues.com">The Ruby Rogues</source>
+      <guid isPermaLink="false">d9e46f5f-d9f2-4afc-9c17-8abef80c0ba7</guid>
+      <itunes:author/>
+      <itunes:subtitle/>
+      <itunes:summary>&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;01:42 - Michael DiBernardo Introduction&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://twitter.com/mdibernardo" style="text-decoration:none;"&gt;Twitter&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://github.com/MichaelDiBernardo" style="text-decoration:none;"&gt;GitHub&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://mikedebo.ca/" style="text-decoration:none;"&gt;Blog&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="https://www.waveapps.com/payments/" style="text-decoration:none;"&gt;Wave&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;02:27 - &lt;/span&gt;&lt;a href="http://aosabook.org/en/index.html" style="text-decoration:none;"&gt;The Architecture of Open Source Applications Series&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;08:24 - Demonstrating Concepts in 500 Lines of Code&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;12:24 - Why Open Source? &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420" style="text-decoration:none;"&gt;Patterns of Enterprise Application Architecture by Martin Fowler&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;14:20 - Lessons Learned&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;19:05 - Communication Issues&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;22:41 - Reuse&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul dir="ltr"&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://udidahan.com/2009/06/07/the-fallacy-of-reuse/" style="text-decoration:none;"&gt;Udi Dahan: The Fallacy Of ReUse&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; &lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;28:52 - What should people gain from the book?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;34:12 - How to Read a Book Like This (Retention)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt;37:48 - Soft Skills&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+	&lt;li&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://www.writingexcuses.com/" style="text-decoration:none;"&gt;Writing Excuses&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;span style="font-size:14px"&gt;Picks&lt;/span&gt;&lt;/p&gt;
+
+&lt;p dir="ltr"&gt;&lt;span style="font-size:14px"&gt;&lt;a href="http://udidahan.com/2009/06/07/the-fallacy-of-reuse/" style="text-decoration:none;"&gt;Udi Dahan: The Fallacy Of ReUse&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://danluu.com/wat/" style="text-decoration:none;"&gt;Dan Luu: Normalization of deviance in software: how broken practices become standard&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (David)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.amazon.com/Mind-Its-Own-Distorts-Deceives/dp/0393331636" style="text-decoration:none;"&gt;A Mind of Its Own: How Your Brain Distorts and Deceives by Cordelia Fine&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Avdi)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.microsoft.com/microsoft-hololens/en-us" style="text-decoration:none;"&gt;HolloLens&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; Demo (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://lifehacker.com/build-a-raspberry-pi-powered-diy-amazon-echo-1762678229" style="text-decoration:none;"&gt;Build a Raspberry Pi-Powered DIY Amazon Echo&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Chuck)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.amazon.ca/How-Buildings-Learn-Happens-Theyre/dp/0140139966" style="text-decoration:none;"&gt;How Buildings Learn: What Happens After They&amp;#39;re Built by Stewart Brand&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Michael)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="https://www.amazon.ca/How-Learning-Works-Research-Based-Principles/dp/0470484101" style="text-decoration:none;"&gt;How Learning Works: Seven Research-Based Principles for Smart Teaching&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Michael)&lt;/span&gt;&lt;br /&gt;
+&lt;a href="http://www.writingexcuses.com/" style="text-decoration:none;"&gt;Writing Excuses&lt;/a&gt;&lt;span style="background-color:transparent; color:rgb(0, 0, 0); font-family:arial"&gt; (Michael)&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:duration>01:03:01</itunes:duration>
+      <enclosure url="http://www.podtrac.com/pts/redirect.mp3/media.devchat.tv/ruby-rogues/RR256ReadingCode.mp3?rss=true" length="60506068" type="audio/mpeg"/>
+    </item>

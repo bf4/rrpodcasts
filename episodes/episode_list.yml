@@ -850,3 +850,10 @@
 - :feed_number: 316
   :title: 255 RR What's Missing? with Greg Wilson
   :enclosure: RR255GregWilson.mp3?rss=true
+- :feed_number: 317
+  :title: 256 RR Reading Code and The Architecture of Open Source Applications with
+    Michael DiBernardo
+  :enclosure: RR256ReadingCode.mp3?rss=true
+- :feed_number: 318
+  :title: 257 RR Learning and Training with Neil Brown
+  :enclosure: 'RR257LearningTraining.mp3 '
